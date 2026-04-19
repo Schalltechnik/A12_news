@@ -1,10 +1,321 @@
 {
-  "generated": "Noch nicht aktualisiert – bitte GitHub Action manuell starten",
+  "generated": "19. April 2026, 14:09 UTC",
   "categories": {
-    "wirtschaft":   { "label": "Wirtschaft & Standort",       "icon": "💼", "color": "#1a5c38", "summary": "Wird nach dem ersten Lauf angezeigt.", "items": [] },
-    "tourismus":    { "label": "Tourismus",                    "icon": "🏔️", "color": "#003399", "summary": "Wird nach dem ersten Lauf angezeigt.", "items": [] },
-    "wissenschaft": { "label": "Wissenschaft & Forschung",     "icon": "🔬", "color": "#c8102e", "summary": "Wird nach dem ersten Lauf angezeigt.", "items": [] },
-    "foerderungen": { "label": "Förderungen & EU-Programme",   "icon": "💶", "color": "#5a5a5a", "summary": "Wird nach dem ersten Lauf angezeigt.", "items": [] },
-    "innovation":   { "label": "Innovation & Digitalisierung", "icon": "💡", "color": "#7b4f12", "summary": "Wird nach dem ersten Lauf angezeigt.", "items": [] }
+    "wirtschaft": {
+      "label": "Wirtschaft & Standort",
+      "icon": "💼",
+      "color": "#1a5c38",
+      "summary": "Die Steiermark intensiviert ihre internationalen Wirtschaftsbeziehungen, insbesondere durch hochrangige Delegationen nach China, um neue Partnerschaften zu schmieden und Millionen-Deals zu realisieren. Intern wird der Wirtschaftsstandort durch gezielte Maßnahmen zur Schaffung von Arbeitsplätzen, Stärkung digitaler Kompetenzen und den Ausbau von Windkraftanlagen gefördert, flankiert von Initiativen wie der Langen Nacht der Forschung. Gleichzeitig setzt man auf einen inklusiven Arbeitsmarkt durch den Girls’ Day, Integrationsprojekte für psychisch Kranke und AMS-Beratungstouren, während erfolgreiche Unternehmen die regionale Wirtschaft stärken.",
+      "items": [
+        {
+          "title": "Steiermark will China-Beziehungen stärken - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhUW9IS2gtRDBUNC1BeENrN2NhMTV6TzJMQkZMUFR3TjJLYzVrbjVURFVQNzdFSDJUZ2VlSTVrOWprR0pWZ3RScldMM1BWT1BGTHlvNw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "16. Apr 2026"
+        },
+        {
+          "title": "Bezirksforum setzt auf Wirtschaft und Arbeitsplätze - BLO24.at",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTWhzRUF4UnotdW9DXzRVN3l2Qll5eWV4dHAwaktCcm5QVjhsRHotdGoxNXJWMkVCblE3SEJDWHprRGdWdkxUNV9WX0tCV0hEV2toQXFEcVBFNENKMEJKVGhZNzlrRUdCcVhmUl9jMkx3SUo2UjltSjdjVGo5b1dTZ180aHpyZ3hjMklOall2bl8?oc=5",
+          "source": "BLO24.at",
+          "date": "17. Apr 2026"
+        },
+        {
+          "title": "Steiermark-Delegation in Shanghai: Millionen-Deals mit China geplant - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMEtBdzRJNU1QM1o4YjJEWV9RU2dZSTRuS0p4SWppVWJsVGhORks3TnBVajFLTm1SMnd2eHI3b29COElxQWZFemJYbjFZQXNEUTJnbHBJZUZsZVI5THA1Q0gwaFNWblJvR3F2OHZ2MTFob3BBdmVlWEZtM01jUTljaGFIekdYTk1kZUVxdmxqdDhGNF9LRVBBdDhiSlNBQzFrdnBlNmI4TndIVVE0LURoV01Galo5RzA?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "17. Apr 2026"
+        },
+        {
+          "title": "Steirische Delegation in China: Fokus auf neue Partnerschaften - Klipp Magazin",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUURQN0oydnlrSFVGTXA2cXhlcmF5dzQwLVdIMHdHSm4ycF9VbzB4VHQ2OVF2elNISmZqRXhIcGoxb1BEWkFLWlJ3UEdvVDZubU94UzUzU3Y4YjFxb20xVDFYWFpIb1lacUFVaVZ0ejNhMFROd2xjZktyTUhGbUtzblF6djMwNGZONVExOE9aWGFScmdzX2ZNbVBKc3RVUkhxVXR6X19zNnRZQUFM?oc=5",
+          "source": "Klipp Magazin",
+          "date": "17. Apr 2026"
+        },
+        {
+          "title": "Freier Eintritt: 400 Stationen in der Steiermark – das bringt die Lange Nacht der Forschung - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZGtiQm9uUFN5dUhkNFlwZUtIa2c0VDFRUElQV25tbkxqNjBsdjdadnd3am8zZHU5MjdVSTVzcjc5Tjc0TS1uS254MDlLN292NGtPdFNmX1Y4cXNqUllmMEplOGlWUE5USzNuV1FoQnhUSWQtVU9VcnVRLURTME5DWktjNE9FUWxreTRvYW9GeDdhZ21uZmtqQWN1MDFFNWI2Yk1sMWxUWmRpLUpMQzhoUXJxSGlMN2lNcUtMVHhKR0tRLXpndzhzUTNTQQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "15. Apr 2026"
+        },
+        {
+          "title": "Kunasek auf Wirtschaftsmission in Shanghai - OE24",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQVNaX2wwTEgtV19JV0JrRmdHaTZrLVNycHVXV29SS2NubnNGeW8xekFpSGJrcjgxYkZCaWJHWFVRaFFxYndEVkZtRi1pb25UQ1FGN1Y4akRfdWpBOENMcDZzQzJCZFJNZ3hxZ0FHYXBHT2w0ZHI1X29pRV90dkVZUTMyRHhWUU9IUlBfWmlPUWplc1FwVldB0gGcAUFVX3lxTE4xTXM0UXA5MXY5Y3pKdmlPdzZZMmpoLXNZQm1namRPU09KaUh4eG8yUlRwcHdpUkVxNGk2dlFQcU5pMEVDbVQweU4tWXgwVXlhSjJlbm9rNFcwd0hDNmYzVVRSOEp6RnpRSlFpZGc5QXoxdWhhQlpaTGtxSktSNGtYWlM0TUo2ZGdqc2U4anFCV1FhdnBlNmhfdl9VbA?oc=5",
+          "source": "OE24",
+          "date": "17. Apr 2026"
+        },
+        {
+          "title": "Steirische Wirtschaft hofft auf Wende - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KcTdMcDRWeGtlVlpNaGJka0Zia092dDRIcWkxRHRpa1ZidFU3ekwxVzQwc2ZEemdlX2ltcFFiRUNPTEdoVjBqNWdFNVRxRVUyVXMyYg?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "14. Apr 2026"
+        },
+        {
+          "title": "Neos Steiermark vor Gemeinderatswahl Graz 2026: Philipp Pointner setzt auf Wirtschaftskurs - wirtschafts-nachrichten.at",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSkJwQ0J3TEcwZ1JLMXNpTVc5OUtIY1ViODc3TERvSU9yOExZMktsVnc2dHN6RjI1bDl0R0Q1LWdzbkY2aGthSWJCVlhoYUdaYU8ycUxvTjNVaFJsbUs3Z09yS2hyMzhIeGRvMmRYYWZvQlpoQVJ4bkkwYVc2M0gzcDFnZXJtZnR4SHhueUtGMWlWZWNKTG9leTZZQ1JYZEhqVE5VcVpIRzlCZHNPUnhjQU9QX1pnenF5bEd3Rzd2VERzUjNuVG4ySnczaVVfSndtdUE?oc=5",
+          "source": "wirtschafts-nachrichten.at",
+          "date": "15. Apr 2026"
+        },
+        {
+          "title": "Steiermark setzt auf noch mehr Windkraft - Bauernzeitung.at",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVFNfemJ0azFISF9ndFRZSkxlbmF4RGdTbE1CSEg4cy1hMVVJeEFTZ1dYZGl6TDZhckFyN3Jmck5YVXJ1WU5hbjVUTm5SRHZKSVRjNEppMWNCM0JDWFRGN3dNYUNmd0tpeVF3NHVHallROUtobF9ZQVd3MjdmWWVuQTQxbGZ5cEdN?oc=5",
+          "source": "Bauernzeitung.at",
+          "date": "16. Apr 2026"
+        },
+        {
+          "title": "Wirtschaftsstandort stärken: Feldbach bekommt mit Coreflow GmbH mehr digitale Kompetenz - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTjRPMEVZMmhrMWp2UGc3Ym5HQWV0Uk5qUGh4czZtVF9qQm5Rc1V6Qm1WSy0zZUpUSklHT0lyR1Rwb2VJbWo0azFuSk1QQ0pXWDc2dVNURWxTY0d4bHFCcnpadnRRMHEtc1JZUkk0UFRsNC0ydWFMT3BtWHJ0ZHZFT1ladk1EYTFZYlNZV3JUVlBlalBOLUZGY1VTZXVydTlpUkd6ckRVNHBGa01ha3ZBZ05EWXNnUWNEQW00SE1RajlfZw?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "16. Apr 2026"
+        },
+        {
+          "title": "Chancen statt Klischees: Heuriger Girls’ Day überrascht mit Premiere - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa1Fia0tub2hlOGUxb0tZTm5UVktTWm9SdElhUVRtWHNueHRibjJUV3VwTU1hN3VDaVRQa2FtZmw5c2Z3ZkxveU5nWkgxY0hkak91U2I0SlFXQVg3WGV6bklIdy01ZGNsay1XVGp4LTB4YWVTNjU4aFZWY3dhT3ZfazZSQTVlNXhWLXVBbnRhZHVzU0FPcFBMbGlnbUlaTVRYOFhfeGF2SjJfS3RTY1dJWWUwbw?oc=5",
+          "source": "5 Minuten",
+          "date": "14. Apr 2026"
+        },
+        {
+          "title": "cargo-partner : Eine 20 jährige Erfolgsgeschichte in Graz - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb2dNNUhxLVZMQTBZQ1UwUmdhX3JWWFo5NEhFaTU4T044SWY5eGhwZjNZeTI2UmlZNlUwVFFKdGxKNmY5MmQyTE9GQm83dEFqWHJxUkhodnh4R2hKQmxnSllqbDNsLUpZaVIwbDJkSkEtaENiaG9Pc2dLNWpiem43em1WWXY3OThtNVJUYnZNMmZiMzJkbUExaFRVRy0xZXZETnhaZUZB?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "13. Apr 2026"
+        },
+        {
+          "title": "Psychische Krankheiten - Ein Modelager als Sprungbrett in den Arbeitsmarkt - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE85ZUtab0tHemw3OG9hRl9KMjlYVHBMOGxsSnhRVFJCc2daMFVGTW9kOGxvYVNqdW9CTmVrMEJVYV82dw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "14. Apr 2026"
+        },
+        {
+          "title": "AMS Steiermark startet Beratungstour - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rYWdXU3Y0bG5iTEducXRVRGV5bWFyaGZnQjZGOGJNVVRKRmlaeUwtdTFrVVVyOWU2cF9BbGVyRVVGZUJzOW9iZ0JZYlBDc0ZpeUQxQw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "13. Apr 2026"
+        }
+      ]
+    },
+    "tourismus": {
+      "label": "Tourismus",
+      "icon": "🏔️",
+      "color": "#003399",
+      "summary": "Die Steiermark blickt optimistisch auf steigende Gästezahlen und verzeichnet bereits Erfolge, wie Rekordbesucher beim Steiermark-Frühling und eine positive Bilanz der Semesterferien, wobei globale Unsicherheiten als Treiber für mehr Urlaubsgäste gesehen werden. Dies wird durch verstärkte Kooperationen im nachhaltigen Naturtourismus, innovative Marketingmaßnahmen wie die ÖBB-Steiermark-Lokomotive und erfolgreiche Großveranstaltungen wie den Steiermark-Frühling in Wien aktiv gefördert. Gleichzeitig wird der Fokus auf fairen Wettbewerb in der Beherbergung gelegt und die Region punktet mit spezifischen Angeboten wie Europas bestem Hundehotel, was den Wirtschaftskurs der Steiermark im Tourismus unterstreicht.",
+      "items": [
+        {
+          "title": "2027 bringt Neuerung - Semesterferien in der Steiermark: Positive Bilanz - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5WUDNBSlRvb1dQTUlsS2dmQkVxWFl3WTNsMW5vT2FkazZWZTdtQzRsMl96WjNlWXZzWG9ta2ttanFmWFdweHcw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "18. Apr 2026"
+        },
+        {
+          "title": "Naturparke Steiermark & Steiermark Tourismus bündeln Kräfte - Leibnitz Aktuell",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX1p2cFY2MEhlUk1pWDl2Ti1kSjNlb3UzMllsYlRUeC1nQTZnUXFuNV9oVG1QT0tOM25tbHNaektIMk5rb3hFTTl2UGhnd0hPSmpOUVF0MzBrZDBxM3FQWndmYmNSYWt0ZnMxaXFsa3ZpWXlwQVB6Q056enAyTHpZNHdIYlRmTnNleEFkcXVFSVFLVVJVUWNSUEptc2tCSWsxdW9OVkZn?oc=5",
+          "source": "Leibnitz Aktuell",
+          "date": "17. Apr 2026"
+        },
+        {
+          "title": "ÖBB: Neue Steiermark-Lokomotive bringt das „Grüne Herz“ auf Schiene - presse-oebb.at",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON3Q3bmZheFM4Z0s3M0p6cTNOeHVuVHBRQ0lOZlhrTWcyQ1U1enJXczRnUEN2XzktOTRpMElRbjZpZXNudGwwYmJDcTQzVzNxRWc3LThtSmt3dzhJMXVEV3NqWFhsR1pBNnY0dXVEMlU3ZGNZS1hsOW9LWjJHWWlNVmZEWl8xWk5DZDRJSTZpT1RpMjRZVFhMa1l1OE4zVDEwbXZQMnlOUVBoSy0tOWZuaTQ3MlM3ak8tdFNqM2dMMkU1cGlQR2FF?oc=5",
+          "source": "presse-oebb.at",
+          "date": "14. Apr 2026"
+        },
+        {
+          "title": "Globale Unsicherheiten als Treiber: „Wir erwarten definitiv mehr Urlaubsgäste in der Steiermark“ - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVlV5eGZVSjFtc0Fnb2FHVzhVcnlxNUpjWVlBWnBMTHIyUWQ3UmpJTTNRQzNOcGhneDB4eW5QZmViazlMeUx4TVQycjM3emFheUhidm1xWjlBWENqcTNPczZ1d2pNZlU5aHZZbXFvZk5Feno2SUlvVnB5RUU5Y2VzNkRESzgydGZfMzZGSUlQVlFoWURHLUNZNDYxTGpCOFAzSzh2bzA3elVBQ1hi?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "14. Apr 2026"
+        },
+        {
+          "title": "Kooperation für nachhaltigen Naturtourismus - gast.at",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR1kwUm9GMUlUZ2J0S1VxMjMxZ0FTRjJrdEowME9xR0ZIb2Z3bG5FQk5famJYQjF3aE40R013ZUREYmN2dVVGLVNrWk84RDJEY3BrZ1JxWHppUW5LUFdRZ2lPYmFzSE5sWXlyZ0pwUnNNQk03M2lCYnpGWGh5NnQ5V2t4VUctSEU2SEkxdlVxWUZBd1JXRTgzX1hFQQ?oc=5",
+          "source": "gast.at",
+          "date": "16. Apr 2026"
+        },
+        {
+          "title": "Rekord des „Grünen Herz Österreichs“! Mehr als 200.000 kamen zum Steiermark-Frühling 2026 - TAI Tourist Austria International",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRXZsblVDWlE1VGtUT3RQTnpEUnVCRjh4RUJyQzFET0RaOHlwTmNjWEI2dzdkM1lfWVVDNkVjY19Nb0l0bG5EZ1drSGZwN2hiU0RVTUVfUnYxNWxueDB1OFZaNUF4enRSb0pFbTMzckQ2SUZUYjh3c1BRbTc1bkxQQjBxbVV4b0QzYTFFN2FLeWxSSjZJMzRkYXlSVVpYZ3FrMHNVampJU1JmSHQ4dEdvWW5TMVNpN1E1Qk92ZWJUYW11c3IzdVY5WjdvNENWdw?oc=5",
+          "source": "TAI Tourist Austria International",
+          "date": "13. Apr 2026"
+        },
+        {
+          "title": "Neos Steiermark vor Gemeinderatswahl Graz 2026: Philipp Pointner setzt auf Wirtschaftskurs - wirtschafts-nachrichten.at",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSkJwQ0J3TEcwZ1JLMXNpTVc5OUtIY1ViODc3TERvSU9yOExZMktsVnc2dHN6RjI1bDl0R0Q1LWdzbkY2aGthSWJCVlhoYUdaYU8ycUxvTjNVaFJsbUs3Z09yS2hyMzhIeGRvMmRYYWZvQlpoQVJ4bkkwYVc2M0gzcDFnZXJtZnR4SHhueUtGMWlWZWNKTG9leTZZQ1JYZEhqVE5VcVpIRzlCZHNPUnhjQU9QX1pnenF5bEd3Rzd2VERzUjNuVG4ySnczaVVfSndtdUE?oc=5",
+          "source": "wirtschafts-nachrichten.at",
+          "date": "15. Apr 2026"
+        },
+        {
+          "title": "Steiermark-Frühling 2026 in Wien - GASTRO.at",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmdjItOWZmaU84dTBPLUNVTkZxLUhySG9ENnBKSnVOMGVMV0J0VHBDLXZPYzNTRXRoTTd2R3g5QVJjOWRSTnpHNm8tR2RTTlpDVEFJb2VnZkYwMW5RZ3ktZDdNN3RweHRtMnc2U3FReGlzNldv?oc=5",
+          "source": "GASTRO.at",
+          "date": "13. Apr 2026"
+        },
+        {
+          "title": "Steiermark-Frühling 2026: So brillierten Tourismusschüler vor 200.000 Besuchern in Wien - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWjhHRFZxMzR2azlLYWNsRWFsdm1xUVBhNTBYbThNTjFDNjhNTFh5MHdscXBvdkp2VnRFek8tTDFuRXNKbEJuN0g0N2ZNSHF2amtWVHlTeWdRYmdRcFV6aGVYdjhBZG42VHpnTGItV1F4U3hfd0lfNTNJaE8tME8wWVA4ZkJzUXFFSUlVNndBRkE4anB6UHdaY0VRaWZEOVM5LTZtbHpILVJobG1VeERoM0c5dlBPWmIwTmdkODZINA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "14. Apr 2026"
+        },
+        {
+          "title": "Glockenspielverkauf: Die Besitzer der steirischen Sehenswürdigkeiten - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORy1HY21uQVpuY0Z4eXF1TEtCRURURXRVUmVsektVZ0cwUmRKQlYzV0t4LWUtWjdEb0JIRVc3S3NJd2ZiWTl4VEl3TXY5SG5FTmlHYjFUMWRyblNmWDNiR18tcW0wQ0tPTWxjV3U4SFlkMWtUeFJlbjRyNDVGQnhqQXF2RUtrSm9rbGlMZC1RRDVxMV91RzJyOXJXc2w0UQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "19. Apr 2026"
+        },
+        {
+          "title": "Wandern: Großer Pfaff, Fischbacher Alpen: Auf die Pfaffen, fertig, los! - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa2hoSWtlZXlyRnhSdTZaTFhYbGJfZl9UWkZTMHI2NkxKRlBFMWxVNDByN0xiNWRDdVVTRDRFb3N3UV93RGhIakV2MVB3LWJqVmYzZ1YwTHJTNGFQTlJFZlFHQW05U0JaaGViWURlYk4ya3ctMWJYMmNjU2NCWURUN1JPOUNTUXFaZXprMHpueHhxMHVOUGdnN3VTQXQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "13. Apr 2026"
+        },
+        {
+          "title": "Hochsteiermark und das echo medienhaus luden zum Empfang - Wiener Bezirksblatt",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JTlRia3lHbHdaVklzZHdKODV5MEhpYTgyc0Fydm1faWRKWjVzcnAxRUQ4eEpPWjJTTHFWX1V1SEtPa1JrMVhrSndrRkI0RUh2c21wQ3c1ZFpDZzJFVjh5YnJ1d3JXcHFtQ2VLUnd3?oc=5",
+          "source": "Wiener Bezirksblatt",
+          "date": "13. Apr 2026"
+        },
+        {
+          "title": "Erfolgreicher Auftritt: Region Erzberg-Leoben zieht positive Bilanz nach Steiermark Frühlung - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbE4zUTVOc216NXhWMlZtVUwwM2pUX2I0LXFQcFFxb09jVzVESXN2Y2tqRVdWUzBYR01oSFpUSmlMZDJPcmRkc0VjSDJDRllIQVdSU2thZEhud2Y2cTlCSm5LV3Zsb0MzS0dBTlhRcG5nLUhrTWc3Rkl2bldyMEdXcnh4VllVaEg1ODdXTVdPVDZsYWVVQjlLR25qenRnRHBBUVdiNFF3YzljcngweFpYUHpyTWxsRlczek1RODBn?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "14. Apr 2026"
+        },
+        {
+          "title": "Fairer Wettbewerb in der Beherbergung - Leibnitz Aktuell",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Xc2stOG9kdC1YZ0tfcDB3V1J5MkZVdC1RemZfYWdseExoMlZmQ2xlOHcycjRNNWZ5ODkzcTFVUDZXVXRRR252SE4zX3FVamdxUmU1V0wxS2RVS201V0pRaF9kd2FhVXBZaTlIOXBFUUJGdmhzQUdVc0puWkZfQQ?oc=5",
+          "source": "Leibnitz Aktuell",
+          "date": "16. Apr 2026"
+        },
+        {
+          "title": "Europas bestes Hundehotel kommt aus der Steiermark - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZFZwbXdaQi1HeHRUTHV1SkRzSlVSY29fT05CdlZvVFJYU3I3WHJmQzVhNEswZ3R4QU5YTjFYTHJFd1ZHVWttQWRLdGdqU1ZkYTk4Qjg4bXZJSGFIM3lUUGpRNEhRUW5YUVBhLXF6OUgwR0tRQ0NhaThicUtvTzR3T0FhcHFlWkpKMEJGcWQ5dFk0aDFYWHlYSnpjWUE?oc=5",
+          "source": "5 Minuten",
+          "date": "14. Apr 2026"
+        }
+      ]
+    },
+    "wissenschaft": {
+      "label": "Wissenschaft & Forschung",
+      "icon": "🔬",
+      "color": "#c8102e",
+      "summary": "Die Steiermark präsentierte bei der Langen Nacht der Forschung ein breites Spektrum an Wissenschaft, von erlebbarer Künstlicher Intelligenz bis zu \"Healthy Aging\" an der Med Uni Graz. Universitäten wie die TU Graz stärken ihre Infrastruktur mit einem neuen Cybersecurity Campus, während die Med Uni Graz international im Bereich Frauengesundheit und Stoffwechselforschung aktiv ist. Um diese Innovationskraft weiter zu fördern, fordern die Fachhochschulen mehr finanzielle Mittel, was die Bedeutung der Forschungsförderung für die gesamte Region unterstreicht.",
+      "items": [
+        {
+          "title": "Freier Eintritt: 400 Stationen in der Steiermark – das bringt die Lange Nacht der Forschung - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZGtiQm9uUFN5dUhkNFlwZUtIa2c0VDFRUElQV25tbkxqNjBsdjdadnd3am8zZHU5MjdVSTVzcjc5Tjc0TS1uS254MDlLN292NGtPdFNmX1Y4cXNqUllmMEplOGlWUE5USzNuV1FoQnhUSWQtVU9VcnVRLURTME5DWktjNE9FUWxreTRvYW9GeDdhZ21uZmtqQWN1MDFFNWI2Yk1sMWxUWmRpLUpMQzhoUXJxSGlMN2lNcUtMVHhKR0tRLXpndzhzUTNTQQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "15. Apr 2026"
+        },
+        {
+          "title": "Künstliche Intelligenz wird erlebbar - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wN0pTU05mTEgtbGthdG1fa2xNMTQ4XzlDMDdfVHotQ1NCTWJvcDlBQnRqZ0dqb2xHS2h6UGJLMmxZb096WXAzbWduU29RUUhXalJHZw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "14. Apr 2026"
+        },
+        {
+          "title": "Lange Nacht der Forschung - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRXpKa0RMNFhWMzExNHRzZWFaUEs5ZGFUTXFuUUREMzJ3Y0tqZ25KYWxhQ1AxM21fbFFxa2Mwa0pMUDJHcHBEVXlJTHFWc3FNRUJjempheG9TVFFDSURxcFdlSlktYTFSN1NaWW1fRlVJOF9jb0R0a1VzT1RIYUxsZWxXMm03Zk1MNmRSNjJ0OFRlb3Vnd1NSNFFGYjVXLXhyMUhaYTcxZ3o3QkVX?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "13. Apr 2026"
+        },
+        {
+          "title": "Feierlich gebootet: Die TU Graz hat jetzt einen Cybersecurity Campus - Extrajournal.Net",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZHB4X0RoY2tEeVVuM0xDSEczTmNWZEdNWjJkZWtwQmJFZW4wMGdsYi1EN0I3RVc5UEVYd0h3QkluY0NfeWRzSjJUYTZVSHFiN1JRc2NDUHVPRkd6MWRTajlXRjBkR3pqUUh5c1BBbGR0anBYTFl6MDdzRnpVQVJXRFI3QndWbkVNb18tajJpLW16ZkFrRU9XdlJmU1hJR21ra2tHT3NFMA?oc=5",
+          "source": "Extrajournal.Net",
+          "date": "14. Apr 2026"
+        },
+        {
+          "title": "Lange Nacht der Forschung: „Healthy Aging“ an der Med Uni Graz - Medizinische Universität Graz",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSEI5SmlzZ3BtbFNKTl9OaUdzeWV0NGZnTDdnTDNDajVfc1dHNzlWMy1nUWdQbzJuRzh2bG5USmpwVklJUVd5bzVfVXVSTXAweXB4MWUxMWNTXzBZcUdKbFF4OXJBeTlYR3ZnY1l6LWRZQTd2YW56dXNaM2hBYWd6RGx5QmZOR1BNTlJmTXBLS1ZlS0NkaHh0SHQwWVF6QQ?oc=5",
+          "source": "Medizinische Universität Graz",
+          "date": "16. Apr 2026"
+        },
+        {
+          "title": "Den Stoffwechsel visualisieren: Ein Blick ins Metabolom - medonline.at",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMGpZeWRvWTFTX25HeUtFLTE0MGNDTXRfd1VNNW80Y2JkNmpQczhTRVRWcm9adElwcWpKZ0w2dlhHbUNETEJBSTZGWlItYUczVGNJYkVZQ1BsTXpfRTdxVTF0cDE5Q3oxYzkzTmtfYzlLa1RicERnYlQ2TV82U2daTUV2dEFYdjJwdlIyQmY5OXpIMG1kbGRfenhhSDE0VzRTLVE?oc=5",
+          "source": "medonline.at",
+          "date": "17. Apr 2026"
+        },
+        {
+          "title": "Med Uni Graz auf Event zum Thema Frauengesundheit in UN-Hauptquartier in New York vertreten - Medizinische Universität Graz",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOT19PbG5PUjBVUElRVDBLVzlnSkdsdmlBb1cxbS1SVi1PaGhwSGVLYlFRaEwtT3JwLUUyNGZqWEMxbEJlU0YtT200cEIyUnRVRHcwVUxISzl6OTZ6Si12Z01yeDFqRWt2c3VjWGM5QWpYcG9neVlaQURtQXFBUzRTUzNlSzdKa3lvbjBvcWphb0tLWmNIbFJzd3FEVUJuX2Fpdkg3LUJaUjFfS01XQzNlQmxzclFCbmpxbXl1c2Y2WC1OVmZxZnpqWg?oc=5",
+          "source": "Medizinische Universität Graz",
+          "date": "16. Apr 2026"
+        },
+        {
+          "title": "Lange Nacht der Forschung 2026: Eine Nacht voller Staunen - Der Grazer",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM280enJCT05fLTlxWFVaUTA5UGUyOW05R3NQQWtEV29iUWdpMEkzTjREanA4LW03TlpYa2NVRjBJdkJ2UDZUcjJFT21HVHV6T0R4bmxKS0M0TVUyMWRHb0Rjb2w5Wlk1bHdKRTZqOTNodjBieFJEdXNadFp4ZXNrWVdXSTRwQUE1XzJuSHl3?oc=5",
+          "source": "Der Grazer",
+          "date": "14. Apr 2026"
+        },
+        {
+          "title": "BioTransform: Wirkung bioaktiver Substanzen aus Lebensmitteln im Körper - Medizinische Universität Graz",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY015RzBzSTVYRm1TVHJDQjZiSXI0YzNuSEdiZ1ZEVEVsN0pGV2gyNEZUT0VLeXJCdVozcmNBLXRCV0ZhNjhad1JBZnVycXlwMU1TMjdZSTE2VlRnZ0dmLVpCVU1TaUtiM1dGam9PY0czMmtLRlBXb1lzaU1UajZ0bHN6ZmpQUnllNkJqcEoxVEh2MDV2Q0YtZnBBTzE1dGQ4a2duRVVzM0NhWW45b2c?oc=5",
+          "source": "Medizinische Universität Graz",
+          "date": "14. Apr 2026"
+        },
+        {
+          "title": "Fachhochschulen fordern mehr Geld - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpV0FHQ194bjA2ZGNWUVYwbzUtekNNbk10SEpmUXdsdkJpdTU4SzFzeWVPNW9pclhUTzZweFlSWXVhMGRDWE0wcmhzNEJFcTlBZmNWcA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "16. Apr 2026"
+        },
+        {
+          "title": "Koralmbahn-Bilanz - Wieso Start-up von Graz in die Weststeiermark zog - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBVMVVueDhSRnUxX1hqekZiNlRqdWlWc1ZGcEw4YlpJMlg4RHZVYndaZ0Vwc3FuZDQ4OWQwbE8yVFFQQQ?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "14. Apr 2026"
+        }
+      ]
+    },
+    "foerderungen": {
+      "label": "Förderungen & EU-Programme",
+      "icon": "💶",
+      "color": "#5a5a5a",
+      "summary": "Aktuell zeigen die Nachrichten in der Steiermark eine breite Spanne an Förderaktivitäten, von regionaler Entwicklung bis zu innovativer Forschung. So fließen beispielsweise drei Millionen Euro in die klimafitte Umgestaltung der Fürstenfelder Innenstadt, ein klares Beispiel für Wirtschaftsförderung und den Einsatz von Strukturfonds zur Stärkung ländlicher Räume. Parallel dazu unterstreicht die Forschung zur Visualisierung des Metaboloms die Bedeutung von EU-Programmen und nationalen Förderungen für die Spitzenforschung und Innovation im medizinischen Sektor.",
+      "items": [
+        {
+          "title": "Klimafittes Fürstenfeld: „Drei Millionen Euro für die Innenstadt“ - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdHlpWF9QcW1RWGxZWWNDaDE3dnhTaFVzNVRHTEVTQUxUM3I3QzYzUHEyTG1oTlFHakt2RHh0b0EwRm8tUmN2U3VkTWJTMXdXZHF1V3h6T28waS1meDlkYlJUVkh3OWExa2ZybzlERGlraWdDZnZ0Y2k2UEFWbk1rZ2lna2lWcUpYQVMxZmZTdmFDOVRpTHlOSFAycGd5U2dfQmhWRFJaMm9QZkZmUHdRaHJGUFBTblJaSmZlVjRFUERzcUZNT3RqQ1pB?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "19. Apr 2026"
+        },
+        {
+          "title": "Den Stoffwechsel visualisieren: Ein Blick ins Metabolom - medonline.at",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMGpZeWRvWTFTX25HeUtFLTE0MGNDTXRfd1VNNW80Y2JkNmpQczhTRVRWcm9adElwcWpKZ0w2dlhHbUNETEJBSTZGWlItYUczVGNJYkVZQ1BsTXpfRTdxVTF0cDE5Q3oxYzkzTmtfYzlLa1RicERnYlQ2TV82U2daTUV2dEFYdjJwdlIyQmY5OXpIMG1kbGRfenhhSDE0VzRTLVE?oc=5",
+          "source": "medonline.at",
+          "date": "17. Apr 2026"
+        }
+      ]
+    },
+    "innovation": {
+      "label": "Innovation & Digitalisierung",
+      "icon": "💡",
+      "color": "#7b4f12",
+      "summary": "Die Steiermark setzt sich intensiv mit Künstlicher Intelligenz auseinander, die zunehmend erlebbar wird, entmystifiziert und als prägender Faktor für eine bereits futuristisch anmutende Zukunft wahrgenommen wird. Parallel dazu fördert die Region durch Initiativen wie den ersten Bundeskongress für Fermentation gezielt neue Wertschöpfung in der Lebensmittelwirtschaft, was auf ein breites Spektrum an Technologieinnovationen hindeutet. Dies unterstreicht die dynamische Rolle der Steiermark als Innovationsstandort, der Digitalisierung und zukunftsweisende Technologien aktiv vorantreibt.",
+      "items": [
+        {
+          "title": "Künstliche Intelligenz wird erlebbar - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wN0pTU05mTEgtbGthdG1fa2xNMTQ4XzlDMDdfVHotQ1NCTWJvcDlBQnRqZ0dqb2xHS2h6UGJLMmxZb096WXAzbWduU29RUUhXalJHZw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "14. Apr 2026"
+        },
+        {
+          "title": "KI entzaubert: Was wirklich hinter Künstlicher Intelligenz steckt | - Katholische Kirche Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdWtiRHZabnUzVTZFQmdWQjhjOXU3ak1DQ2gwZHR1LTQ0cUxlWkxrSnlUVGREV293NklLUGs1aWoyaXpJNnI4d2xuVDA1WVBIOFBmajlDeTlKNTN4ZXBmZ3pFTVlHQmNLV1NjTTZxQzd1a2FjamlzNFhBaWZiMnlHc3JNdVZZeF85SC1YUi01eDhUWmVKSHZ1eA?oc=5",
+          "source": "Katholische Kirche Steiermark",
+          "date": "16. Apr 2026"
+        },
+        {
+          "title": "Künstliche Intelligenz und die Zukunft: Wir leben schon in einer Science Fiction - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSkg5dVh2dERZWGN4QXNpOFRSYVdGeXFEdkZnQWt6dVNlTUtGVFdwSXphaFREV2pmUEhXaDE5RlExa3hfQXRkRXRBWVl3YkZvLTZoazhvSGNoMFo3OXg0bXJRNE5mV3h1bnVVVTZtTXAwaXVnWU90b0M4RmdEMDhEZDNqWmhJSlExblA5TGFhWWdiTkxUZ1prRU4zUnhLVFpESkZMUF9vXy1oUnJraFN3?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "16. Apr 2026"
+        },
+        {
+          "title": "1. Österreichischer Bundeskongress für Fermentation: neue Wertschöpfung für die Lebensmittelwirtschaft - Leibnitz Aktuell",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONHB1RU5Ha2x0ajdjb1UzUFBGOEpGcUFqUS1zQnV2RUFibFBPNjB0NUI5V056b1FzWG9uQTN2X05IRWl5dHlMelZhY0hXNDRtYkNubDFLQWZoVHhVa3dRNTl3VU84d0JwMklOTmxwQW1FTmkyYkh3T0I0ZVJYMnE0RFF3MjFKRE5iVUJDYlU2LS1ROElfMVV6YXgyR0tsMlRpTkpSMDdXdDYxd3N1akJiM2lPZUQ3SnJ3eFJXX0hobVNIVzYycjhETlZQRVFzUlpyRnZIUXFTdDM4S3V6bHRxa3d1ZjJscGExaWc?oc=5",
+          "source": "Leibnitz Aktuell",
+          "date": "17. Apr 2026"
+        }
+      ]
+    }
   }
 }
