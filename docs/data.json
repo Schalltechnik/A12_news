@@ -1,0 +1,10 @@
+{
+  "generated": "Noch nicht aktualisiert – bitte GitHub Action manuell starten",
+  "categories": {
+    "wirtschaft":   { "label": "Wirtschaft & Standort",       "icon": "💼", "color": "#1a5c38", "summary": "Wird nach dem ersten Lauf angezeigt.", "items": [] },
+    "tourismus":    { "label": "Tourismus",                    "icon": "🏔️", "color": "#003399", "summary": "Wird nach dem ersten Lauf angezeigt.", "items": [] },
+    "wissenschaft": { "label": "Wissenschaft & Forschung",     "icon": "🔬", "color": "#c8102e", "summary": "Wird nach dem ersten Lauf angezeigt.", "items": [] },
+    "foerderungen": { "label": "Förderungen & EU-Programme",   "icon": "💶", "color": "#5a5a5a", "summary": "Wird nach dem ersten Lauf angezeigt.", "items": [] },
+    "innovation":   { "label": "Innovation & Digitalisierung", "icon": "💡", "color": "#7b4f12", "summary": "Wird nach dem ersten Lauf angezeigt.", "items": [] }
+  }
+}
