@@ -1,12 +1,18 @@
 {
-  "generated": "20. April 2026, 06:30 UTC",
+  "generated": "20. April 2026, 15:52 UTC",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Zusammenfassung konnte nicht erstellt werden (Rate Limit).",
+      "summary": "Zusammenfassung konnte nicht erstellt werden.",
       "items": [
+        {
+          "title": "Bezirksforum in Gleinstätten: Klare Ziele für den südsteirischen Wirtschaftsstandort - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMUZCWlVQNHloaC01T0JsY18zMUlOSkNnenRoVGhfaUhZSHJhYkVmWWhRWE9UZEZJNXV1aHNWZTZER0NOekpIdDJMZHhvYnRMWmhsdDdfb2J0V3JpSjdWNmhLNVQ3M3h5bjNhWTQ0Ym9sTFVJWlkxV0NfUEtjY1NfYk82ODdpdXdCVGVjR0RzemhtcDQtbWp0NTF3ZjRxMndScFF0N2h1NFdPX3gtYno1UGMtYw?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "20. Apr 2026"
+        },
         {
           "title": "Steiermark will China-Beziehungen stärken - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhUW9IS2gtRDBUNC1BeENrN2NhMTV6TzJMQkZMUFR3TjJLYzVrbjVURFVQNzdFSDJUZ2VlSTVrOWprR0pWZ3RScldMM1BWT1BGTHlvNw?oc=5",
@@ -20,21 +26,27 @@
           "date": "17. Apr 2026"
         },
         {
+          "title": "Drei Jubiläen, ein Fest: Frühschoppen in Passail würdigte Arbeit rund um das Almenland - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc1ZHOUhTV0VGUGRXc0ZveFdQeEZXUy04U0tCYUF3cEFUbm1Ga1pva0hqWEtLM2xMNDZrLUZIT0JJZE5yWDZPXzVtQ0dxSWtLYXJ5cUh0UUZXdUV5UEV0VU1ULXpXaU1Rbmk1M2s2aFFkeVc0anNvWThtT0VyZEVnRVBqYmRfRFlWdWJ5YU1yTEVMWW9Ka0I5aWZqMzBobF9sQjNGMWpIbEJqN0lDT2ZqYmdWdHBBRlNa?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "20. Apr 2026"
+        },
+        {
+          "title": "Steirische Wirtschaft hofft auf Wende - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KcTdMcDRWeGtlVlpNaGJka0Zia092dDRIcWkxRHRpa1ZidFU3ekwxVzQwc2ZEemdlX2ltcFFiRUNPTEdoVjBqNWdFNVRxRVUyVXMyYg?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "14. Apr 2026"
+        },
+        {
           "title": "Steiermark-Delegation in Shanghai: Millionen-Deals mit China geplant - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMEtBdzRJNU1QM1o4YjJEWV9RU2dZSTRuS0p4SWppVWJsVGhORks3TnBVajFLTm1SMnd2eHI3b29COElxQWZFemJYbjFZQXNEUTJnbHBJZUZsZVI5THA1Q0gwaFNWblJvR3F2OHZ2MTFob3BBdmVlWEZtM01jUTljaGFIekdYTk1kZUVxdmxqdDhGNF9LRVBBdDhiSlNBQzFrdnBlNmI4TndIVVE0LURoV01Galo5RzA?oc=5",
           "source": "Kleine Zeitung",
           "date": "17. Apr 2026"
         },
         {
-          "title": "Steirische Delegation in China: Fokus auf neue Partnerschaften - Klipp Magazin",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUURQN0oydnlrSFVGTXA2cXhlcmF5dzQwLVdIMHdHSm4ycF9VbzB4VHQ2OVF2elNISmZqRXhIcGoxb1BEWkFLWlJ3UEdvVDZubU94UzUzU3Y4YjFxb20xVDFYWFpIb1lacUFVaVZ0ejNhMFROd2xjZktyTUhGbUtzblF6djMwNGZONVExOE9aWGFScmdzX2ZNbVBKc3RVUkhxVXR6X19zNnRZQUFM?oc=5",
-          "source": "Klipp Magazin",
-          "date": "17. Apr 2026"
-        },
-        {
-          "title": "Freier Eintritt: 400 Stationen in der Steiermark – das bringt die Lange Nacht der Forschung - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZGtiQm9uUFN5dUhkNFlwZUtIa2c0VDFRUElQV25tbkxqNjBsdjdadnd3am8zZHU5MjdVSTVzcjc5Tjc0TS1uS254MDlLN292NGtPdFNmX1Y4cXNqUllmMEplOGlWUE5USzNuV1FoQnhUSWQtVU9VcnVRLURTME5DWktjNE9FUWxreTRvYW9GeDdhZ21uZmtqQWN1MDFFNWI2Yk1sMWxUWmRpLUpMQzhoUXJxSGlMN2lNcUtMVHhKR0tRLXpndzhzUTNTQQ?oc=5",
-          "source": "MeinBezirk.at",
+          "title": "Neos Steiermark vor Gemeinderatswahl Graz 2026: Philipp Pointner setzt auf Wirtschaftskurs - wirtschafts-nachrichten.at",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSkJwQ0J3TEcwZ1JLMXNpTVc5OUtIY1ViODc3TERvSU9yOExZMktsVnc2dHN6RjI1bDl0R0Q1LWdzbkY2aGthSWJCVlhoYUdaYU8ycUxvTjNVaFJsbUs3Z09yS2hyMzhIeGRvMmRYYWZvQlpoQVJ4bkkwYVc2M0gzcDFnZXJtZnR4SHhueUtGMWlWZWNKTG9leTZZQ1JYZEhqVE5VcVpIRzlCZHNPUnhjQU9QX1pnenF5bEd3Rzd2VERzUjNuVG4ySnczaVVfSndtdUE?oc=5",
+          "source": "wirtschafts-nachrichten.at",
           "date": "15. Apr 2026"
         },
         {
@@ -44,27 +56,9 @@
           "date": "17. Apr 2026"
         },
         {
-          "title": "Steirische Wirtschaft hofft auf Wende - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KcTdMcDRWeGtlVlpNaGJka0Zia092dDRIcWkxRHRpa1ZidFU3ekwxVzQwc2ZEemdlX2ltcFFiRUNPTEdoVjBqNWdFNVRxRVUyVXMyYg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "14. Apr 2026"
-        },
-        {
-          "title": "Neos Steiermark vor Gemeinderatswahl Graz 2026: Philipp Pointner setzt auf Wirtschaftskurs - wirtschafts-nachrichten.at",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSkJwQ0J3TEcwZ1JLMXNpTVc5OUtIY1ViODc3TERvSU9yOExZMktsVnc2dHN6RjI1bDl0R0Q1LWdzbkY2aGthSWJCVlhoYUdaYU8ycUxvTjNVaFJsbUs3Z09yS2hyMzhIeGRvMmRYYWZvQlpoQVJ4bkkwYVc2M0gzcDFnZXJtZnR4SHhueUtGMWlWZWNKTG9leTZZQ1JYZEhqVE5VcVpIRzlCZHNPUnhjQU9QX1pnenF5bEd3Rzd2VERzUjNuVG4ySnczaVVfSndtdUE?oc=5",
-          "source": "wirtschafts-nachrichten.at",
-          "date": "15. Apr 2026"
-        },
-        {
           "title": "Steiermark setzt auf noch mehr Windkraft - Bauernzeitung.at",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVFNfemJ0azFISF9ndFRZSkxlbmF4RGdTbE1CSEg4cy1hMVVJeEFTZ1dYZGl6TDZhckFyN3Jmck5YVXJ1WU5hbjVUTm5SRHZKSVRjNEppMWNCM0JDWFRGN3dNYUNmd0tpeVF3NHVHallROUtobF9ZQVd3MjdmWWVuQTQxbGZ5cEdN?oc=5",
           "source": "Bauernzeitung.at",
-          "date": "16. Apr 2026"
-        },
-        {
-          "title": "Wirtschaftsstandort stärken: Feldbach bekommt mit Coreflow GmbH mehr digitale Kompetenz - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTjRPMEVZMmhrMWp2UGc3Ym5HQWV0Uk5qUGh4czZtVF9qQm5Rc1V6Qm1WSy0zZUpUSklHT0lyR1Rwb2VJbWo0azFuSk1QQ0pXWDc2dVNURWxTY0d4bHFCcnpadnRRMHEtc1JZUkk0UFRsNC0ydWFMT3BtWHJ0ZHZFT1ladk1EYTFZYlNZV3JUVlBlalBOLUZGY1VTZXVydTlpUkd6ckRVNHBGa01ha3ZBZ05EWXNnUWNEQW00SE1RajlfZw?oc=5",
-          "source": "MeinBezirk.at",
           "date": "16. Apr 2026"
         },
         {
@@ -91,7 +85,7 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark verzeichnet eine positive touristische Entwicklung, mit Rekordbesucherzahlen beim Steiermark-Frühling und einer erwarteten Zunahme an Urlaubsgästen, auch durch Neuerungen wie die Semesterferien. Strategisch setzt das Grüne Herz Österreichs auf verstärkte Kooperationen, insbesondere im nachhaltigen Naturtourismus, und bewirbt sich aktiv durch Initiativen wie den Steiermark-Frühling in Wien und eine eigene ÖBB-Lokomotive. Gleichzeitig wird der faire Wettbewerb in der Beherbergung durch Kontrollen gegen illegal vermietete Zimmer gesichert, während die Region mit einem prämierten Hundehotel ihre Attraktivität und Qualität weiter steigert.",
+      "summary": "Zusammenfassung konnte nicht erstellt werden.",
       "items": [
         {
           "title": "2027 bringt Neuerung - Semesterferien in der Steiermark: Positive Bilanz - Kronen Zeitung",
@@ -112,9 +106,9 @@
           "date": "14. Apr 2026"
         },
         {
-          "title": "Globale Unsicherheiten als Treiber: „Wir erwarten definitiv mehr Urlaubsgäste in der Steiermark“ - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVlV5eGZVSjFtc0Fnb2FHVzhVcnlxNUpjWVlBWnBMTHIyUWQ3UmpJTTNRQzNOcGhneDB4eW5QZmViazlMeUx4TVQycjM3emFheUhidm1xWjlBWENqcTNPczZ1d2pNZlU5aHZZbXFvZk5Feno2SUlvVnB5RUU5Y2VzNkRESzgydGZfMzZGSUlQVlFoWURHLUNZNDYxTGpCOFAzSzh2bzA3elVBQ1hi?oc=5",
-          "source": "Kleine Zeitung",
+          "title": "Steiermark als vielseitige Tourismusdestination - GASTRO.at",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYWN5ZDIwQlhheVpHVmlVVDJma3VSa1BXMS1uWTlTZUhrUm40eWJHU1A4MDdNZ1AwN0wtT3o2Z1NkcFp2eXhwVHhuY1hnUWVkUjdNUGVkM2N1NkRMSWs4YmptWlppQnRZbkJnNWVBYlVxUngxTnBJMVRwUUpPNXBITTRpZmE?oc=5",
+          "source": "GASTRO.at",
           "date": "14. Apr 2026"
         },
         {
@@ -124,28 +118,16 @@
           "date": "16. Apr 2026"
         },
         {
-          "title": "Rekord des „Grünen Herz Österreichs“! Mehr als 200.000 kamen zum Steiermark-Frühling 2026 - TAI Tourist Austria International",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRXZsblVDWlE1VGtUT3RQTnpEUnVCRjh4RUJyQzFET0RaOHlwTmNjWEI2dzdkM1lfWVVDNkVjY19Nb0l0bG5EZ1drSGZwN2hiU0RVTUVfUnYxNWxueDB1OFZaNUF4enRSb0pFbTMzckQ2SUZUYjh3c1BRbTc1bkxQQjBxbVV4b0QzYTFFN2FLeWxSSjZJMzRkYXlSVVpYZ3FrMHNVampJU1JmSHQ4dEdvWW5TMVNpN1E1Qk92ZWJUYW11c3IzdVY5WjdvNENWdw?oc=5",
-          "source": "TAI Tourist Austria International",
-          "date": "13. Apr 2026"
+          "title": "Globale Unsicherheiten als Treiber: „Wir erwarten definitiv mehr Urlaubsgäste in der Steiermark“ - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVlV5eGZVSjFtc0Fnb2FHVzhVcnlxNUpjWVlBWnBMTHIyUWQ3UmpJTTNRQzNOcGhneDB4eW5QZmViazlMeUx4TVQycjM3emFheUhidm1xWjlBWENqcTNPczZ1d2pNZlU5aHZZbXFvZk5Feno2SUlvVnB5RUU5Y2VzNkRESzgydGZfMzZGSUlQVlFoWURHLUNZNDYxTGpCOFAzSzh2bzA3elVBQ1hi?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "14. Apr 2026"
         },
         {
           "title": "Steiermark-Frühling 2026: So brillierten Tourismusschüler vor 200.000 Besuchern in Wien - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWjhHRFZxMzR2azlLYWNsRWFsdm1xUVBhNTBYbThNTjFDNjhNTFh5MHdscXBvdkp2VnRFek8tTDFuRXNKbEJuN0g0N2ZNSHF2amtWVHlTeWdRYmdRcFV6aGVYdjhBZG42VHpnTGItV1F4U3hfd0lfNTNJaE8tME8wWVA4ZkJzUXFFSUlVNndBRkE4anB6UHdaY0VRaWZEOVM5LTZtbHpILVJobG1VeERoM0c5dlBPWmIwTmdkODZINA?oc=5",
           "source": "MeinBezirk.at",
           "date": "14. Apr 2026"
-        },
-        {
-          "title": "Glockenspielverkauf: Die Besitzer der steirischen Sehenswürdigkeiten - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORy1HY21uQVpuY0Z4eXF1TEtCRURURXRVUmVsektVZ0cwUmRKQlYzV0t4LWUtWjdEb0JIRVc3S3NJd2ZiWTl4VEl3TXY5SG5FTmlHYjFUMWRyblNmWDNiR18tcW0wQ0tPTWxjV3U4SFlkMWtUeFJlbjRyNDVGQnhqQXF2RUtrSm9rbGlMZC1RRDVxMV91RzJyOXJXc2w0UQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "19. Apr 2026"
-        },
-        {
-          "title": "Steiermark-Frühling 2026 in Wien - GASTRO.at",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmdjItOWZmaU84dTBPLUNVTkZxLUhySG9ENnBKSnVOMGVMV0J0VHBDLXZPYzNTRXRoTTd2R3g5QVJjOWRSTnpHNm8tR2RTTlpDVEFJb2VnZkYwMW5RZ3ktZDdNN3RweHRtMnc2U3FReGlzNldv?oc=5",
-          "source": "GASTRO.at",
-          "date": "13. Apr 2026"
         },
         {
           "title": "Kontrollen starten: Steirische WKO geht jetzt gegen illegal vermietete Zimmer vor - MeinBezirk.at",
@@ -166,10 +148,16 @@
           "date": "14. Apr 2026"
         },
         {
-          "title": "Hochsteiermark und das echo medienhaus luden zum Empfang - Wiener Bezirksblatt",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JTlRia3lHbHdaVklzZHdKODV5MEhpYTgyc0Fydm1faWRKWjVzcnAxRUQ4eEpPWjJTTHFWX1V1SEtPa1JrMVhrSndrRkI0RUh2c21wQ3c1ZFpDZzJFVjh5YnJ1d3JXcHFtQ2VLUnd3?oc=5",
-          "source": "Wiener Bezirksblatt",
-          "date": "13. Apr 2026"
+          "title": "Glockenspielverkauf: Die Besitzer der steirischen Sehenswürdigkeiten - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORy1HY21uQVpuY0Z4eXF1TEtCRURURXRVUmVsektVZ0cwUmRKQlYzV0t4LWUtWjdEb0JIRVc3S3NJd2ZiWTl4VEl3TXY5SG5FTmlHYjFUMWRyblNmWDNiR18tcW0wQ0tPTWxjV3U4SFlkMWtUeFJlbjRyNDVGQnhqQXF2RUtrSm9rbGlMZC1RRDVxMV91RzJyOXJXc2w0UQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "19. Apr 2026"
+        },
+        {
+          "title": "2für1-Urlaub: De Merin - Boutique Hotel Straden - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWNxMDQ0Q1hEeHpHb3pNc2JWcEVqdTIzZ1JQaVNLM3ZFdEpEQVNoNlpXNDZBejUyamJ1M3V0WGtKLWFreHFVVHdHdkQwVjM1MmZCMF9qTVhNTmNGaWVKcF9KM3JDalF6S3JCZ2RwaUNvckhQdUFjWlUyRzl2S0pfMUxPWkFzUm1OSWVEYnNSZHloZkJkQnFPSlI4YzRvVlg1R0FPZw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "20. Apr 2026"
         },
         {
           "title": "Europas bestes Hundehotel kommt aus der Steiermark - 5 Minuten",
@@ -182,6 +170,12 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaDBpRHMwWkM0a3VKWGQzeml0TnRTTWFaSjIyM1pPM2ltVzR2NkFweE1iM2J3Sms1dHdJcmd3TkdXeE1RYUY0bG0xSnZkLXJvOGxfZFNVRHN4R3FSX2UxaERMd2RvR2IxcHpHXzVhbUVhb2d5WXYzNHl2OGFJOExEV3IzZWpBSG0zcHRnd3RxaVU4bnYxcEpTbXl2ZzVHb1U0aktfRG9RVWVyV21RNDNkaHNUX1JRM25TVS1n?oc=5",
           "source": "Kleine Zeitung",
           "date": "17. Apr 2026"
+        },
+        {
+          "title": "Urlaub in Mariatrost : Hier zeigt sich Graz von seiner entspannten Seite - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVFZrbUNEajJkd0hqelZTTlN4N2xTZm1YOVR0ckxIT1o2NHdMR2Y0WnFMSGdTTEMzUV9DNFVKLUc2T2pGLXlSa3J2T0VCaW1GVmR4cXdEU05TTWdpNGJRcVN4WlN1YVp1amNQN0lBLWlLNDRjVFdfUmh1Sk1tX21fSE1GeFk4UG9ySVFsSExBX0Zxb0ttcDJIMWxhQXJpOVBXZnRiYWZsNmZ6bkM1cnVn?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "15. Apr 2026"
         }
       ]
     },
@@ -204,28 +198,22 @@
           "date": "14. Apr 2026"
         },
         {
-          "title": "Lange Nacht der Forschung - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRXpKa0RMNFhWMzExNHRzZWFaUEs5ZGFUTXFuUUREMzJ3Y0tqZ25KYWxhQ1AxM21fbFFxa2Mwa0pMUDJHcHBEVXlJTHFWc3FNRUJjempheG9TVFFDSURxcFdlSlktYTFSN1NaWW1fRlVJOF9jb0R0a1VzT1RIYUxsZWxXMm03Zk1MNmRSNjJ0OFRlb3Vnd1NSNFFGYjVXLXhyMUhaYTcxZ3o3QkVX?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "13. Apr 2026"
-        },
-        {
           "title": "Feierlich gebootet: Die TU Graz hat jetzt einen Cybersecurity Campus - Extrajournal.Net",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZHB4X0RoY2tEeVVuM0xDSEczTmNWZEdNWjJkZWtwQmJFZW4wMGdsYi1EN0I3RVc5UEVYd0h3QkluY0NfeWRzSjJUYTZVSHFiN1JRc2NDUHVPRkd6MWRTajlXRjBkR3pqUUh5c1BBbGR0anBYTFl6MDdzRnpVQVJXRFI3QndWbkVNb18tajJpLW16ZkFrRU9XdlJmU1hJR21ra2tHT3NFMA?oc=5",
           "source": "Extrajournal.Net",
           "date": "14. Apr 2026"
         },
         {
+          "title": "Auf zu neuen Ufern - Reloaded - Stadt Graz",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSkJGRElnTmZYUjVPd0V5azlPOGFXQXVoUmU1VlVIbndLQmVsOUFjNG0xOUNGb1N4dHBsdURnMFpveGJHM0JiWEt1ZlhVbzZPOE9nWUV0cENwWExuc2s3Sy1oTElPdVFLaTRtOUNfal9SSmhFNW9LU3hEc3RSU1FnLWozQk1rcDNr?oc=5",
+          "source": "Stadt Graz",
+          "date": "20. Apr 2026"
+        },
+        {
           "title": "Lange Nacht der Forschung: „Healthy Aging“ an der Med Uni Graz - Medizinische Universität Graz",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSEI5SmlzZ3BtbFNKTl9OaUdzeWV0NGZnTDdnTDNDajVfc1dHNzlWMy1nUWdQbzJuRzh2bG5USmpwVklJUVd5bzVfVXVSTXAweXB4MWUxMWNTXzBZcUdKbFF4OXJBeTlYR3ZnY1l6LWRZQTd2YW56dXNaM2hBYWd6RGx5QmZOR1BNTlJmTXBLS1ZlS0NkaHh0SHQwWVF6QQ?oc=5",
           "source": "Medizinische Universität Graz",
           "date": "16. Apr 2026"
-        },
-        {
-          "title": "Den Stoffwechsel visualisieren: Ein Blick ins Metabolom - medonline.at",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMGpZeWRvWTFTX25HeUtFLTE0MGNDTXRfd1VNNW80Y2JkNmpQczhTRVRWcm9adElwcWpKZ0w2dlhHbUNETEJBSTZGWlItYUczVGNJYkVZQ1BsTXpfRTdxVTF0cDE5Q3oxYzkzTmtfYzlLa1RicERnYlQ2TV82U2daTUV2dEFYdjJwdlIyQmY5OXpIMG1kbGRfenhhSDE0VzRTLVE?oc=5",
-          "source": "medonline.at",
-          "date": "17. Apr 2026"
         },
         {
           "title": "Med Uni Graz auf Event zum Thema Frauengesundheit in UN-Hauptquartier in New York vertreten - Medizinische Universität Graz",
@@ -237,12 +225,6 @@
           "title": "Lange Nacht der Forschung 2026: Eine Nacht voller Staunen - Der Grazer",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM280enJCT05fLTlxWFVaUTA5UGUyOW05R3NQQWtEV29iUWdpMEkzTjREanA4LW03TlpYa2NVRjBJdkJ2UDZUcjJFT21HVHV6T0R4bmxKS0M0TVUyMWRHb0Rjb2w5Wlk1bHdKRTZqOTNodjBieFJEdXNadFp4ZXNrWVdXSTRwQUE1XzJuSHl3?oc=5",
           "source": "Der Grazer",
-          "date": "14. Apr 2026"
-        },
-        {
-          "title": "BioTransform: Wirkung bioaktiver Substanzen aus Lebensmitteln im Körper - Medizinische Universität Graz",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY015RzBzSTVYRm1TVHJDQjZiSXI0YzNuSEdiZ1ZEVEVsN0pGV2gyNEZUT0VLeXJCdVozcmNBLXRCV0ZhNjhad1JBZnVycXlwMU1TMjdZSTE2VlRnZ0dmLVpCVU1TaUtiM1dGam9PY0czMmtLRlBXb1lzaU1UajZ0bHN6ZmpQUnllNkJqcEoxVEh2MDV2Q0YtZnBBTzE1dGQ4a2duRVVzM0NhWW45b2c?oc=5",
-          "source": "Medizinische Universität Graz",
           "date": "14. Apr 2026"
         },
         {
