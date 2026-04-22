@@ -58,7 +58,7 @@ CATEGORIES = {
         "summary_prompt": (
             "Du bist Experte für Wirtschaftspolitik und Standortentwicklung in der Steiermark. "
             "Fasse die folgenden Nachrichtentitel zu Wirtschaft, Unternehmensansiedlungen, "
-            "Förderungen und Arbeitsmarkt in der Steiermark in 3 prägnanten deutschen Sätzen zusammen. "
+            "Förderungen und Arbeitsmarkt in der Steiermark in 2 prägnanten deutschen Sätzen zusammen. "
             "Antworte NUR mit Fließtext, keine Aufzählungen."
         ),
     },
@@ -81,7 +81,7 @@ CATEGORIES = {
         "summary_prompt": (
             "Du bist Experte für Tourismus und Tourismusförderung in der Steiermark. "
             "Fasse die folgenden Nachrichtentitel zu Tourismus, Nächtigungszahlen, "
-            "Tourismusstrategie und Tourismusförderung in 3 prägnanten deutschen Sätzen zusammen. "
+            "Tourismusstrategie und Tourismusförderung in 2 prägnanten deutschen Sätzen zusammen. "
             "Antworte NUR mit Fließtext, keine Aufzählungen."
         ),
     },
@@ -104,7 +104,7 @@ CATEGORIES = {
         "summary_prompt": (
             "Du bist Experte für Wissenschaft, Forschung und Innovation in der Steiermark. "
             "Fasse die folgenden Nachrichtentitel zu Forschungsprojekten, Universitäten, "
-            "Innovationen und Forschungsförderung in 3 prägnanten deutschen Sätzen zusammen. "
+            "Innovationen und Forschungsförderung in 2 prägnanten deutschen Sätzen zusammen. "
             "Antworte NUR mit Fließtext, keine Aufzählungen."
         ),
     },
@@ -125,7 +125,7 @@ CATEGORIES = {
         "summary_prompt": (
             "Du bist Experte für Förderungen und EU-Programme in der Steiermark. "
             "Fasse die folgenden Nachrichtentitel zu Förderungen, EU-Programmen, "
-            "Strukturfonds und Wirtschaftsförderungen in 3 prägnanten deutschen Sätzen zusammen. "
+            "Strukturfonds und Wirtschaftsförderungen in 2 prägnanten deutschen Sätzen zusammen. "
             "Antworte NUR mit Fließtext, keine Aufzählungen."
         ),
     },
@@ -148,7 +148,7 @@ CATEGORIES = {
         "summary_prompt": (
             "Du bist Experte für Innovation und Digitalisierung in der Steiermark. "
             "Fasse die folgenden Nachrichtentitel zu Digitalisierung, KI, Startups, "
-            "Technologieclustern und Green Tech in 3 prägnanten deutschen Sätzen zusammen. "
+            "Technologieclustern und Green Tech in 2 prägnanten deutschen Sätzen zusammen. "
             "Antworte NUR mit Fließtext, keine Aufzählungen."
         ),
     },
