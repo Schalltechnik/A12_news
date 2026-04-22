@@ -1,11 +1,11 @@
 {
-  "generated": "22. April 2026, 06:17 UTC",
+  "generated": "22. April 2026, 07:35 UTC",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Zusammenfassung konnte nicht erstellt werden.",
+      "summary": "Die Steiermark stärkt ihren Wirtschaftsstandort durch internationale Partnerschaften und gezielte regionale Entwicklung, insbesondere im südsteirischen Raum. Dabei prägen Innovationen im nachhaltigen Bauen und in der Lebensmitteltechnologie die zukünftige Ausrichtung, während auch die Nutzung lokaler Ressourcen weiterhin eine Rolle spielt.",
       "items": [
         {
           "title": "Chinesische Partnerschaften stärken Wirtschaft - steiermark.ORF.at",
@@ -42,60 +42,6 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb0pUTmRXR0sxZGlkM0hOR2ZlVk43MlJBXy1hOUZFODFybkd1ZFdnNDIyRGNWZ25NYk9mVUlGWkFCY1dPQWRYY1NfRlQ1LUVYb2tDYXN4RXRkZlBya2hBZ2l6QzR1bVlMd2hTRWhLUEhEZjNVNGNIQ0JyU1VxWG9CQ2VCWDNzcVc4c2Y2RXdfSXZqVS1xRnIwd3R4NVZJNm1sbFJkaHVGZThud1hJV0JieWhiSDVtcFN4ODAw?oc=5",
           "source": "Kleine Zeitung",
           "date": "21. Apr 2026"
-        },
-        {
-          "title": "Preise Süd-, West- & Oststeiermark: Bauland und Wohnungen - das zahlen Käufer in drei Bezirken - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPanJvMTJZcFdld0xzZVhUS2cxQ2FEXzZaSmRnLWRjRlFIeXhsXzhzQXNRR24yR1QzTUpWRGpJOGtSVjVWUHRWMXYyRzNrSHVnME9JVzRkQ2hwN1lmVG5MSElyZldGTFdNeVlmbGl6Q2czLXNrb0JHMS1oVTR4eGNhdzY0ZzRXd1hWa3JrS2REVzRKenRPX2FWVm9RdnFZSDJSeHU4VjlQLTZ2OGM3ZWE3emhldlg?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "20. Apr 2026"
-        },
-        {
-          "title": "Neos Steiermark vor Gemeinderatswahl Graz 2026: Philipp Pointner setzt auf Wirtschaftskurs - wirtschafts-nachrichten.at",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSkJwQ0J3TEcwZ1JLMXNpTVc5OUtIY1ViODc3TERvSU9yOExZMktsVnc2dHN6RjI1bDl0R0Q1LWdzbkY2aGthSWJCVlhoYUdaYU8ycUxvTjNVaFJsbUs3Z09yS2hyMzhIeGRvMmRYYWZvQlpoQVJ4bkkwYVc2M0gzcDFnZXJtZnR4SHhueUtGMWlWZWNKTG9leTZZQ1JYZEhqVE5VcVpIRzlCZHNPUnhjQU9QX1pnenF5bEd3Rzd2VERzUjNuVG4ySnczaVVfSndtdUE?oc=5",
-          "source": "wirtschafts-nachrichten.at",
-          "date": "15. Apr 2026"
-        },
-        {
-          "title": "Steiermark will China-Beziehungen stärken - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBhUW9IS2gtRDBUNC1BeENrN2NhMTV6TzJMQkZMUFR3TjJLYzVrbjVURFVQNzdFSDJUZ2VlSTVrOWprR0pWZ3RScldMM1BWT1BGTHlvNw?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "16. Apr 2026"
-        },
-        {
-          "title": "Startup Monitor: Jedes zweite steirische Start-up setzt auf Patente - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ2pyT1pLeWhJMElXTW1sSWxHVTBkRXpTVHV1LXNYWkwyeDFzaGc5QTF0a2tmY213RDlRZ1AwVzJmWUJYcXhqVzcwMDlZdDFrSUloaTVpSU91RlY5NnFpSV92SGh6RnJoTVVzWU0zbDlWeE10NDN1bDZmMVpERzlPRG15Sy1IeXFWUnJ0MVJWTUJ1Ui02Y29JV0RSczdQRzNhcnljM19KLVowNUMzRDRxdHJfRFhqaW84cWc?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "21. Apr 2026"
-        },
-        {
-          "title": "Sanfter Tourismus: Warum dieser Naturpark Naturschützer und Regionalentwickler zugleich ist - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWDJIV1RmSnowOUVvNjRnTG1jSVBTODBZUnI2dWFKSkhGUHJGM2JVMTFTYWgwcWJKY2VMeHpaTXota3RydEx0ZFB3TFR6anNFUlRNM1FiWndCYUVhMTVMeER6aFV3SHBONVMxdmFfNWtwcDI1SFM1ek9OOEFkVDhZb2ZSVWx4X1h6SURUaTFZWGw5MVlkZmRuU3RlY3JDXzRsTmxZcmU3c0kxazlWUEt1SkdWMFJERzRNNzR2S29ETVdJUnRfNUE?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "21. Apr 2026"
-        },
-        {
-          "title": "Steiermark-Delegation in Shanghai: Millionen-Deals mit China geplant - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMEtBdzRJNU1QM1o4YjJEWV9RU2dZSTRuS0p4SWppVWJsVGhORks3TnBVajFLTm1SMnd2eHI3b29COElxQWZFemJYbjFZQXNEUTJnbHBJZUZsZVI5THA1Q0gwaFNWblJvR3F2OHZ2MTFob3BBdmVlWEZtM01jUTljaGFIekdYTk1kZUVxdmxqdDhGNF9LRVBBdDhiSlNBQzFrdnBlNmI4TndIVVE0LURoV01Galo5RzA?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "17. Apr 2026"
-        },
-        {
-          "title": "Drei Jubiläen, ein Fest: Frühschoppen in Passail würdigte Arbeit rund um das Almenland - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc1ZHOUhTV0VGUGRXc0ZveFdQeEZXUy04U0tCYUF3cEFUbm1Ga1pva0hqWEtLM2xMNDZrLUZIT0JJZE5yWDZPXzVtQ0dxSWtLYXJ5cUh0UUZXdUV5UEV0VU1ULXpXaU1Rbmk1M2s2aFFkeVc0anNvWThtT0VyZEVnRVBqYmRfRFlWdWJ5YU1yTEVMWW9Ka0I5aWZqMzBobF9sQjNGMWpIbEJqN0lDT2ZqYmdWdHBBRlNa?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "20. Apr 2026"
-        },
-        {
-          "title": "Steiermark setzt auf noch mehr Windkraft - Bauernzeitung.at",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVFNfemJ0azFISF9ndFRZSkxlbmF4RGdTbE1CSEg4cy1hMVVJeEFTZ1dYZGl6TDZhckFyN3Jmck5YVXJ1WU5hbjVUTm5SRHZKSVRjNEppMWNCM0JDWFRGN3dNYUNmd0tpeVF3NHVHallROUtobF9ZQVd3MjdmWWVuQTQxbGZ5cEdN?oc=5",
-          "source": "Bauernzeitung.at",
-          "date": "16. Apr 2026"
-        },
-        {
-          "title": "Wirtschaftsstandort stärken: Feldbach bekommt mit Coreflow GmbH mehr digitale Kompetenz - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTjRPMEVZMmhrMWp2UGc3Ym5HQWV0Uk5qUGh4czZtVF9qQm5Rc1V6Qm1WSy0zZUpUSklHT0lyR1Rwb2VJbWo0azFuSk1QQ0pXWDc2dVNURWxTY0d4bHFCcnpadnRRMHEtc1JZUkk0UFRsNC0ydWFMT3BtWHJ0ZHZFT1ladk1EYTFZYlNZV3JUVlBlalBOLUZGY1VTZXVydTlpUkd6ckRVNHBGa01ha3ZBZ05EWXNnUWNEQW00SE1RajlfZw?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "16. Apr 2026"
         }
       ]
     },
@@ -103,7 +49,7 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Zusammenfassung konnte nicht erstellt werden.",
+      "summary": "Die Steiermark forciert ihre Tourismusstrategie durch eine verstärkte Kooperation zwischen Steiermark Tourismus und den Naturparken, um nachhaltigen Naturtourismus und regionale Entwicklung zu fördern. Diese Ausrichtung, ergänzt durch gezielte Gästegewinnungsmaßnahmen wie spezielle Urlaubsangebote, trägt zu einer positiven Bilanz bei und bereitet die Region auf zukünftige Entwicklungen wie die Semesterferien 2027 vor.",
       "items": [
         {
           "title": "2027 bringt Neuerung - Semesterferien in der Steiermark: Positive Bilanz - Kronen Zeitung",
@@ -140,18 +86,6 @@
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWNxMDQ0Q1hEeHpHb3pNc2JWcEVqdTIzZ1JQaVNLM3ZFdEpEQVNoNlpXNDZBejUyamJ1M3V0WGtKLWFreHFVVHdHdkQwVjM1MmZCMF9qTVhNTmNGaWVKcF9KM3JDalF6S3JCZ2RwaUNvckhQdUFjWlUyRzl2S0pfMUxPWkFzUm1OSWVEYnNSZHloZkJkQnFPSlI4YzRvVlg1R0FPZw?oc=5",
           "source": "Kleine Zeitung",
           "date": "20. Apr 2026"
-        },
-        {
-          "title": "Berlin-Touristen sollen ab Sommer fürs Müllsammeln belohnt werden - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaDBpRHMwWkM0a3VKWGQzeml0TnRTTWFaSjIyM1pPM2ltVzR2NkFweE1iM2J3Sms1dHdJcmd3TkdXeE1RYUY0bG0xSnZkLXJvOGxfZFNVRHN4R3FSX2UxaERMd2RvR2IxcHpHXzVhbUVhb2d5WXYzNHl2OGFJOExEV3IzZWpBSG0zcHRnd3RxaVU4bnYxcEpTbXl2ZzVHb1U0aktfRG9RVWVyV21RNDNkaHNUX1JRM25TVS1n?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "17. Apr 2026"
-        },
-        {
-          "title": "Zuwachs von 8.600 Nächtigungen: Tourismusstammtisch erfreut - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMlVZa01nN2V6NEtpNU45ZVdKU2Z4b01HcnItSDlVNG02bnZYeE5qR20yZkFvU3lvb3hESDZBaGM1U2dtLWZXaWgta1FqVlJScEFtc2VzOWQtSFBkSEtvV2RKdUNyUHlnWDF0Y3BPVUt1QWpVaFNFZnRzNE9JbHp3MmRCRzE1Nl9peVJNX0QxVjJaSjBZS3Q4SVdnOEhYWE5VRTktdGttN1o3VDdxb196YnA4UGRDZUNfY1pBN3ctUld3YWppLVBRbHhPWUFpRjBjLW5aT2V0YXBhWnRHUHc?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "16. Apr 2026"
         }
       ]
     },
@@ -159,7 +93,7 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Zusammenfassung konnte nicht erstellt werden.",
+      "summary": "Die Steiermark engagiert sich stark in der Wissenschaftsvermittlung für den Nachwuchs und die breite Öffentlichkeit, sichtbar durch Initiativen wie den Science Club und die Lange Nacht der Forschung, bei der die Med Uni Graz mit international relevanter Gesundheitsforschung hervorsticht. Gleichzeitig treiben Projekte wie \"Auf zu neuen Ufern\" die Innovation in Graz voran, während die Fachhochschulen zur Sicherung und Weiterentwicklung der vielfältigen Forschungslandschaft dringend mehr finanzielle Mittel einfordern.",
       "items": [
         {
           "title": "Deutschlandsberg: Schüler der HTL nahmen am Science Club in Graz teil - Kleine Zeitung",
@@ -196,30 +130,6 @@
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpV0FHQ194bjA2ZGNWUVYwbzUtekNNbk10SEpmUXdsdkJpdTU4SzFzeWVPNW9pclhUTzZweFlSWXVhMGRDWE0wcmhzNEJFcTlBZmNWcA?oc=5",
           "source": "steiermark.ORF.at",
           "date": "16. Apr 2026"
-        },
-        {
-          "title": "Silicon Austria Lab: Innovation aus Graz - Steiermark heute vom 21.04.2026 - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbFFZQVg0em4yMEdvT2ltcDhIRldLYjAxams5NmQ5bnFMUC1sYkt2bEFHaG53RFNOcGlBUzdLeEFvZVEtRHNyejFUbHFacndCd3lIMFhvWXRhZDRLdjd2clFKV1d4amlkQkd6eHBDWU5kODhSYWdaLXM0YTEtc3VvUWcxTDJlVWFpZ0d4NjVNeTMzYTU2MF9xTm03Zy0wM0NxT0M2bnI3VXNJVnVOaHJDaw?oc=5",
-          "source": "ORF ON",
-          "date": "21. Apr 2026"
-        },
-        {
-          "title": "Startup Monitor: Jedes zweite steirische Start-up setzt auf Patente - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ2pyT1pLeWhJMElXTW1sSWxHVTBkRXpTVHV1LXNYWkwyeDFzaGc5QTF0a2tmY213RDlRZ1AwVzJmWUJYcXhqVzcwMDlZdDFrSUloaTVpSU91RlY5NnFpSV92SGh6RnJoTVVzWU0zbDlWeE10NDN1bDZmMVpERzlPRG15Sy1IeXFWUnJ0MVJWTUJ1Ui02Y29JV0RSczdQRzNhcnljM19KLVowNUMzRDRxdHJfRFhqaW84cWc?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "21. Apr 2026"
-        },
-        {
-          "title": "Wenn die KI Prospekte scannt und den günstigsten Einkaufskorb sucht - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX2RqLXdDczY0dURsV1pZeGczQ0JjRjFRSmdHZmlnSlBPZUxPNHpSVlZkcFpuQVRlMGRCVlVNNUFZdk84dGEtSGhYanF2eGU4MEZlN2ZqblVQSGpWcTBReXJOMjVlQjZRdjdTOUVjdUU1bExzUGN2ai1PTnJiaVJmT0lwY25JbDI3bi10RWtwbE5wOWs4UkdrYlRXTW1tV2lMTVc5Vk5YRVZ5RmhiVUhWMjZVZzFTNXBfZFkw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "22. Apr 2026"
-        },
-        {
-          "title": "Rekordfreigabe von Ölreserven wegen Irankrieg - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObTRoNXdUdTc2WjlESGRJbkJMTkdoV0k0enp0ZXkwOFhLYWRCT3dWblh3eWF2RG1PN29rc1hnWjl2S0J3TGlldGlHc01pa3BHLXJYUTlLeTdKUjFSUlFyQ21fOUtjSDFiNVNQNnd0SGZJSjJtdl9Eemp0SGRMZnZBNUtZVlFfUGZoYkJ6M2lTdzV5UQ?oc=5",
-          "source": "ORF ON",
-          "date": "21. Apr 2026"
         }
       ]
     },
@@ -227,7 +137,7 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "In Fürstenfeld werden drei Millionen Euro in die klimafitte Umgestaltung der Innenstadt investiert, was die Bedeutung regionaler Strukturförderungen und EU-Programme für nachhaltige Stadtentwicklung hervorhebt. Parallel dazu verdeutlicht die Forschung zur Visualisierung des Metaboloms die vielfältigen Fördermöglichkeiten für innovative Wissenschaftsprojekte in der Steiermark. Diese Beispiele zeigen das breite Spektrum an Unterstützung, das von lokaler Infrastruktur bis hin zu Spitzenforschung reicht und die steirische Wirtschaft sowie Gesellschaft stärkt.",
+      "summary": "Aktuelle Förderungen in der Steiermark unterstützen die nachhaltige Stadtentwicklung, exemplarisch durch drei Millionen Euro für die klimafitte Innenstadt von Fürstenfeld. Parallel dazu wird auch in die Spitzenforschung investiert, wie die Visualisierung des Stoffwechsels zur Erforschung des Metaboloms zeigt.",
       "items": [
         {
           "title": "Klimafittes Fürstenfeld: „Drei Millionen Euro für die Innenstadt“ - Kleine Zeitung",
@@ -247,7 +157,7 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark erlebt eine rasante Digitalisierung, die von der barocken Kunst bis hin zur alltäglichen Präsenz Künstlicher Intelligenz reicht und unsere Realität bereits wie Science-Fiction erscheinen lässt. Diese Entwicklung fördert ein dynamisches Umfeld für Startups und stärkt unsere Technologiecluster durch innovative Anwendungen. Dabei wird der Fokus auf nachhaltige Innovationen und Green Tech zunehmend entscheidend für die Zukunftsgestaltung des Standorts.",
+      "summary": "Zusammenfassung konnte nicht erstellt werden.",
       "items": [
         {
           "title": "Barocke Kunst – ganz digital - steiermark.ORF.at",
