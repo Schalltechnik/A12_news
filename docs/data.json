@@ -1,23 +1,23 @@
 {
-  "generated": "24. April 2026, 06:23 UTC",
+  "generated": "25. April 2026, 06:03 UTC",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die steirische Wirtschaft setzt auf internationale Expansion, insbesondere durch die Erschließung neuer Märkte und die Stärkung von Partnerschaften in China, um ihr Wachstumspotenzial vielschichtig auszuschöpfen. Gleichzeitig werden interne Strukturen durch Reformen der Wirtschaftskammer zur Entlastung der Betriebe, praxisnahe Unternehmer-Workshops und die Neubesetzung der Wifi-Leitung zur Fachkräftesicherung gestärkt.",
+      "summary": "Die Steiermark verfolgt ambitionierte Ziele in Wirtschaft, Arbeitsmarkt und Standortentwicklung, gestützt durch regionale Initiativen und die Stärkung der Ausbildung. Besonders im Fokus stehen dabei die Erschließung neuer Märkte und die Vertiefung chinesischer Partnerschaften, die vielschichtige Perspektiven und großes Potenzial versprechen.",
       "items": [
+        {
+          "title": "Area-Süd-Wirtschaftslunch: „Anspruch muss sein, Nummer eins zu werden“ - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUDRaY2EtYndpd0NrM1JoWW9ySjBrdWZUQXJkV2g3ZjN3UFlCbll6TlhwWWQxeE8yTk12UDJreGdweHc3TWxpWWpQVnY5WGlhUEZLQU5xZkxlQmN2LVZnTTZBZmh2M2NwMFlLakhWNVhER1VROEFCUWpiUG91UU8yaUh2Nk4tYWtxS3ZRRm5QaURqYTZMS3hiYXVsMlM1d3lKQWJJRGRZZkJDb3ZWTGc?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "25. Apr 2026"
+        },
         {
           "title": "Chinesische Partnerschaften stärken Wirtschaft - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03RDJFbWI5ZmpraTFNWkdXdlJBd0NCVXpZRllRakFleFBfRzdCanBIY2tabGwwQW1OOVNIeUdRN1p3dGZOc0NKcGdlTXBaNjRtc0xGSw?oc=5",
           "source": "steiermark.ORF.at",
           "date": "21. Apr 2026"
-        },
-        {
-          "title": "Neubauer geht: Karlheinz Vogel wird neuer Chef am Wifi Steiermark - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZmRMY3pVRmpHR0FiNktoNGxLT1JUaFZfSlJmcVctSS05N3VZeVl6elgxN1p0czN5VktjMUttVDRBbXdBbGc4QVhZem1UV09BYWxvcmpjWGFKdUROUmxDQkN3dUMyYTByMmpTZWs2WjB6R3otN0E1OWhseWpDaU5DazU2VmRWVE1QSTdLdVdudnJMaTNTT0RpTkt0VmJ5clRLYWRoVw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "23. Apr 2026"
         },
         {
           "title": "Vielschichtige Perspektiven - Raiffeisenzeitung",
@@ -26,22 +26,22 @@
           "date": "22. Apr 2026"
         },
         {
+          "title": "Bezirksforum Liezen: Wirtschaft, Jobs, Standort: So will die ÖVP die Zukunft gestalten - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWTd5a1E1S21IcW1UOVd4OWxVSHlic2hqZktuYU5SZGd3ZFBtdkVKejQyY2JQN2VWLS1IVGpNVkJqX243cW9aNGN6cGFMT21xTmhLbmRkLUxkaDJBUUVDR0pjZ01LYURrT0lOTGJ1c1o2Y050NTdJeV9ITXByY2hxUlNEb21BVlpGTGtWWU9pSkdUZkNuUVRVaEZ3aG84R2h3SlROMTREVU5BNktWalhPakRQQ2NwZw?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "22. Apr 2026"
+        },
+        {
+          "title": "Neubauer geht: Karlheinz Vogel wird neuer Chef am Wifi Steiermark - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZmRMY3pVRmpHR0FiNktoNGxLT1JUaFZfSlJmcVctSS05N3VZeVl6elgxN1p0czN5VktjMUttVDRBbXdBbGc4QVhZem1UV09BYWxvcmpjWGFKdUROUmxDQkN3dUMyYTByMmpTZWs2WjB6R3otN0E1OWhseWpDaU5DazU2VmRWVE1QSTdLdVdudnJMaTNTT0RpTkt0VmJ5clRLYWRoVw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "23. Apr 2026"
+        },
+        {
           "title": "Bilanz der Reise - Steirer in China: Neue Märkte mit großem Potenzial - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE44ckxoMjlBQmVabkZTMGd4NUhFamkzck5JZW8yNGViTU40WUlGOFk1OUU2VXloTHItWlBWT3hpTDRoUQ?oc=5",
           "source": "Kronen Zeitung",
           "date": "23. Apr 2026"
-        },
-        {
-          "title": "Wirtschaftsbund Jagerberg: Unternehmer optimieren ihre Botschaften im praxisnahen Workshop - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVUdWa2N3SnlIV08wT0VFbWJyVDdsbGhFWEpLWlg5UTNybTJlNVFxem5aWjdBemktcjNwazIxZmpZSE5mRUFPelZLLUE4R3Z6S0xLamtpa0tHdHRkQUFxX1VJazBESkhhUkNIX0RIcG1mUFJvOFh3aEQwWVhGck9mMjJjQkluRmZTZ1VnZ0s0WllhYXlXckd2QnoySVFYT25KZ3pFa0VoV2xROERIVGF2ZWFyTC02S2ZlRWNEZWVhV3VpSWhGWmMzcw?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "23. Apr 2026"
-        },
-        {
-          "title": "Wirtschaftskammer-Reform: Stufenmodell und Irritationen: So will die Kammer die Betriebe entlasten - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQkNBc3F1UmExenlyOXBablAtdlF5UVpVVDNLbk5rejI2cGFMdGcwTUhGQXZvMHo5WDBsMFJveXNWVEx0dDF3WTRyLUl5U1F2UTNCMEtMczloWFY1WEVrSEFSbW5xNkI1c0ZkTTFqSVpBV190QVhsMFFkNVNVZjlXNGFrSnhNYXVYZUE0em8xdDdVdzlabUVsbW1HMUN1LVNpVDhneHd3RXZJMTFMeXJTVTdxUXJfOXRmWFN2Uw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "22. Apr 2026"
         }
       ]
     },
@@ -49,13 +49,13 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark verzeichnet positive Nächtigungszahlen und richtet ihre Tourismusstrategie zukunftsorientiert aus, indem sie ab 2027 die Semesterferien neu gestaltet und neue Märkte wie China erschließen will. Dies wird ergänzt durch eine verstärkte Tourismusförderung, die auf die Bündelung von Kräften zwischen Steiermark Tourismus und den Naturparken sowie auf nachhaltige Investitionen in die Hotellerie setzt.",
+      "summary": "Die Steiermark verzeichnet eine positive Bilanz bei den Semesterferien und richtet ihren strategischen Fokus auf die Erschließung neuer Märkte, insbesondere China. Gleichzeitig wird die Tourismuslandschaft durch innovative Wohnkonzepte in Regionen wie Bad Radkersburg sowie durch nachhaltige Bauweisen bei Hotelprojekten, wie sie JUFA Hotels verfolgt, zukunftsfähig gestaltet.",
       "items": [
         {
           "title": "2027 bringt Neuerung - Semesterferien in der Steiermark: Positive Bilanz - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5WUDNBSlRvb1dQTUlsS2dmQkVxWFl3WTNsMW5vT2FkazZWZTdtQzRsMl96WjNlWXZzWG9ta2ttanFmWFdweHcw?oc=5",
           "source": "Kronen Zeitung",
-          "date": "23. Apr 2026"
+          "date": "24. Apr 2026"
         },
         {
           "title": "Steiermark hofft auf neue Chancen in China - steiermark.ORF.at",
@@ -64,16 +64,10 @@
           "date": "23. Apr 2026"
         },
         {
-          "title": "Naturparke Steiermark & Steiermark Tourismus bündeln Kräfte - Leibnitz Aktuell",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX1p2cFY2MEhlUk1pWDl2Ti1kSjNlb3UzMllsYlRUeC1nQTZnUXFuNV9oVG1QT0tOM25tbHNaektIMk5rb3hFTTl2UGhnd0hPSmpOUVF0MzBrZDBxM3FQWndmYmNSYWt0ZnMxaXFsa3ZpWXlwQVB6Q056enAyTHpZNHdIYlRmTnNleEFkcXVFSVFLVVJVUWNSUEptc2tCSWsxdW9OVkZn?oc=5",
-          "source": "Leibnitz Aktuell",
-          "date": "17. Apr 2026"
-        },
-        {
-          "title": "Glockenspielverkauf: Die Besitzer der steirischen Sehenswürdigkeiten - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORy1HY21uQVpuY0Z4eXF1TEtCRURURXRVUmVsektVZ0cwUmRKQlYzV0t4LWUtWjdEb0JIRVc3S3NJd2ZiWTl4VEl3TXY5SG5FTmlHYjFUMWRyblNmWDNiR18tcW0wQ0tPTWxjV3U4SFlkMWtUeFJlbjRyNDVGQnhqQXF2RUtrSm9rbGlMZC1RRDVxMV91RzJyOXJXc2w0UQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "19. Apr 2026"
+          "title": "Neues Wohnkonzept: Dieses neue Wohnprojekt in Bad Radkersburg fasziniert schon jetzt - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNzM5dVFmX09tV0tyakRZY1ZhY2RTUjc4ZmpUbXljNXdVcVlsRHpKSHE5YU5reTVIVDZ4ZTFGTUt1WEx4Nm44R2o1NTJVV1YzekhSZkRMQjZKVHhkMks1ME95TWU0aEp5SG5KLWV2YnB6b2JXT0RrVnV1MDFoZ0ZiRFg0ZzJkUkYtYkpuSHNOYnJVTjhrZzhiMFRQeWMtbUtENEp2S21sdkoyYTZpUkR0b0tqWE41WnRDYTFRUGNiT1Qycjdkdkdj?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "21. Apr 2026"
         },
         {
           "title": "JUFA Hotels setzt auf Bauen im Bestand – und spart dabei 12 Tonnen Beton pro Projekt - wirtschafts-nachrichten.at",
@@ -87,13 +81,13 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Steiermark fördert aktiv die öffentliche Beteiligung an Forschung durch Veranstaltungen wie die \"Lange Nacht der Forschung\" und die \"City Nature Challenge\", die zum Experimentieren und Entdecken anregen. Parallel dazu treiben Forschungseinrichtungen in Graz und der gesamten Steiermark innovative Projekte voran, von bahnbrechenden KI-Anwendungen zur hochauflösenden Sonnenbeobachtung bis hin zu weitreichenden neuen Forschungsfeldern.",
+      "summary": "Die Steiermark fördert die aktive Beteiligung der Bevölkerung an der Forschung durch Veranstaltungen wie die City Nature Challenge und die Lange Nacht der Forschung, die landesweit Türen öffnet. Gleichzeitig treiben Grazer Forschungseinrichtungen Innovationen voran, von einer neuen KI für beispiellos scharfe Sonnenbilder bis hin zu weiteren zukunftsweisenden Projekten.",
       "items": [
         {
           "title": "Forschung lädt zum Experimentieren ein - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wN0pTU05mTEgtbGthdG1fa2xNMTQ4XzlDMDdfVHotQ1NCTWJvcDlBQnRqZ0dqb2xHS2h6UGJLMmxZb096WXAzbWduU29RUUhXalJHZw?oc=5",
           "source": "steiermark.ORF.at",
-          "date": "23. Apr 2026"
+          "date": "24. Apr 2026"
         },
         {
           "title": "„City Nature Challenge“ lädt zur Foto-Safari in der Steiermark - Kleine Zeitung",
@@ -114,15 +108,15 @@
           "date": "22. Apr 2026"
         },
         {
-          "title": "Auf zu neuen Ufern - Reloaded - Stadt Graz",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSkJGRElnTmZYUjVPd0V5azlPOGFXQXVoUmU1VlVIbndLQmVsOUFjNG0xOUNGb1N4dHBsdURnMFpveGJHM0JiWEt1ZlhVbzZPOE9nWUV0cENwWExuc2s3Sy1oTElPdVFLaTRtOUNfal9SSmhFNW9LU3hEc3RSU1FnLWozQk1rcDNr?oc=5",
-          "source": "Stadt Graz",
-          "date": "20. Apr 2026"
+          "title": "Forschung aus Graz: Neue KI zeigt Sonne so scharf wie nie zuvor - MSN",
+          "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOM1hfVmw5bDRQSE9fd1Ywb0ZQd2U4Z2tJLWd1YlVGc2tpaWtBaDJzV2RHbUdzdHVRUllFdWZlWG9oZkN4bkx5b2xOVzJsOTlnbXhxdDl4WjB3bkFLU1RCaFk0OHM2X1pJT19MMmpMdWhTeE9lejVfd0hXeDNXaDZMNmgtNmtwVkVSdkJUQ3hzZzFTM3d4MGk4SE83UDBNd1BqajhWalpiVnNaQ0RmaTBCOWdUN0E1dHNmUVA0a052bUk2M0xYd0E0MDB3YXFETFg4NDBnVGxzS1lLc0JhdHpZNTZXYW9MUUtDaHN6ZjFYa2FoNjVtNTJGNFdQMHVOaWppT0hoSU1QUlA0Yi05V3B3YTlWWEhVV0FHQXJJNXlfd1YyZTZfUDRJblQwXzdhNGotUnRyQmEwOTZRN2VxTG92dTRwNWxiMHg0aXB5a0k1WkQ?oc=5",
+          "source": "MSN",
+          "date": "25. Apr 2026"
         },
         {
-          "title": "Forschung aus Graz: Neue KI zeigt Sonne so scharf wie nie zuvor - MSN",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaHJHOGx0bzdyVlJSaUtNb2RqcGdDUGFSanV5VXN1SU9Wd3BhMnkwOWkxWTlVZklqT3JDVTk4QnlLQXVnZ0hyQXFCa2VjWk9oNXNneFFRNEdyanpVd3BnajRRbzJabHA0Yy1ucElYbGtvNzRMYWhfNXFjOXNoN3FFaFZMUy1wc1hmbkZzcjdYdzF4MVJnNW1GalFhX3d0bjVfX1Zmd2F2Q1ZmQmcyYXM2RVNqdVMxeE5jZEE?oc=5",
-          "source": "MSN",
+          "title": "Auf zu neuen Ufern - Reloaded - Stadt Graz",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMV92NWdEREFrNko1S2M0UDZsVXlZek9fZk8tQjFZRGpCZmFuUmNpR0Jya25Jb2xBWGRmdkd2bzBKcFNSaE11ZHFNckpMN0lqTVkwMVdNR2h3b3laejhoc3ViSERybGtCMGxkckt2aVVqRTdCaUU4N0dzOUtqcThWemFvM0FwUGFS?oc=5",
+          "source": "Stadt Graz",
           "date": "20. Apr 2026"
         }
       ]
@@ -131,7 +125,7 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Aktuell werden in der Steiermark, exemplarisch in Fürstenfeld, Millionenbeträge in die klimafitte Stadtentwicklung investiert. Gleichzeitig zeigt sich, dass Unternehmen österreichweit, und somit auch in der Steiermark, oft wertvolle FFG-Förderungen und die Forschungsprämie aufgrund verbreiteter Mythen ungenutzt lassen und dadurch bares Geld verlieren.",
+      "summary": "Die Bereitstellung von drei Millionen Euro für ein klimafittes Fürstenfeld unterstreicht die Bedeutung von Förderungen für regionale und nachhaltige Stadtentwicklung in der Steiermark. Gleichzeitig wird darauf hingewiesen, dass Unternehmen oft durch Mythen wichtige nationale Instrumente wie die FFG-Förderung und Forschungsprämie für Innovationen ungenutzt lassen und somit Potenziale verschenken.",
       "items": [
         {
           "title": "Klimafittes Fürstenfeld: „Drei Millionen Euro für die Innenstadt“ - Kleine Zeitung",
@@ -144,12 +138,6 @@
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVlBCbTVHSnRvdzhqRlhEOFFuTkZSQklXeUJnSEpsMVhTTFZnNm9DMnk5dlVzNThORG1kREc3Y1d6eGdxMUdmWGpsdGxYUUtYTVRJZThPNldGSHN5SFE5VXhaR3B1bEhST0ZzTERTVmUwaVFiaHdnRG1zNmNTRUJKRERianVvN0xRQVpXWjN5clNqcEtUWU0wb2VWZnB4Z29tZ2NRZ1B5MExDa1BHSHM1WG5ZeExxZGdNdko1Qkpuc1B2NVJqYklFMURSemtQTS1uM0ZxeHdIWTJ1YTQ?oc=5",
           "source": "wirtschafts-nachrichten.at",
           "date": "23. Apr 2026"
-        },
-        {
-          "title": "Den Stoffwechsel visualisieren: Ein Blick ins Metabolom - medonline.at",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMGpZeWRvWTFTX25HeUtFLTE0MGNDTXRfd1VNNW80Y2JkNmpQczhTRVRWcm9adElwcWpKZ0w2dlhHbUNETEJBSTZGWlItYUczVGNJYkVZQ1BsTXpfRTdxVTF0cDE5Q3oxYzkzTmtfYzlLa1RicERnYlQ2TV82U2daTUV2dEFYdjJwdlIyQmY5OXpIMG1kbGRfenhhSDE0VzRTLVE?oc=5",
-          "source": "medonline.at",
-          "date": "17. Apr 2026"
         }
       ]
     },
@@ -157,7 +145,7 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Zusammenfassung konnte nicht erstellt werden.",
+      "summary": "Die Steiermark zeigt sich als dynamischer Innovationsstandort, der von der digitalen Transformation barocker Kunst bis zur aktiven Förderung von Forschung und Experimentierfreude reicht. Gleichzeitig wird mit Plattformen wie DIGI:base gezielt die KI-Kompetenz steirischer Unternehmen gestärkt, um deren Wettbewerbsfähigkeit und Zukunftsfähigkeit nachhaltig zu sichern.",
       "items": [
         {
           "title": "Barocke Kunst – ganz digital - steiermark.ORF.at",
@@ -166,16 +154,16 @@
           "date": "20. Apr 2026"
         },
         {
+          "title": "Forschung lädt zum Experimentieren ein - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wN0pTU05mTEgtbGthdG1fa2xNMTQ4XzlDMDdfVHotQ1NCTWJvcDlBQnRqZ0dqb2xHS2h6UGJLMmxZb096WXAzbWduU29RUUhXalJHZw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "24. Apr 2026"
+        },
+        {
           "title": "DIGI:base: Neue Plattform soll steirische Firmen KI-fit machen - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYlNzNENwd2llUDBxbVc5TmNOYWFfMTZ4T05ocFhYNjE3WmZBSWgwS0Mxbk5sRlZfcTNBeDJ3TjdHLUtfVE1wdVlFWFJiV2IwdGdVTHZhS3BXZERQTF9XUy02ZWlaelgxZTVkZmJtUEhqRTVQVVF0UDRPMk9WT296WXhnWjlwTGRvVTkwZGljcE1IWXZ3aGZrbkVkM1pPRUFCOUw3Sm92WWZBTV9haVluNGN6NA?oc=5",
           "source": "Kleine Zeitung",
           "date": "22. Apr 2026"
-        },
-        {
-          "title": "Forschung lädt zum Experimentieren ein - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wN0pTU05mTEgtbGthdG1fa2xNMTQ4XzlDMDdfVHotQ1NCTWJvcDlBQnRqZ0dqb2xHS2h6UGJLMmxZb096WXAzbWduU29RUUhXalJHZw?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "23. Apr 2026"
         }
       ]
     }
