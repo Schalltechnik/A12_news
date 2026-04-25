@@ -2,8 +2,8 @@ name: A12 News Update
 
 on:
   schedule:
-    # 04:30 UTC = 06:30 Graz
-    - cron: "30 4 * * *"
+    # 03:30 UTC = 06:30 Graz
+    - cron: "30 3 * * *"
   workflow_dispatch:
 
 jobs:
