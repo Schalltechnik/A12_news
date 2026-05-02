@@ -1,7 +1,7 @@
 """
 A12 News Fetcher – Abteilung 12 Wirtschaft, Tourismus, Wissenschaft und Forschung
 Amt der Steiermärkischen Landesregierung
-Fetches RSS feeds, summarizes with Gemini, saves to docs/data.json
+Fetches RSS feeds, summarizes with Claude Haiku or Gemini, saves to docs/data.json
 """
 
 import json
@@ -13,21 +13,53 @@ from urllib.request import urlopen, Request
 from urllib.error import HTTPError
 import xml.etree.ElementTree as ET
 
+# ── AI Provider Switch ────────────────────────────────────────────────────────
+#
+# To switch the AI provider, change this single value:
+#   "claude"  → use Anthropic Claude Haiku 4.5 (requires ANTHROPIC_API_KEY secret)
+#   "gemini"  → use Google Gemini 2.5 Flash   (requires GEMINI_API_KEY secret)
+#
+# Both API keys remain configured in GitHub Secrets, so switching is just a
+# one-line code change — no GitHub setup needed when flipping providers.
+AI_PROVIDER = "claude"
+
 # ── Configuration ──────────────────────────────────────────────────────────────
 
-GEMINI_API_KEY = os.environ["GEMINI_API_KEY"]
+# Anthropic (Claude)
+ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
+ANTHROPIC_URL     = "https://api.anthropic.com/v1/messages"
+CLAUDE_HAIKU      = "claude-haiku-4-5"
+
+# Google (Gemini)
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 GEMINI_URL = (
     "https://generativelanguage.googleapis.com/v1beta/models/"
     "gemini-2.5-flash:generateContent?key=" + GEMINI_API_KEY
 )
 
+# Validate that the chosen provider has its API key
+if AI_PROVIDER == "claude" and not ANTHROPIC_API_KEY:
+    raise SystemExit("AI_PROVIDER='claude' but ANTHROPIC_API_KEY is missing.")
+if AI_PROVIDER == "gemini" and not GEMINI_API_KEY:
+    raise SystemExit("AI_PROVIDER='gemini' but GEMINI_API_KEY is missing.")
+if AI_PROVIDER not in ("claude", "gemini"):
+    raise SystemExit(f"Invalid AI_PROVIDER: {AI_PROVIDER!r}. Must be 'claude' or 'gemini'.")
+
 MAX_ITEMS_FROM_FEED    = 100
 MAX_AGE_DAYS           = 7
-MAX_ITEMS_PER_CATEGORY = 6
-MAX_TITLES_FOR_SUMMARY = 6
-GEMINI_PAUSE_SECONDS   = 120
-GEMINI_RETRY_ATTEMPTS  = 10
-GEMINI_RETRY_WAIT      = 120
+MAX_ITEMS_PER_CATEGORY = 8     # Was 6 — number of headlines shown per category
+MAX_TITLES_FOR_SUMMARY = 8     # Was 6 — number of headlines sent to AI for summary
+
+# Pauses between AI calls. Claude Haiku has generous rate limits, so a short
+# pause is sufficient. Gemini free tier is tighter, so longer pause + retries.
+CLAUDE_PAUSE_SECONDS  = 10
+CLAUDE_RETRY_ATTEMPTS = 5
+CLAUDE_RETRY_WAIT     = 60
+CLAUDE_HTTP_TIMEOUT   = 180
+
+GEMINI_PAUSE_SECONDS  = 120
+GEMINI_RETRY_ATTEMPTS = 10
+GEMINI_RETRY_WAIT     = 120
 
 
 def gnews(query: str, lang: str = "de", country: str = "AT") -> str:
@@ -246,9 +278,83 @@ def format_date(raw):
         return raw[:16]
 
 
-# ── Gemini ─────────────────────────────────────────────────────────────────────
+# ── Claude API ─────────────────────────────────────────────────────────────────
+
+def call_claude(prompt: str, max_tokens: int = 512) -> str:
+    """Call Claude Haiku 4.5 via Anthropic Messages API with retry logic."""
+    import json as _json
+    import socket
+    from urllib.error import URLError
+
+    body = _json.dumps({
+        "model": CLAUDE_HAIKU,
+        "max_tokens": max_tokens,
+        "temperature": 0.3,
+        "messages": [{"role": "user", "content": prompt}],
+    }).encode()
+
+    for attempt in range(1, CLAUDE_RETRY_ATTEMPTS + 1):
+        try:
+            req = Request(
+                ANTHROPIC_URL,
+                data=body,
+                headers={
+                    "Content-Type":      "application/json",
+                    "x-api-key":         ANTHROPIC_API_KEY,
+                    "anthropic-version": "2023-06-01",
+                },
+                method="POST",
+            )
+            with urlopen(req, timeout=CLAUDE_HTTP_TIMEOUT) as resp:
+                data = _json.loads(resp.read())
+            text = data["content"][0]["text"].strip()
+            print(f"  ✅ Claude Haiku OK — {len(text)} chars")
+            return text
+
+        except HTTPError as e:
+            body_err = e.read().decode("utf-8", errors="replace")
+            if e.code == 429:
+                if attempt < CLAUDE_RETRY_ATTEMPTS:
+                    print(f"  Claude 429 (attempt {attempt}/{CLAUDE_RETRY_ATTEMPTS}) – waiting {CLAUDE_RETRY_WAIT}s…")
+                    time.sleep(CLAUDE_RETRY_WAIT)
+                    continue
+                return "Zusammenfassung konnte nicht erstellt werden (Rate Limit)."
+            elif e.code in (500, 502, 503, 504, 529):
+                if attempt < CLAUDE_RETRY_ATTEMPTS:
+                    print(f"  Claude HTTP {e.code} (attempt {attempt}/{CLAUDE_RETRY_ATTEMPTS}) – waiting {CLAUDE_RETRY_WAIT}s…")
+                    print(f"    body: {body_err[:200]}")
+                    time.sleep(CLAUDE_RETRY_WAIT)
+                    continue
+                return "Zusammenfassung konnte nicht erstellt werden (Server Error)."
+            else:
+                print(f"  Claude HTTP error {e.code}: {body_err[:300]}")
+                return "Zusammenfassung konnte nicht erstellt werden."
+
+        except (socket.timeout, TimeoutError):
+            if attempt < CLAUDE_RETRY_ATTEMPTS:
+                print(f"  Claude timeout (attempt {attempt}/{CLAUDE_RETRY_ATTEMPTS}) – waiting {CLAUDE_RETRY_WAIT}s…")
+                time.sleep(CLAUDE_RETRY_WAIT)
+                continue
+            return "Zusammenfassung konnte nicht erstellt werden (Timeout)."
+
+        except URLError as e:
+            if attempt < CLAUDE_RETRY_ATTEMPTS:
+                print(f"  Claude URL error (attempt {attempt}/{CLAUDE_RETRY_ATTEMPTS}): {e} – waiting {CLAUDE_RETRY_WAIT}s…")
+                time.sleep(CLAUDE_RETRY_WAIT)
+                continue
+            return "Zusammenfassung konnte nicht erstellt werden (Connection Error)."
+
+        except Exception as e:
+            print(f"  Claude error ({type(e).__name__}): {e}")
+            return "Zusammenfassung konnte nicht erstellt werden."
+
+    return "Zusammenfassung konnte nicht erstellt werden."
+
+
+# ── Gemini API ─────────────────────────────────────────────────────────────────
 
 def call_gemini(prompt: str, max_tokens: int = 2000) -> str:
+    """Call Gemini 2.5 Flash via Google Generative Language API with retry logic."""
     import json as _json
     body = _json.dumps({
         "contents": [{"parts": [{"text": prompt}]}],
@@ -278,20 +384,41 @@ def call_gemini(prompt: str, max_tokens: int = 2000) -> str:
     return "Zusammenfassung konnte nicht erstellt werden."
 
 
-def summarize_with_gemini(titles, prompt):
+# ── Provider Dispatch ──────────────────────────────────────────────────────────
+
+def summarize(titles, prompt) -> str:
+    """Dispatches to the active AI provider based on AI_PROVIDER constant."""
     if not titles:
         return "Keine aktuellen Meldungen der letzten 7 Tage gefunden."
     numbered = "\n".join(f"{i+1}. {t}" for i, t in enumerate(titles))
-    return call_gemini(prompt + "\n\nNachrichtentitel:\n" + numbered, max_tokens=2000)
+    full_prompt = prompt + "\n\nNachrichtentitel:\n" + numbered
+
+    if AI_PROVIDER == "claude":
+        return call_claude(full_prompt, max_tokens=512)
+    else:  # gemini
+        return call_gemini(full_prompt, max_tokens=2000)
+
+
+def get_pause_seconds() -> int:
+    """Returns the appropriate pause between AI calls for the active provider."""
+    return CLAUDE_PAUSE_SECONDS if AI_PROVIDER == "claude" else GEMINI_PAUSE_SECONDS
 
 
 # ── Main ───────────────────────────────────────────────────────────────────────
 
 def main():
+    provider_label = "Claude Haiku 4.5" if AI_PROVIDER == "claude" else "Gemini 2.5 Flash"
+    print(f"AI Provider: {provider_label}")
+    print(f"Headlines per category: {MAX_ITEMS_PER_CATEGORY}")
+    print(f"Headlines for summary:  {MAX_TITLES_FOR_SUMMARY}")
+
     output = {
         "generated": datetime.now(timezone.utc).strftime("%d. %B %Y, %H:%M UTC"),
+        "ai_provider": provider_label,
         "categories": {},
     }
+
+    pause = get_pause_seconds()
 
     for cat_id, cat in CATEGORIES.items():
         print(f"\n── {cat['label']} ──")
@@ -309,13 +436,14 @@ def main():
             item["date"] = format_date(item.pop("date_raw", ""))
             item.pop("date_parsed", None)
 
-        print("  Calling Gemini…")
-        summary = summarize_with_gemini(
-            [i["title"] for i in items[:MAX_TITLES_FOR_SUMMARY]], cat["summary_prompt"]
+        print(f"  Calling {provider_label}…")
+        summary = summarize(
+            [i["title"] for i in items[:MAX_TITLES_FOR_SUMMARY]],
+            cat["summary_prompt"],
         )
         print(f"  Summary: {summary[:80]}…")
-        print(f"  Waiting {GEMINI_PAUSE_SECONDS}s…")
-        time.sleep(GEMINI_PAUSE_SECONDS)
+        print(f"  Waiting {pause}s…")
+        time.sleep(pause)
 
         output["categories"][cat_id] = {
             "label":   cat["label"],
