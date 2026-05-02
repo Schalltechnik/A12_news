@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="de">
 <head>
@@ -83,7 +81,7 @@
 <div class="tab-content-wrapper"><div id="panels"></div></div>
 
 <footer>
-  <p>Powered by <a href="https://ai.google.dev" target="_blank">Google Gemini AI</a> &amp; GitHub Actions · © Florian Lackner</p>
+  <p>Powered by <span id="ai-provider-link">KI</span> &amp; GitHub Actions · © Florian Lackner</p>
 </footer>
 
 <script>
@@ -118,12 +116,28 @@
     document.querySelectorAll(".tab-panel").forEach(p => p.classList.toggle("active", p.dataset.cat === id));
   }
 
+  function renderProviderFooter(provider) {
+    const el = document.getElementById("ai-provider-link");
+    if (!provider) {
+      el.innerHTML = 'KI';
+      return;
+    }
+    if (provider.toLowerCase().includes("claude")) {
+      el.innerHTML = `<a href="https://www.anthropic.com" target="_blank" rel="noopener">Anthropic ${escHtml(provider)}</a>`;
+    } else if (provider.toLowerCase().includes("gemini")) {
+      el.innerHTML = `<a href="https://ai.google.dev" target="_blank" rel="noopener">Google ${escHtml(provider)}</a>`;
+    } else {
+      el.textContent = provider;
+    }
+  }
+
   async function load() {
     try {
       const res = await fetch("data.json?v=" + Date.now());
       if (!res.ok) throw new Error("data.json nicht gefunden");
       const data = await res.json();
       document.getElementById("generated").textContent = formatGrazTime(data.generated || "");
+      renderProviderFooter(data.ai_provider);
 
       const tabBar = document.getElementById("tab-bar");
       const panels = document.getElementById("panels");
