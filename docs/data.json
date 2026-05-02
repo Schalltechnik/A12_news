@@ -1,16 +1,22 @@
 {
-  "generated": "01. May 2026, 06:25 UTC",
+  "generated": "02. May 2026, 05:53 UTC",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Raiffeisen Steiermark präsentiert sich mit starken Bilanzen und erhöhter Kreditvergabe resilient gegenüber geopolitischen Verwerfungen und bereit für regionales Wachstum, während die steirische Wirtschaft zudem internationale Erfolge in China verzeichnet. Dem gegenüber stehen jedoch akute Sorgen um die Zukunft, da die steirische Wirtschaft Alarm schlägt wegen tausender gefährdeter Arbeitsplätze und 2026 von unwägbaren Hürden geprägt sein wird.",
+      "summary": "Die Raiffeisen Steiermark zeigt sich mit starken Bilanzen und erhöhter Kreditvergabe als resilienter Pfeiler der regionalen Wirtschaft, bereit für weiteres Wachstum und ergänzt durch internationale Erfolge steirischer Unternehmen. Gleichzeitig warnt die steirische Wirtschaft jedoch vor der Gefährdung tausender Arbeitsplätze und blickt mit großer Vorsicht auf das Jahr 2026, das von erheblichen und unwägbaren Hürden geprägt sein wird.",
       "items": [
         {
           "title": "Raiffeisen Steiermark: Mit starken Ergebnissen bereit für neues Wachstum in den Regionen - Wirtschaftszeit",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeUVhZW1YeUs1Vm1jelc3cWFlTEp6OFdXVmJibHZ0NDdQYkZnZkdIWjlWQlpOY1l2enhyNlNzaTUyUzJPV2d0b195RXNkd0xtV0NESGUxUzB0cy1sMjdTV3dxbnc2R3ZFZGk4S0UwQk16SmxEa1Z3WnRXeGM0eVlERnpOQm42Y0VRV2hUYzlEN3VEZTZYVzhTdzZmc2NnYV9YX2lid2xVLWhUZUNvRVp0Q0xlNjhzbkxxd0RBRkxwUU5UMmc?oc=5",
           "source": "Wirtschaftszeit",
+          "date": "30. Apr 2026"
+        },
+        {
+          "title": "Erfolge für die steirische Wirtschaft in China - Österreichische Verkehrszeitung -",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44Y2ExUXhNWjZuLWJzaXF1Y1p3ZmJNX3F3NHotZkEzMHR6bTBtamlKRnBlczR2Qy1abklXZXhvc2VZUHhUQi1YdjlfVXN5WWp6SVlZekFTa1haNi0xYTFxWDlsOUNueGFic2tsX3FsX0JlZEk?oc=5",
+          "source": "Österreichische Verkehrszeitung -",
           "date": "30. Apr 2026"
         },
         {
@@ -26,22 +32,16 @@
           "date": "30. Apr 2026"
         },
         {
-          "title": "Erfolge für die steirische Wirtschaft in China - Österreichische Verkehrszeitung -",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44Y2ExUXhNWjZuLWJzaXF1Y1p3ZmJNX3F3NHotZkEzMHR6bTBtamlKRnBlczR2Qy1abklXZXhvc2VZUHhUQi1YdjlfVXN5WWp6SVlZekFTa1haNi0xYTFxWDlsOUNueGFic2tsX3FsX0JlZEk?oc=5",
-          "source": "Österreichische Verkehrszeitung -",
-          "date": "30. Apr 2026"
+          "title": "Steirische Wirtschaft schlägt Alarm: Tausende Jobs gefährdet - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOelFzSC1KUTBabnl1YnhRLWNjR0Utd0hsd0x4eXQtNEtCX19VMlpOaDJCNl9ZUDJEblQ3Y2w3ZzJJaGNOeDJZN05QQ3NETGd0cnUta25QMEUweExGVjNKaG91Mk5lSXdzeTlpUXVGa044bGF4OVNLdVZnWE5wc3UzWVROOGExSUVRaUtMUmxtd0NTTTcyOGRaSjVabEVlcG1Jc0Z0UVFLMkVtUjg?oc=5",
+          "source": "5 Minuten",
+          "date": "26. Apr 2026"
         },
         {
           "title": "„2026 wird geprägt sein von unwägbaren Hürden“ - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE04Z2NjNWdTZldBT2tyTGV5ODUxQk1yNnVnYVM5NWNCeWVXdkNsYnNxMzlpQW5DWC0zU2FRbWtmWV90QQ?oc=5",
           "source": "Kronen Zeitung",
           "date": "30. Apr 2026"
-        },
-        {
-          "title": "Steirische Wirtschaft schlägt Alarm: Tausende Jobs gefährdet - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOelFzSC1KUTBabnl1YnhRLWNjR0Utd0hsd0x4eXQtNEtCX19VMlpOaDJCNl9ZUDJEblQ3Y2w3ZzJJaGNOeDJZN05QQ3NETGd0cnUta25QMEUweExGVjNKaG91Mk5lSXdzeTlpUXVGa044bGF4OVNLdVZnWE5wc3UzWVROOGExSUVRaUtMUmxtd0NTTTcyOGRaSjVabEVlcG1Jc0Z0UVFLMkVtUjg?oc=5",
-          "source": "5 Minuten",
-          "date": "26. Apr 2026"
         }
       ]
     },
@@ -49,7 +49,7 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark festigt ihre Position als beliebte Top-Destination im Inland mit positiven Nächtigungsbilanzen und blickt optimistisch auf zukünftige Entwicklungen wie die Semesterferien 2027. Gleichzeitig werden gezielt neue Impulse im nachhaltigen Naturtourismus durch Kooperationen, im Business-Tourismus mit Graz als Convention-Bühne und durch die Förderung regionaler Aktivangebote gesetzt.",
+      "summary": "Die Steiermark etabliert sich als eines der beliebtesten Inlandsreiseziele Österreichs und kann mit positiven Bilanzen, etwa bei den Semesterferien, aufwarten. Gleichzeitig wird die Tourismusstrategie durch die Stärkung des nachhaltigen Natur- und Business-Tourismus, insbesondere in Graz als Tagungsort, sowie durch gezielte regionale Event- und Erlebnisangebote aktiv vorangetrieben.",
       "items": [
         {
           "title": "2027 bringt Neuerung - Semesterferien in der Steiermark: Positive Bilanz - Kronen Zeitung",
@@ -76,15 +76,15 @@
           "date": "29. Apr 2026"
         },
         {
+          "title": "Premiere am Grazer Schlossberg: Angerichtet ist's zum HochGenuss 2026 - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkFScGxIbGdFcFNreENPS29HLUJDVEN2b3VfT3ZjNjkyTDAwUlM0VzYwMndMbGlVMUpFUHg5cTJ1bGxnRTFSSk5ZQkxqOHVTemNiVmhZd2tidmN3Z1VrTmdFdGJ1Rk1kQl9IYWh6YUdEeTc2aFVyRnYyRGhkLVlEV1U2UnZ2Z3lXX0Q1aWp6VFhxcTVidmk4?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "27. Apr 2026"
+        },
+        {
           "title": "Aktuelle ÖAMTC-Umfrage: Urlaub im Inland: Kärnten und die Steiermark am beliebtesten - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVFFTNEhaRnFMWnV5ODBkNFZRRExsejJqUWllTXJuU0ZaU2RNX09IbHZWY0sxQi1kUFh4aFNReXROQjF0dFVYUjNjZHBkQzRQdTNCV3NuYUpSREk0aHFBN2p2dFQ4c3FOVXF5V3ZvbndqeFNWcnhmNWNnR3NsVEwzWjUxM0d2bDVSYUJiaHNFQ2E5ZERoajA1QUlQMlV0a3JrcERyYjVwZXozQQ?oc=5",
           "source": "Kleine Zeitung",
-          "date": "29. Apr 2026"
-        },
-        {
-          "title": "So reiste Österreich 2025: Steiermark bleibt Top-Ziel im Inland - inside-graz.at",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE53QkRERU1CSFI0TTJxeV8wYkpJSUcwc3U0Wm5Bcjg3WWJFZzl6QW5Ea1RPd0RZeGU1YTlVUnNqYWlCcHRHcDBpWkRwTmdmQlJPUkdkWHRMeHMzekhrSU94RWhlczlFeFFPdUxFVHZNN21Kdw?oc=5",
-          "source": "inside-graz.at",
           "date": "29. Apr 2026"
         }
       ]
@@ -93,19 +93,13 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Lange Nacht der Forschung in der Steiermark begeisterte 31.200 Besucher mit einem breiten Spektrum an Forschungsprojekten, von Altersforschung bis Weltraum, und bot hautnahe Einblicke in die Wissenschaft. Parallel dazu unterstreicht die Ernennung von Superti-Furga zum Gründungsdirektor von CORI die dynamische Entwicklung der Forschungslandschaft und die Etablierung neuer Forschungseinrichtungen in der Region.",
+      "summary": "Die Lange Nacht der Forschung in der Steiermark zog über 31.200 Besucher an, die hautnah in die vielfältige Welt der Forschung eintauchten, von Altersforschung bis Weltraum, und zeigt bereits großes Interesse für 2026. Neben diesem großen öffentlichen Interesse wird die Forschungslandschaft durch die Ernennung eines Gründungsdirektors für CORI gestärkt und auch junges Talent, wie eine ausgezeichnete Schülerin, findet Anerkennung.",
       "items": [
         {
           "title": "Forschung hautnah bei Nacht der Wissenschaft - ORF ON",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVWVCdW1GLVNvb1FhOU5IcW8tcmdjUEYwWUxEYndlbVFDYTNfWFNjcGJGVkUzYVBHQVl5WjdKSGk0YmcxSlQ5X2FHRUFyaFlKc3g1WkRUT0M5VVpzaldPaUN2dm5TbHIyTU83TmlxNEFIU19NbnZaSkJWVjRNQ2ZZeW5BX3BSbjRVZFNXSXNHaw?oc=5",
           "source": "ORF ON",
           "date": "25. Apr 2026"
-        },
-        {
-          "title": "Altersforschung bis Weltraum: 31.200 Besucher tauchten in die Welt der Forschung ein - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmFlWDI1Q3FfSmRXTXpESEFfcGZtNDdybUtkR3FPRVViRENxX1dRbzctS3NKdFBKMjA2R2xhRUZjbWFJVEZMVzB5Q2FFNmRKSGgtRHBhWW0xMm45VjJzOEQ0NW1HQWtLQlhETUZYRHlPdDRPRXFSYWRFdmloYkYtU3BhdEVnVXU3cXJEZDk4Uk9PdXdQbTM5dkl0SHpTMW1IZE1fbEhFZlk3TUR0QkE?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "27. Apr 2026"
         },
         {
           "title": "31.200 Gäste bei Langer Nacht der Forschung in der Steiermark - 5 Minuten",
@@ -126,10 +120,16 @@
           "date": "26. Apr 2026"
         },
         {
-          "title": "Lange Nacht der Forschung: Wo Blitze zuckten und Öl zum Schnüffeln gereicht wurde - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRWN3ZFV1VHgtOUVudGFpdzBTQTd6ZmRfbk9RNXVtRzd6NTdENlloSmxBN1JocjU0LVYwSTk5V2FObEhZcWUtU2hvRF9pdFJsVjdQUzY2ZF9zbTl2Y0VDYVRfSjRSSWxueEkwcmF1R2ZzODBhc1JLa2pIQlpzeGpQbGVlUEVJRHpadWdONmt3ZzkwNDJmVDIyQjJQVXRkZndXaTZsTW85UjZEbFFzbDJr?oc=5",
+          "title": "Altersforschung bis Weltraum: 31.200 Besucher tauchten in die Welt der Forschung ein - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmFlWDI1Q3FfSmRXTXpESEFfcGZtNDdybUtkR3FPRVViRENxX1dRbzctS3NKdFBKMjA2R2xhRUZjbWFJVEZMVzB5Q2FFNmRKSGgtRHBhWW0xMm45VjJzOEQ0NW1HQWtLQlhETUZYRHlPdDRPRXFSYWRFdmloYkYtU3BhdEVnVXU3cXJEZDk4Uk9PdXdQbTM5dkl0SHpTMW1IZE1fbEhFZlk3TUR0QkE?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "27. Apr 2026"
+        },
+        {
+          "title": "Leoben/Wien: Schülerin bekam Auszeichnung für ihr Forschungsprojekt - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPajdZUU9HczI3aG1lVkg5MHVaY1VnSDQ5X3lLQm1uT0txYlVpbjEydXlZbEV6RVdrQlM5LWQ0Qm9DLXYzUjF3ckxqczBkS214TlNSbF9wTDd3a2gtWE5XZEhhLUFTUWRjNERCVkFaZXlKTWltVXdndmpQMVlkaXN2ZWRTdERHSHRXckY4dFdIZlg5T29oYktQYmttYjZlZWl3VW9QZnA5bGNrUTl1WDlPQ3RTRFYzZDMxcHVEal9fV0E4eHRiZVJr?oc=5",
           "source": "Kleine Zeitung",
-          "date": "25. Apr 2026"
+          "date": "27. Apr 2026"
         }
       ]
     },
@@ -137,7 +137,7 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark stärkt ihre Wirtschaft durch neue KI-Förderungen, die steirische Betriebe fit für die Zukunft machen sollen. Parallel dazu werden in Leoben herausragende Forschungs- und Bildungsprojekte von Schülern und Schulen ausgezeichnet, was den Erfolg regionaler Innovations- und Bildungsprogramme unterstreicht.",
+      "summary": "Die Steiermark stärkt ihre Wirtschaft durch neue KI-Förderprogramme, um Betriebe zukunftsfit zu machen. Gleichzeitig zeigen ausgezeichnete Forschungsprojekte von Schülerinnen und Bildungseinrichtungen in Leoben, darunter auch im Rahmen von EU-Programmen, die Innovationskraft der Region.",
       "items": [
         {
           "title": "Neue KI-Förderung: Steirische Betriebe fit für die Zukunft machen – so geht's - MeinBezirk.at",
@@ -169,7 +169,7 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark treibt die Digitalisierung mit einem neuen Hochwasser-Warnsystem voran und fördert aktiv die KI-Integration in Betrieben, während gleichzeitig eine Grazer IT-Firma vor den Risiken von KI-Spielzeug warnt. Internationale Kooperationen, beispielsweise durch eine Wirtschaftsreise nach China, stärken zudem die technologische Wettbewerbsfähigkeit der Region.",
+      "summary": "Die Steiermark treibt die Digitalisierung und den Einsatz von KI aktiv voran, beispielsweise durch neue Warnsysteme im Hochwasserschutz und gezielte Förderprogramme für Betriebe, während lokale IT-Firmen gleichzeitig auf Risiken von KI-Anwendungen hinweisen. Zudem stärkt die Region ihre internationale Position durch neue Kooperationen, wie jüngste Wirtschaftsreisen nach China belegen.",
       "items": [
         {
           "title": "Schutz vor Hochwasser: Neues Warnsystem geht in Betrieb - 5 Minuten",
