@@ -1,18 +1,30 @@
 {
-  "generated": "02. May 2026, 18:27 UTC",
+  "generated": "03. May 2026, 06:15 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die steirische Wirtschaft befindet sich in einer angespannten Lage mit fragiler Konjunktur und gefährdeten Arbeitsplätzen, wobei die Industrie trotz zarter Erholungszeichen weiterhin unter Unsicherheiten leidet. Gleichzeitig zeigen einzelne Regionen wie die Oststeiermark sowie erfolgreiche Familienunternehmen und starke Finanzinstitutionen Potenzial für regionales Wachstum und Stabilisierung.",
+      "summary": "Die steirische Wirtschaft befindet sich in einer fragilen Erholungsphase mit leicht positiven Signalen aus dem Industriesektor und der Finanzwirtschaft, wird jedoch durch geopolitische Unsicherheiten, drohende Jobverluste und auslaufende Unterstützungsmaßnahmen wie die Spritpreisbremse belastet. Trotz regionaler Wachstumspotenziale, insbesondere in der Oststeiermark, prägen Unwägbarkeiten und strukturelle Herausforderungen die wirtschaftliche Perspektive für 2026.",
       "items": [
         {
-          "title": "Standort Oststeiermark: Wirtschaftsgipfel zeigte, wieviel Potenzial in der Region steckt - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlRPLUdwam1wckxrNk0tck1YVVlWN0xqa2wyc3JMMmo3WUZxZmRVMUV2OTdtQlRSQmtmZmNOZm1oUFgtclRYX1V4dERiWU9aUXJVVjd1cWw4YjFLSVAxRF9MeGpGUmltSzJHU1NxREdadThaVG90aE1fRlcyWUQ1ajVuV1F3dFRnU1dMYlhrekNvN0JCZUhSNHRJT05YUjYxTThkcmNmZko4ZDI2YXlRMW9RWndMeG8?oc=5",
+          "title": "Industriekonjunktur Steiermark: IV-Umfrage zeigt leichte Erholung, Lage bleibt jedoch fragil - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRTctSW9nUFdtS3BFNEZNYWsxZkItTHRMd1ZUMUt5QzhxLXBoaXZtTW5QMTJDdmVHUnNObFhSR2JOSy05RTdsaFpmcmx2NTc1d1MzeEs0WEU4NVhZc3cwQ21TNDRsZXZhMU1ocVFRTmRCeUdxSWt0N0Y4N0E1SVJKdTB5SngzSUQzSk4zYTluanFfMkc5LVpWZU40VmlybGh5emxUSlVqTS1EakcwNUFheGtGMVdVRURSRlE?oc=5",
           "source": "MeinBezirk.at",
           "date": "2. May 2026"
+        },
+        {
+          "title": "Raiffeisen Steiermark: Mit starken Ergebnissen bereit für neues Wachstum in den Regionen - Wirtschaftszeit",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeUVhZW1YeUs1Vm1jelc3cWFlTEp6OFdXVmJibHZ0NDdQYkZnZkdIWjlWQlpOY1l2enhyNlNzaTUyUzJPV2d0b195RXNkd0xtV0NESGUxUzB0cy1sMjdTV3dxbnc2R3ZFZGk4S0UwQk16SmxEa1Z3WnRXeGM0eVlERnpOQm42Y0VRV2hUYzlEN3VEZTZYVzhTdzZmc2NnYV9YX2lid2xVLWhUZUNvRVp0Q0xlNjhzbkxxd0RBRkxwUU5UMmc?oc=5",
+          "source": "Wirtschaftszeit",
+          "date": "30. Apr 2026"
+        },
+        {
+          "title": "Mehr Kredite vergeben: Raiffeisen Steiermark sieht sich für geopolitische Verwerfungen gerüstet - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPanNMMHVYU2VzeHJlVlhTNkZ1Wm44WGJJTzc5VjNjbzZUTl94TDY0N2ZWV1RfTnZES1lsR19qQ2JtZFc3ZWtZYUU1SDZLZVFYaXd4NHl1QU50WjFJTl91d3hWQkJVRHR2N25DVVd3NTI3dEpoNTQycEw3ZGdHTm41c2Z6UXZBd0dpMmdKbldnWHRWUnJ2NXhpY2hMdGtuOTdHNi0xVmtpMWJhVG9YV200?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "30. Apr 2026"
         },
         {
           "title": "„2026 wird geprägt sein von unwägbaren Hürden“ - Kronen Zeitung",
@@ -27,8 +39,8 @@
           "date": "26. Apr 2026"
         },
         {
-          "title": "Industriekonjunktur Steiermark: IV-Umfrage zeigt leichte Erholung, Lage bleibt jedoch fragil - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRTctSW9nUFdtS3BFNEZNYWsxZkItTHRMd1ZUMUt5QzhxLXBoaXZtTW5QMTJDdmVHUnNObFhSR2JOSy05RTdsaFpmcmx2NTc1d1MzeEs0WEU4NVhZc3cwQ21TNDRsZXZhMU1ocVFRTmRCeUdxSWt0N0Y4N0E1SVJKdTB5SngzSUQzSk4zYTluanFfMkc5LVpWZU40VmlybGh5emxUSlVqTS1EakcwNUFheGtGMVdVRURSRlE?oc=5",
+          "title": "Standort Oststeiermark: Wirtschaftsgipfel zeigte, wieviel Potenzial in der Region steckt - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlRPLUdwam1wckxrNk0tck1YVVlWN0xqa2wyc3JMMmo3WUZxZmRVMUV2OTdtQlRSQmtmZmNOZm1oUFgtclRYX1V4dERiWU9aUXJVVjd1cWw4YjFLSVAxRF9MeGpGUmltSzJHU1NxREdadThaVG90aE1fRlcyWUQ1ajVuV1F3dFRnU1dMYlhrekNvN0JCZUhSNHRJT05YUjYxTThkcmNmZko4ZDI2YXlRMW9RWndMeG8?oc=5",
           "source": "MeinBezirk.at",
           "date": "2. May 2026"
         },
@@ -39,20 +51,8 @@
           "date": "29. Apr 2026"
         },
         {
-          "title": "Steirische Industriebetriebe : Zittern trotz zarter Lichtblicke: „Die Situation ist mehr als fragil“ - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV3Z5SV81dWdkanJxZElIMlRqSGxHWFJFcHRnMEtxdGhaSFhueDVCa1JKS1FYSHRyY3JJNWJyTW82TTdqM09FaVlMWXQ0Wk50RmJHczYxeXNNbkxzTVRHTDRkT21xenN5bmw2ZnM1VlR6SzlPMGxHOFpvZk5ERzRYSWpicl9QbUt1TDJHQlRjZVJDUjQzLWplSjdPaGZpcTFkYTU5c2RGeEJvRnpneUdSbUlR?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "30. Apr 2026"
-        },
-        {
-          "title": "Raiffeisen Steiermark: Mit starken Ergebnissen bereit für neues Wachstum in den Regionen - Wirtschaftszeit",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeUVhZW1YeUs1Vm1jelc3cWFlTEp6OFdXVmJibHZ0NDdQYkZnZkdIWjlWQlpOY1l2enhyNlNzaTUyUzJPV2d0b195RXNkd0xtV0NESGUxUzB0cy1sMjdTV3dxbnc2R3ZFZGk4S0UwQk16SmxEa1Z3WnRXeGM0eVlERnpOQm42Y0VRV2hUYzlEN3VEZTZYVzhTdzZmc2NnYV9YX2lid2xVLWhUZUNvRVp0Q0xlNjhzbkxxd0RBRkxwUU5UMmc?oc=5",
-          "source": "Wirtschaftszeit",
-          "date": "30. Apr 2026"
-        },
-        {
-          "title": "Erfolg aus Birkfeld: Familienunternehmen Gesslbauer mit Urkunde geehrt - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeG4yZ1VIZVlZQjgtbzhkUWNuT24xcTRERDZDaDlxdjFtOERjYWZMQUdaRVFKTXFpZl9qaXY0MTNXNjZWWnk5N0o1SEdMNks2OFRkQmZpeHN6NFNKaFliS0h0Y201WkdiNHJhNTgtQVB2ZUN3MmczR0tJSkhGMFFTenhKd2JFWTZyYUU0TXZKQW1TLWtkX0dCZkVUc0VhRmY0TTlQNQ?oc=5",
+          "title": "Jahresergebnisse für 2025 wurden präsentiert: Raiffeisen Steiermark zieht positive Bilanz - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONW1OQ2p4TUI1WmJfTmpIMEJFN0g5M0RjbjJHTlhzYXdhZXVUNm9DMjgyVkhPWFR4TURlSkNRczhiVXpQaVA4YmxVTlFmWmdsV09mMXhVLWt0dGtEeWs4ekNQT3dQa2YtTUNqWG82RDZlUkNvX2pOMFZXQlVyMTV3UWwzWEo3eklId0pEVUFrN0JObUlEdllpSWxQc0c4V2lPQnNGNg?oc=5",
           "source": "MeinBezirk.at",
           "date": "30. Apr 2026"
         }
@@ -62,7 +62,7 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark etabliert sich als führendes Inlandtourismusreiseziel Österreichs mit stabilen Nächtigungszahlen und wachsender Beliebtheit bei österreichischen Urlaubern, während gleichzeitig nachhaltige Tourismusstrategien durch die Förderung von Naturtourismus und regionale Erlebnisangebote wie Radwege und kulinarische Events vorangetrieben werden. Die touristischen Initiativen konzentrieren sich auf die Stärkung von Naturparken, die Entwicklung innovativer Tourismusprodukte und die Verbesserung der Besuchererfahrung in etablierten Destinationen wie dem Grundlsee und Graz.",
+      "summary": "Die Steiermark festigt ihre Position als führendes Inlandtourismusreiseziel mit positiven Nächtigungstrends, gestärktem Naturtourismus und innovativen Veranstaltungsformaten wie neuen Tagungsmessen und Kulinarik-Events, die sowohl Freizeit- als auch Geschäftstouristen anziehen. Durch strategische Partnerschaften zwischen Tourismusorganisationen und gezieltes Marketing über verschiedene Kanäle wird das Angebot kontinuierlich erweitert und die Wettbewerbsfähigkeit des Landes nachhaltig ausgebaut.",
       "items": [
         {
           "title": "2027 bringt Neuerung - Semesterferien in der Steiermark: Positive Bilanz - Kronen Zeitung",
@@ -83,16 +83,16 @@
           "date": "27. Apr 2026"
         },
         {
+          "title": "Neue Tagungsmesse setzt Impulse für Business-Tourismus: Graz wird zur Convention-Bühne - wirtschafts-nachrichten.at",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSHF1dndGdXZ6djM2dlZpTFhoVHhzZ3Q3WjV5dWhfaU1UV2o2RkJzNXVxVnNFQTZ0VGJYQ054SE1WZ3Y4Z2h3Z0U0UzFwUi1odHFYNnNIdDFSdUlmckh5YTJBRXVUSGVMNnc4SUw5ajduR1FXUUJOSXRrUUFoanltY1o0T0U?oc=5",
+          "source": "wirtschafts-nachrichten.at",
+          "date": "29. Apr 2026"
+        },
+        {
           "title": "Premiere am Grazer Schlossberg: Angerichtet ist's zum HochGenuss 2026 - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkFScGxIbGdFcFNreENPS29HLUJDVEN2b3VfT3ZjNjkyTDAwUlM0VzYwMndMbGlVMUpFUHg5cTJ1bGxnRTFSSk5ZQkxqOHVTemNiVmhZd2tidmN3Z1VrTmdFdGJ1Rk1kQl9IYWh6YUdEeTc2aFVyRnYyRGhkLVlEV1U2UnZ2Z3lXX0Q1aWp6VFhxcTVidmk4?oc=5",
           "source": "MeinBezirk.at",
           "date": "27. Apr 2026"
-        },
-        {
-          "title": "Grundlsee: Neues Buch „Ein Ort, ein Hotel, eine Geschichte“ - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSE1ySVdDSll6MnBobDI3WHZnaEZlVGJwRTBFVjJuc2lTVDM4dDZxWVQ0RU52dW1fVFRXcC1CNTJoRElfSmdBcUl3bHVUVkM3WnlqOVBIUV8xYU1tNUtSZmZFU3ZfSTl1ZmtTN3laN0pSOUhRS0Z3UE4wUk95cTFHemZHZGxQc3p4cEd5bUJHQmZ0eGUxR2g2ODZTSVdwaFBYNGc?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "28. Apr 2026"
         },
         {
           "title": "Aktuelle ÖAMTC-Umfrage: Urlaub im Inland: Kärnten und die Steiermark am beliebtesten - Kleine Zeitung",
@@ -118,14 +118,8 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Steiermark zeigt großes Engagement in der Wissenschaftskommunikation, wie die erfolgreiche Lange Nacht der Forschung 2026 mit über 31.000 Besuchern und das wachsende Interesse an der Nacht der Wissenschaft demonstrieren. Gleichzeitig werden wichtige Führungspositionen in der Forschungslandschaft neu besetzt oder verlängert, etwa die Ernennung von Superti-Furga zum CORI-Gründungsdirektor und die Verlängerung von Horst Bischofs Rektorat an der TU Graz bis 2031, während die Montanuni mit Investitionen in Biomasseforschung vorangeht.",
+      "summary": "Die Steiermark verstärkt ihre Forschungslandschaft durch hochkarätige Personalentscheidungen: Superti-Furga übernimmt die Gründungsdirektion des CORI und Horst Bischof wird als Rektor der TU Graz bis 2031 verlängert. Gleichzeitig zeigt sich großes öffentliches Interesse an Forschung und Innovation, wie die 31.200 Besucher bei der Forschungsschau belegen, während die Montanuni mit Investitionen in Biomasseforschung und ausgezeichnete Schülerprojekte die wissenschaftliche Nachwuchsförderung vorantreiben.",
       "items": [
-        {
-          "title": "Forschung hautnah bei Nacht der Wissenschaft - Steiermark heute vom 25.04.2026 - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYi1OT0NLNjZUbDRRTTVmOE1HT2JWTzgtMHBqR29GT20tLXkzTTVYVllfUi10eVV3dHFuMi10cV9ZNXl5MEZfZDNxa25iSVNtcjE4c3d3OFd5T1AyRDNLb0hPZDh5WUxqZ0RVMVRSUnpLbUF0MXh2eFRuOEdwUEs3NVYwaFpoVWxGLXRUSmFhYkNqbkdyWkNIREp3NUlyWlpPLVF5M1R4UnljT0F5by1jRHlvYmJEbHc?oc=5",
-          "source": "ORF ON",
-          "date": "25. Apr 2026"
-        },
         {
           "title": "Superti-Furga wird CORI-Gründungsdirektor - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9EcFZLeHFjS2Y4dzg1QzFINXRiNzVfV2RGcUdkNGRUN2pCenFkTjlMYXdSbE5fUTk4d2FvSHRXQWRIU292TGNkY3JVWF9pR3FsR2tGdw?oc=5",
@@ -145,15 +139,15 @@
           "date": "30. Apr 2026"
         },
         {
-          "title": "Großes Interesse an der Langen Nacht der Forschung 2026 - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VMVVfU1BNbW9OREhmM0ZzS2tuekIzcFRrYWliRlY5UlhvN1QxS0VqemFkYUtPdTB2aTVKRTRxUDFtRmFHaFFLS09SbVJ6aWg0LUxicFFmb3JhNGFXbnBxVW4wVXpmN3Q2OXliaFlHUHpsUFNjVnhidA?oc=5",
-          "source": "Kommunikation - Land Steiermark",
-          "date": "26. Apr 2026"
-        },
-        {
           "title": "Altersforschung bis Weltraum: 31.200 Besucher tauchten in die Welt der Forschung ein - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQmFlWDI1Q3FfSmRXTXpESEFfcGZtNDdybUtkR3FPRVViRENxX1dRbzctS3NKdFBKMjA2R2xhRUZjbWFJVEZMVzB5Q2FFNmRKSGgtRHBhWW0xMm45VjJzOEQ0NW1HQWtLQlhETUZYRHlPdDRPRXFSYWRFdmloYkYtU3BhdEVnVXU3cXJEZDk4Uk9PdXdQbTM5dkl0SHpTMW1IZE1fbEhFZlk3TUR0QkE?oc=5",
           "source": "MeinBezirk.at",
+          "date": "27. Apr 2026"
+        },
+        {
+          "title": "Leoben/Wien: Schülerin bekam Auszeichnung für ihr Forschungsprojekt - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPajdZUU9HczI3aG1lVkg5MHVaY1VnSDQ5X3lLQm1uT0txYlVpbjEydXlZbEV6RVdrQlM5LWQ0Qm9DLXYzUjF3ckxqczBkS214TlNSbF9wTDd3a2gtWE5XZEhhLUFTUWRjNERCVkFaZXlKTWltVXdndmpQMVlkaXN2ZWRTdERHSHRXckY4dFdIZlg5T29oYktQYmttYjZlZWl3VW9QZnA5bGNrUTl1WDlPQ3RTRFYzZDMxcHVEal9fV0E4eHRiZVJr?oc=5",
+          "source": "Kleine Zeitung",
           "date": "27. Apr 2026"
         },
         {
@@ -167,6 +161,12 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWTdZcUh6WjNGYUJCV01DYWYyeXZyR0FfUzB4bWdSeEMxZVVKRHJ6YzRBb3JXc212Q0tySXF5MS1fcVFucTFxY0g2NDA0SHJZdVVPYXJPYUpXaTRsSmVOT0xVMldqSWlWMGtKRmRKMVZXeEN4ellmajRZbWluRm12cjg4dGxTVjFpb2ZpYkF5WEpIVUp3NTB6c3hCb3RwMDJ6Ukd1TE9tZlc2a2R3aEE?oc=5",
           "source": "Kleine Zeitung",
           "date": "27. Apr 2026"
+        },
+        {
+          "title": "TU Graz: Rektor Horst Bischof für eine zweite Amtszeit wiederbestellt - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcWdtTm5Zc2kzNXVwWHpOXzkzLTdYQ3VIZmNoOHVNVDRiZVJiQ2xkMVpsUU5FSndFMTVkWTV5WHpWaFVzajBLclgzOXNBRDR0eUhKRUk2bVRZb2pUbUZPcWNQS1FYU0lyeGNOemtoY3NnVXRDaHlwZ3U1NXRYNzgweU9LUTJJYU5kazBKd0NEajZ0NzlzM1pYeVhIcTRHVWpZTlVjU0xhR0lGdzZoa3c?oc=5",
+          "source": "5 Minuten",
+          "date": "27. Apr 2026"
         }
       ]
     },
@@ -174,7 +174,7 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Das steirische EU-Regionalbüro hat über drei Jahrzehnte hinweg über 100 Millionen Euro an EU-Mitteln für die Region akquiriert und trägt damit wesentlich zur wirtschaftlichen Entwicklung bei. Daneben werden innovative Projekte wie das Europagymnasium Leoben und Forschungsarbeiten von Schülern durch EU-Programme gefördert und international ausgezeichnet.",
+      "summary": "Das EU-Regionalbüro der Steiermark hat über drei Jahrzehnte hinweg über 100 Millionen Euro an EU-Mitteln für die Region akquiriert und damit wesentlich zur wirtschaftlichen Entwicklung beigetragen. Ein Leobener Europagymnasium-Projekt wurde für seine herausragende Arbeit ausgezeichnet und zählt zu den besten Schulprojekten Österreichs, wobei auch eine Schülerin für ihr innovatives Forschungsprojekt geehrt wurde.",
       "items": [
         {
           "title": "EU-Regionalbüro lukriert in 30 Jahren mehr als 100 Millionen Euro - Kleine Zeitung",
@@ -193,12 +193,6 @@
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdktMb0FkQ2Nrc25mWXVkS0FPWkROc1g1SkN2Slp0eEdyMGZ1RXcyOXVYNXVrckJiVWtoa01rWUpUMkNpT2V4M2hSejhEWnBNeDQxdk5NTU1YQ3JQSl9IWWd6aXRjVXpJc0ZSQnQ0clFWWFZhRTMyV0hFdFJBOEtQU3M4NUlPc2NGcE1oaHZWMUhQd2ZOSEdTU0E0YzdMbnZLV1BDXw?oc=5",
           "source": "Kleine Zeitung",
           "date": "27. Apr 2026"
-        },
-        {
-          "title": "Niederösterreich: Familienfreundliches Ausflugsziel - Neuer Starkl Erlebnisgarten in Aschbach ... - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONC1EbWNNQ2FtdUwwSmZ6eEoxbVB0eUYtVWpkZmhvNDJzOVRleUNWX2lpOGZVMzl5emVlRl8tczM5V3AzYkhNanNBWTFCRmM0OXdBWmRNa0ctdnZndVZtdjdUUV9wb2FudHBVWFRJTzBBNUM2OVVuNEZ2T3hmX00xM2tfVnNHRk92ajlyN3lYQzlaR0RkSlRSOFVCZjRfOEZXMGctZXY4WlBfcmhVMHRZbmgxZHN1M0ZFNTBobFlpMGhaMl9Ld2NWN0VleGNub1ZNOUliNkxCRHhSS3fSAdsBQVVfeXFMTjQtRG1jTUNhbXVMMEpmenhKMW1QdHlGLVVqZGZobzQyczlUZXlDVl9paThmVTM5eXplZUZfLXMzOVdwM2JITWpzQVkxQkZjNDl3QVpkTWtHLXZ2Z3VWbXY3VFFfcG9hbnRwVVhUSU8wQTVDNjlVbjRGdk94Zl9NMTNrX1ZzR0ZPdmo5cjd5WEM5WkdEZEpUUjhVQmY0XzhGVzBnLWV2OFpQX3JoVTB0WW5oMWRzdTNGRTUwaGxZaTBoWjJfS3djVjdFZXhjbm9WTTlJYjZMQkR4Ukt3?oc=5",
-          "source": "Regionews.at",
-          "date": "30. Apr 2026"
         }
       ]
     },
@@ -206,8 +200,14 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark investiert gezielt in digitale Innovationen, um ihre Wirtschaft zukunftssicher zu gestalten – von neuen KI-Förderungen für Betriebe über intelligente Warnsysteme bis hin zu internationalen Kooperationen mit China. Gleichzeitig warnen lokale IT-Experten vor Risiken bei unkritischer KI-Nutzung und mahnen zur Vorsicht bei der Implementierung dieser Technologien.",
+      "summary": "Die Steiermark treibt ihre Digitalisierung durch innovative Warnsysteme beim Hochwasserschutz und gezielte KI-Förderungen für Betriebe voran, um diese zukunftsfähig zu machen. Gleichzeitig erweitert das Land seine technologischen Kooperationen durch internationale Wirtschaftsbeziehungen, während es sich kritisch mit den Risiken von KI-Anwendungen auseinandersetzt.",
       "items": [
+        {
+          "title": "Hochwasserschutz wird digitalisiert - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qaE4yWEZlSU1sck9CTlh4VW9yVV9RZFoyREx6c002QmpHdUtxcm44aHRWQXVHTmZJTnQ1RjRRejVZdWdQekg5c2x0Sm42V2plZnE1bQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "3. May 2026"
+        },
         {
           "title": "Schutz vor Hochwasser: Neues Warnsystem geht in Betrieb - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUzIxajFONnJMd1hZT0ZwbmdnaWpnTVNSNEtqaVQ1Um9qZVRaRmstNXpndTluNFNfb3k2M0xVQ0pRU200RHI3N00tT1cwMTNOY0NvckdqZ0w5SjU4ODZSZlh6S3I5NTh0Mmg4dkJ3cFNMSjdVYnZ3MTItbDd5U2JaUXgyWWlDQVYwX0hubWo1aVg2LTQ4aE5GenhJLXZqRlRaS1E?oc=5",
