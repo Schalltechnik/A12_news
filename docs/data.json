@@ -1,24 +1,24 @@
 {
-  "generated": "06. May 2026, 05:44 UTC",
+  "generated": "07. May 2026, 05:48 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die steirische Wirtschaft zeigt sich trotz gestiegener Arbeitslosigkeit resilient, wie die erfolgreiche Bilanz der Raiffeisen Steiermark und Großinvestitionen wie die 100 neuen Jobs bei Siemens Energy in Weiz demonstrieren. Gleichzeitig wächst das Stellenangebot leicht, während die Finanzierungssicherheit durch erhöhte Kreditvergaben gestärkt wird und regionale Potenziale in der Oststeiermark vermehrt genutzt werden.",
+      "summary": "Die Steiermark positioniert sich als attraktiver Wirtschaftsstandort mit wachsenden Chancen im Handwerk und Tourismus, während gleichzeitig die Raiffeisen-Gruppe und der Wirtschaftsbund als stabilisierende Faktoren fungieren. Trotz eines leichten Anstiegs offener Stellen bleibt die Arbeitslosigkeit mit über 46.700 Betroffenen eine Herausforderung, die durch gezieltes Potenzialmanagement in Regionen wie der Oststeiermark adressiert werden soll.",
       "items": [
+        {
+          "title": "Handwerk: Steiermark wird Treffpunkt für junge Tischler-Elite aus Österreich - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc1ZwNnd4eE1TTldoNlpUR0FyME9MUEQ2enNMaGlQZ1BWWlc1aHRyb2hFLWRYdjBCVkxZRXUtQ1N6djNEUEc1ei1tLU5CaHk4MEpVNlluR1B3QnppOEJKM0pDbXV3SHh3VzNvcDd3Uzk2OG45M3RJTHJsRnZqRG1qRHJLMGZXVjFJLVFESjlUcklqTUVNOFRlLVB1SUxPNTNQRXQ3UEdfRFhrbENWY2FMYnRUZmhaV3ViRjFBb2tXQ0tRWVBxYnc?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "6. May 2026"
+        },
         {
           "title": "Erfolgsbilanz: Raiffeisen Steiermark als Wirtschaftsmotor - weekend.at",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcGhNU2pJSklxcEw3WU5qeUlkNHktSHlURW5sRGxYSGRBMVBqUjhQdUtMbXdDSmpyNWFtT2NBV0t6MEliM1E0SlVyb0xtd0lOYTdTbFI4RVljN3Q2Y2RoUGRWN2FFSnp0U1RxbjgxZFFodWZWUUlvalQxOE5EeE00T05QaU40NjZYTklGeXpJQ08xc1U2Z0ZBLTZKVHo?oc=5",
           "source": "weekend.at",
           "date": "5. May 2026"
-        },
-        {
-          "title": "Investition in Steiermark: Bis zu 100 neue Jobs am Siemens-Energy-Standort in Weiz - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNGJiZmtnSXMzcFZyTXVOcUoyMElhUmJkS1o1Z1ZldXotSlFSNnhkanNBX3lCZUZodk01RlZ3TVRtZVJScXFnNjB0Tlh4d19VX3NTNEZuUUU3N1ZVdk81SmZMemxyaElTbHlKeFJKM0h5WUhEUW9HdUZYTVZZeURSV2lvSmVaWXg0V0lpUlBfMnFUSlNSUHZqOGFRMWJwM3h0NmdjcTdYREFyY1NOdDMwdzFKZFY?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "4. May 2026"
         },
         {
           "title": "Leichter Anstieg : Wo es in der Steiermark jetzt wieder mehr offene Stellen gibt - Kleine Zeitung",
@@ -27,16 +27,10 @@
           "date": "5. May 2026"
         },
         {
-          "title": "Raiffeisen Steiermark: Mit starken Ergebnissen bereit für neues Wachstum in den Regionen - Wirtschaftszeit",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeUVhZW1YeUs1Vm1jelc3cWFlTEp6OFdXVmJibHZ0NDdQYkZnZkdIWjlWQlpOY1l2enhyNlNzaTUyUzJPV2d0b195RXNkd0xtV0NESGUxUzB0cy1sMjdTV3dxbnc2R3ZFZGk4S0UwQk16SmxEa1Z3WnRXeGM0eVlERnpOQm42Y0VRV2hUYzlEN3VEZTZYVzhTdzZmc2NnYV9YX2lid2xVLWhUZUNvRVp0Q0xlNjhzbkxxd0RBRkxwUU5UMmc?oc=5",
-          "source": "Wirtschaftszeit",
-          "date": "30. Apr 2026"
-        },
-        {
-          "title": "Standort Oststeiermark: Wirtschaftsgipfel zeigte, wieviel Potenzial in der Region steckt - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlRPLUdwam1wckxrNk0tck1YVVlWN0xqa2wyc3JMMmo3WUZxZmRVMUV2OTdtQlRSQmtmZmNOZm1oUFgtclRYX1V4dERiWU9aUXJVVjd1cWw4YjFLSVAxRF9MeGpGUmltSzJHU1NxREdadThaVG90aE1fRlcyWUQ1ajVuV1F3dFRnU1dMYlhrekNvN0JCZUhSNHRJT05YUjYxTThkcmNmZko4ZDI2YXlRMW9RWndMeG8?oc=5",
+          "title": "43 Millionen Euro Umsatz erwartet: Steirer geben je 67 Euro für Muttertags-Geschenke aus - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRWZBUUE3RHg5VncyTWZaWVIwNkZZTGVZZEpLVFBWcHdBamRfUnFlVGtwQVpVNzItMmVzNXFydURLcGc2UHkycnFRb1pwd01uS05hQ2l6LTc4RUR6aklxV3RtVElmR1MtdXZYb2JFelhjUThBSTMwOHRMOWJyT1QzQ1RfS1BXVHNHVXVlc0RFdXZNTjY5NGF0aS1jbDBRWkNJU2hwMVhRMjNUS2llMGZKRjRDUQ?oc=5",
           "source": "MeinBezirk.at",
-          "date": "2. May 2026"
+          "date": "6. May 2026"
         },
         {
           "title": "Aber etwas mehr offene Stellen : 46.707 Betroffene: Steirische Arbeitslosigkeit legt weiter zu - Kleine Zeitung",
@@ -45,16 +39,22 @@
           "date": "4. May 2026"
         },
         {
-          "title": "Mehr Kredite vergeben: Raiffeisen Steiermark sieht sich für geopolitische Verwerfungen gerüstet - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPanNMMHVYU2VzeHJlVlhTNkZ1Wm44WGJJTzc5VjNjbzZUTl94TDY0N2ZWV1RfTnZES1lsR19qQ2JtZFc3ZWtZYUU1SDZLZVFYaXd4NHl1QU50WjFJTl91d3hWQkJVRHR2N25DVVd3NTI3dEpoNTQycEw3ZGdHTm41c2Z6UXZBd0dpMmdKbldnWHRWUnJ2NXhpY2hMdGtuOTdHNi0xVmtpMWJhVG9YV200?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "30. Apr 2026"
+          "title": "Bezirksgruppenvorstand bestätigt: Kontinuität im Wirtschaftsbund SO - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd1FUUkpxdVFOaG9hUGJqR0dBVXd4a1RmVGlzOXNGNXZKZWZha0ZLcmhILTNhMU9ERU91Wnl0aVJnQW5GWmdtUExDRFd2R2JYR0JIaWtJNFp3NzlDRHJsMUVVVWJoVUhFcm1WTWVydEllNkl6Zmd3c1ppd0EzbnlOcUFFdzhXd2lUZHFlbHBaeTVWUjlmdDZXNUZ1X1FWTU9zUkE?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "6. May 2026"
         },
         {
-          "title": "Wirtschaftsstandort Steiermark: Betriebe müssen sich Lehrlinge leisten können - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZGJPMHJySDZFUzNiMTZ6WnVsWUVuMDdtdEhZaXJZY21wcVJGSDhJRlczNHl2UFNhNkhOM3FndWxSaWVZLVowdkdGYXFnSE9rZWYzWWJiR0RMRWpmOUo0aGg5UjlHVXJHLUlfZ0dZRDNwRUp0dVlINm1VblFXbENvVEx1eVZmUERERDg5ZW9TQ082THEtWDc1Rw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "5. May 2026"
+          "title": "Steirischer Wirtshaustag: 120 Wirtinnen und Wirte trafen sich beim Jubiläumswirt - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd1l2cVhyOVhadDN1QkMwUEhCNGxtYVhYUXo2Y2lpZGVMQ3NxRWotM3VhUldIYVd0cE85R2RGdHJfOWs4MXhnbnpMcEdHVFVIalcxUjB6b2hYOHVTNWlIMHlTc3VpLUNFWXRLbXFMX09MQ1VTUXlaTlRaM2pNZmFadnVJRmNsRjNhYW5YVU5FeVJBYUZ4YnhGYnVUVVM2ZTFXUkNSdkJIRjBMMC1TbjJQR1dOOA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "6. May 2026"
+        },
+        {
+          "title": "Standort Oststeiermark: Wirtschaftsgipfel zeigte, wieviel Potenzial in der Region steckt - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlRPLUdwam1wckxrNk0tck1YVVlWN0xqa2wyc3JMMmo3WUZxZmRVMUV2OTdtQlRSQmtmZmNOZm1oUFgtclRYX1V4dERiWU9aUXJVVjd1cWw4YjFLSVAxRF9MeGpGUmltSzJHU1NxREdadThaVG90aE1fRlcyWUQ1ajVuV1F3dFRnU1dMYlhrekNvN0JCZUhSNHRJT05YUjYxTThkcmNmZko4ZDI2YXlRMW9RWndMeG8?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "2. May 2026"
         }
       ]
     },
@@ -62,31 +62,43 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark festigt ihre Position als führendes Inlandtourismusreiseziel Österreichs und setzt dabei verstärkt auf nachhaltige Tourismusentwicklung durch die Stärkung von Naturparken und Naturtourismus. Mit positiven Bilanzierungen bei Semesterferien und der Positionierung von Destinationen wie Mariatrost zeigt sich die Region erfolgreich in der Umsetzung ihrer Tourismusstrategie für qualitatives Wachstum.",
+      "summary": "Die Steiermark setzt auf innovative Tourismusförderung durch virtuelle Erlebniswelten, hochwertige Infrastrukturprojekte wie das erste 5-Sterne-Hotel in Schladming und die Erschließung neuer internationaler Wanderrouten, während gleichzeitig Nachwuchstalente in touristischen Berufen gefördert werden. Kongresstourismus und Eventformate wie „Meet & Walk\" sowie optimierte Ferienzeiten tragen zu einer positiven Bilanz und zur Stärkung der Steiermark als attraktive Tourismusdestination bei.",
       "items": [
         {
           "title": "2027 bringt Neuerung - Semesterferien in der Steiermark: Positive Bilanz - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5WUDNBSlRvb1dQTUlsS2dmQkVxWFl3WTNsMW5vT2FkazZWZTdtQzRsMl96WjNlWXZzWG9ta2ttanFmWFdweHcw?oc=5",
           "source": "Kronen Zeitung",
+          "date": "6. May 2026"
+        },
+        {
+          "title": "Steiermark Convention: „Meet & Walk“ 2026 begeisterte rund 120 Gäste » news - travel management austria",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObC1TVVpnUVhpMWh4WHQ0ZWRsYlJxVklCYzdlNnRJdm4xa0RpUGFtMFpQY1hKMlg4SjFPcnV3cXYwTlZnYlVKdkpFY3FCblJHY3hXdDRnd1hfbEFadUVVSDZ0QXV4YlpRdUhuMXJGQmgxcnE2Ni1ldVRWTks3bzN3SnRfa3hKQm05eUEwTGRSZ2p2Z1llN04wMF9raDl5ekF5U3BmUA?oc=5",
+          "source": "travel management austria",
+          "date": "6. May 2026"
+        },
+        {
+          "title": "Virtuelle Erlebniswelt: Radfahren beginnt im Wohnzimmer - weekend.at",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WRE45ajNpTGxac1RpNXlJT2Y0c2p5RHhwdWxtcnlGZi1pbngtdEJGNFV0bU1DbmZEbXlFeWNFa3R0eElUcmhyb2xaZFgtNXZGanZHTTFBc3oyVmUzWE0xRW44bWVJXzdJU1F3NnEyWkozaDVYQ0hLUzhyRWlIcE0?oc=5",
+          "source": "weekend.at",
+          "date": "6. May 2026"
+        },
+        {
+          "title": "Steirische Tourismus-Stars: Oststeirer holen viele Medaillen bei „JuniorSkills“ in Tirol - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcmxSOVhCTHRidDNFN3NWMkZaQlJDQm44OUl1dmlWZHF1eEx6aENVNi1yNWxMLUlYc1MtX19UVWJZMG4zMElqRWlkR0RBaHlsQjF1VkRTWWRaYWFJVy1OM2g4WGdrb3VhUmttTFk5Tmp3TXBMY0tqNlhSQlZGSDBGZTRrLWhsN0hvdG9JOExkeFZ0LUlvUnNwUExMYnk1YVNlMkZQTVVCal9kT3B4SkdETg?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "6. May 2026"
+        },
+        {
+          "title": "Luxus-Offensive in Schladming: Erstes 5-Sterne-Hotel startet - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNS16bjFkR3l5U3liMFo2dmdZaWV4WkJ1SUY2d3FlRGdLSzVELVFCZnhueUpsenFoREY0UlQ4ejJDc2I4eXEtRXFHVVBFSGxaR1B1eG5PQXhyMHd4VzlDemxCSWoweE4xbTljdmUzWTFsS0l0Z29oWjEwS0VtRnQzUE5XZ0EwemRoU015d1h5Zk9qTGJaM0VyZGhVSU9fbU1HOHUxN1dvU3A?oc=5",
+          "source": "5 Minuten",
+          "date": "6. May 2026"
+        },
+        {
+          "title": "Mariazeller Weg Anbindung von Slowenien über Bad Radkersburg • Wanderung » ... - Outdooractive",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbDRoSS15V2pQQ1EzV2FQZDhXTlE2eFFyUS1jejR4NzNpdElYS3FxUGJzclJiWFU2UE5uN3Q2dVpqdUMzNWUwTFFzLWxRTFZScnRacXRFRHRRU1UxYXdIRjdNYjlGMVc1MVJlS2h3ZlJYMHpSXzhmVkEtUDJCSzNfTHNkRkZJVWNFVGdFNXlnaFpRZ1Jyd21rVjJlVFZINTl3UDNkT3d0bV9FU1l2NVdoVkdYeU9vaTdRekQ0NEY0cEV6MlU0eXozZHozTWlrQkxnZHY4eDhpYw?oc=5",
+          "source": "Outdooractive",
           "date": "5. May 2026"
-        },
-        {
-          "title": "Naturparke Steiermark und Steiermark Tourismus stärken nachhaltigen Naturtourismus - GASTRO.at",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaXNzcjVXRU1RYWxpaWotTEFESDNmVU80Tnl6XzVBZGlqRmExcUlpa3dPbXJpVV9KR1RVVzMwaDRkemRQd0hJdFZPTTI5ZjR4empJU0k5bVBJUDlSdkdoSE9nT01oRGZEZjFQblpLNEg5SGUwSW96S3k1a3g4TVJxTjRhU2w1WGk3T0l6b0NyajVadndrc1o4LVhhZTgzTlJBN29XdE9kVGFpODE0VDdWbnh0U3c?oc=5",
-          "source": "GASTRO.at",
-          "date": "29. Apr 2026"
-        },
-        {
-          "title": "So reiste Österreich 2025: Steiermark bleibt Top-Ziel im Inland - inside-graz.at",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE53QkRERU1CSFI0TTJxeV8wYkpJSUcwc3U0Wm5Bcjg3WWJFZzl6QW5Ea1RPd0RZeGU1YTlVUnNqYWlCcHRHcDBpWkRwTmdmQlJPUkdkWHRMeHMzekhrSU94RWhlczlFeFFPdUxFVHZNN21Kdw?oc=5",
-          "source": "inside-graz.at",
-          "date": "29. Apr 2026"
-        },
-        {
-          "title": "Urlaub in Mariatrost : Hier zeigt sich Graz von seiner entspannten Seite - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTjF4ZlkzemdRN0Y2VDJtNHNORUhqeGJZcW81cWdfdTg0QlFNaUE5NTlDZnFxckI5RTV4cjlvdlZRbGxwVGR6emozRTFEMTI5bF9BdXA3b0ZKZlZNUEkxUkZ4WUxycUlHNWpQQk50SklpclVZSkJVcGpvUnhNaVFhQmF2REpGQzBKLXo4b055dm0zS3Z1VzVvOXNVaw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "3. May 2026"
         }
       ]
     },
@@ -94,20 +106,8 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Der renommierte Wissenschaftler Superti-Furga übernimmt die Gründungsdirektion des neuen CORI-Instituts in Graz, während die Fachhochschule Joanneum ihre internationalen Kooperationen mit europäischen Partnerhochschulen ausbaut und damit die Forschungs- und Innovationslandschaft der Steiermark stärkt. Parallel dazu etablieren sich neue Initiativen wie das Hermann Hauser Frontier Lab und Weiterbildungsprogramme zu nachhaltiger Kommunikation, die Graz als Standort für zukunftsorientierte Forschung und Entrepreneurship positionieren.",
+      "summary": "Die Steiermark positioniert sich als innovativer Forschungsstandort mit neuen Initiativen wie dem Hermann Hauser Frontier Lab in Graz und verstärkt ihre Forschungsaktivitäten an der Universität Graz zu zukunftsweisenden Themen. Gleichzeitig arbeitet das Bundesland an praktischen Lösungen für aktuelle Herausforderungen, von Gesundheitsrisiken wie dem Hantavirus bis zur strategischen Entwicklung von Verteidigungstechnologien und künstlicher Intelligenz.",
       "items": [
-        {
-          "title": "Superti-Furga wird CORI-Gründungsdirektor - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9EcFZLeHFjS2Y4dzg1QzFINXRiNzVfV2RGcUdkNGRUN2pCenFkTjlMYXdSbE5fUTk4d2FvSHRXQWRIU292TGNkY3JVWF9pR3FsR2tGdw?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "29. Apr 2026"
-        },
-        {
-          "title": "Steiermark sucht die beweglichste Gemeinde 2026 - AD HOC NEWS",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOXzVuZkJ5MER5dTFmY3BxMjNpVERNNllCbWlPeVJ3aGdxMnBkbm12dVpzSUxsbnlRWHFzTmFNdUFFQXVwVURzaV85NlJmcnl6d1IyYjAzNXhTNE12dDVTZEpqY0RYVm9hamJud1d1MGI2SWduem5UcFQ0akpsU1JDbk1DMm1ZYWZ2TThYRkR5WEVqajFlNFpXWFQ5Znc?oc=5",
-          "source": "AD HOC NEWS",
-          "date": "30. Apr 2026"
-        },
         {
           "title": "Aufpassen beim Frühjahrsputz: Steiermark und Kärnten sind Hotspots des Hantavirus - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMERfWkZXM0ZrYW5oeG5zMjdYeVo2Y0txdjdRZFZsMXMwdzh5d1ltWWctUVBZc2VRSk5OeGJEOEJ1OVRIRVhBLWRfRWRwRHh3SlBGc3pNdmdSdE5NN3RBNElnVjlmQWx5ektkYXNfaElST25uNFhaSE9wNlFQVDZIV2w4V0s2REo1eEV2Uzk4SDl0VUkzbE1iVFJ5VXVieFlfajJ6TmRXM3FReWxmb2dVVndISUJHUQ?oc=5",
@@ -115,34 +115,34 @@
           "date": "4. May 2026"
         },
         {
-          "title": "Superti-Furga wird Gründungsdirektor des Grazer CORI-Instituts - Österreichische Akademie der Wissenschaften",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbVZZMVlDWlNqUTBfSnpmZ3J4ckYxMlZ1NEVpSEtvRUJkZW14SVB4ZS1qR254Ml9hd01zcnBVN1A5Rk9QRjNZVTNycXJ2WFdzZUlTT1BaZnVHMmxObF9yYmk5Vjc3MHA1Tzk4MUlHQzRTR2tDNFVQR2k4NEFYZFZ3M01melh1MU9fZi00MWE4UTY3T0dtSU8zRQ?oc=5",
-          "source": "Österreichische Akademie der Wissenschaften",
-          "date": "30. Apr 2026"
-        },
-        {
-          "title": "Kooperation mit Uni: Privatschüler in Bad Gleichenberg profitieren von Grazer Uni-Forschung - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaXlJMUdHa1B5S2dzeTBCUFRWU3ctWG5ySHdjWjF4N01Mdl9EMC1ZSzhYN2s1clcwUGxMWXg3c0R6enlhUF83QVRXeEF1RzJCdVRRSXhxbDVYUl9UeHNjbFJObXZNYkRtZkJIX1NKbGdkWWtua21MRDVuS1pBdnhZbDljVFFNSnMxbWRhNmlGUlNMNUQ4NnZnM05UM0pVSmxyMlZqWlhUM196ZkN2RHVSM1E5OFBWSTBvQk5rU2VlbWo2V2tYWTBjZWxtelZzM2ZsNWVv?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "1. May 2026"
-        },
-        {
-          "title": "FH Joanneum kooperiert mit europäischen Partner-Hochschulen - Steiermark heute vom 29.04.2026 - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQ2M0LURHalFvWEg2dU1KU250a0x3RkpXSmpTM2FFdjRUazhiaDh3TjMyeU1fWktIMkY0a3pOMkQ0NlpiSVJwa2h6aFpiZE1XUEZXdDJIR0cwNnJXbE9Bc2FuejZFQUtqeGtXVEhLck5HMDR4SUNlZEEzSHJ5Z0dKSEliLW5ZSmdWV1ZmNDNuRUpUVXBkcTN4U2ZRYUEyRGJYWFpUclpENFB5MV9Ga1dtVUQ0cHpSX3NGdWxqdlRCdDRwWDM3Y2VnUUpjQ18?oc=5",
-          "source": "ORF ON",
-          "date": "29. Apr 2026"
-        },
-        {
-          "title": "Klima verstehen lernen: Experte für nachhaltige Kommunikation werden, jetzt bewerben! - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNFJpLThfaVVRclRldWNTVkJiSVIzOUJuU0pYdlpCYlVvOVNfVmFPc18wa1U4SFU1cDgzNVFLZ1hZWlVZbEp1MFN4TnlrbGNWYTFxWEtENnZCRkZpR1o2S3p4Q1Z1eWJ4YWlSTDJwTFdpakE4LXFtSk1lX0dWYm92b0xuY0szYTFhMTZwc3JLTGJoVmlNMlVRcFJDREZkS2czdC1fZUZqUVRJNFExcmxNcTJTWTNNWS02Q0RF?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "30. Apr 2026"
+          "title": "Nach 10 Jahren Forschung: Graz lüftet Geheimnis der Straßennamen - Kurier",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVjJOUGthTnVHRXRLa2JRUmJEbFpxcnRHalhvaG9ZclhiaTdkc3ZONktfbzZxQ3loWlIxcVYtVkhqcXpHTGQydWdvWnZUbHQtLUJsZVhFVzhvcXAydDVTblBvdmhjU0I3eXJlejBZMThCejZwekZNeEJuVW1aU2xEek5yaTNyVUYzS2F0MDFlejVTMThlNURFUUU0Zw?oc=5",
+          "source": "Kurier",
+          "date": "6. May 2026"
         },
         {
           "title": "Hermann Hauser Frontier Lab: Begehrtes „Bootcamp“ kommt nach Graz - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY25EZl85VklUYWhMWEVRaHRacUduN0RvamltWXd1UGhaZGRjYWJjb25KdFF2WU4tSTA2NGpIOHJndzJrT3dZcV9VaFJZLU1nWDBWNGVhdU1fb1Jodjk0aGduS2N2ZkNVM2xiN3lDbndBWlVEQUk0dl9VNXo3YTdTVTFyaVJfaGZZT3dWTThQaThBa0FOTUVSNWxOdXJfM09pUDhWLQ?oc=5",
           "source": "Kleine Zeitung",
           "date": "4. May 2026"
+        },
+        {
+          "title": "Uni Graz erforscht die Welt von morgen - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PcHJPblFzMDRvUFREME5xNGVBVVFLSFVqVFVLLTlFR2huUjRfMndyMG5iMUhvNG1ZZ0VMV0tmek5PRHM4cjFvTV83ZmNBN3ItOVpzTA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "6. May 2026"
+        },
+        {
+          "title": "„KI ist keine IT-Lösung!“ - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTZGhvZkRCeUZZSjBpZkp0MVJNOE8xVC1veHpDak5zejRERGNjSFk5S1N0YjM1d0UtNTZEWWR0eFRib0Zua2hnR1NoX2twVkFDOU00b3ltaWN4YTFkT3JVV2NWY0tKdVFBOHlKMGxydGx2QkJSMmx3Wg?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "5. May 2026"
+        },
+        {
+          "title": "Ministerin Tanner: Steirer sollen als Pioniere bei Technologien zur Verteidigung punkten - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbTdUcVlVSENjM1ZvZDVVbW5qTkFMUm9idUJ0OUFLbUNtcl9OU2p2TU90VlNEcGUxTVJKall2WVZGeHRUalE1Q21ZVEkyX2lYNE90T1BuSEJ1cXdQUVJKMlY5S3NjU1l2WjhKbnRqMDcyRk9QRWxCVXNyb2tpN2hkOUZQYXdiUmFxWktEQlhJQU9lZl93SmQ1UDNFTDJhRmJtbjdmSVI4ZWhxOENX?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "30. Apr 2026"
         }
       ]
     },
@@ -150,7 +150,7 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Das EU-Regionalbüro in der Steiermark hat über drei Jahrzehnte hinweg erfolgreich mehr als 100 Millionen Euro an EU-Mitteln für die Region akquiriert und damit einen wesentlichen Beitrag zur wirtschaftlichen Entwicklung geleistet. Diese beeindruckende Bilanz unterstreicht die Bedeutung professioneller EU-Förderberatung und der gezielten Nutzung von Strukturfonds für regionale Wirtschaftsförderung.",
+      "summary": "Das EU-Regionalbüro in der Steiermark hat über drei Jahrzehnte hinweg mehr als 100 Millionen Euro an EU-Mitteln für die Region akquiriert und damit einen wesentlichen Beitrag zur wirtschaftlichen Entwicklung geleistet. Diese erfolgreiche Bilanz unterstreicht die Bedeutung professioneller Förderberatung und EU-Mittelverwaltung für die Steiermark als Wirtschaftsstandort.",
       "items": [
         {
           "title": "EU-Regionalbüro lukriert in 30 Jahren mehr als 100 Millionen Euro - Kleine Zeitung",
@@ -164,19 +164,19 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark treibt ihre digitale Infrastruktur durch innovative Warnsysteme voran, während lokale IT-Experten gleichzeitig vor unreflektierter KI-Nutzung warnen und für einen verantwortungsvollen Umgang mit künstlicher Intelligenz plädieren. Digitale Initiativen wie Smart-City-Projekte in Graz zeigen zudem, wie Technologie gezielt zur sozialen Inklusion und Teilhabe von Menschen mit Behinderungen eingesetzt werden kann.",
+      "summary": "Die Steiermark modernisiert ihre Infrastruktur durch digitale Hochwasserschutzsysteme und intelligente Warnsysteme, während gleichzeitig die Diskussion über KI-Implementierung zeigt, dass technologische Lösungen über reine IT-Ansätze hinausgehen müssen. Smart-City-Initiativen wie in Graz demonstrieren, wie digitale Innovationen zur sozialen Inklusion und Vernetzung verschiedener Bevölkerungsgruppen beitragen können.",
       "items": [
+        {
+          "title": "Hochwasserschutz wird digitalisiert - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qaE4yWEZlSU1sck9CTlh4VW9yVV9RZFoyREx6c002QmpHdUtxcm44aHRWQXVHTmZJTnQ1RjRRejVZdWdQekg5c2x0Sm42V2plZnE1bQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "3. May 2026"
+        },
         {
           "title": "Schutz vor Hochwasser: Neues Warnsystem geht in Betrieb - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUzIxajFONnJMd1hZT0ZwbmdnaWpnTVNSNEtqaVQ1Um9qZVRaRmstNXpndTluNFNfb3k2M0xVQ0pRU200RHI3N00tT1cwMTNOY0NvckdqZ0w5SjU4ODZSZlh6S3I5NTh0Mmg4dkJ3cFNMSjdVYnZ3MTItbDd5U2JaUXgyWWlDQVYwX0hubWo1aVg2LTQ4aE5GenhJLXZqRlRaS1E?oc=5",
           "source": "5 Minuten",
           "date": "30. Apr 2026"
-        },
-        {
-          "title": "Grazer IT-Firma warnt vor KI-Spielzeug - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tRjdCYVpUQ2NFUkMwWnpydUxLWkNOcDAwdUxBUkdZLXI2MmtHNzJCVzRSbVotWWVqSC01SzhSYkNHc0xhYi01TGNjZllzbzRzYUk1Rg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "29. Apr 2026"
         },
         {
           "title": "„KI ist keine IT-Lösung!“ - Kleine Zeitung",
