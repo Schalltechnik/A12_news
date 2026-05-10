@@ -1,23 +1,29 @@
 {
-  "generated": "09. May 2026, 05:36 UTC",
+  "generated": "10. May 2026, 05:50 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die steirische Wirtschaft positioniert sich durch internationale Partnerschaften, regionale Dialoginitiativen und die Stärkung traditioneller Branchen wie Gastronomie und Handel als dynamischer Standort, während gleichzeitig Herausforderungen wie die Finanzierbarkeit von Lehrlingen und die Ressourceneffizienz zentrale Themen für die nachhaltige Entwicklung bleiben. Besonders die Oststeiermark und der Bezirk Leoben zeigen großes wirtschaftliches Potenzial, das durch verstärkte Vernetzung zwischen Politik, Unternehmen und Finanzinstitutionen wie der Raiffeisen Steiermark weiter ausgeschöpft werden kann.",
+      "summary": "Die steirische Wirtschaft sieht sich aktuell mit erheblichen Herausforderungen konfrontiert, da geopolitische Spannungen wie der Iran-Krieg sowie Rohstoffmangel die Industrie belasten und Betriebe zunehmend unter Druck geraten. Gleichzeitig entstehen neue Chancen durch grüne Wirtschaftsinitiativen, internationale Geschäftsbeziehungen etwa mit Indien und innovative Impulse, die den Standort Steiermark als dynamischen Wirtschaftsmotor positionieren sollen.",
       "items": [
+        {
+          "title": "Iran-Krieg belastet steirische Wirtschaft - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wNnE2OVBGSzFMZ2Y1Zk1sTmxVWjNfSzJmdGU4RDZDQk1qWko2SFJWdWJCVkduVU10b3FKNTZNN21hQXd0SFpLYmNNS3phcGV1Q09lSQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "9. May 2026"
+        },
+        {
+          "title": "Grüne Wirtschaft on Tour: Es tut sich was zwischen Belgiergasse und Kunsthaus - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc1B6Mm9fR1VLUEtXYVFLcHh1dFdwZXJxYlE4TXRHQlRFR1NpOUpEal9HVlRsMEtmMWFPMWJPWmFLS0RjVWRTN2lkZzRZb19sMzZ4bGJvd2FUUDZXdEk0SGNnNV9Ja2Jfdm5DZzIzbnduYUF1aUVERWdreW1NV2lYLU8yTEo1ckQxeFY3dno1MGJfRkI1Tnp4THBaVkltYVVXbzl1bWFsdmstWFBoeW9BZGJ4b3h6UQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "7. May 2026"
+        },
         {
           "title": "„Vertrauen ist unsere Basis“: Die indische Botschaft für steirische Unternehmer - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQjl4NWZkb2w4QWZOb1F1VlRMT05LRlpmQTZtbExOMGhZam5DZXZJN3ZLbXFHR2ktWDZzdm1NUDBiT3lFaTVDeWpnMGwtNFdxT2l3XzdaZWdHWUxHNlY5NlBpOU91TUcxWjZrd3lraUVKWnZreXhsTXRHTDZYdlFYMWJaQ1VXQVR1NW4wTUY2RXlfcW5jTnR2WWdpR1hIRm5qTzZCcnZyTm9hRzdDaUxlaw?oc=5",
           "source": "Kleine Zeitung",
-          "date": "8. May 2026"
-        },
-        {
-          "title": "Zukunft des Bezirks Leoben: Steirische Volkspartei startete Dialogreihe - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMXFZWjJEWGRhUm52NUZfTW1zVURJZXZ6VEpZOEc3T2FuVkVXWEhRQzB4T3J2VWZfaVpUdmZqSmdPWVplWU9tbXRoUnpMVW91anprTW1GWDVfbjhLbHBaNTRKamFtQ1N5ZG9CZjBUVzNkWFdrNGVBenNwcXFVb2x6V18yMmJWTUJtMlF2ZXUwTDNmcVZHTGR6d3ZIbw?oc=5",
-          "source": "MeinBezirk.at",
           "date": "8. May 2026"
         },
         {
@@ -27,22 +33,10 @@
           "date": "5. May 2026"
         },
         {
-          "title": "43 Millionen Euro Umsatz erwartet: Steirer geben je 67 Euro für Muttertags-Geschenke aus - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRWZBUUE3RHg5VncyTWZaWVIwNkZZTGVZZEpLVFBWcHdBamRfUnFlVGtwQVpVNzItMmVzNXFydURLcGc2UHkycnFRb1pwd01uS05hQ2l6LTc4RUR6aklxV3RtVElmR1MtdXZYb2JFelhjUThBSTMwOHRMOWJyT1QzQ1RfS1BXVHNHVXVlc0RFdXZNTjY5NGF0aS1jbDBRWkNJU2hwMVhRMjNUS2llMGZKRjRDUQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "6. May 2026"
-        },
-        {
           "title": "Astronautin gibt Einblicke: Wie die Raumfahrt uns lehrt, Ressourcen für die Erde zu schonen - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVnI4N2dPMnkxek5MQzJwZVQwdGJUSUQwQzJ4ejNrY2lmRS0xb081QmRVa1JMWTM2ZmxGakxWZ2dobUFiT2VVbUZEbkg3S2FSeTI3eGpWeVMyN0FRS2VmVmxNdk5rd0h2OE1pOHB0ZlowNGRmWkhKQWVJSko0VVg2ZU1iVko2YW1xaEcwRHVUZnBmQm9NVWRUOUl2NzVLU0NXS0FlWkNGVTVuM2FTR096ZnhNajF5Y3hacUp3?oc=5",
           "source": "MeinBezirk.at",
           "date": "8. May 2026"
-        },
-        {
-          "title": "Steirischer Wirtshaustag: 120 Wirtinnen und Wirte trafen sich beim Jubiläumswirt - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd1l2cVhyOVhadDN1QkMwUEhCNGxtYVhYUXo2Y2lpZGVMQ3NxRWotM3VhUldIYVd0cE85R2RGdHJfOWs4MXhnbnpMcEdHVFVIalcxUjB6b2hYOHVTNWlIMHlTc3VpLUNFWXRLbXFMX09MQ1VTUXlaTlRaM2pNZmFadnVJRmNsRjNhYW5YVU5FeVJBYUZ4YnhGYnVUVVM2ZTFXUkNSdkJIRjBMMC1TbjJQR1dOOA?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "6. May 2026"
         },
         {
           "title": "Wirtschaftsstandort Steiermark: Betriebe müssen sich Lehrlinge leisten können - Kleine Zeitung",
@@ -51,10 +45,16 @@
           "date": "5. May 2026"
         },
         {
-          "title": "Standort Oststeiermark: Wirtschaftsgipfel zeigte, wieviel Potenzial in der Region steckt - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlRPLUdwam1wckxrNk0tck1YVVlWN0xqa2wyc3JMMmo3WUZxZmRVMUV2OTdtQlRSQmtmZmNOZm1oUFgtclRYX1V4dERiWU9aUXJVVjd1cWw4YjFLSVAxRF9MeGpGUmltSzJHU1NxREdadThaVG90aE1fRlcyWUQ1ajVuV1F3dFRnU1dMYlhrekNvN0JCZUhSNHRJT05YUjYxTThkcmNmZko4ZDI2YXlRMW9RWndMeG8?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "2. May 2026"
+          "title": "Rohstoffmangel bedroht steirische Industrie - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNm1mNlJmUVNBdFE2R283V2JKdmdDY2hDeS1QeHZlQ1dwTXFkS2hWNDZCWjFtYXZIQjZFMGZGWjFZOVA4aVh5dEdDSE9LbktYX0JuQUZQNGlrRlBWck5xMXg1bmtWcXhIclB4MlJIbGZrbktsbmhFMHg2ckF6RUV2dVF0R0IwVWtQWmE2dktn?oc=5",
+          "source": "ORF ON",
+          "date": "8. May 2026"
+        },
+        {
+          "title": "Rohstoffmangel bedroht steirische Industrie - Steiermark heute vom 08.05.2026 - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR0xldXBIcnc1aTA0WVFQVHVHN09sRUpqOHNxSFhDMEo1ZjhLMkdEZ0RDdWo1WHhRMllsa2h4MDJHS3l5UDEtWGIzZHFoZ0ljRGswTTJxcTlqZG0yakZkbVNGTUFkODBWR0V1aURKbVV5TEFmRm11bEdFUlVxWDNueGdLQUFvSHRVS3BLWEUtZVlqUm9ueHBEMDNHMkgwQk5lRVgxZ3ZRSFJPX1NVUlAtOVctc053Zw?oc=5",
+          "source": "ORF ON",
+          "date": "9. May 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark verzeichnet mit Attraktionen wie dem Schlossberg, der Basilika und dem Zotter-Schokoladenmuseum weiterhin starke Besucherzahlen und positioniert sich als beliebtes Ausflugsziel, während die Region durch wettbewerbsfähige Preise im Campingbereich und neue Infrastrukturprojekte wie die Mariazeller Weg-Anbindung ihre Tourismusförderung strategisch ausrichtet. Die positive Bilanz der Semesterferien und erfolgreiche Teilnahmen bei Tourismuswettbewerben unterstreichen die wachsende Bedeutung des steirischen Tourismussektors.",
+      "summary": "Die Steiermark verzeichnet mit Attraktionen wie dem Schloßberg, der Basilika und dem Zotter-Schokoladenmuseum weiterhin starke Besucherzahlen und positioniert sich als beliebtes Ausflugsziel, während die Region durch wettbewerbsfähige Preise im Campingtourismus und neue Infrastrukturprojekte wie die Mariazeller Weg-Anbindung ihre Wettbewerbsfähigkeit stärkt. Die positive Bilanz der Semesterferien und die Erfolge steirischer Tourismusfachkräfte bei internationalen Wettbewerben unterstreichen die solide Entwicklung des steirischen Tourismussektors.",
       "items": [
         {
           "title": "2027 bringt Neuerung - Semesterferien in der Steiermark: Positive Bilanz - Kronen Zeitung",
@@ -72,7 +72,7 @@
         },
         {
           "title": "Tourismus-Ranking: Schloßberg, Zotter & Co – das sind Steiermarks Ausflugs-Hits - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMG4wZk4wM3c0cXpCSnZnY0p1WmxQbzVNOWdKR2UyRkM2RTd4U2pheHFuTExhYlJ4WGpwa1BMSllGQXpqYUlwMkI5cEIxQi1Zc0Y5S2hqQjE4VjRONWdvOEdFeS03RlVlbjN3M01Bd19QQVNNcVhxcHJibEE5d292QjRxamROS3VSVm14alNSTGZUNmJheTVkZjJQR1NPb0x3T2p3ZG9jUGpXdUh0a0E?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWTR1eHJDTk5UZHQ5ak1SRXVxNHdkcFRjZjdHeGhVd204blJFamxTZVJjaElxMG9BM2t3ZVQ3NnROMUNTNk1EakFYT0JkWVNWN01mczJGWk5aT2dfOHd2R3ZGYnhvajB4dW5KaXNhMTlieHE5RUw2Tk8wb1lGemY3Zlk3OGQ4UmtEZzBvRjJUX1dEVGlaTFoxTS02MXZKRVpmWVB1Wkc3Ujl3UmNMYmNjZEk3WmVYYVBmdGY0YQ?oc=5",
           "source": "MeinBezirk.at",
           "date": "9. May 2026"
         },
@@ -118,7 +118,7 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Steiermark zeigt sich als innovativer Forschungsstandort mit Projekten wie der zehnjährigen Studie zu Grazer Straßennamen, dem renommierten Hermann Hauser Frontier Lab Bootcamp und dem steirischen Startup Digidoo, das Schulen bei der Digitalisierung unterstützt. Gleichzeitig widmet sich die Forschungslandschaft auch praktischen Herausforderungen wie der Erforschung von Hantavirus-Hotspots und der kritischen Auseinandersetzung mit Künstlicher Intelligenz jenseits reiner IT-Lösungen.",
+      "summary": "Die Steiermark etabliert sich als führender Forschungsstandort mit innovativen Projekten an der Universität Graz und der FH Joanneum, die von urbaner Stadtforschung über Wassertechnologie bis zu Künstlicher Intelligenz reichen. Gleichzeitig werden Bildungskooperationen gestärkt und internationale Initiativen wie das Hermann Hauser Frontier Lab angesiedelt, um Unternehmertum und zukunftsorientierte Forschung in der Region zu fördern.",
       "items": [
         {
           "title": "Aufpassen beim Frühjahrsputz: Steiermark und Kärnten sind Hotspots des Hantavirus - Kleine Zeitung",
@@ -133,10 +133,22 @@
           "date": "6. May 2026"
         },
         {
+          "title": "Zahlreiche Teilnehmende maßen sich bei der Wasserkrug-Challenge der FH Joanneum - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaTlvT2V3SmxvV2p6Y1VEdGwtaTRUMUxnREZTcDJFOC15SVFPbnloYlFNdjduMmlXWURKcmpGdVVZV3g1eWhmWGlYQmFyYktkeWhYTVNKRmRTQXU3eWV0Rld5TXNaVUZnM2xXelBiUlNhZEwxZWdwOWVVVmpEVXhnWS1KU2hzNE1EbG03cURqeDFzNmdlZFMybm84NmNuMlFlTmpkVzZSVjZuXy1KSjAyM2E2cGhONWxv?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "9. May 2026"
+        },
+        {
           "title": "Kooperation im Tourismus: Bildungspartnerschaft Tourismusschulen und FH - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdVU3aXVqMlVRYVltZDlESVVOeER2M2dLeUMwbWNha29Oam43YVN2NlAzcy03NkE1YTNNOHRsQjZMdElHdTJBaU1RVW10WVMwNGR1QjZKYlFTRUpGZ1VkWFlBa3ExTVA0SFBrM3hMVkhwenZkQU93dlBEYWVUV3VUZmFCQXM3TzVjSlU3clNPTnJheEhQa2gzQjVQWVp6VGRFbF9EODBTUmtwQQ?oc=5",
           "source": "MeinBezirk.at",
           "date": "8. May 2026"
+        },
+        {
+          "title": "„KI ist keine IT-Lösung!“ - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTZGhvZkRCeUZZSjBpZkp0MVJNOE8xVC1veHpDak5zejRERGNjSFk5S1N0YjM1d0UtNTZEWWR0eFRib0Zua2hnR1NoX2twVkFDOU00b3ltaWN4YTFkT3JVV2NWY0tKdVFBOHlKMGxydGx2QkJSMmx3Wg?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "5. May 2026"
         },
         {
           "title": "Hermann Hauser Frontier Lab: Begehrtes „Bootcamp“ kommt nach Graz - Kleine Zeitung",
@@ -145,22 +157,10 @@
           "date": "4. May 2026"
         },
         {
-          "title": "Digidoo: Steirisches Startup digitalisiert Notengebung an über 1.000 Schulen - trendingtopics.eu",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSanNTb1FTOFNkczJXSG94akpQcHhyeEo3UmtXbjZieko5eFV6VTVTd29zRkFiRUp0MzVxUlNDNktzRUJpcDFHR1h3V004LThKc2xDakhoU0lXN0dIaHNGQnVwNXhPa3BC?oc=5",
-          "source": "trendingtopics.eu",
-          "date": "4. May 2026"
-        },
-        {
           "title": "Uni Graz erforscht die Welt von morgen - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PcHJPblFzMDRvUFREME5xNGVBVVFLSFVqVFVLLTlFR2huUjRfMndyMG5iMUhvNG1ZZ0VMV0tmek5PRHM4cjFvTV83ZmNBN3ItOVpzTA?oc=5",
           "source": "steiermark.ORF.at",
           "date": "6. May 2026"
-        },
-        {
-          "title": "„KI ist keine IT-Lösung!“ - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTZGhvZkRCeUZZSjBpZkp0MVJNOE8xVC1veHpDak5zejRERGNjSFk5S1N0YjM1d0UtNTZEWWR0eFRib0Zua2hnR1NoX2twVkFDOU00b3ltaWN4YTFkT3JVV2NWY0tKdVFBOHlKMGxydGx2QkJSMmx3Wg?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "5. May 2026"
         }
       ]
     },
@@ -168,22 +168,21 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Das EU-Regionalbüro der Steiermark hat in drei Jahrzehnten erfolgreich über 100 Millionen Euro an EU-Mitteln für die Region akquiriert und damit einen wesentlichen Beitrag zur wirtschaftlichen Entwicklung geleistet. Diese beachtliche Summe unterstreicht die Bedeutung professioneller EU-Förderberatung und -verwaltung für die Steiermark als Wirtschaftsstandort.",
-      "items": [
-        {
-          "title": "EU-Regionalbüro lukriert in 30 Jahren mehr als 100 Millionen Euro - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdUdaNHIzMTE2U1pBOU9QTFVWejNkbE9ZMTQ3Wm9nN1V6NjRjS25QcnBsNFEtdjVlSWJCUllxVjJUZlZhMkNpbkpITmUxM0ljVzFEdm5LZkJZUDhibElCbHAxcmtvMmhQTDFVYThMbnZhcE5fTzliR0Y4Zko2MHIzS3htVHhkLW44QUVaUU4zNUJoM2xXZlN0UFpmSFNxUkxIeVFPeWh0OXFRbXpodkJWNElrQzJWam8?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "2. May 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "innovation": {
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark setzt sich intensiv mit Chancen und Risiken von Künstlicher Intelligenz auseinander, wobei Experten vor Übereilungen warnen und betonen, dass KI kein reines IT-Problem darstellt. Die Region positioniert sich damit als reflektierter Innovationsstandort, der technologische Entwicklungen kritisch hinterfragt, anstatt sie unkritisch zu übernehmen.",
+      "summary": "Die Steiermark digitalisiert ihre Infrastruktur wie den Hochwasserschutz, während gleichzeitig Experten vor den Risiken von KI-Assistenten warnen und betonen, dass KI nicht als reine IT-Lösung verstanden werden darf. Diese Entwicklungen zeigen, dass die Region zwar technologisch voranschreitet, aber eine kritische und differenzierte Auseinandersetzung mit künstlicher Intelligenz notwendig ist.",
       "items": [
+        {
+          "title": "Hochwasserschutz wird digitalisiert - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qaE4yWEZlSU1sck9CTlh4VW9yVV9RZFoyREx6c002QmpHdUtxcm44aHRWQXVHTmZJTnQ1RjRRejVZdWdQekg5c2x0Sm42V2plZnE1bQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "3. May 2026"
+        },
         {
           "title": "KI-Assistenten: Experte warnt vor Risiken - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jQzhkQWJBeU9xVXVpVi1qaEVVZGlMZTQ1SjgxeG0tRGdoOXdVR3FZY3owRk1Wd3hJMlFFRXpGQ2ZmYkFJWmZKbmtWT0F6dWZIa1hXLQ?oc=5",
