@@ -1,12 +1,12 @@
 {
-  "generated": "12. May 2026, 05:54 UTC",
+  "generated": "13. May 2026, 06:04 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die steirische Wirtschaft sieht sich aktuell mit erheblichen Herausforderungen wie geopolitischen Spannungen und Rohstoffmangel konfrontiert, während gleichzeitig Chancen durch die Ansiedlung von Start-up-Förderung durch renommierte Investoren wie Hermann Hauser entstehen. Der Wirtschaftsstandort Steiermark muss sich dabei verstärkt um die Attraktivität für Fachkräfte und Lehrlinge bemühen, um seine Wettbewerbsfähigkeit zu sichern.",
+      "summary": "Die steirische Wirtschaft wird durch geopolitische Spannungen und Rohstoffmangel belastet, während gleichzeitig Großunternehmen wie Siemens expandieren und neue Arbeitsplätze schaffen. Parallel dazu investiert die Steiermark in Fachkräfteentwicklung durch MINT-Bildung und Inklusion am Arbeitsmarkt, um langfristig wettbewerbsfähig zu bleiben.",
       "items": [
         {
           "title": "Iran-Krieg belastet steirische Wirtschaft - steiermark.ORF.at",
@@ -15,10 +15,10 @@
           "date": "9. May 2026"
         },
         {
-          "title": "Gründer-Guru kommt: Star-Investor Hermann Hauser trainiert Start-ups in der Steiermark - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdEVwZDF0V3FISmdzcVIzTkRrMEYwc1RWeUZFcGdfdUV1TEtOZGs2elYtY1VYVVV3SVZZUEhmQUlHaFFJcUNERS10S3A0aEJ6b09qa2ZXSmZDSXlnVlVCNlkyUFFqTW1JMlFnMldObEdNR3YwWkI2dTZaaE02UmpZN0hVRGZVYkxORk5IQWVpUzNvN0VBSk40MHU3dXhfSlFKX2NDcGg1RlVTaUttdWEzM2pjajJheVFPUWd5V2Y1ay1MYlU?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "11. May 2026"
+          "title": "Wirtschaft profitiert stark von Muttertag - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVlFaYk9lZmFKVGdxaUVXU3BvOVZORTltYzU0bjlzd2NLRUplZXRRVXZqeHE5Y1pIZFUxOFhHVkZhWUZ6dkdpdkY3VE9PWGVLNGQ4UUJTWDlGS3N5TFpNTDg3ckllU2h0bERkNnRYMF9yTmpRZG82M2Vob0Utei12OVh3eWhseWRCZGZz?oc=5",
+          "source": "ORF ON",
+          "date": "10. May 2026"
         },
         {
           "title": "Wie viel verdienen wir? Weniger als Vorarlberg, mehr als die Steiermark - Oberösterreichische Nachrichten",
@@ -27,34 +27,34 @@
           "date": "12. May 2026"
         },
         {
-          "title": "Nachhaltigkeitstag 2026 - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPUFNEdklLQTVaaE9tbENKNFU1c1haallyU19pTDE1MVBMMV9RME9fU2Z5eFVUQTFLVHZ1dHN6Vi1RMzRPLTY5UFRqdGFtZ2tSNXRudDcyUWVjSmc?oc=5",
-          "source": "wko.at",
-          "date": "7. May 2026"
-        },
-        {
-          "title": "Wirtschaft profitiert stark von Muttertag - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVlFaYk9lZmFKVGdxaUVXU3BvOVZORTltYzU0bjlzd2NLRUplZXRRVXZqeHE5Y1pIZFUxOFhHVkZhWUZ6dkdpdkY3VE9PWGVLNGQ4UUJTWDlGS3N5TFpNTDg3ckllU2h0bERkNnRYMF9yTmpRZG82M2Vob0Utei12OVh3eWhseWRCZGZz?oc=5",
-          "source": "ORF ON",
-          "date": "10. May 2026"
-        },
-        {
-          "title": "Wirtschaftsstandort Steiermark: Betriebe müssen sich Lehrlinge leisten können - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZGJPMHJySDZFUzNiMTZ6WnVsWUVuMDdtdEhZaXJZY21wcVJGSDhJRlczNHl2UFNhNkhOM3FndWxSaWVZLVowdkdGYXFnSE9rZWYzWWJiR0RMRWpmOUo0aGg5UjlHVXJHLUlfZ0dZRDNwRUp0dVlINm1VblFXbENvVEx1eVZmUERERDg5ZW9TQ082THEtWDc1Rw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "5. May 2026"
-        },
-        {
           "title": "Rohstoffmangel bedroht steirische Industrie - ORF ON",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNm1mNlJmUVNBdFE2R283V2JKdmdDY2hDeS1QeHZlQ1dwTXFkS2hWNDZCWjFtYXZIQjZFMGZGWjFZOVA4aVh5dEdDSE9LbktYX0JuQUZQNGlrRlBWck5xMXg1bmtWcXhIclB4MlJIbGZrbktsbmhFMHg2ckF6RUV2dVF0R0IwVWtQWmE2dktn?oc=5",
           "source": "ORF ON",
           "date": "8. May 2026"
         },
         {
+          "title": "Spürnasenecke in BAfEP Graz eröffnet: MINT-Kompetenzen im Kindergarten sichern Fachkräfte - wirtschafts-nachrichten.at",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMXRWbFNEdTc0eVBQMEItM0VPSXdWOHlRbldTdFJETUdjandoU3F1QmxYbElCdDMwSlhoTHZYVVp3eElkb1ZzSFhiWS13Z2hpa1lEZ3RQQVlyZHRKRmJwQThhU3MtMFlLV2hUTkpSYUx6bkdXSW9zdkVqZWVpVUNYN2FIaW1nWnZaWi1JMFUxbWVIbDdxZW9WNi16TjJpYi05U2Y3ZEo2TWVVVVg0MDh5dzRHNURneUpTaUY4?oc=5",
+          "source": "wirtschafts-nachrichten.at",
+          "date": "12. May 2026"
+        },
+        {
           "title": "Rohstoffmangel bedroht steirische Industrie - Steiermark heute vom 08.05.2026 - ORF ON",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR0xldXBIcnc1aTA0WVFQVHVHN09sRUpqOHNxSFhDMEo1ZjhLMkdEZ0RDdWo1WHhRMllsa2h4MDJHS3l5UDEtWGIzZHFoZ0ljRGswTTJxcTlqZG0yakZkbVNGTUFkODBWR0V1aURKbVV5TEFmRm11bEdFUlVxWDNueGdLQUFvSHRVS3BLWEUtZVlqUm9ueHBEMDNHMkgwQk5lRVgxZ3ZRSFJPX1NVUlAtOVctc053Zw?oc=5",
           "source": "ORF ON",
           "date": "9. May 2026"
+        },
+        {
+          "title": "Arbeitsmarkt Teilhabe: So zeigt BILLA in der Steiermark, wie Inklusion am Arbeitsmarkt gelingt - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTm9RNXBGUnRoVVYxTjU5RXQwOUlMejJVTlAyaWxfNlpaV3lLY21LRkVpVTlaeTZYMFJMa0xkU29YR1UwUERTQWxKRVFzMS0tcEVIUnI1eXJFcW9BRGk2bndWcUx5QjVMZUZJRHE3TFNlYzgzakpEc1N5a1p3Z0VrXzJMMjBFU3VGeGJvRFlPY2ZYeVJIb2tKb1NvMVQzS2VocHB6WEVDTkFseVg5X3hZZDd3VS1YOG9HVTczdEIxaE9HMDBoYi14TlZ2UUFOQQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "9. May 2026"
+        },
+        {
+          "title": "Siemens baut Werk aus und schafft 100 Jobs - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14cXM3Q1hGRWFwMGhsZlZ5amF0cUp3aE9IYzlHQktrdzQwMnlVU0F6dzkyMVZMRDJSdXZtUTAtZThLNnRzdUd2bm9NNGl4TkhhU2FWOA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "6. May 2026"
         }
       ]
     },
@@ -62,13 +62,19 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark verzeichnet positive Tourismusergebnisse mit etablierten Highlights wie dem Schloßberg, der Basilika und dem Zotter, die kontinuierlich zu den meistbesuchten Ausflugszielen des Landes zählen. Das Land setzt dabei auf regionale Kooperationen wie die Verbindung zu Istrien und attraktive Angebote wie Semesterferien-Programme, um seine Tourismusposition zu stärken.",
+      "summary": "Die Steiermark verzeichnet positive Tourismusergebnisse und profitiert von etablierten Attraktionen wie dem Schloßberg und der Zotter-Schokoladenfabrik, die kontinuierlich Besucher anziehen. Das Bundesland positioniert sich durch regionale Kooperationen und internationale Partnerschaften strategisch am Tourismusmarkt, während es von globalen Krisen als stabiles Urlaubsziel profitiert.",
       "items": [
         {
           "title": "2027 bringt Neuerung - Semesterferien in der Steiermark: Positive Bilanz - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5WUDNBSlRvb1dQTUlsS2dmQkVxWFl3WTNsMW5vT2FkazZWZTdtQzRsMl96WjNlWXZzWG9ta2ttanFmWFdweHcw?oc=5",
           "source": "Kronen Zeitung",
-          "date": "10. May 2026"
+          "date": "12. May 2026"
+        },
+        {
+          "title": "Tourismus zu weltweiten Krisen: „Als Urlaubsziel wird Österreich profitieren“ - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZEdLR3JRRndxaFpQOTdCQVZGcEQ5aGUtQkdiT0ZNNkxXOUxEelRsajl5eTllQ3p4a29iOUtEUzBWNXd3MXBGZHJxci00anp0bGttaVlLQkhnS0NHYkFzd3JzMUhYVGZlOUdYQXJqYWMwenNoeFNfNHJpZ1NDTG5BLW1KS1pSZlhvNVNyeEpiUWloWDNaajRPOVJNZUNzU2RQZnVPSWJIcnFycnc?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "13. May 2026"
         },
         {
           "title": "Steiermark trifft Istrien - Land Steiermark News Portal",
@@ -83,16 +89,16 @@
           "date": "9. May 2026"
         },
         {
+          "title": "Salzkammergut verbindet: Grenzenlose Zusammenarbeit für eine internationale Tourismusmarke - Land Oberösterreich",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oSlN4M29KdlVOWmVpQlNiLV9oZXRDM3MtVFBNYmdmcUlMdS1MVW10a3J1LVB1T0FYVVB0aHlIYjJSaDJvRURGOE0zVUdZWUhTNDVSNFRncnhVU0VLOXc?oc=5",
+          "source": "Land Oberösterreich",
+          "date": "12. May 2026"
+        },
+        {
           "title": "Ranking: Das sind die meistbesuchten Ausflugsziele der Steiermark - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUnRkNjlGVnQtM0tzOVlyNnRPVnZxaEc4WVBYUVJ0NS1XUUlBTHIwUDVDWVhzMTdUM3FHQTQyeUR3Z0hHU0xqZ0h4UWpSdlNET0pCQWtPU1RjS2xHLWVSWkRNQnNUZUVpRGpBVmRUa0pyNFprODNVYlR1YmZfQWRpcmJWQmJFTDIwNU1XdE1lcHpNRlc3ODlGWHVmOFBZZWtFWkc2cVExMWFPTmpmRzRv?oc=5",
           "source": "5 Minuten",
           "date": "10. May 2026"
-        },
-        {
-          "title": "Basilika und Schlossberg als Top-Ausflugsziele - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HTkx5LW5sN0tlS21OTHgyUkI4ZWxidndwSjBHQVoxOExWSGs1LV94VGFpa2JkWk5YWFhrSXIwVzZ5cnZrbFk0YlhsTVpXTDFsZWtycw?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "7. May 2026"
         },
         {
           "title": "Hitliste des Tourismus: Das sind die beliebtesten steirischen Ausflugsziele - Kleine Zeitung",
@@ -105,12 +111,6 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNGxPSWdBdlFpaV94RXByal9OWGJwQ1pweVB4d0xMbWFtT3hhSFpmNDVwdHVfU181OV9BZUNwbFdGem9BMHdpaGFTTlRqaTVkcHRoOUN3V096WjNTcld4YlhiclE0LXZFd1B3RXNQd1JjeFRtbjBBazdzemZJNXEyemdVYUFZQUZhOXdfOHBDREpGek9kZktrdWw3YmJWSW9hdnhmSDUtNWZSUQ?oc=5",
           "source": "Kleine Zeitung",
           "date": "7. May 2026"
-        },
-        {
-          "title": "2für1-Urlaub: De Merin - Boutique Hotel Straden - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYjlJX2ZfZlIzdWpETDlPNGZIMVBPY29mWEhfU0FWTWM4UmpJY28ydnI0U1BydDFIQ0JTMHZybVhCUzFRT3VOX0hackVHMmt4cENRRWJXUnZpRzRsTUYzR1ZySFpqd29jUVc4ZldQNXVueGJfWnRTRFNIdW53eWdIdWxuZw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "11. May 2026"
         }
       ]
     },
@@ -118,13 +118,19 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die steirischen Hochschulen wie die TU Graz und Uni Graz treiben mit Forschungsprojekten zu Blitzphänomenen und zukünftigen Technologien sowie praktischen Challenges die Innovationskraft der Region voran. Parallel werden Start-ups durch renommierte Investoren wie Hermann Hauser gefördert und Bildungspartnerschaften zwischen Schulen und Fachhochschulen wie der FH Joanneum ausgebaut, um Fachkräfte für Zukunftsbranchen wie den Tourismus auszubilden.",
+      "summary": "Die Steiermark zeigt breite Forschungsaktivität an ihren Universitäten und Fachhochschulen, von der TU Graz' Blitzforschung über die Uni Graz' Zukunftsstudien bis hin zu innovativen Projekten wie der Wasserkrug-Challenge der FH Joanneum. Gleichzeitig wird die regionale Innovationskraft durch strategische Kooperationen wie den Materialcluster Styria, Bildungspartnerschaften im Tourismus und die Unterstützung von Start-ups durch renommierte Investoren wie Hermann Hauser gestärkt.",
       "items": [
         {
           "title": "TU Graz untersucht Blitze und ihre Kraft - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45RnR5V3lQMDFRN2E5NElMOVV6OE94bHROWU5oU3loemVkUm1FSGJPVF9xdks3cGNMOV9WTE56cjBaWVZZRjVaZEdfcFZTVktZU2FUSQ?oc=5",
           "source": "steiermark.ORF.at",
           "date": "11. May 2026"
+        },
+        {
+          "title": "Nach 10 Jahren Forschung: Graz lüftet Geheimnis der Straßennamen - Kurier",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVjJOUGthTnVHRXRLa2JRUmJEbFpxcnRHalhvaG9ZclhiaTdkc3ZONktfbzZxQ3loWlIxcVYtVkhqcXpHTGQydWdvWnZUbHQtLUJsZVhFVzhvcXAydDVTblBvdmhjU0I3eXJlejBZMThCejZwekZNeEJuVW1aU2xEek5yaTNyVUYzS2F0MDFlejVTMThlNURFUUU0Zw?oc=5",
+          "source": "Kurier",
+          "date": "6. May 2026"
         },
         {
           "title": "Zahlreiche Teilnehmende maßen sich bei der Wasserkrug-Challenge der FH Joanneum - Kleine Zeitung",
@@ -137,6 +143,12 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdVU3aXVqMlVRYVltZDlESVVOeER2M2dLeUMwbWNha29Oam43YVN2NlAzcy03NkE1YTNNOHRsQjZMdElHdTJBaU1RVW10WVMwNGR1QjZKYlFTRUpGZ1VkWFlBa3ExTVA0SFBrM3hMVkhwenZkQU93dlBEYWVUV3VUZmFCQXM3TzVjSlU3clNPTnJheEhQa2gzQjVQWVp6VGRFbF9EODBTUmtwQQ?oc=5",
           "source": "MeinBezirk.at",
           "date": "8. May 2026"
+        },
+        {
+          "title": "Inforegio - Netzwerkzusammenarbeit für Innovation: der Materialcluster Styria - European Commission",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMk9sNnppOFhMQ05nVFlhallHVDQtY2ZnQlk4cWhoSWQ4QUZZZC1LUnhUTzhxWnl5bzhadDh3eWFQWDZ1aG52ZDFZeG41c0FVLWczZE9NUmRqZ2RDb2dONnE5dVpyQkV1YTZmZTgxY09UWGRLNG1fSG5xRk43Q19kZFUybzNxMkFNUzEtaHNJY0JNTUVqSmk5RGxLMk4tY29PalhKNF8zb3lPb1ZENVpnSmEwYVJONUk3bkk0?oc=5",
+          "source": "European Commission",
+          "date": "11. May 2026"
         },
         {
           "title": "Gründer-Guru kommt: Star-Investor Hermann Hauser trainiert Start-ups in der Steiermark - MeinBezirk.at",
@@ -156,7 +168,7 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Aufgrund strengerer Vergabekriterien verlieren tausende steirische Haushalte ihren Anspruch auf Heizkostenzuschuss, während insgesamt 17.500 Haushalte in der Steiermark diese Förderung erhalten haben. Die verschärften Zugangsvoraussetzungen führen zu einer deutlichen Reduktion der Förderberechtigten in der Region.",
+      "summary": "Die Steiermark verzeichnet einen massiven Rückgang bei der Inanspruchnahme von Heizkostenzuschüssen, da tausende Bürger aus der Förderung herausfallen. Gleichzeitig wird durch EU-Programme wie Inforegio die Innovationskraft der Region gestärkt, beispielsweise durch Netzwerkzusammenarbeit im Materialcluster Styria.",
       "items": [
         {
           "title": "Heizkostenzuschuss: Tausende Steirer fliegen aus Förderung - 5 Minuten",
@@ -165,9 +177,9 @@
           "date": "10. May 2026"
         },
         {
-          "title": "Strengere Kriterien bei Vergabe: 17.500 steirische Haushalte erhielten Heizkostenzuschuss - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ0k4Qi1TMjJLd3VRTy1MYjZ5eU5kb1BRak1NdVplUU5GTUdHX015ZlJWN19fN21VemlZNXRENGtFQldmeHdKbTVIeGxoVG5RNEZYakdpMDRFN2ZFeWZ5RXhJYmU5WDdDLTB4aC05VnUzeGtmcENyUGtmMlZBUGVfSFZKZ3dqSnlOdVpMVFpsMml3OFAyU19nSnNuUzFQQS0tVjNKZXVORVNSVklaMmIzUg?oc=5",
-          "source": "MeinBezirk.at",
+          "title": "Inforegio - Netzwerkzusammenarbeit für Innovation: der Materialcluster Styria - European Commission",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMk9sNnppOFhMQ05nVFlhallHVDQtY2ZnQlk4cWhoSWQ4QUZZZC1LUnhUTzhxWnl5bzhadDh3eWFQWDZ1aG52ZDFZeG41c0FVLWczZE9NUmRqZ2RDb2dONnE5dVpyQkV1YTZmZTgxY09UWGRLNG1fSG5xRk43Q19kZFUybzNxMkFNUzEtaHNJY0JNTUVqSmk5RGxLMk4tY29PalhKNF8zb3lPb1ZENVpnSmEwYVJONUk3bkk0?oc=5",
+          "source": "European Commission",
           "date": "11. May 2026"
         }
       ]
@@ -176,7 +188,7 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark setzt verstärkt auf KI-Entwicklung und Startup-Förderung, wobei renommierte Investoren wie Hermann Hauser lokale Gründer unterstützen, während gleichzeitig Experten vor den Risiken künstlicher Intelligenz warnen. Parallel dazu zeigt sich die Region in innovativen Projekten wie der Smart City Graz als offen für digitale Lösungen, die auch gesellschaftliche Inklusion und soziale Themen adressieren.",
+      "summary": "Die Steiermark positioniert sich als innovativer Technologiestandort mit Schwerpunkten auf KI-Entwicklung, Raumfahrt und Gründerförderung, wobei prominente Investoren wie Hermann Hauser Start-ups unterstützen und die Region gleichzeitig ihre Expertise in Green Tech und nachhaltiger Energiewirtschaft ausbaut. Allerdings entstehen durch die rasante technologische Entwicklung auch Herausforderungen wie KI-Risiken und Unsicherheiten bei strategischen Projekten wie dem Grazer ESA-Zentrum.",
       "items": [
         {
           "title": "KI-Assistenten: Experte warnt vor Risiken - steiermark.ORF.at",
@@ -185,16 +197,28 @@
           "date": "7. May 2026"
         },
         {
-          "title": "In der Smart City Graz: TikTok-Stars aus St. Martin zu Gast bei Menschen mit Behinderungen - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX0RVYnZCcWRobHdtUUtQcTFVYUxaQzJhNEhHbDFPdlo2TUJhN294NWxjNjg0TTc0UnBFNmZNVnRmUTEyR3NkbVhkRThUbmdkMW5CWFBDQ3F0NmZYN1N6ckJEYXBTa1EwN1BrOE0zX245d3dRZDZxNm1uZ1oxZW84Mk1fblFmR3ppRUdoNFFsN0ltbV9yS0lWdUFLU0ZGUDlpbDJqYWk1dDJkMFFnQUROdHBmdjlhQ2ZBLVB5TQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "5. May 2026"
+          "title": "Zittern um das Grazer ESA-Zentrum - PressReader",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTVE2VUJwX3R4eDBmc0Vpa2JSSHFzSU9qR2JqWmtTLTJwLUVaZExrbWFwQmRmd05oS0dIamJtdUttZmQ0ZnNXMnhQUFg3bUQtVzRuVmJrVTVQckV1YXpqOWc1RDB0T0czdDBWM0tzdWZCZ0RyMnJfbTBWLWZOeDVhc1FQOG9yeHJIdUZrdjU4bw?oc=5",
+          "source": "PressReader",
+          "date": "12. May 2026"
         },
         {
           "title": "Gründer-Guru kommt: Star-Investor Hermann Hauser trainiert Start-ups in der Steiermark - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVVl5ZTBoTDRQRk1fWEp0WXJPWGpYTnVjYkpQNmhuejNTREdMb0NjOXdhaVVrZnFWZnRWYk84am5YTFBRTlJzRWw5ckxkVmxob0xtZWVGcHJzSHFmRzh4X0FDRjNhMFI0ajFMY0sxS2RfZkt6eTN4Njk3V0N2RWFSNnhLLUV6SzlUeDhNSVFpX3YtYU94bmtWeG5QUVI5Y3BsOEJYWXpkSDJJZTJOSEhna2tveUNqdmN2Y0JUWkFnWldCd196eTA4NmNYSzlVc3Q4b2c?oc=5",
           "source": "MeinBezirk.at",
           "date": "11. May 2026"
+        },
+        {
+          "title": "Murau: Mit der \"Green Tech Economy\" wusste das zwölfte Energiecamp zu begeistern - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ2JQU094Mi1vbTBnODdfQmpObUlicXlTNkx3U190OTNiQmFFTHk5SW9ZM0JiWldWSlZHV2ItRWVHbGtLZTF3WWVxNnV3NlJVNWlXeDIyU0ljUVNtWEpWczRRVWZGSzczRjVQLVhmcFJXcXl1Z3Jzc0tFdFFiSmJjRzVFaUYyTTBIU3JPVXpFRnZ1akFXdDBWdE0wTEt5RGgtVTVmb0RJcUR0b21Cd2ZSZUZadnQ3RDRqVDZ4aUpJaGxlQnA3eWtvUlJSeHFuMkU?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "12. May 2026"
+        },
+        {
+          "title": "Murau: Green Tech, große Namen und klare Botschaften beim Energiecamp - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOE9TYUFwZW5wODM2d1M3eHdYMGJIeXV2cHVGbklkMHdfejhFQ29URnpTZ0QyYmRwZWJMVnZZRFc5T1hTWkRicjkzc1otV0FmeVVhSnV1WWZqWXJ0bEN0b0ZlS2d3cjIwMnZGVXRYbTM3M3pmd1pHSFgtamZDNmR5SHlBam5uUWNqbFZyVzBPN05tQUt0X01uTUFHSW9OSzhZLXlPMA?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "12. May 2026"
         }
       ]
     }
