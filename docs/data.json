@@ -1,23 +1,17 @@
 {
-  "generated": "17. May 2026, 06:02 UTC",
+  "generated": "18. May 2026, 06:39 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Steiermark positioniert sich als wirtschaftsstarkes Bundesland mit wachsendem Arbeitsmarkt, wobei Initiativen zur Fachkräftesicherung durch MINT-Bildung und Unternehmensförderung gezielt ausgebaut werden. Gleichzeitig profitiert die steirische Wirtschaft von stabilen Branchen wie der Weinwirtschaft und zeigt positive Effekte durch arbeitsmarktpolitische Neuregelungen, die zu einer Reduktion von geringfügiger Beschäftigung führen.",
+      "summary": "Die Steiermark positioniert sich als wirtschaftlich starkes Bundesland mit attraktivem Arbeitsmarkt, wobei gezielt Unternehmensansiedlungen gefördert und innovative Cluster wie der Materialcluster Styria entwickelt werden. Gleichzeitig zeigen arbeitsmarktpolitische Neuregelungen Wirkung, während regionale Initiativen und Landesunterstützung die Standortentwicklung in allen Bezirken vorantreiben.",
       "items": [
         {
           "title": "Steiermark im Ranking der wirtschaftsstärksten Bundesländer - Industriemagazin",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcWswdlJqdEd6a2NMUmdCU3ZkdjllX3ZjakhnLW9TUWpTUjZobWdCalBjNVVqVGZpR2lsb1AzUnRWNDF0S3NhSmgwd29XWU9aTXhHQ0NDa0N1VV9kNnNSLUZlRXo0dkszRHhOLVFpM085d2lQdFQ3WkxzVHM5bGpuaE96d2FPQi1IMGF5MWNDODEyUll1MUc1M09OZVdObTdRRHF3YQ?oc=5",
           "source": "Industriemagazin",
-          "date": "13. May 2026"
-        },
-        {
-          "title": "Frost: Weinwirtschaft kann aufatmen - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTVUQ4OTZ6MjZrNWN5UVF3N1JFUHdxTWFMVXp2cHNpTVotUHZLRHh3S2otVk9PRnNUR014bnVSRFFZLWFlcnRhOWhmQTFWejMzdXpYQg?oc=5",
-          "source": "steiermark.ORF.at",
           "date": "13. May 2026"
         },
         {
@@ -27,22 +21,10 @@
           "date": "15. May 2026"
         },
         {
-          "title": "Wirtschaft profitiert stark von Muttertag - Steiermark heute vom 10.05.2026 - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOblI2S0o3ak4zdHhVaFhFam1nZVZKZGk2bHRkQks1RXRlSzVVRW1naWVmdGJXZ2Q5bER1Q1dqdEI0dVE3YmMxdXVKQ0RYcE91WEdJZXQ2RENqcEd2VlMzRzYtcmdrbWllR2Q0NzVTTEhXbWFUaGVCXzZDUExQVUlfazVYY0NGeXJWREZEUm81N1hoZFYtR015QWJicXROVG9BV29fS2tseENxUkxnbkFCdGJMOA?oc=5",
-          "source": "ORF ON",
-          "date": "11. May 2026"
-        },
-        {
           "title": "Hartberg: Landesräte besuchen oststeirische Unternehmen - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLU9BWU9mVE9IVlFGakNkVzVBM2JJUUQ2djAtTXpraWFsUmpKUGhhWHJrYVV1ZUljeEpOa1ZIck5fZFR3V2JTN2Voc0hvZmhlYzhJZ2M3S1c4dGRCZ2stcmF1V1VZSWd6cW5zV2tQSTV0aEtFcGtRWU9VbnB6SXg0c0E0WVBJd29FYVg2dDJaaUNfWk9ad25NN1JjM1ZxZ0E?oc=5",
           "source": "Kleine Zeitung",
           "date": "16. May 2026"
-        },
-        {
-          "title": "Spürnasenecke in BAfEP Graz eröffnet: MINT-Kompetenzen im Kindergarten sichern Fachkräfte - wirtschafts-nachrichten.at",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMXRWbFNEdTc0eVBQMEItM0VPSXdWOHlRbldTdFJETUdjandoU3F1QmxYbElCdDMwSlhoTHZYVVp3eElkb1ZzSFhiWS13Z2hpa1lEZ3RQQVlyZHRKRmJwQThhU3MtMFlLV2hUTkpSYUx6bkdXSW9zdkVqZWVpVUNYN2FIaW1nWnZaWi1JMFUxbWVIbDdxZW9WNi16TjJpYi05U2Y3ZEo2TWVVVVg0MDh5dzRHNURneUpTaUY4?oc=5",
-          "source": "wirtschafts-nachrichten.at",
-          "date": "12. May 2026"
         },
         {
           "title": "Steiermark boomt: Warum die Jobs im Grünen Herz Österreichs so begehrt sind - MeinBezirk.at",
@@ -55,6 +37,24 @@
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOU21FcXRBM1dVQWhDelVMUGxEcnNVNWVPdFQ0Zk05NWZTZ2JSdUstQjRjY2FNbGlZUVBTTnFtbnpTNW90dlZuczdVUzV4NlhJMEtFV2ZSeUV1SWNVM3JUZG5IWlJMbnJ6NmJBbnZ6d0F6QnZ6X0VHZkVadWtuQ2p2WG1YYk11alMxR0c2RVlMN0FYX3lQVUtKQm5lcUZ4bG9JYk91UHdJWl91V1ByWWFFdmdSM3V4b3NCWThmWU0zMA?oc=5",
           "source": "MeinBezirk.at",
           "date": "15. May 2026"
+        },
+        {
+          "title": "Nach Gesetzesänderung: Zahl geringfügig Beschäftigter stark gesunken - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRFpnUGJURlFoTHl3NzdPekdHSFdDMndjZnlMN0EwVmJrMHZpOVk2UmwwTHk0YnY2THFyODFpRlMyU0FsNFc1dThpbjhoNjdFbl9YR3JhckdNSmo0TENpQmV1UkZJMjRJNV9XTHVPaEpLTlcxeXJvVlRsdV9CbU5veG50QjlqRFU0LXFmNkdhU3JvRGFvVmlnU0VvSnBMZjJVVURqckVIRjI0TS1lRGY2Yk9SSHZVa1U?oc=5",
+          "source": "5 Minuten",
+          "date": "11. May 2026"
+        },
+        {
+          "title": "Neues F1-Regelwerk bringt Arbeit für Pankl - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PclFidUdZVURjcFFzWFRkdDBXZGNtWE14RmU4S1paVFBUaUx2eEpVc1dkWHRMbGV4ZVNsZV9PeUpyZ0pPdkFncWprby1CMWVVT2dlTQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "11. May 2026"
+        },
+        {
+          "title": "Inforegio - Netzwerkzusammenarbeit für Innovation: der Materialcluster Styria - European Commission",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMk9sNnppOFhMQ05nVFlhallHVDQtY2ZnQlk4cWhoSWQ4QUZZZC1LUnhUTzhxWnl5bzhadDh3eWFQWDZ1aG52ZDFZeG41c0FVLWczZE9NUmRqZ2RDb2dONnE5dVpyQkV1YTZmZTgxY09UWGRLNG1fSG5xRk43Q19kZFUybzNxMkFNUzEtaHNJY0JNTUVqSmk5RGxLMk4tY29PalhKNF8zb3lPb1ZENVpnSmEwYVJONUk3bkk0?oc=5",
+          "source": "European Commission",
+          "date": "11. May 2026"
         }
       ]
     },
@@ -62,17 +62,17 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark verzeichnet positive Tourismustrends mit stabilen Nächtigungszahlen durch verlängerte Wochenenden und Semesterferien, während gleichzeitig spezialisierte Angebote wie Radtourismus und hochwertige Familienhotels das Tourismusportfolio diversifizieren. Die Region positioniert sich strategisch als attraktives Urlaubsziel, das von weltweiten Krisen profitiert und seine Infrastruktur sowie Marketingkampagnen zur Stärkung der Tourismusregion ausbaut.",
+      "summary": "Die Steiermark verzeichnet positive Tourismustrends durch verlängerte Wochenenden, Semesterferien und gestiegenes internationales Interesse, wobei Radtourismus und Thermenurlaub als Wachstumsmotoren fungieren. Allerdings zeigen sich Herausforderungen beim Ausbau der Infrastruktur, während einzelne Betriebe durch innovative Konzepte und Modernisierung ihre Wettbewerbsfähigkeit stärken.",
       "items": [
         {
           "title": "2027 bringt Neuerung - Semesterferien in der Steiermark: Positive Bilanz - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5WUDNBSlRvb1dQTUlsS2dmQkVxWFl3WTNsMW5vT2FkazZWZTdtQzRsMl96WjNlWXZzWG9ta2ttanFmWFdweHcw?oc=5",
           "source": "Kronen Zeitung",
-          "date": "16. May 2026"
+          "date": "17. May 2026"
         },
         {
-          "title": "Familienbetrieb NOA-Hotel setzt auf Eleganz - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FWl9oSUx2eVBRTktaaWF5S2hmMGJJRDlHZUJTVzR2NTN4YkhkU2dOWUlkWFVUTGNxTWtycFduYUlUV0FaX2ZaR1ppTnhJNHQwWFZNSw?oc=5",
+          "title": "Millionenpublikum als Chance für Steiermark - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sa1ZRM3ctZ0RQb09wSGlvOEV5NHpvLU15MnhNZ3ZaRkpKY0g3YVdkYVlSVTNBbzdnSHdDM20yT0Q5dXVGNlc2S2hCTTgwd1ZXRjBpUg?oc=5",
           "source": "steiermark.ORF.at",
           "date": "16. May 2026"
         },
@@ -83,16 +83,10 @@
           "date": "13. May 2026"
         },
         {
-          "title": "Millionenpublikum als Chance für Steiermark - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sa1ZRM3ctZ0RQb09wSGlvOEV5NHpvLU15MnhNZ3ZaRkpKY0g3YVdkYVlSVTNBbzdnSHdDM20yT0Q5dXVGNlc2S2hCTTgwd1ZXRjBpUg?oc=5",
+          "title": "Familienbetrieb NOA-Hotel setzt auf Eleganz - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FWl9oSUx2eVBRTktaaWF5S2hmMGJJRDlHZUJTVzR2NTN4YkhkU2dOWUlkWFVUTGNxTWtycFduYUlUV0FaX2ZaR1ppTnhJNHQwWFZNSw?oc=5",
           "source": "steiermark.ORF.at",
           "date": "16. May 2026"
-        },
-        {
-          "title": "Ranking: Das sind die meistbesuchten Ausflugsziele der Steiermark - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUnRkNjlGVnQtM0tzOVlyNnRPVnZxaEc4WVBYUVJ0NS1XUUlBTHIwUDVDWVhzMTdUM3FHQTQyeUR3Z0hHU0xqZ0h4UWpSdlNET0pCQWtPU1RjS2xHLWVSWkRNQnNUZUVpRGpBVmRUa0pyNFprODNVYlR1YmZfQWRpcmJWQmJFTDIwNU1XdE1lcHpNRlc3ODlGWHVmOFBZZWtFWkc2cVExMWFPTmpmRzRv?oc=5",
-          "source": "5 Minuten",
-          "date": "10. May 2026"
         },
         {
           "title": "Tourismus zu weltweiten Krisen: „Als Urlaubsziel wird Österreich profitieren“ - Kleine Zeitung",
@@ -101,9 +95,9 @@
           "date": "13. May 2026"
         },
         {
-          "title": "Salzkammergut: Kampagne stärkt Tourismusregion - GASTRO.at",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYnFmY3M0aGNlZERGQVJLcWJhTUcweXd6NmtQbTlRSWhSWkZoUWdISERwU1NUUWJtcjYyeDdpXy1LblZoeE9XUy03VUN3YXZ0SEc1WkJZOEp0YjRjaEtvTmFEaHN6bGU4cHdfWV8yd2NyVG1GZjlaaU95LXMxS1Y2Z0VNWQ?oc=5",
-          "source": "GASTRO.at",
+          "title": "Stubenbergsee erstrahlt: Ein Sommer mit viel Spaß und Neuheiten ist angesagt - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWDRQVEpoRlJzSVNVQWdnbk8xT2VnVVJRamtqV3dqNjJEcUdERGdXSU1QTTdnazV6b3pMWTEyV0lIMVh1X2JPcTR5XzhYZ3RNSnFGQlR6dzlOdkE3NmFfVVU5ZTBaMFFrNnZzajhoN3Ztak0tODFwS1ZQMk95Q0Q2MnNoLVdEeEJaVGVkajZWMmNvbWhLSmJ4SnFfTVJJejlvWFFoVUZ3VTFpRFFZbzA3bkpYcjR5VXRkOU40?oc=5",
+          "source": "MeinBezirk.at",
           "date": "13. May 2026"
         },
         {
@@ -111,6 +105,12 @@
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LVVNoTEVuVmdPVEdrN2w0dk1WUWYzRnA0aERzSHlSWUxfM2FkVXQ0MnQwaGxyWElkQ2JlYktBUExyYUQzQzd4Q2F1d2VGbGVfZi1yeQ?oc=5",
           "source": "steiermark.ORF.at",
           "date": "15. May 2026"
+        },
+        {
+          "title": "Radwege in der Steiermark: Warum beim Ausbau wenig weitergeht - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSmtpVkxxUTRIUzg3amhlUnBGWjJHb3JwWHlwdFJOOU9oRzlJUWpIUDc0ZzVLTlA0c1dkRWE4bEc2OGpSRmN6VmtqUjlSbk9hNlN5OUI4ZGg0SW9hNzNiWUdvWlNRWVNTUUtoT3RzRnlodjIzOG9ETlRQZGVndDZTbXQxRlkwUFluTUhETzl1M3NTdWRscGpGWTJGQ1pMaHo2c1RF?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "14. May 2026"
         }
       ]
     },
@@ -118,7 +118,7 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Technische Universität Graz forscht an innovativen Projekten wie der Züchtung von Mini-Plazentas für medizinische Studien und der Untersuchung von Blitzphänomenen, während die Steiermark durch ihre starke Forschungslandschaft und den Materialcluster Styria als attraktiver Wirtschaftsstandort mit wachsenden Jobchancen und Gründer-Ökosystem hervortritt. Star-Investor Hermann Hauser unterstützt dabei die lokale Start-up-Szene, um die Region als Innovationshub weiter zu stärken.",
+      "summary": "Die Steiermark etabliert sich als führender Forschungsstandort mit innovativen Projekten wie der Züchtung von Mini-Plazentas an der TU Graz und der Untersuchung von Blitzphänomenen, während gleichzeitig durch Netzwerkinitiativen wie den Materialcluster Styria und die Unterstützung durch renommierte Investoren wie Hermann Hauser ein dynamisches Ökosystem für Start-ups und Unternehmertum geschaffen wird. Diese Kombination aus hochkarätiger Forschung und gezielter Gründerförderung macht die Steiermark zu einem zunehmend attraktiven Standort für innovative Talente und Fachkräfte.",
       "items": [
         {
           "title": "TU Graz züchtet Mini-Plazentas für Forschung - steiermark.ORF.at",
@@ -145,7 +145,7 @@
           "date": "11. May 2026"
         },
         {
-          "title": "Netzwerkzusammenarbeit für Innovation: der Materialcluster Styria - European Commission",
+          "title": "Inforegio - Netzwerkzusammenarbeit für Innovation: der Materialcluster Styria - European Commission",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMk9sNnppOFhMQ05nVFlhallHVDQtY2ZnQlk4cWhoSWQ4QUZZZC1LUnhUTzhxWnl5bzhadDh3eWFQWDZ1aG52ZDFZeG41c0FVLWczZE9NUmRqZ2RDb2dONnE5dVpyQkV1YTZmZTgxY09UWGRLNG1fSG5xRk43Q19kZFUybzNxMkFNUzEtaHNJY0JNTUVqSmk5RGxLMk4tY29PalhKNF8zb3lPb1ZENVpnSmEwYVJONUk3bkk0?oc=5",
           "source": "European Commission",
           "date": "11. May 2026"
@@ -155,6 +155,12 @@
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdEVwZDF0V3FISmdzcVIzTkRrMEYwc1RWeUZFcGdfdUV1TEtOZGs2elYtY1VYVVV3SVZZUEhmQUlHaFFJcUNERS10S3A0aEJ6b09qa2ZXSmZDSXlnVlVCNlkyUFFqTW1JMlFnMldObEdNR3YwWkI2dTZaaE02UmpZN0hVRGZVYkxORk5IQWVpUzNvN0VBSk40MHU3dXhfSlFKX2NDcGg1RlVTaUttdWEzM2pjajJheVFPUWd5V2Y1ay1MYlU?oc=5",
           "source": "MeinBezirk.at",
           "date": "11. May 2026"
+        },
+        {
+          "title": "Star-Investor Hermann Hauser schult Start-ups in der Steiermark - weltstimme.com",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc3Jhb2FCX2lNVm42N1VZZGp0eV9hbG5KRlJER3dhMFBRNUFnemtvRWcyY1JYa0UteFBuSUpOVEloalhUbTBpSEdzaXhKLXNyLUFvUzBjeThaMWVTajJERVRWeEJJem4xUkVLQWhHYTBRbXl2cEJwT1FLSWdVZC1tZS1rVzBob3FiTjVoUGFSd3VuUVVXYW9fRlpiY1dSSjQ?oc=5",
+          "source": "weltstimme.com",
+          "date": "11. May 2026"
         }
       ]
     },
@@ -162,27 +168,14 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Der Materialcluster Styria fördert durch Netzwerkzusammenarbeit Innovationen im Materialbereich mit Unterstützung der Europäischen Kommission. Gleichzeitig verlieren tausende Steirer ihre Heizkostenzuschüsse, da sie aus der Förderung ausscheiden.",
-      "items": [
-        {
-          "title": "Netzwerkzusammenarbeit für Innovation: der Materialcluster Styria - European Commission",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMk9sNnppOFhMQ05nVFlhallHVDQtY2ZnQlk4cWhoSWQ4QUZZZC1LUnhUTzhxWnl5bzhadDh3eWFQWDZ1aG52ZDFZeG41c0FVLWczZE9NUmRqZ2RDb2dONnE5dVpyQkV1YTZmZTgxY09UWGRLNG1fSG5xRk43Q19kZFUybzNxMkFNUzEtaHNJY0JNTUVqSmk5RGxLMk4tY29PalhKNF8zb3lPb1ZENVpnSmEwYVJONUk3bkk0?oc=5",
-          "source": "European Commission",
-          "date": "11. May 2026"
-        },
-        {
-          "title": "Heizkostenzuschuss: Tausende Steirer fliegen aus Förderung - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSmpNYzBHU182RW5zRkVZQzVaOVZpTGxLbE83RFJ5NUFodmJQb3VQVkMtMzg5MXpqVm0yb1hYaFlhSE1nbURjZHgwSXZlOTljQ2Q3OW5HX3BlUU9RbFRmandIRHlxMGM4eEtBZ2tPY0VVNUR6TmQyVndjQXJzSHNLR21sSmY2U04wYnF1OHRudUxBRmdiTmcxUUFGQkRLc3ROVnJkUDFEaw?oc=5",
-          "source": "5 Minuten",
-          "date": "10. May 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "innovation": {
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark positioniert sich als wirtschaftsstarkes Bundesland mit wachsendem Fokus auf Gründerförderung durch internationale Investoren wie Hermann Hauser und etabliert sich gleichzeitig als führender Green-Tech-Standort, wie das erfolgreiche Energiecamp in Murau unterstreicht. Allerdings gefährdet die Unsicherheit um das Grazer ESA-Zentrum die technologische Infrastruktur und damit das Potenzial der Region als Innovationshub.",
+      "summary": "Die Steiermark positioniert sich als wirtschaftsstarkes Bundesland mit wachsendem Fokus auf Gründerförderung, wie die Ankunft des renommierten Investors Hermann Hauser zeigt, während gleichzeitig Green Tech und nachhaltige Technologien durch Initiativen wie das Energiecamp in Murau an Bedeutung gewinnen. Allerdings bestehen Herausforderungen bei der Sicherung von Schlüsselinstitutionen wie dem Grazer ESA-Zentrum, das für die technologische Zukunftsposition des Landes entscheidend ist.",
       "items": [
         {
           "title": "Steiermark im Ranking der wirtschaftsstärksten Bundesländer - Industriemagazin",
