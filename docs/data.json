@@ -1,30 +1,18 @@
 {
-  "generated": "19. May 2026, 06:34 UTC",
+  "generated": "20. May 2026, 06:34 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Steiermark positioniert sich als wirtschaftsstarkes Bundesland mit großer Attraktivität für Fachkräfte und zeigt durch strukturelle Reformen wie die Neuregelung der geringfügigen Beschäftigung positive Arbeitsmarkteffekte. Landesregierung und regionale Wirtschaftsakteure fokussieren gezielt auf die Sicherung und Entwicklung von Arbeitsplätzen sowie die Stärkung des Standorts durch intensive Unternehmensbetreuung.",
+      "summary": "Die Steiermark erlebt derzeit einen wirtschaftlichen Aufschwung mit großer Nachfrage nach Arbeitsplätzen, während gleichzeitig eine Neuregelung zu einer deutlichen Reduktion von geringfügigen Beschäftigungsverhältnissen um 65 Prozent geführt hat. Diese Entwicklungen dokumentieren sowohl die historische Bedeutung als auch die aktuelle dynamische Wirtschaftskraft des Bundeslandes.",
       "items": [
         {
-          "title": "Steiermark im Ranking der wirtschaftsstärksten Bundesländer - Industriemagazin",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcWswdlJqdEd6a2NMUmdCU3ZkdjllX3ZjakhnLW9TUWpTUjZobWdCalBjNVVqVGZpR2lsb1AzUnRWNDF0S3NhSmgwd29XWU9aTXhHQ0NDa0N1VV9kNnNSLUZlRXo0dkszRHhOLVFpM085d2lQdFQ3WkxzVHM5bGpuaE96d2FPQi1IMGF5MWNDODEyUll1MUc1M09OZVdObTdRRHF3YQ?oc=5",
-          "source": "Industriemagazin",
-          "date": "13. May 2026"
-        },
-        {
-          "title": "Bezirksforen gestartet: ÖVP Graz-Umgebung richtet Fokus auf Wirtschaft, Jobs und Standort - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZDJ0aXNCd1NuajFqVnZmb0hNTFJpRnh6LVo0bUY4OXlfaHNCWXZWeWM5U0hTcjlCZTMxc0NiX1hVVzIyVTZ0dGV1NnZaZzY1Y3RzYy1yQlBfdU9mcF9SUG1LRFBTSHY5TzNPNC1jcjdTNjVqeDBTSHVWZzVtdndmZDV4Y1Z6TVY2UHctTkxLMEMzb3VxMEtkbkZFOG9ZV3lqWTNVUTRmX1hSZnZZckw4NmJnU3M2cjkzeU5UbXQzeVVQdw?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "15. May 2026"
-        },
-        {
-          "title": "Hartberg: Landesräte besuchen oststeirische Unternehmen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLU9BWU9mVE9IVlFGakNkVzVBM2JJUUQ2djAtTXpraWFsUmpKUGhhWHJrYVV1ZUljeEpOa1ZIck5fZFR3V2JTN2Voc0hvZmhlYzhJZ2M3S1c4dGRCZ2stcmF1V1VZSWd6cW5zV2tQSTV0aEtFcGtRWU9VbnB6SXg0c0E0WVBJd29FYVg2dDJaaUNfWk9ad25NN1JjM1ZxZ0E?oc=5",
+          "title": "In diesen Tresoren steckt das Gedächtnis der steirischen Wirtschaft - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcmdBYXdLd1J4MlY2MHhIRGpmdVNwTTM5cUhOSW5zVUd2c05WT0thdUJhcGt4QURodXRQVnNpQW9RSWQxN1dYUmNPSXNFZ3FNLVNIal9nTFpISFNzWXp2dk9VcUU3NmU0Q1VFeTJPS1BPeDBueC1SOGZpUHpKeXV1WVdqbk81WlFDa2IzS04xVnprYmRESkNCLXZ4bmZUUnpCdmVMMWdKMHJaeVhIaDVONnh0VVg?oc=5",
           "source": "Kleine Zeitung",
-          "date": "16. May 2026"
+          "date": "18. May 2026"
         },
         {
           "title": "Steiermark boomt: Warum die Jobs im Grünen Herz Österreichs so begehrt sind - MeinBezirk.at",
@@ -44,13 +32,25 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark setzt strategisch auf Radtourismus und Pilgerwege als neue Schwerpunkte, während verlängerte Wochenenden und Semesterferien zu stabilen Nächtigungszahlen in Thermen und Hotels führen. Globale Krisen positionieren Österreich und die Steiermark als attraktives Urlaubsziel, wobei regionale Zusammenarbeit und innovative Betriebskonzepte das Tourismuswachstum unterstützen.",
+      "summary": "Die Steiermark setzt verstärkt auf Radtourismus und Pilgerwege als neue Schwerpunkte ihrer Tourismusstrategie, während gleichzeitig Semesterferien und Kurzurlaubstrends positive Nächtigungszahlen generieren. Durch koordinierte Vermarktung und innovative Angebote wie die neuen Radpilgerwege nach Mariazell positioniert sich die Region als attraktives Tourismusdestination für verschiedene Zielgruppen.",
       "items": [
         {
           "title": "2027 bringt Neuerung - Semesterferien in der Steiermark: Positive Bilanz - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5WUDNBSlRvb1dQTUlsS2dmQkVxWFl3WTNsMW5vT2FkazZWZTdtQzRsMl96WjNlWXZzWG9ta2ttanFmWFdweHcw?oc=5",
           "source": "Kronen Zeitung",
-          "date": "17. May 2026"
+          "date": "19. May 2026"
+        },
+        {
+          "title": "Steiermark: Vier neue Radpilgerwege nach Mariazell eröffnet - religion.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KWXMxcVJfSEZERnBHbzB2RERkS19WaVNKMmFlQnAyN0lYemowUkJ2SG1rWGVLRUx1M3lGWm54VlBYTFExampHMHM0cnA0bmFMV1E?oc=5",
+          "source": "religion.ORF.at",
+          "date": "19. May 2026"
+        },
+        {
+          "title": "Das Salzkammergut will gemeinsam stärker werben - kommunal.at",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2TGxuajhCNFZyVFZrczBJSGlCWldJT3daQ3p2alN5Q1F0amRyczNCbEhsYzIyTjc1WDlxUDhxWFRTWlpWY21OZ3A2a2haeFJIN09uT09KY3pYRFJlQzVPOWNCdE56dzhpc0hTRVdTdHU2SHJseDVN?oc=5",
+          "source": "kommunal.at",
+          "date": "18. May 2026"
         },
         {
           "title": "Pilgern mit dem Rad: Tourismusverband setzt neuen Schwerpunkt - Kleine Zeitung",
@@ -65,10 +65,10 @@
           "date": "16. May 2026"
         },
         {
-          "title": "Das Salzkammergut will gemeinsam stärker werben - kommunal.at",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2TGxuajhCNFZyVFZrczBJSGlCWldJT3daQ3p2alN5Q1F0amRyczNCbEhsYzIyTjc1WDlxUDhxWFRTWlpWY21OZ3A2a2haeFJIN09uT09KY3pYRFJlQzVPOWNCdE56dzhpc0hTRVdTdHU2SHJseDVN?oc=5",
-          "source": "kommunal.at",
-          "date": "18. May 2026"
+          "title": "Radtourismus: So tritt der steirische Tourismus heuer in die Pedale - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcjY3LWRBMTUwSkNPcWlUVmJjQkQydm5LOGNtUmh6ZktzcWlwYjl0VlRUdVJKamdVa3dBWlBlTDZ5YlRpWDNsLWcyRjR3TmdMQy1idl8yMXVTNy1iRjJVVkduN1NEM2JvbUNUaTh6RmFZNjZIbXdEbnRaY0hBRVdVZERqZml0d0R2YUZHTTdRMEQ4dmFaZFZRTllZUldCRVVQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "13. May 2026"
         },
         {
           "title": "Familienbetrieb NOA-Hotel setzt auf Eleganz - steiermark.ORF.at",
@@ -77,22 +77,10 @@
           "date": "16. May 2026"
         },
         {
-          "title": "Radtourismus: So tritt der steirische Tourismus heuer in die Pedale - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcjY3LWRBMTUwSkNPcWlUVmJjQkQydm5LOGNtUmh6ZktzcWlwYjl0VlRUdVJKamdVa3dBWlBlTDZ5YlRpWDNsLWcyRjR3TmdMQy1idl8yMXVTNy1iRjJVVkduN1NEM2JvbUNUaTh6RmFZNjZIbXdEbnRaY0hBRVdVZERqZml0d0R2YUZHTTdRMEQ4dmFaZFZRTllZUldCRVVQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "13. May 2026"
-        },
-        {
-          "title": "Verlängerte Wochenenden füllen steirische Thermen - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LVVNoTEVuVmdPVEdrN2w0dk1WUWYzRnA0aERzSHlSWUxfM2FkVXQ0MnQwaGxyWElkQ2JlYktBUExyYUQzQzd4Q2F1d2VGbGVfZi1yeQ?oc=5",
+          "title": "Kurzurlaub: Mittelmeer liegt im Trend - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FSDhJNjlEcHRIeGFjS0JHQXN0Q25uMU9Dc0x0RGVWcG45OFNoRzlOczhpVWlZbzVXZ2U5QVNOT0lkTGJQRjVCN2FWSUJQMlp3bGRRaA?oc=5",
           "source": "steiermark.ORF.at",
-          "date": "15. May 2026"
-        },
-        {
-          "title": "Tourismus zu weltweiten Krisen: „Als Urlaubsziel wird Österreich profitieren“ - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZEdLR3JRRndxaFpQOTdCQVZGcEQ5aGUtQkdiT0ZNNkxXOUxEelRsajl5eTllQ3p4a29iOUtEUzBWNXd3MXBGZHJxci00anp0bGttaVlLQkhnS0NHYkFzd3JzMUhYVGZlOUdYQXJqYWMwenNoeFNfNHJpZ1NDTG5BLW1KS1pSZlhvNVNyeEpiUWloWDNaajRPOVJNZUNzU2RQZnVPSWJIcnFycnc?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "13. May 2026"
+          "date": "14. May 2026"
         }
       ]
     },
@@ -100,14 +88,8 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Steiermark etabliert sich als führender Forschungsstandort mit innovativen Projekten wie der Züchtung von Mini-Plazentas an der TU Graz und der Entwicklung neuer Technologien für die Pharmaindustrie, während gleichzeitig das Energiecamp in Murau Green-Tech-Lösungen vorantreibt und die Region durch attraktive Arbeitsplätze im Bereich nachhaltiger Technologien boomt. Neben diesen technologischen Fortschritten wächst auch das gesellschaftliche Engagement für Wissenschaft, wie die steigende Bereitschaft zur Körperspende und die verstärkte Öffnung der Universitäten gegenüber der Öffentlichkeit zeigen.",
+      "summary": "Die Technische Universität Graz macht Fortschritte in der biomedizinischen Forschung durch die Züchtung von Mini-Plazentas und die Entwicklung neuer Technologien für die Pharmaindustrie, während gleichzeitig mehr Menschen ihre Körper der Wissenschaft zur Verfügung stellen. Die steirischen Universitäten öffnen sich der Öffentlichkeit und tragen damit zu einer wachsenden Attraktivität des Forschungsstandorts Steiermark bei.",
       "items": [
-        {
-          "title": "Murau: Green Tech, große Namen und klare Botschaften beim Energiecamp - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOE9TYUFwZW5wODM2d1M3eHdYMGJIeXV2cHVGbklkMHdfejhFQ29URnpTZ0QyYmRwZWJMVnZZRFc5T1hTWkRicjkzc1otV0FmeVVhSnV1WWZqWXJ0bEN0b0ZlS2d3cjIwMnZGVXRYbTM3M3pmd1pHSFgtamZDNmR5SHlBam5uUWNqbFZyVzBPN05tQUt0X01uTUFHSW9OSzhZLXlPMA?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "12. May 2026"
-        },
         {
           "title": "Trotz hoher Kosten - Immer mehr spenden ihren Körper der Wissenschaft - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ES3hScmg5bjNIV25sd3Rramw4RDllZk5RVklscV96Rk5zT0NjRkkxTnFfdWd3cTRVMDI0N1pfRTEtQQ?oc=5",
@@ -127,27 +109,27 @@
           "date": "13. May 2026"
         },
         {
-          "title": "Steiermark boomt: Warum die Jobs im Grünen Herz Österreichs so begehrt sind - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUE42d1VMYldFdi1qdXFMTXZRSzMyU28wV1NRWWFmUmFVcElxcHc1NVlnRFc2MC0zLXd3b0hKNk5ReE1lTmsxYm56VlFwTnVwNkRpSTByV21mT0x3Zzk4bTR4U0w4SE9aSURvci1ZWHFhMWlyd0hzTG9QTDRST2hGdGlTd09uWU1BQWNPU0NDMTBrN1F2RzZ2b21ZcVN3MnFZOG1NNlJGR3F4V3A3amRLeTQzeUlydXNMT2c?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "13. May 2026"
-        },
-        {
           "title": "TU Graz: Neue Technologien für Pharmaindustrie - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GZ1JwaUhnMHRvbHBmWk5aSU04ZF93SXluQ1owV2tpY3JVZzJTNHN4cWtxVkRBZkF1WC1pMFlrU25faHNBV2NTUU9ncTJLdGIwNHJOaA?oc=5",
           "source": "steiermark.ORF.at",
           "date": "18. May 2026"
         },
         {
-          "title": "MedUni Graz: Stoffwechsel unter der Lupe - Klipp Magazin",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdEhBZkl1Q0VqX3U5Y3B4RFh0Z0RMSERiVUIzNHY1UElsUXVhSGpxNVlwektaa2FFWUN5SklTYlZqMkxtejJtTU02YzFRakV5U0ZFb3J1X080TDJxYlAwMWVleS1SV1dPNTdneXZsOFNUX2FQd1l0VHNldWwtcXVXUlNJbzRaNlE?oc=5",
-          "source": "Klipp Magazin",
-          "date": "18. May 2026"
-        },
-        {
           "title": "Uni Vibes 2026: Universität Graz öffnet ihren Campus - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ2FCdDlURDAwbktJNzFqN2M2VEJNVE5jWXZuSENOZW5fUzU5ZFg1dlpTOS1fSnVZZzhTS25kNDF5SmVFbW5VdVdzVXR5bmJvbVdwRnBvRmJPSjVsVjI5dmlpRERDT2lQeEp0UDFCZ2pIN25NbW9UUjhlbXU3eld3WlFIRmJSYUFKRkI1V2tEblZPSzVnR2plag?oc=5",
           "source": "5 Minuten",
+          "date": "18. May 2026"
+        },
+        {
+          "title": "Steiermark boomt: Warum die Jobs im Grünen Herz Österreichs so begehrt sind - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUE42d1VMYldFdi1qdXFMTXZRSzMyU28wV1NRWWFmUmFVcElxcHc1NVlnRFc2MC0zLXd3b0hKNk5ReE1lTmsxYm56VlFwTnVwNkRpSTByV21mT0x3Zzk4bTR4U0w4SE9aSURvci1ZWHFhMWlyd0hzTG9QTDRST2hGdGlTd09uWU1BQWNPU0NDMTBrN1F2RzZ2b21ZcVN3MnFZOG1NNlJGR3F4V3A3amRLeTQzeUlydXNMT2c?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "13. May 2026"
+        },
+        {
+          "title": "TU Graz erforscht neue Technologien für Pharmaindustrie - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ2tHYmFORnd1eTA5bjE3c3ItSGVIZFJsN0xSUWx6aDZHTkVieGZaT01ZbHNMdGNMeTA1Yk9IaUtwUi1Vc1BNbmZhemEtRjM5TmI3NTR0VGFuT0ZNMHg3RTBfc1pIZnlkLTFHSWdOdmJDSHNJRWNZeVl0YUo4WjFTU1gyUUlhZ3dPeGNIVndIeEZ4ZGdwM0syaXZrZHlIbkE?oc=5",
+          "source": "ORF ON",
           "date": "18. May 2026"
         }
       ]
@@ -156,14 +138,21 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Das Land Steiermark führt einen neuen \"Sanierungspass\" ein, um die Probleme bei der Gebäudesanierungsförderung aus dem Vorjahr zu beheben und für mehr Transparenz und Planungssicherheit zu sorgen. Mit dieser Maßnahme reagiert die Landesregierung auf das Förderchaos der Vorperiode und will künftig eine bessere Abwicklung der Sanierungsförderungen gewährleisten.",
+      "items": [
+        {
+          "title": "Neuer \"Sanierungspass\": Land Steiermark zieht Konsequenzen nach Förderchaos im Vorjahr - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMmdWV2dhaE5EcWQzSTF3emlOTFc1X05abmk5c3pGSEN4dHNYVUFEWHl6V1cxVU1YNUE0X3laNWNkSTMwMy04amprOVRDdGljc0pmNE9jUW9MWkhfeVFReUFEN1JxZmkxTGRrbzZOQUpuaGxfMmJjX3Vtcmk0Tmx2dkJMUlUzOXZmcThNYzdkV3lLTFFFUEl4enVpeG02b1c4TTdpZ1JZV2NiSUdXWEl5OEZFQXJFS245ay1zNmRtSVgwQVlGQTJ5c1RuemxSUQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "20. May 2026"
+        }
+      ]
     },
     "innovation": {
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark treibt ihre Digitalisierung und Entbürokratisierung voran, um ihre Position als wirtschaftsstarkes Bundesland zu festigen, während gleichzeitig Green-Tech-Initiativen wie das Energiecamp in Murau innovative Lösungen für die nachhaltige Wirtschaft vorantreiben. Trotz dieser positiven Entwicklungen gibt es Unsicherheiten um strategische Infrastrukturen wie das Grazer ESA-Zentrum, das für die technologische Zukunftsausrichtung der Region bedeutsam ist.",
+      "summary": "Die Steiermark fordert verstärkte Digitalisierungsbemühungen zur Entbürokratisierung und wirtschaftlichen Modernisierung. Mit Initiativen wie dem Stadtteilfest in der SmartCity Graz wird die digitale Transformation generationenübergreifend in der Bevölkerung verankert.",
       "items": [
         {
           "title": "Entbürokratisierungsgipfel: Mehr Digitalisierung in der Steiermark gefordert - 5 Minuten",
@@ -172,28 +161,10 @@
           "date": "18. May 2026"
         },
         {
-          "title": "Steiermark im Ranking der wirtschaftsstärksten Bundesländer - Industriemagazin",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcWswdlJqdEd6a2NMUmdCU3ZkdjllX3ZjakhnLW9TUWpTUjZobWdCalBjNVVqVGZpR2lsb1AzUnRWNDF0S3NhSmgwd29XWU9aTXhHQ0NDa0N1VV9kNnNSLUZlRXo0dkszRHhOLVFpM085d2lQdFQ3WkxzVHM5bGpuaE96d2FPQi1IMGF5MWNDODEyUll1MUc1M09OZVdObTdRRHF3YQ?oc=5",
-          "source": "Industriemagazin",
-          "date": "13. May 2026"
-        },
-        {
-          "title": "Zittern um das Grazer ESA-Zentrum - PressReader",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTVE2VUJwX3R4eDBmc0Vpa2JSSHFzSU9qR2JqWmtTLTJwLUVaZExrbWFwQmRmd05oS0dIamJtdUttZmQ0ZnNXMnhQUFg3bUQtVzRuVmJrVTVQckV1YXpqOWc1RDB0T0czdDBWM0tzdWZCZ0RyMnJfbTBWLWZOeDVhc1FQOG9yeHJIdUZrdjU4bw?oc=5",
-          "source": "PressReader",
-          "date": "12. May 2026"
-        },
-        {
-          "title": "Murau: Mit der \"Green Tech Economy\" wusste das zwölfte Energiecamp zu begeistern - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc2xScmpFak5RdEUtZk5HVlJZTzBPcmxvekJSUEFaWHJYamhMaVVEeXVqWW93Z1FsbHQ2Y0NBQ25mamM5Mk5PckJnZVNubnZoTWdCcWJLaVdLS2JYam1rTEFEWDB3U3RtdFdyb2VpNzFUdG1nU0ZHUHMzdmxaSkh4UWZqeHA3Tm0tT0xlZnpoVWFtVFhXVkxBWTZ0S29Xa3RJMU05blFXanI2dGJMNVNuOFdPNHA1N05PemN5Sm80WTQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "12. May 2026"
-        },
-        {
-          "title": "Murau: Green Tech, große Namen und klare Botschaften beim Energiecamp - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOE9TYUFwZW5wODM2d1M3eHdYMGJIeXV2cHVGbklkMHdfejhFQ29URnpTZ0QyYmRwZWJMVnZZRFc5T1hTWkRicjkzc1otV0FmeVVhSnV1WWZqWXJ0bEN0b0ZlS2d3cjIwMnZGVXRYbTM3M3pmd1pHSFgtamZDNmR5SHlBam5uUWNqbFZyVzBPN05tQUt0X01uTUFHSW9OSzhZLXlPMA?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "12. May 2026"
+          "title": "Programm für alle Generationen: Stadtteilfest in der SmartCity Graz - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdmljSzh3bXoxZnp6VE0tZGppN1ZKazQ1N0JjYk1Rbm5obEtWLTZaVC1YR3ZhLTZjNDV4TGU0eVRWQ1BzOG1qNGZvRG5tOF9rWTZiTVFLV3NQMWF3RnBob0hZWFhOTVRuRFFSWXNxMjU5T0dacWRONWtQUlEwUXdQdVBMVmpPdldyOUVHWDVEcWJ3LWNUNWNkS1BfM2NxRWpSN3AxYlN1R0hOcGc?oc=5",
+          "source": "5 Minuten",
+          "date": "16. May 2026"
         }
       ]
     }
