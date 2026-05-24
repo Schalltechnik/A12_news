@@ -1,30 +1,18 @@
 {
-  "generated": "23. May 2026, 05:54 UTC",
+  "generated": "24. May 2026, 06:22 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Steiermark erlebt derzeit einen wirtschaftlichen Aufschwung mit großer Nachfrage nach Arbeitsplätzen, wird aber durch Sparmaßnahmen des Bundes bei Universitäten und ungeklärte Fragen zur Mehrwertsteuersenkung belastet. Die geplanten Kürzungen von 500 Millionen Euro gefährden tausende Arbeitsplätze im Hochschulsektor und könnten die positive Entwicklung des Standorts erheblich beeinträchtigen.",
+      "summary": "Die steirische Wirtschaft zeigt sich mit positiven Arbeitsmarkttrends und teilweise erfolgreichen Nahversorgungskonzepten resilient, wird aber durch Bundessparpläne bei der Universitätsfinanzierung und Herausforderungen bei großen Unternehmen wie AT&S belastet. Strukturelle Unsicherheiten entstehen zudem durch offene Fragen zur Mehrwertsteuersenkung, während Führungswechsel in Finanzinstitutionen wie der Raiffeisen Landesbank Neuausrichtungen signalisieren.",
       "items": [
         {
-          "title": "Mehrwertsteuersenkung lässt Fragen offen - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYV1YwXzB4VWJ6Q2wwMGJyQ3BkNEtRZjVnUEVaQ3B1TFY1eERfTkdSSzBrQU5kV2JFTW1tMFNNSXEwb3lDdF80clk0SXdaVHBDU2x6aw?oc=5",
+          "title": "Nahversorgerkonzepte teils erfolgreich - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfSEJrT0FpTWtUWkUxUG53cGlpNGxwWHoyeXkyZXZkR2x3clR6N285ejdEWGo0RVNHWHFoZk44aHVmQ0x6RnRLeWxGRV9XUGdwVk14aQ?oc=5",
           "source": "steiermark.ORF.at",
-          "date": "22. May 2026"
-        },
-        {
-          "title": "Das Wirtschafts-Match Oberösterreich gegen Steiermark - Oberösterreichische Nachrichten",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb29JeHdIMGFTaEUtVXlwMjE2b1FvR0ZwZllEaHRST0RMWlBiTVFyTXI4YmV3OU4wSVJDdWw3cF90ODVON29kU2lHVGI0MkQ4d05JVGFZYWx6dlNmMnh3WDFKN1Z0MngyRnZxN25TNkRVUG5mUUtpRWVqRUhBQ0RNUFAxbVFMZktqcG5XTmUtSUYzSy1wQ25SaDl2VFpOUjVBLV9GTA?oc=5",
-          "source": "Oberösterreichische Nachrichten",
-          "date": "22. May 2026"
-        },
-        {
-          "title": "Steiermark boomt: Warum die Jobs im Grünen Herz Österreichs so begehrt sind - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNDZ3WTVrdndvN0xLYnA2cHJTSklNNzVTWmtsY3pHaXRDU2tmMmdkTWdHb01MUlZxSjJzeTVhcGg4OGYzRDRtOTY0SkxKanBQcnp4OFZibExzbzZPOXdFT3hsV0k1M01QUEV5eDIzYm1Qb2Rud2Z5V0RxTnhFWmt2RHMtejRfTEduUHhrd1Y0dGl6WjlLN1VxWnE3LVJfN3BMd29vRlBZZExweVMwTW1LN2MyZWxGNFMxQW1naldrWWlKdw?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "21. May 2026"
+          "date": "23. May 2026"
         },
         {
           "title": "Sparpläne des Bundes: 500 Millionen Euro gestrichen – steirische Unis schlagen Alarm - MeinBezirk.at",
@@ -33,22 +21,40 @@
           "date": "20. May 2026"
         },
         {
-          "title": "Ausbildungsleitertagung bei der Pankl Racing Systems AG - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNmxuVUZTbkdfaDBub2JJN0Z4aHZsUVNMd08xZEprZWNhcVNHTUZoZXEwUnotcVhSSHA0X0RGWklMOHNiNjRhQ0pZOTFZRHdGMW1JNUVFanNwdHg0dU5adkZWVk45aXIzZmRNN2NEWllwM3VkYWU3aGlzakprVTJ5M3NqODYxNXI5VE9yUHRMUFBMZEhIQmdtcFN4ZHdST1lPVnNzLTBEMHdGdW1zV19XNHhzd0VEeXM?oc=5",
+          "title": "Franz Pichler neuer Vorsitzender: Raiffeisen Landesbank: Wechsel an der Spitze des Aufsichtsrats - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQkNkYzlRLU5uOGpObGpwek5Ba3daZWdtNkZZZ192Qndqd29SLW9kZFc1UEpMSncwQWxTRkQyVE9oLTJfQTlnYlJySDYtUE54Q1loam96OERSLWduckJYTTVuN2JnenBHLVBTUGdNYld3eWFOOUI0bEdpVjV3dU95WkxIWXQtR1lVbnZyZmhrVlNfLXZRcFZvZUxRbGFsaUhYOXFhOGo1QUExOWs?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "21. May 2026"
+        },
+        {
+          "title": "Mehrwertsteuersenkung lässt Fragen offen - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYV1YwXzB4VWJ6Q2wwMGJyQ3BkNEtRZjVnUEVaQ3B1TFY1eERfTkdSSzBrQU5kV2JFTW1tMFNNSXEwb3lDdF80clk0SXdaVHBDU2x6aw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "22. May 2026"
+        },
+        {
+          "title": "Franz Pichler übernimmt von Josef Hainzl: RLB Steiermark hat neuen Aufsichtsratsvorsitzenden - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYmRrajRGU3NPRUVXVTJmUlpIU0oyU2FXQXcwVzRUMFNobUprTzZtLVhWYi05ZDN0X2J0Z2w4SlJhenR1OGkzdDNPYkItb0NZREItTkpQdktVWlN4Nkl3UW9rY0k5Vm41VnNQd0ItNU9wcFp6UVlGT0tBREJHa25OSGhvU1ZNQS1kUUxRREF0aFlsWnctTXhQdjZjcFVkTWFzVW1kVDJUZTdIWjhSWkhIS1hn?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "21. May 2026"
+        },
+        {
+          "title": "Nachhaltigkeitstag 2026 - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPUFNEdklLQTVaaE9tbENKNFU1c1haallyU19pTDE1MVBMMV9RME9fU2Z5eFVUQTFLVHZ1dHN6Vi1RMzRPLTY5UFRqdGFtZ2tSNXRudDcyUWVjSmc?oc=5",
           "source": "wko.at",
+          "date": "19. May 2026"
+        },
+        {
+          "title": "AT&S rutschte in die roten Zahlen - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZMTF0cFhleVBsWm5tdGxybUhPeWFpQVZCRWg2VVZNOFRWa1piRWhSRExfR0l0ZlZRanRHUkx5MkJLTm1wVDRPWTNvNFNWZmVxQlNYRQ?oc=5",
+          "source": "steiermark.ORF.at",
           "date": "21. May 2026"
         },
         {
-          "title": "„Finger weg von den Unis“: Einsparungen könnte tausende Jobs kosten - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa0g4NHVjWWQ5S1JlS0FCajY4cno4djZ6Rk5WMVIxYzRIWTRrSy03WkI5ejI1djJpanhnYkw2Q2VaTGp3Tmd2MUhZeGRxa3lseXAzVENOcjY0MkNUM2MwWkFKM25xajh2aGtlLTVjeF9XQjUzTWYyMkZrdWRGMUVxSUpsc0E1a0J0R1RWTmhfVHplOGJyZ293bnZKVU5zenVrbVNZUVV4bEMyZWpCNXViVQ?oc=5",
-          "source": "5 Minuten",
+          "title": "Steiermark boomt: Warum die Jobs im Grünen Herz Österreichs so begehrt sind - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNDZ3WTVrdndvN0xLYnA2cHJTSklNNzVTWmtsY3pHaXRDU2tmMmdkTWdHb01MUlZxSjJzeTVhcGg4OGYzRDRtOTY0SkxKanBQcnp4OFZibExzbzZPOXdFT3hsV0k1M01QUEV5eDIzYm1Qb2Rud2Z5V0RxTnhFWmt2RHMtejRfTEduUHhrd1Y0dGl6WjlLN1VxWnE3LVJfN3BMd29vRlBZZExweVMwTW1LN2MyZWxGNFMxQW1naldrWWlKdw?oc=5",
+          "source": "MeinBezirk.at",
           "date": "21. May 2026"
-        },
-        {
-          "title": "Job-Angst an Unis: Jede fünfte Stelle in Graz und Leoben wackelt - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV2xGWnZQRkxiVDNTai1tWFpYMTJoNmdMcnFkaDlfcWlGRUJ2TWc4YVRBUEJ4cW1pTUR5aUZGdG8tbTZEUkNqYUtSdnpuVnYzMXpUQ1lmSTMyVmtUTnZjN2JoWmZvZnphcEJjekJYM0xZTjVIUk96dk9NWVZaTGs0eEtERFZUOFNKbzFwWDJWNmdrVmg0T1ZHSklwaE9taWtjcGh0RWJramVJMmR5eEJr?oc=5",
-          "source": "5 Minuten",
-          "date": "20. May 2026"
         }
       ]
     },
@@ -56,13 +62,13 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark setzt verstärkt auf innovative Tourismusprodukte wie neue Radpilgerwege nach Mariazell und optimierte Semesterferien, um zusätzliche Gäste in bislang weniger besuchte Regionen wie die Hochsteiermark zu locken. Gleichzeitig zeigt sich der Tourismus in etablierten Destinationen wie bei steirischen Seen robust, während regionale Zusammenschlüsse wie das Salzkammergut durch koordinierte Vermarktungsstrategien ihre Wettbewerbsfähigkeit stärken.",
+      "summary": "Die Steiermark setzt verstärkt auf innovative Tourismusprodukte wie neue Radpilgerwege nach Mariazell, um zusätzliche Besucherströme in bislang weniger frequentierte Regionen wie die Hochsteiermark zu lenken. Gleichzeitig zeigen positive Nächtigungsentwicklungen und regionale Kooperationen, dass die Steiermark ihre Tourismusstrategie erfolgreich auf Erlebnis- und Nachhaltigkeitstourismus ausrichtet.",
       "items": [
         {
           "title": "2027 bringt Neuerung - Semesterferien in der Steiermark: Positive Bilanz - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5WUDNBSlRvb1dQTUlsS2dmQkVxWFl3WTNsMW5vT2FkazZWZTdtQzRsMl96WjNlWXZzWG9ta2ttanFmWFdweHcw?oc=5",
           "source": "Kronen Zeitung",
-          "date": "22. May 2026"
+          "date": "23. May 2026"
         },
         {
           "title": "Tourismus-Highlight: Radpilgerwege sollen neue Gäste in die Hochsteiermark bringen - MeinBezirk.at",
@@ -71,9 +77,9 @@
           "date": "20. May 2026"
         },
         {
-          "title": "Vier neue Radpilgerwege nach Mariazell eröffnet - Kathpress",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWkFobFRXY0poTFFnOVo1NVpXdllJTURkai00ZEpDT0xHTG5RbXJ2S0xYempxc3o2N1VTRG1DRmJKSWRMT21PQU1JaXVtYTdMeVI4QV9mMFhfVEVzM0VRX3BoN055bTlnZEUwZWhPQ2tXdE1XLW1IZzNTMVRERmV1eGdqLVBQMWdFQy1kdUg0cVpfMEFUcWRkTlpB?oc=5",
-          "source": "Kathpress",
+          "title": "Steiermark: Vier neue Radpilgerwege nach Mariazell eröffnet - religion.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KWXMxcVJfSEZERnBHbzB2RERkS19WaVNKMmFlQnAyN0lYemowUkJ2SG1rWGVLRUx1M3lGWm54VlBYTFExampHMHM0cnA0bmFMV1E?oc=5",
+          "source": "religion.ORF.at",
           "date": "19. May 2026"
         },
         {
@@ -81,6 +87,18 @@
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2TGxuajhCNFZyVFZrczBJSGlCWldJT3daQ3p2alN5Q1F0amRyczNCbEhsYzIyTjc1WDlxUDhxWFRTWlpWY21OZ3A2a2haeFJIN09uT09KY3pYRFJlQzVPOWNCdE56dzhpc0hTRVdTdHU2SHJseDVN?oc=5",
           "source": "kommunal.at",
           "date": "18. May 2026"
+        },
+        {
+          "title": "Radpilgern nach Mariazell: Neues Erlebnis in der Hochsteiermark - GASTRO.at",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSW1aLWdoZU9rbV9xWmQzOS1hdE1CaGJVNk4yZjRyaEtYajVDbE5QUE83bkRFVGlyOHRJWnQ5a0g3cXRtcXk5UG9jVXExYzBHdTBON1l5Z296MU85dlZkbjhtMzcxblgtNVpVaFRkV0EzY0Ezam16Wl9vSGdENEJwMkFHWXQ?oc=5",
+          "source": "GASTRO.at",
+          "date": "19. May 2026"
+        },
+        {
+          "title": "Neue Pächter für einzigarte Berghütte in der Steiermark gesucht - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPelMxZlVqb3hIb2Z6TmUxOG53d2dpLUtJcUZJNG9BZDJtVWJUME5hOTBVcGdRdmxpVVMwTHV2UFhlRUpjeDIxcERfMkNRQkpBV282WGpZTWVFaUZXc01kTER5RzR1NnlFR1RrN21VdzZWLXpOUWxmTmVSemhwYkJfQ0xtOTRxUjJQeVhmNkNVU0x6YzlERkgyRDhHYTU3bkhyZlVMc0RiMzJfWVdZbW1RUG5n?oc=5",
+          "source": "5 Minuten",
+          "date": "17. May 2026"
         },
         {
           "title": "Österreich-Ranking: Dieser steirische See ist besonders beliebt - 5 Minuten",
@@ -94,8 +112,14 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Steiermark entwickelt sich als innovativer Forschungsstandort mit vielversprechenden Projekten wie neuen Pharmtechnologien an der TU Graz und nachhaltigen Baumaterialien, während gleichzeitig die geplanten Sparmaßnahmen an den steirischen Universitäten massive Befürchtungen um Tausende Arbeitsplätze und die Zukunftsfähigkeit des Wissenschaftsstandorts auslösen.",
+      "summary": "Die steirischen Universitäten und Forschungseinrichtungen wie die TU Graz entwickeln innovative Technologien etwa für die Pharmaindustrie und nachhaltige Baustoffe, während gleichzeitig österreichische Forscher vermehrt ihre Körper der Wissenschaft zur Verfügung stellen. Allerdings gefährden geplante Sparmaßnahmen und Budgetkürzungen diese Forschungslandschaft erheblich, da tausende Arbeitsplätze in der Wissenschaft und der innovativen Wirtschaft der Steiermark bedroht sind.",
       "items": [
+        {
+          "title": "Trotz hoher Kosten - Immer mehr spenden ihren Körper der Wissenschaft - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ES3hScmg5bjNIV25sd3Rramw4RDllZk5RVklscV96Rk5zT0NjRkkxTnFfdWd3cTRVMDI0N1pfRTEtQQ?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "19. May 2026"
+        },
         {
           "title": "Steiermark boomt: Warum die Jobs im Grünen Herz Österreichs so begehrt sind - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNDZ3WTVrdndvN0xLYnA2cHJTSklNNzVTWmtsY3pHaXRDU2tmMmdkTWdHb01MUlZxSjJzeTVhcGg4OGYzRDRtOTY0SkxKanBQcnp4OFZibExzbzZPOXdFT3hsV0k1M01QUEV5eDIzYm1Qb2Rud2Z5V0RxTnhFWmt2RHMtejRfTEduUHhrd1Y0dGl6WjlLN1VxWnE3LVJfN3BMd29vRlBZZExweVMwTW1LN2MyZWxGNFMxQW1naldrWWlKdw?oc=5",
@@ -133,12 +157,6 @@
           "date": "20. May 2026"
         },
         {
-          "title": "Uni Vibes 2026: Universität Graz öffnet ihren Campus - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ2FCdDlURDAwbktJNzFqN2M2VEJNVE5jWXZuSENOZW5fUzU5ZFg1dlpTOS1fSnVZZzhTS25kNDF5SmVFbW5VdVdzVXR5bmJvbVdwRnBvRmJPSjVsVjI5dmlpRERDT2lQeEp0UDFCZ2pIN25NbW9UUjhlbXU3eld3WlFIRmJSYUFKRkI1V2tEblZPSzVnR2plag?oc=5",
-          "source": "5 Minuten",
-          "date": "18. May 2026"
-        },
-        {
           "title": "„Hiobsbotschaft für Graz“: Elke Kahr warnt vor Folgen der Uni-Kürzungen - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRWVzb3dlN09aMDJDdndqTmUwNkRTWUJUSkcydG9pcXZId0Q5bVFIQmN2TnZadzUwdGx1TktsVTFpVDlaRXJvZDh4Nk1tbTNrR0o0TkZ1WGxWSDZ6Vk9hbGJHXzE1S0F5X1NnUHZZRFh5QjhxVVpPdUlGQW8yalNLeDVETUJ6Z05uTW5RSGw5QThjR2xBY0plQ1Z5eG9HbnZ1UHk3c3p3SkZxZ1NfLVZN?oc=5",
           "source": "5 Minuten",
@@ -150,19 +168,13 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Das Land Steiermark führt mit dem neuen \"Sanierungspass\" ein verbessertes Förderinstrument ein, um die Probleme bei der Gebäudesanierung aus dem Vorjahr zu beheben. Parallel dazu unterstützt die aws (Austria Wirtschaftsservice) innovative Spin-offs wie Terra Atmos mit sechsstelligen Förderungen, während die WKO Steiermark Gründerinnen und Gründer durch ein ganzheitliches Ökosystem aus Förderungen, Netzwerken und Wachstumsprogrammen begleitet.",
+      "summary": "Das Land Steiermark führt einen neuen \"Sanierungspass\" ein, um die Förderverwirrung des Vorjahres zu beheben und transparentere Abläufe zu schaffen. Die Wirtschaftskammer Steiermark unterstützt Gründerinnen und Gründer durch ein ganzheitliches Begleitprogramm mit Förderungen, Netzwerken und Wachstumsmöglichkeiten.",
       "items": [
         {
           "title": "Neuer \"Sanierungspass\": Land Steiermark zieht Konsequenzen nach Förderchaos im Vorjahr - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTWg2Wnd2UzJlOW8weXBWQ09IUHpoVGtYOFIwQ1pTdEg4T0c1MzhqUnJrZmJZc1lMaU0tcC1WdkVpOXo4eGM5TndBa2lzcjVnUWgtUmFFM2lYc2dzYUx6MDNSZGcwOEVLNWxSb1dla01Xcy13RF9JRTMzUkNmXzRMRV9SdWpEaU5Zb2pGZFdRa3p6eFlGcmRBSXhyOGVHVUFCYm1IaFpaNFZ6Si1xdkMzZXJwYWtac0w2LUZ4MUJHNA?oc=5",
           "source": "MeinBezirk.at",
           "date": "20. May 2026"
-        },
-        {
-          "title": "Terra Atmos: Spin-off der Uni Innsbruck sichert sich sechsstellige aws-Förderung - brutkasten",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOTBwaWdZTzFmXzhvTFpCalN5T0ZPTmtUUHhYMnpkMGYyWHVOeGJIM3FNS3hIMXdEU0FMbVY1VzIyWlh4cy1qd0c1YnA5aDNNS3ZKY0JKNktzc29Xb2czZ3lXNmZGcHNLSk0wOU9HUXBuMGVrMU1KR3dOQ3d5NmVDV0VaM3MyRHdIUHk1U0hXQkdJekdHWFVReWV1ZEJWcnZwaFFUYUZmeHpZWlVacDA1RnhmYw?oc=5",
-          "source": "brutkasten",
-          "date": "18. May 2026"
         },
         {
           "title": "Förderungen, Netzwerke, Wachstum: WKO Steiermark begleitet Gründer:innen ganzheitlich - trendingtopics.eu",
@@ -176,7 +188,7 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark fordert verstärkte Digitalisierungsmaßnahmen zur Entbürokratisierung und nutzt künstliche Intelligenz als Chance für Betriebe, um ihre Wettbewerbsfähigkeit zu steigern. Das Bundesland profitiert dabei von seiner Positionierung als grüner Technologiestandort, der zugleich attraktive und zukunftsorientierte Arbeitsplätze schafft.",
+      "summary": "Die Steiermark fordert verstärkte Digitalisierungsmaßnahmen zur Entbürokratisierung und besseren Wettbewerbsfähigkeit von Unternehmen. Gleichzeitig eröffnen sich für Betriebe durch den Einsatz von künstlicher Intelligenz neue Geschäftsmöglichkeiten und Effizienzpotenziale.",
       "items": [
         {
           "title": "Entbürokratisierungsgipfel: Mehr Digitalisierung in der Steiermark gefordert - 5 Minuten",
@@ -195,12 +207,6 @@
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVWZkV2toNzBOanlrOGJLNWFVUVhtVllucXF2b01UWExmb3RXbm1vNkJIWXFJSFpkQVRPVHRYcDROTU0yWDdyNFVPbmNFR09vTDhvQUNqdHhtWmdvZkYyRHA2MG1yQTVFOWp6OGxUcFNKMlNYSERNWUhVeUxNYVZ5Z25HV1pVSnpFUUg4ODBfOEhpRldmcHEzcEFiNVpKemJtU0gxVjc0ekZpem1xZW5oaDFfVElTTXA3OWh5N3hZSjlTYkhwYXJwckxwOA?oc=5",
           "source": "MeinBezirk.at",
           "date": "22. May 2026"
-        },
-        {
-          "title": "Steiermark boomt: Warum die Jobs im Grünen Herz Österreichs so begehrt sind - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNDZ3WTVrdndvN0xLYnA2cHJTSklNNzVTWmtsY3pHaXRDU2tmMmdkTWdHb01MUlZxSjJzeTVhcGg4OGYzRDRtOTY0SkxKanBQcnp4OFZibExzbzZPOXdFT3hsV0k1M01QUEV5eDIzYm1Qb2Rud2Z5V0RxTnhFWmt2RHMtejRfTEduUHhrd1Y0dGl6WjlLN1VxWnE3LVJfN3BMd29vRlBZZExweVMwTW1LN2MyZWxGNFMxQW1naldrWWlKdw?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "21. May 2026"
         }
       ]
     }
