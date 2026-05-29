@@ -1,18 +1,48 @@
 {
-  "generated": "28. May 2026, 06:38 UTC",
+  "generated": "29. May 2026, 06:40 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die steirische Wirtschaft zeigt sich dynamisch und zukunftsorientiert, wie die Aktivitäten der Jungen Wirtschaft, erfolgreiche Gastro- und Nahversorger-Initiativen sowie das anhaltende Vertrauen in Großprojekte wie die Aichfeld-Stadt demonstrieren. Gleichzeitig entstehen Herausforderungen durch steigende Infrastrukturkosten und Logistikprobleme, weshalb das Land verstärkt in die Verbesserung der verkehrstechnischen Anbindung investiert.",
+      "summary": "Die Wirtschaftskammer Steiermark unter neuer Leitung von Eva Liebmann hat ein ambitioniertes Sparpaket beschlossen, das bis 2030 etwa acht Millionen Euro jährlich an Kosten einsparen soll, um damit Betriebe zu entlasten. Damit reagiert die WKO auf wirtschaftliche Herausforderungen wie steigende Materialkosten in der Baubranche und positioniert sich neu für die Unterstützung der steirischen Wirtschaft.",
       "items": [
+        {
+          "title": "WKO Steiermark spart bis 2030 jeden zehnten Ausgaben-Euro ein - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaEc4QW9aS1BTM285UGdpb0tVN0Q4a1lRV0hQQkNFNWRKRGkwazRfcVVZeEdOSkZoSUIxaUYtRFZScy1pTVl3S1FmQm9zVVUzbHVuUWx5WHFUdmsxdkNNTndDcGNqMjZRTEY5aUJKbU1Udm9pWmZBeFBodXF1Z0RZNTctUkFvZU5ZOGhXRmJrblV1SE5F?oc=5",
+          "source": "wko.at",
+          "date": "28. May 2026"
+        },
+        {
+          "title": "Josef Herk holt Managerin Eva Liebmann an die Spitze der WKO Steiermark - Der Grazer",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMm9oN0pIZkl6X0dmTXdCY2kxRFRZZW11dzRoRERraUI1XzRZVVVOZzZKanlhcklkeEJ0M3ltOGJJajlYZ2lzYlFrM0F0ZDQzZTJkMTJaRTQ0WDl1WTVHSFlueXd6T29GTEJFRmRMOVJaSVZBcDZGYWJwalhQREJxSkdXQ1hxbUtQNVNCWi1wZw?oc=5",
+          "source": "Der Grazer",
+          "date": "29. May 2026"
+        },
+        {
+          "title": "Eva Liebmann: Wer ist die neue WKO-Steiermark-Direktorin? | Josef Herk - wirtschafts-nachrichten.at",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU3RnOGI1bGZ0UXVNWjRFc29MVzNjTVJKSkpWZXdPWTVwRGFBZWp2V3gxc1FvRVh3MWREV1FuQVVrMG5hb2FJTFA1TlB4Q3c5SWhVMUFTYXlNcWRBeVVmRzhXemJHT2l1N1VjR1IwNm9Odjd2ekJzNVFIM3B0NlNMd2EwRDlnRXJWUTEzNmZrOTIwMmVjREVzbG1rSXltcU5HQ2EzZnpJc0xDQndhTk1iQ3h1aU9Jdw?oc=5",
+          "source": "wirtschafts-nachrichten.at",
+          "date": "28. May 2026"
+        },
         {
           "title": "Tag der Kfz-Wirtschaft Steiermark - autoundwirtschaft.at",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40M19ySFlMam9Ca0RmQ2lkNm5qU1pVZW5oT2RiZjcwZEpiQ0xYT2FNUmM3T2E1N0QzLUZBbXhwNzNtWXhNME8zWVRLWTZHalB5aGtpaC1EUU4tRkhnVkZkT0tBZ1dwenVOeTlMV2QwelNmMXE4eGtvWVJB?oc=5",
           "source": "autoundwirtschaft.at",
           "date": "26. May 2026"
+        },
+        {
+          "title": "Steirische Wirtschaftskammer will laufende Kosten um acht Millionen Euro senken - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNXzhURTlIN0cwUWU3NlZEb29RaXU2RHpieHgzeEZjOWJndFpCRVdPMGRkZlUxNkxXSU1TbjVRVEpKNm1UdEhIMGpSWXAyOW5CaTRBYlg2Zi1kS25BdGtLNnpGUUcxaFA2MnpLRkdjY0hiV1BpblAxV2E4SDRVT0N3ZUZyRWxRdHpNWGlRd0Z5ZzF3MjcydzEweWp6b0dwMkVsek9iY2VmN3g5RC1MSnM4WS1Qcw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "28. May 2026"
+        },
+        {
+          "title": "8 Mio. Euro pro Jahr - Steiermark: WKO-Sparpaket soll Betriebe entlasten - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1rWnl0end2THUyMzIwYmpDT1hSVmtIcXJ5LXByOGNUekNwaXpldy1JdzFfVTlqd0VnWHdneVYxeG1ZUQ?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "28. May 2026"
         },
         {
           "title": "Steigende Asphaltkosten belasten Projekte - steiermark.ORF.at",
@@ -21,40 +51,10 @@
           "date": "24. May 2026"
         },
         {
-          "title": "Nach Erfolg im Vorjahr geht die Gastro-Aktion in Runde zwei - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbGZuMFhYZ1BVbjl4ZjEwOEktcG9ibHplYnpqLWRyQWF1QXFMU1E4bkY2U2I1MGw4SFkydk93VWk4TGFnTHota21TU3VjTmVMSjRKWU15WEM2YTdqU18yLWpFT1JnNUlRSmU0OGpYM0NaaXdUZTlBcmwxTlNrMXdtaHV2ZXRYWDczdHVQSVJCdGV3MmZwYjhySHBkRElUX0VwbTJQQ09LM0FGT25aMDVIUDAtY0gtOVJEZThyZU1ZVDluWWdHb0Z0Tw?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "27. May 2026"
-        },
-        {
-          "title": "Junge Wirtschaft beim Genussgut Krispel und KI-Workshop in St. Anna/Aigen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONHE1dE80Z0xwdVVOaHRCdzBpaVV5aF9IMWFZb1FkWDNqRGtySHZSZEFwZzBXM3hSYzd3TTM5ZWFkSkF1OGVyczlXRTltay0waFAzcEp0NUpQMU54bHpELTBodm1UMFhsaWI5RDIwT2UzV1JZNnlxNUpPdUNMY3RTaEdhVDliSS1TWWR3LVVidGtnSExHSmhRajV4cW9ubjRwS3lRSTNyUW9YYkNoR3otN19n?oc=5",
+          "title": "Eva Liebmann wird neue Direktorin der steirischen Wirtschaftskammer - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOGU5S1otUThFWVdoV0YyZWRRUzkycHdDcEF0VnMyTFVXazBYaHY4WmxTMjJ6M2dvbzFtZTk4RW5YbW96YVhONXZLOEo4MktaOWxYdXBOSkVibzdTWlZDVDM2amNLeWUtZl80NG4tMFVHSF9LT3hSOEhLN0doZGZQbmZXcUh6Q19OZHFMYjdjWGp3WEhkRGZjN203LURrVjhaanFROWhqVW5pY1hvMjhkSndEdw?oc=5",
           "source": "Kleine Zeitung",
-          "date": "27. May 2026"
-        },
-        {
-          "title": "Junge Wirtschaft: Jungunternehmer in Straden denken unterschiedlich und denken neu - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVE1BMGRidWJvS3dBOVAwT05iVlh0R1JSSGs4a3YwQUswQWxfNTZ5MU9mbm9RaTBkaHdLQmJXUElpVl9CcTU4WWZJS2RFdjNZeXY1LVpiQlV2ZGxTXzlRUzF6VEVVMHduR2lyVTIwYXdrOHVOV0R6MFktcjhheTh5QjQ0bkZIVjF5ZzJfaGxHUEY5Vy11SkpDOUM0NFBaOUZtQm1Jd25NNUJyaHhUNW9zX2dVQWZEenBlb3JqQ1dYbFBBSG5fanc?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "27. May 2026"
-        },
-        {
-          "title": "„Aichfeld-Stadt“: Zweitgrößte steirische Stadt: Wirtschaft glaubt weiter an diese Vision - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWS0wYjdLd015SkI4ZTBmdmRQMV9teWtUdF9LS0x0N0xMV1Q5bExfcEFlS1dNaXpWb0lPV1hzcTFsUUxGZGxZbnF4Ull3Uk5RTm1SRVRkbk91UHRKcTFQMnFwRXNOdUpBWnNHSkRkbU1HYmVudEdmbXlxeUdMUldkb0ZILUZtYmsyVEhsazZEMS1tbjYyQVo3SG1GRXl6OUttcWlSR0dYMkJjaXRDcjRrcXhCVnZTcEJT?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "27. May 2026"
-        },
-        {
-          "title": "Nahversorgerkonzepte teils erfolgreich - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfSEJrT0FpTWtUWkUxUG53cGlpNGxwWHoyeXkyZXZkR2x3clR6N285ejdEWGo0RVNHWHFoZk44aHVmQ0x6RnRLeWxGRV9XUGdwVk14aQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "23. May 2026"
-        },
-        {
-          "title": "Land macht sich für Autobahnanschluss stark - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kOG9hcTNlN2JpallhdFdsbmdoUHg5WDVNMHlpbUwyaGw5eXdLd1FXTjZKUjdEXy1ndFJQWWZBYUYxOFFEVVRnaHY3VEZYdWhEZ3A0cg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "24. May 2026"
+          "date": "28. May 2026"
         }
       ]
     },
@@ -62,8 +62,32 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark verzeichnet eine positive Tourismusentwicklung mit starker Nachfrage nach hochwertigen Unterkunftsangeboten wie privaten Pools in der Südsteiermark und attraktiven Urlaubsdeals, während die Semesterferien-Neuerung 2027 und der Wettbewerb mit Oberösterreich die zukünftige Wettbewerbsfähigkeit der Region prägen. Die Tourismusstrategie fokussiert auf Premium-Angebote und innovative Ferienregelungen, um die Nächtigungszahlen und Attraktivität des Bundeslandes weiter zu steigern.",
+      "summary": "Der steirische Tourismus verzeichnet einen historischen Erfolg mit erstmals über sechs Millionen Nächtigungen im Winter und expandiert erfolgreich auch international, wie das Millionen-Nächtigungs-Erreichen in Hamburgs HafenCity zeigt. Die Branche profitiert von starker Nachfrage nach hochwertigen Urlaubserlebnissen und innovativen Tourismusangeboten in verschiedenen Regionen der Steiermark.",
       "items": [
+        {
+          "title": "Steirischer Tourismus - Winter-Bilanz: Erstmals über 6 Mio. Nächtigungen - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAzanhHZDBibWRoem5ZVmNwZFhPNnVhYml4ZHlubEExRWh6akxsSHpxanBsT2JXUXZyWEpkM2tjanJzUQ?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "28. May 2026"
+        },
+        {
+          "title": "Eva Liebmann: Wer ist die neue WKO-Steiermark-Direktorin? | Josef Herk - wirtschafts-nachrichten.at",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU3RnOGI1bGZ0UXVNWjRFc29MVzNjTVJKSkpWZXdPWTVwRGFBZWp2V3gxc1FvRVh3MWREV1FuQVVrMG5hb2FJTFA1TlB4Q3c5SWhVMUFTYXlNcWRBeVVmRzhXemJHT2l1N1VjR1IwNm9Odjd2ekJzNVFIM3B0NlNMd2EwRDlnRXJWUTEzNmZrOTIwMmVjREVzbG1rSXltcU5HQ2EzZnpJc0xDQndhTk1iQ3h1aU9Jdw?oc=5",
+          "source": "wirtschafts-nachrichten.at",
+          "date": "28. May 2026"
+        },
+        {
+          "title": "Tourismusbilanz: Starker Winter knackte die Sechs-Millionen-Grenze - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ1QzMWFJRjU2YzhGWFd1RG5fbUlNY096NXNvaWd3VWJqdU1CNHNyRmdiOUpOQzEwYlNJWk8tM1BDVXZ1N3RiNWprWU9UbnpMa2ZBZXNxbVdHS2ZjTHdrRURpVVpGRURyWTZiUXJpM3ZVSGFqd09kRTZJbjhRNHNzSEZyZDk3TmhJeGFqdHdaZWFFYW0xQXE0RTc4UQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "28. May 2026"
+        },
+        {
+          "title": "Duell der Länder: Oberösterreich gegen Steiermark - trend.at",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tbkhIaDNPTmZpWlU2U1BlZ205aUFJc01GS1NoX1lMX2MwSkdjTEthbkVXZ09XMEVXXzBKdkVGbnhDdGJkcE0teFgyVkNfZUpyNEtiTFJXM3pnVm5xSC1oNTBBOTVaUnptd0FQag?oc=5",
+          "source": "trend.at",
+          "date": "22. May 2026"
+        },
         {
           "title": "2027 bringt Neuerung - Semesterferien in der Steiermark: Positive Bilanz - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5WUDNBSlRvb1dQTUlsS2dmQkVxWFl3WTNsMW5vT2FkazZWZTdtQzRsMl96WjNlWXZzWG9ta2ttanFmWFdweHcw?oc=5",
@@ -71,10 +95,10 @@
           "date": "25. May 2026"
         },
         {
-          "title": "Duell der Länder: Oberösterreich gegen Steiermark - trend.at",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tbkhIaDNPTmZpWlU2U1BlZ205aUFJc01GS1NoX1lMX2MwSkdjTEthbkVXZ09XMEVXXzBKdkVGbnhDdGJkcE0teFgyVkNfZUpyNEtiTFJXM3pnVm5xSC1oNTBBOTVaUnptd0FQag?oc=5",
-          "source": "trend.at",
-          "date": "22. May 2026"
+          "title": "Eine Million Nächtigungen in Hamburgs HafenCity: Steirische Urlaubsidee feiert historischen Meilenstein in deutscher Metropole - OTS.at",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQek5KeVRNdllIa0pDdEIyLUtKZUQ1ZUxvb2hseU5aQ3poZUs3elJpWElpN1FuNjY1TkhxUjdnNVRHaTV1ejZZT2dlUmhwNDlqVFFPZllHWG5uNWZkWE93Y0tEQlJrWGRlRDgxMGJ4MjRySlQ2aHA0NjhSdzEzM1BjWW9Gc0ZIMXVXVXVKRnZ3MnFUcEI4ZUhZUVg0N0RfQnQ1bUU5S0lkbFN1ZnpydjFqQjI4OFNTWWpIUnZndUptTVoyVl80SHV3UzhQMjRoQm9Bc0VkVEVBaW1IWnJNT0w1Qmd1TkZSaGozN0w4YnZ1V1pzQnZvdktwSHh6UkFSMFNhTkVoVXRIOGNfNTZwaEgtcw?oc=5",
+          "source": "OTS.at",
+          "date": "28. May 2026"
         },
         {
           "title": "2für1-Urlaub: Bergdorf Riesner - Kleine Zeitung",
@@ -94,8 +118,14 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Steiermark etabliert sich durch wissenschaftlich validierte Innovationen wie die Hagelabwehr und wirtschaftliche Erfolge mittelständischer Unternehmen als führender Forschungs- und Technologiestandort. Allerdings gefährden geplante Sparmaßnahmen bei der Universitätsfinanzierung diese Entwicklung, da sie tausende Arbeitsplätze in Wissenschaft und Forschung bedrohen könnten.",
+      "summary": "Die Steiermark würdigt herausragende wissenschaftliche Leistungen und kann mit innovativen Forschungsergebnissen wie der wissenschaftlich bestätigten Hagelabwehr durch Wolkenimpfung aufwarten, während gleichzeitig Unternehmen wie die Resch GmbH mit internationalen Großaufträgen die wirtschaftliche Innovationskraft der Region unterstreichen. Allerdings führen geplante Sparmaßnahmen an steirischen Universitäten zu massiven Studentenprotesten, die die Sorge um die Zukunftsfähigkeit des Forschungsstandorts widerspiegeln.",
       "items": [
+        {
+          "title": "Hohe Auszeichnungen des Landes Steiermark für verdiente Persönlichkeiten - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XWlBhRUVnZkhXVHZVZFlCQjVXbzRQNVM5OTh1Mm9LTkp4dGN0cWN4ZENFTXp4LU1zMllSQWRhUks2RFVRb2hvLTlQNkNnU25MRF8yYzlvem1WaTV2cllSUXEtSEZJekctMERac0p2UQ?oc=5",
+          "source": "Land Steiermark News Portal",
+          "date": "28. May 2026"
+        },
         {
           "title": "Wissenschaft bestätigt steirische Hagelabwehr: Die Wolken-Impfung wirkt - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ1lmNzdhVUgyWUR3NGJEd3lqNTJJQW1MREFHckhBOEVTY3hKSTYzaFBEdXhYT0tkcjk2ZnBXYzJqWGo1TC1FWlpXQnpwdE5MYTBtU2xyMHlmYk1lengwZDA1QmdCWXRfU0F6T2xON0xxN1p3QmxvUmd4MXl3d1pXcWFpa21JTk9fdjhXOHZ0S09FZHJPTFhialNYcFp6dTNSczdfMWpTZTVKN3ZoZWNjbE9yWQ?oc=5",
@@ -103,16 +133,22 @@
           "date": "27. May 2026"
         },
         {
-          "title": "„Finger weg von den Unis“: Einsparungen könnte tausende Jobs kosten - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa0g4NHVjWWQ5S1JlS0FCajY4cno4djZ6Rk5WMVIxYzRIWTRrSy03WkI5ejI1djJpanhnYkw2Q2VaTGp3Tmd2MUhZeGRxa3lseXAzVENOcjY0MkNUM2MwWkFKM25xajh2aGtlLTVjeF9XQjUzTWYyMkZrdWRGMUVxSUpsc0E1a0J0R1RWTmhfVHplOGJyZ293bnZKVU5zenVrbVNZUVV4bEMyZWpCNXViVQ?oc=5",
+          "title": "Demo gegen Uni-Sparpläne in Graz: „Wir werden nicht still dasitzen“ - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMUFuZTl2azA0LUJVSExiWUFZc1VMZHBkMEF6TlBwTk4yNi1hRjNLbGh1SHA3MkVuMTQ3SmVmeU9SZmNMeHJnRnl0eWhzSGpkMndRbjRmT2NrYTh0N0FVUm9RVUxaYS1aREtZRFVWREtIczBHejBOVkdCZ25SOWdjcTU5UTZUUnlCS0RMeEJ5Z0tYb2d5Znk2NGhoVjlLY1BSM19TTUY3NlY?oc=5",
           "source": "5 Minuten",
-          "date": "21. May 2026"
+          "date": "28. May 2026"
         },
         {
-          "title": "Förderungen, Netzwerke, Wachstum: WKO Steiermark begleitet Gründer:innen ganzheitlich - trendingtopics.eu",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQngtV3ZFMnYwVDB0ZnpqTEVTVFJyVWNJeGFCQjMzRW0yOVkzSC1ZeTR1M2pESm14bVlMR1VvZ2stZDJMM0JBc0RmMGdrWWZZVFV2dVN5RW43bWZIOFh1V3UwN0xvOGRpLVFjMklPQlBFd0RZc3puRlZCeklzTFNqQWJVOGVQeWktdk5MdER1ODlhMXRRZEpGWXFpNUEwRmFWNFF0TG5JN3NBaEZCTVIwRUFUTXY?oc=5",
-          "source": "trendingtopics.eu",
-          "date": "21. May 2026"
+          "title": "Graz erlebte größte Studentendemo gegen Regierung seit Jahren - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV2huZnBhTlgyQ1RtdmVhaGVUa1lUcEVRakZTWDhrUG5MNzBsN1RiXzJhNGlNVmN3OUpaZDkyNTl3V0xFTDJaVV9nM25iQUQ5WTNHYW5DRGNIYVNCTFc4aktHSWNQMGF2Nk04eU1nbjk4YnBDUkllNnRObDlBVlVnVTNZZGtoRC1ReXhSVTR4SGpCRFExRnBYSmU4Q3pzMG5OU1A2bnREY0hua01R?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "28. May 2026"
+        },
+        {
+          "title": "Uni-Sparpläne sorgen für Proteste: Jetzt demonstriert auch Graz - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWFpiTmlfY1pUcnEyY1Y5WHVrTGd3b1hzNDktLUlmNkd6bWlURjBNWkZTRWlrX21wUUI1S2l0Tm10SFU0eW1udUdaczFfQkdyR0drM0FqRUVvWEtkbVlMMGtMYTdlU3A0T09hS1ZNQXVmYkNCa3Zrd1l6S0MydXRLTzJNWmJfUUh4SGFMbzgyUzFrSjU4TnBPSlBubnZWMUFuOVR2VGlhUQ?oc=5",
+          "source": "5 Minuten",
+          "date": "28. May 2026"
         },
         {
           "title": "Großauftrag aus Deutschland für Resch GmbH - steiermark.ORF.at",
@@ -132,25 +168,13 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark positioniert sich als führender MINT-Standort in Österreich und nutzt EU-Programme wie LEADER zur regionalen Entwicklung, während gleichzeitig Forschungsförderungen und Gründungsunterstützung durch die WKO das Wirtschaftswachstum vorantreiben. Durch gezielte Fördermaßnahmen wie die Forschungsprämie und strukturelle Unterstützung entstehen innovative Lösungen, die steirische Unternehmen international wettbewerbsfähig machen.",
+      "summary": "Die Steiermark nutzt aktiv EU-Förderungsprogramme wie LEADER zur regionalen Entwicklung, wie die geplante Dokumentation des Vulkanlandes zeigt, während gleichzeitig nationale Instrumente wie die Forschungsprämie Unternehmen bei Innovationen unterstützen. Erfolgreiche steirische Betriebe wie die Resch GmbH profitieren von dieser Förderkulisse und gewinnen dadurch internationale Aufträge im Hochtechnologiebereich.",
       "items": [
-        {
-          "title": "Bundesland vorn: Fast jeder dritte MINT-Standort in Österreich liegt in der Steiermark - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdTNXSWFTM2xhcnF6WlM4UWZGYXZzaWpKa29BaGpxTms3dndJeWpPb0RobmxuSDExN1pUNVZRS0pYQ3hYVFhCbE5QMlRpUFZ5OGdicUtjMkFpTVVOWk1TbHNLQ0NkZUFLWUk1bFlZcWhCVFZJdmxKRGk4SnZhSlBvNEJHUVZjcEVhNVJjcWVVbmVqQUJNTXQtOTdqN2tSb1dheXc1VGdQVklzTXFwZGtNMUw5dE82dVVmZVdwUVE0cS1SUjRIVXBJLQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "27. May 2026"
-        },
         {
           "title": "Einblick in die LEADER-Region Vulkanland: TV-Premiere am Sonntag, 31. Mai, um 18.25 Uhr in ORF 2 - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT3ZWSzJBN2xYbWtrb0tBOXkxVHV6NWdnR0dXYmZfaGJ3cFVGallNREgwanJXZG9LV0VpY1F0S2dkVzNnMG8zYXBicWFlTzhueTBJdFFtVHJYY05scUdqTjZKUE5YVzlSdkJVZk03WkZ4TkpmUU1FUFZkZUZ4Y0hKb2N2MGFIbGY1a05pNWd4TkpjY2VGa3VqSnNUTlA1STV1UXpkU1hNYUFRVzZoQnZiVXV1SQ?oc=5",
           "source": "MeinBezirk.at",
           "date": "24. May 2026"
-        },
-        {
-          "title": "Förderungen, Netzwerke, Wachstum: WKO Steiermark begleitet Gründer:innen ganzheitlich - trendingtopics.eu",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQngtV3ZFMnYwVDB0ZnpqTEVTVFJyVWNJeGFCQjMzRW0yOVkzSC1ZeTR1M2pESm14bVlMR1VvZ2stZDJMM0JBc0RmMGdrWWZZVFV2dVN5RW43bWZIOFh1V3UwN0xvOGRpLVFjMklPQlBFd0RZc3puRlZCeklzTFNqQWJVOGVQeWktdk5MdER1ODlhMXRRZEpGWXFpNUEwRmFWNFF0TG5JN3NBaEZCTVIwRUFUTXY?oc=5",
-          "source": "trendingtopics.eu",
-          "date": "21. May 2026"
         },
         {
           "title": "Steuerliche Förderung von Forschung in Österreich: Die Forschungsprämie - Deloitte",
@@ -170,14 +194,8 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die steirische Wirtschaft setzt verstärkt auf Digitalisierung und künstliche Intelligenz, um sich den Herausforderungen der modernen Industrie zu stellen und ihre Wettbewerbsfähigkeit zu sichern. Die Wirtschaftskammer Steiermark unterstützt dabei gezielt junge Gründerinnen und Gründer durch umfassende Förderungen, Netzwerke und praxisnahe Workshops, um innovatives Unternehmertum in der Region zu fördern.",
+      "summary": "Die Steiermark treibt die KI-Integration in mittelständischen Betrieben voran, wie sich an praktischen Workshops und Unternehmerinitiativen in Regionen wie St. Anna/Aigen zeigt. Durch gezielte Schulungen und Austauschformate werden lokale Unternehmen befähigt, künstliche Intelligenz als Wettbewerbsvorteil zu nutzen und ihre Geschäftsmodelle zukunftssicher zu gestalten.",
       "items": [
-        {
-          "title": "Sonderthema: Industriebetriebe stellen sich neuen Herausforderungen – so geht es weiter - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeVcwLVJad24wVk9DUS1rWFBSUENfRzRaUzJ5ZzJ1eXNRQ1FYTFM0WnZVd0h4NjM4eGNvQmxXczhqMkFzTTBDQ3k2UFB5bWI0czFFcWxTUHJJUzZweXFOLVZmWjlrd2VReW5jbnZBb1ljZzJBM0Vhc3JIb09UWXdVOHlMa1FXa04zalJMY282dlQzT1c3RUY4UDRzVTRJN0F3UzhtYVB1eUFIay1uVmc0TUZ4RWNDTml3akRaQXJOSko0Qjk2WXY0RTYtajloOUI1dUd2Vw?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "27. May 2026"
-        },
         {
           "title": "Junge Wirtschaft beim Genussgut Krispel und KI-Workshop in St. Anna/Aigen - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONHE1dE80Z0xwdVVOaHRCdzBpaVV5aF9IMWFZb1FkWDNqRGtySHZSZEFwZzBXM3hSYzd3TTM5ZWFkSkF1OGVyczlXRTltay0waFAzcEp0NUpQMU54bHpELTBodm1UMFhsaWI5RDIwT2UzV1JZNnlxNUpPdUNMY3RTaEdhVDliSS1TWWR3LVVidGtnSExHSmhRajV4cW9ubjRwS3lRSTNyUW9YYkNoR3otN19n?oc=5",
@@ -185,10 +203,10 @@
           "date": "27. May 2026"
         },
         {
-          "title": "Förderungen, Netzwerke, Wachstum: WKO Steiermark begleitet Gründer:innen ganzheitlich - trendingtopics.eu",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQngtV3ZFMnYwVDB0ZnpqTEVTVFJyVWNJeGFCQjMzRW0yOVkzSC1ZeTR1M2pESm14bVlMR1VvZ2stZDJMM0JBc0RmMGdrWWZZVFV2dVN5RW43bWZIOFh1V3UwN0xvOGRpLVFjMklPQlBFd0RZc3puRlZCeklzTFNqQWJVOGVQeWktdk5MdER1ODlhMXRRZEpGWXFpNUEwRmFWNFF0TG5JN3NBaEZCTVIwRUFUTXY?oc=5",
-          "source": "trendingtopics.eu",
-          "date": "21. May 2026"
+          "title": "Unternehmer am Puls: Neue Möglichkeiten für Betriebe in St. Anna durch Einsatz von KI - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVWZkV2toNzBOanlrOGJLNWFVUVhtVllucXF2b01UWExmb3RXbm1vNkJIWXFJSFpkQVRPVHRYcDROTU0yWDdyNFVPbmNFR09vTDhvQUNqdHhtWmdvZkYyRHA2MG1yQTVFOWp6OGxUcFNKMlNYSERNWUhVeUxNYVZ5Z25HV1pVSnpFUUg4ODBfOEhpRldmcHEzcEFiNVpKemJtU0gxVjc0ekZpem1xZW5oaDFfVElTTXA3OWh5N3hZSjlTYkhwYXJwckxwOA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "22. May 2026"
         }
       ]
     }
