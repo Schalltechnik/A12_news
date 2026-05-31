@@ -1,12 +1,12 @@
 {
-  "generated": "30. May 2026, 06:02 UTC",
+  "generated": "31. May 2026, 06:42 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Wirtschaftskammer Steiermark durchläuft eine umfassende Reformphase, bei der bis 2030 etwa zehn Prozent der Ausgaben eingespart werden sollen, um Betriebe zu entlasten und das Generalsekretariat zu verschlanken, während gleichzeitig Eva Liebmann als neue Direktorin ab 2027 die Kammer führen wird. Parallel dazu gibt es kritische Diskussionen über wirtschaftspolitische Maßnahmen wie die geplante Paketabgabe, während die steirische Kfz-Wirtschaft und der Immobiliensektor weiterhin wichtige Wirtschaftszweige darstellen.",
+      "summary": "Die Wirtschaftskammer Steiermark durchläuft eine umfassende Reformphase mit erheblichen Sparmaßnahmen von etwa acht Millionen Euro jährlich bis 2030, um Betriebe zu entlasten und effizienter zu werden, während gleichzeitig die Junge Wirtschaft durch Netzwerk- und Innovationsveranstaltungen sowie eine neue Führungsstruktur ab 2027 gestärkt wird. Die steirische Wirtschaft konzentriert sich dabei auf traditionelle Branchen wie die Kfz-Industrie und moderne Zukunftsthemen wie Künstliche Intelligenz, wobei kritische Debatten über staatliche Abgabenpolitik die wirtschaftspolitischen Diskussionen prägen.",
       "items": [
         {
           "title": "WKO Steiermark spart bis 2030 jeden zehnten Ausgaben-Euro ein - wko.at",
@@ -15,16 +15,16 @@
           "date": "28. May 2026"
         },
         {
-          "title": "Harte Kritik an geplanter Paketabgabe - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWb3hDS1h2ZjF0NVJFaHliajNUMUFZdFpkN2dJTDdZbmVmWHY5c1ZJWjRXb2lNckMtNndia1hxRUVXcy1kWS1KZXVNUG1TMU5KOXl4Xw?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "29. May 2026"
-        },
-        {
           "title": "Tag der Kfz-Wirtschaft Steiermark - autoundwirtschaft.at",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40M19ySFlMam9Ca0RmQ2lkNm5qU1pVZW5oT2RiZjcwZEpiQ0xYT2FNUmM3T2E1N0QzLUZBbXhwNzNtWXhNME8zWVRLWTZHalB5aGtpaC1EUU4tRkhnVkZkT0tBZ1dwenVOeTlMV2QwelNmMXE4eGtvWVJB?oc=5",
           "source": "autoundwirtschaft.at",
           "date": "26. May 2026"
+        },
+        {
+          "title": "Harte Kritik an geplanter Paketabgabe - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWb3hDS1h2ZjF0NVJFaHliajNUMUFZdFpkN2dJTDdZbmVmWHY5c1ZJWjRXb2lNckMtNndia1hxRUVXcy1kWS1KZXVNUG1TMU5KOXl4Xw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "29. May 2026"
         },
         {
           "title": "Kammer-Reform Steiermark: WKO Steiermark spart kräftig, neue Direktorin ab 2027 fixiert - MeinBezirk.at",
@@ -39,10 +39,10 @@
           "date": "29. May 2026"
         },
         {
-          "title": "Wirtschaftskammer: Generalsekretariat wird wieder abgespeckt - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOWg2cThsZEcxcTdkY19rZVJBNDV0THEtbkprLUdqRG90UEo4eXdBUXhCTzBNVzRYdjJhS3lvQUtZdG1DSnVjUHpITDk0cU5URDE2WldCSTVoVUIzVEp0eFVOM0Q1a1dkaHlKYmF0YlpnZjQtRUlJRkhidlRYd2IwWUk4eVBKU0gxQm9rbVFBQWo1dkZVTVB1SEVZVmxKdk1GeHp1QUx6N3c?oc=5",
+          "title": "Junge Wirtschaft beim Genussgut Krispel und KI-Workshop in St. Anna/Aigen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONHE1dE80Z0xwdVVOaHRCdzBpaVV5aF9IMWFZb1FkWDNqRGtySHZSZEFwZzBXM3hSYzd3TTM5ZWFkSkF1OGVyczlXRTltay0waFAzcEp0NUpQMU54bHpELTBodm1UMFhsaWI5RDIwT2UzV1JZNnlxNUpPdUNMY3RTaEdhVDliSS1TWWR3LVVidGtnSExHSmhRajV4cW9ubjRwS3lRSTNyUW9YYkNoR3otN19n?oc=5",
           "source": "Kleine Zeitung",
-          "date": "29. May 2026"
+          "date": "27. May 2026"
         },
         {
           "title": "8 Mio. Euro pro Jahr - Steiermark: WKO-Sparpaket soll Betriebe entlasten - Kronen Zeitung",
@@ -51,10 +51,10 @@
           "date": "28. May 2026"
         },
         {
-          "title": "Feldbach: Immobilienexperten unter sich - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdGZEZlV6SXFTa1o1WGM3SmJCN0ZDQ0NQT2QyQVJQY2RCUDdmX3c3amhpUUpxbVh2X1Z1X3c5N29zYkxBUkNlNkxUOHI1SmxvdUFHN09MdmF3eE9HYzlqa0lNaWFCZkY4Q0pJUkNqNzIyQ0hzRnA3Yko0czZOTzJIYWVyX0FDbWpQSFdzOXBvc2JfakNYZEstS2N4cw?oc=5",
+          "title": "Junge Wirtschaft: Jungunternehmer in Straden denken unterschiedlich und denken neu - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVE1BMGRidWJvS3dBOVAwT05iVlh0R1JSSGs4a3YwQUswQWxfNTZ5MU9mbm9RaTBkaHdLQmJXUElpVl9CcTU4WWZJS2RFdjNZeXY1LVpiQlV2ZGxTXzlRUzF6VEVVMHduR2lyVTIwYXdrOHVOV0R6MFktcjhheTh5QjQ0bkZIVjF5ZzJfaGxHUEY5Vy11SkpDOUM0NFBaOUZtQm1Jd25NNUJyaHhUNW9zX2dVQWZEenBlb3JqQ1dYbFBBSG5fanc?oc=5",
           "source": "MeinBezirk.at",
-          "date": "29. May 2026"
+          "date": "27. May 2026"
         }
       ]
     },
@@ -62,24 +62,24 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark verzeichnet einen Rekordwinter mit erstmals über sechs Millionen Nächtigungen und präsentiert sich erfolgreich in internationalen Märkten wie Hamburg, wo steirische Tourismuskonzepte neue Gästeschichten erschließen. Parallel dazu werden regionale Tourismusstrategien wie gemeinsame Programme im Gesäuse und innovative Angebote wie das 2für1-Modell vorangetrieben, um die Wettbewerbsfähigkeit und Attraktivität des Landes zu stärken.",
+      "summary": "Die Steiermark erlebte einen Rekordwinter mit erstmals über sechs Millionen Nächtigungen, wobei besonders Regionen wie das Gesäuse und Erzberg-Leoben starke Besucherzuwächse verzeichneten. Parallel zur erfolgreichen Inlandsbilanz expandiert die steirische Tourismusförderung international, wie die Erlebnisregion Graz mit ihrer VOLLMUND-Initiative in Hamburg mit einer Million Nächtigungen demonstriert.",
       "items": [
         {
           "title": "Wintertourismus-Bilanz: Wohin es die Gäste in der Steiermark zieht - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcFVQX09JSFZHS3Z2VU5QMU9OV1NkbThjZGFZakR6NGpaaXU0QWIwckxhRFJNcnZpQVdzZ2p3OTU1b0xTUFhKU1J5NEFaSmppWm11UDhUYWZ3XzhTTUhETmNaYnJYZHUzS05MellBWEtRTEE1MlBYTnloQlViZFpnQy1VUl9jbjk1b2RtV1Q0c1ItbXFEdlczWHh2NmJlZ1dfMF8weDdpVkhVQ3oyVzFScjdUTQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMWtzZjNJTWJPWTItY0VjeW0tcFpJSmFoYlNrMXdPVU4xdl9WWW0xOV9xMUY4TkhSOElpcm5wVFEwYi15WDNVU21XWDBzb29qd1ZPb2EycmNQaWhOM3lkUFpFQ1NaNTdHRmYzMldXUzdpN2l6cUpsWmJmTUttSWZoSm5SUDZOaUJUcnYxY0REdHREcVNQdlBfX1BGbWFGWTIzQko4bA?oc=5",
           "source": "MeinBezirk.at",
           "date": "30. May 2026"
-        },
-        {
-          "title": "Gesäuse: Gemeinsames Tourismusprogramm - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14emhtZ0ZkZ2REOEhhdnh0c0JRM2tQQjBrVWczWnl4OExkRURrbm85OWo4N3VEMmxVWGtQWU5aNXRLUFc1ZGppaWp4bzBWMWZIOVduRg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "29. May 2026"
         },
         {
           "title": "Sechs Millionen Nächtigungen: Rekordwinter in der Steiermark - gast.at",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUdXcElGNlRzY29iN1dpM0pTOWl4dEJrSk5iRHhiVngxWVVkT1ZJTWlfYVRGbUtjX3BERUxFZTFtRlhhc0s5NnVUdFo1LUxJWFYtVTlNRkpIN2lqbWpuMWo4UWxld0dNRERaaDlDWjJEUmxMenB2RzBmX0NXUGpQeElVX2FPd1FSU0ZhVVNkbWlJOFpfZmwyV3M1NDZwZXRTZXhDM25UaFVCRFNObDREZg?oc=5",
           "source": "gast.at",
+          "date": "29. May 2026"
+        },
+        {
+          "title": "Gesäuse: Gemeinsames Tourismusprogramm - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14emhtZ0ZkZ2REOEhhdnh0c0JRM2tQQjBrVWczWnl4OExkRURrbm85OWo4N3VEMmxVWGtQWU5aNXRLUFc1ZGppaWp4bzBWMWZIOVduRg?oc=5",
+          "source": "steiermark.ORF.at",
           "date": "29. May 2026"
         },
         {
@@ -95,6 +95,12 @@
           "date": "28. May 2026"
         },
         {
+          "title": "Tourismus boomt: Erzberg-Leoben feiert starken Besucherrekord im Winter 2025/26 - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd0x2cl94a3hZd051TTQ4UnJBMWMtTDBRaHlVYm82NWFLWlJkcDRGMUx5NjBld3NxRkduZy1RUkFabUR5RHQ5Y1h6LVF6STlNSFJqaU1uejkzVEVMMUNMbEQzY0t5N0NONURIMkpIWklyaHNJNnNOTUtiaFpwSzJXc3RsSTV1Vk1BV3JETzZac0RYUUtqU1RKN2JrTXBOY2cwY21kTVd1UEp3enl5UG9kNUVERkFDWWs?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "30. May 2026"
+        },
+        {
           "title": "Erlebnisregion Graz bringt steirisches Lebensgefühl nach Hamburg - VOLLMUND erstmals auf internationalem Boden - OTS.at",
           "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNa0I4VmJjZ0FnNzhZaWtER1Atcm81THZ0aFdwWEhyaFEzZUFRX0lYQVpYY3htWmVaaEZJck5za1B5LXZsbzloNEdLNmpDekZvcVR1Q3lWN0FhSkt5ZDU0UXlUN2t1MUZtLXhtNUxwZUFuTzBkMzdmclN6dGhkd1B3OFluRkxnNzNhMmx0YktMcGpLSUNEeEk0UUNGU0p0LWZsa1BqY1lReVlpZnB5WUNETERHVlZfT2lTak9QdEJCY2NhWjlTM0pxb3d5bVlGU2puY3VIV1BuOVZaNzJMMXRNdGczSnlWY284UzV6QWlKUGladUM3LXhFWkJR?oc=5",
           "source": "OTS.at",
@@ -105,12 +111,6 @@
           "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQek5KeVRNdllIa0pDdEIyLUtKZUQ1ZUxvb2hseU5aQ3poZUs3elJpWElpN1FuNjY1TkhxUjdnNVRHaTV1ejZZT2dlUmhwNDlqVFFPZllHWG5uNWZkWE93Y0tEQlJrWGRlRDgxMGJ4MjRySlQ2aHA0NjhSdzEzM1BjWW9Gc0ZIMXVXVXVKRnZ3MnFUcEI4ZUhZUVg0N0RfQnQ1bUU5S0lkbFN1ZnpydjFqQjI4OFNTWWpIUnZndUptTVoyVl80SHV3UzhQMjRoQm9Bc0VkVEVBaW1IWnJNT0w1Qmd1TkZSaGozN0w4YnZ1V1pzQnZvdktwSHh6UkFSMFNhTkVoVXRIOGNfNTZwaEgtcw?oc=5",
           "source": "OTS.at",
           "date": "28. May 2026"
-        },
-        {
-          "title": "2für1-Urlaub: Bergdorf Riesner - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HLWFiX0VpR05Ub3BfNzd6Tjk1d2tRU2poVkdzcG52UFdFVTFaTWFpRkRmT2U1R2dQN3NLa1NtRnhfUGhLMi1DbmdqZ1ZOOVIxc1B2UHRqWlBsczdvUVlKM1dUZHBBOFlZUjItR0hXVQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "26. May 2026"
         }
       ]
     },
@@ -118,13 +118,13 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Steiermark würdigt herausragende Persönlichkeiten aus Wissenschaft und Forschung mit hohen Auszeichnungen, während die Universität Graz mit innovativen Veranstaltungen wie dem Uni Vibes Festival Wissenschaft und Kunst verbindet und gleichzeitig Hagelabwehrforschung durch Wolken-Impfung erfolgreich validiert wird. Allerdings führen geplante Sparmaßnahmen an steirischen Universitäten zu massiven Studentenprotesten in Graz, die die Besorgnis um die Zukunft der Forschungsförderung widerspiegeln.",
+      "summary": "Die Steiermark zeichnet sich durch innovative Forschungsprojekte wie die wissenschaftlich bestätigte Hagelabwehr durch Wolken-Impfung aus und prägt damit zukunftsweisende Lösungen. Gleichzeitig erleben die steirischen Universitäten, insbesondere die Uni Graz, intensive Diskussionen über ihre Finanzierung, wobei Studierende und Lehrende mit Demonstrationen gegen geplante Sparmaßnahmen protestieren, während die Hochschulen weiterhin Wissenschaft und Kreativität fördern.",
       "items": [
         {
           "title": "Hohe Auszeichnungen des Landes Steiermark für verdiente Persönlichkeiten - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWX3A3QzZlaHFtVEVKMW5qZWlKNlpHTUhnaGZaaVcyRmJZZmlxUnd0bWsxZW91aHNuWWpYd1ZlRjhmdHlQazBGUVp5cFFfRXpONXZxaXRMRElWZWxkNzdjOGxBMjI4LXNqTHY0UGRpSjZHeTJYZHEzQw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DUWhGcXM1a1hvTW1CQkdkVWtwTTE2dVFTaldHcHVoeC1Ed2x3U3JsZlcxX3JWYXZ4b2hoZTRjempyWldKUUFWaER5ZFpteWNQb2RSWW8zdTdROHhMMEpxVmsybTNZTXdCVTY5V3NqVUZWXzM3RUNV?oc=5",
           "source": "Kommunikation - Land Steiermark",
-          "date": "29. May 2026"
+          "date": "28. May 2026"
         },
         {
           "title": "Wissenschaft bestätigt steirische Hagelabwehr: Die Wolken-Impfung wirkt - Kleine Zeitung",
@@ -139,10 +139,10 @@
           "date": "30. May 2026"
         },
         {
-          "title": "Uni Graz : So kreativ wurde beim Uni Vibes gefeiert und geforscht - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMGlhU2tYU1VLc05uVDhveUlsVHNxZmhhOC1yYlo5X0c4QlVNY0Jvdmk2UVhCVW1EdHJ4Z0NPMkhsOXVNLTVCNElsMllUeGItYi1OQ1B4NnJMbVBMLW5pWGRGLXdOd0NNdkExUGxDSFRQVlBxWmpKdXpVOURYbnYwQ0NmQ0NqR2RYTWdGVmlKUW85Q2NWUFp5UklWcjRldDUybFE?oc=5",
+          "title": "Graz erlebte größte Studentendemo gegen Regierung seit Jahren - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV2huZnBhTlgyQ1RtdmVhaGVUa1lUcEVRakZTWDhrUG5MNzBsN1RiXzJhNGlNVmN3OUpaZDkyNTl3V0xFTDJaVV9nM25iQUQ5WTNHYW5DRGNIYVNCTFc4aktHSWNQMGF2Nk04eU1nbjk4YnBDUkllNnRObDlBVlVnVTNZZGtoRC1ReXhSVTR4SGpCRFExRnBYSmU4Q3pzMG5OU1A2bnREY0hua01R?oc=5",
           "source": "Kleine Zeitung",
-          "date": "30. May 2026"
+          "date": "28. May 2026"
         },
         {
           "title": "Demo gegen Uni-Sparpläne in Graz: „Wir werden nicht still dasitzen“ - 5 Minuten",
@@ -151,10 +151,10 @@
           "date": "28. May 2026"
         },
         {
-          "title": "Graz erlebte größte Studentendemo gegen Regierung seit Jahren - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV2huZnBhTlgyQ1RtdmVhaGVUa1lUcEVRakZTWDhrUG5MNzBsN1RiXzJhNGlNVmN3OUpaZDkyNTl3V0xFTDJaVV9nM25iQUQ5WTNHYW5DRGNIYVNCTFc4aktHSWNQMGF2Nk04eU1nbjk4YnBDUkllNnRObDlBVlVnVTNZZGtoRC1ReXhSVTR4SGpCRFExRnBYSmU4Q3pzMG5OU1A2bnREY0hua01R?oc=5",
+          "title": "Uni Graz : So kreativ wurde beim Uni Vibes gefeiert und geforscht - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMGlhU2tYU1VLc05uVDhveUlsVHNxZmhhOC1yYlo5X0c4QlVNY0Jvdmk2UVhCVW1EdHJ4Z0NPMkhsOXVNLTVCNElsMllUeGItYi1OQ1B4NnJMbVBMLW5pWGRGLXdOd0NNdkExUGxDSFRQVlBxWmpKdXpVOURYbnYwQ0NmQ0NqR2RYTWdGVmlKUW85Q2NWUFp5UklWcjRldDUybFE?oc=5",
           "source": "Kleine Zeitung",
-          "date": "28. May 2026"
+          "date": "30. May 2026"
         },
         {
           "title": "Uni-Sparpläne sorgen für Proteste: Jetzt demonstriert auch Graz - 5 Minuten",
@@ -174,7 +174,7 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark startet eine neue Millionenförderung zur Senkung von Heizkosten und unterstützt Forschungsaktivitäten durch steuerliche Anreize wie die Forschungsprämie. Die LEADER-Region Vulkanland wird medial präsentiert, während innovative steirische Unternehmen wie die Resch GmbH durch Großaufträge von internationalen Investitionen profitieren.",
+      "summary": "Die Steiermark startet eine neue Millionenförderung zur Senkung von Heizkosten und präsentiert gleichzeitig ihre LEADER-Region Vulkanland in einer ORF-2-Dokumentation. Parallel dazu gelingt es steirischen Unternehmen wie der Resch GmbH, durch innovative Automatisierungslösungen bedeutende Aufträge von internationalen Automobilherstellern zu akquirieren.",
       "items": [
         {
           "title": "Heizkosten senken: Neue Millionenförderung startet in der Steiermark - 5 Minuten",
@@ -189,12 +189,6 @@
           "date": "24. May 2026"
         },
         {
-          "title": "Steuerliche Förderung von Forschung in Österreich: Die Forschungsprämie - Deloitte",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQczRpZmYyejd3dnVnck1FZl9ZVm1yY1cyV2hBN3ZOSldBcFBuUjltQ3p2Sk1uUTFkaEVMVVlnOVpxVWFHZE1JbXBjcjE4TVBCclJnTXVEVWNzVlZEZThZSXhYV2k0LUEydFF0R0F5YS1TbFM1Z0ZEdGQxYkpvYjVBekZFZHpYOGd2a2JSY3JzNDdhR2xnUXA0?oc=5",
-          "source": "Deloitte",
-          "date": "27. May 2026"
-        },
-        {
           "title": "Resch GmbH holt Prestigeauftrag: Automatisierungslösung für Top-Automobilhersteller - wirtschafts-nachrichten.at",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY0pjUWNtWjNLbkhKdHhjcjFpbTNpaDJFazhqc09lc3ZBTUhRTEF5ZXNtd3hxOEhnR2VNV0duT0VqSDhocG1LdVZPNFk0dW5qeW42ZE16eUpRRkU5SG8xZTllWjJuVU1TeWp1WU40bHgzbzhGU19DN1pEemlYdHUzazd3TnBBNGxsaXViejk4ZTVQOTRtcTNrWmpfcTdNM2Y3ZlQ3MHdTcw?oc=5",
           "source": "wirtschafts-nachrichten.at",
@@ -206,8 +200,14 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Junge Wirtschaft engagiert sich aktiv in der Steiermark, indem sie Unternehmen wie das Genussgut Krispel besucht und gleichzeitig KI-Workshops durchführt, um Gründer und junge Unternehmer mit modernen Technologien vertraut zu machen. Damit trägt die Initiative zur Stärkung der regionalen Innovationskultur bei und fördert die digitale Transformation in steirischen Betrieben.",
+      "summary": "Die steirische Industrie setzt sich aktiv mit digitalen Transformationen auseinander, um zukünftige Herausforderungen zu bewältigen. Gleichzeitig fördern Initiativen wie KI-Workshops und Netzwerkveranstaltungen der Jungen Wirtschaft die Innovationskompetenz und den Wissenstransfer in der Region.",
       "items": [
+        {
+          "title": "Sonderthema: Industriebetriebe stellen sich neuen Herausforderungen – so geht es weiter - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeVcwLVJad24wVk9DUS1rWFBSUENfRzRaUzJ5ZzJ1eXNRQ1FYTFM0WnZVd0h4NjM4eGNvQmxXczhqMkFzTTBDQ3k2UFB5bWI0czFFcWxTUHJJUzZweXFOLVZmWjlrd2VReW5jbnZBb1ljZzJBM0Vhc3JIb09UWXdVOHlMa1FXa04zalJMY282dlQzT1c3RUY4UDRzVTRJN0F3UzhtYVB1eUFIay1uVmc0TUZ4RWNDTml3akRaQXJOSko0Qjk2WXY0RTYtajloOUI1dUd2Vw?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "27. May 2026"
+        },
         {
           "title": "Junge Wirtschaft beim Genussgut Krispel und KI-Workshop in St. Anna/Aigen - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONHE1dE80Z0xwdVVOaHRCdzBpaVV5aF9IMWFZb1FkWDNqRGtySHZSZEFwZzBXM3hSYzd3TTM5ZWFkSkF1OGVyczlXRTltay0waFAzcEp0NUpQMU54bHpELTBodm1UMFhsaWI5RDIwT2UzV1JZNnlxNUpPdUNMY3RTaEdhVDliSS1TWWR3LVVidGtnSExHSmhRajV4cW9ubjRwS3lRSTNyUW9YYkNoR3otN19n?oc=5",
