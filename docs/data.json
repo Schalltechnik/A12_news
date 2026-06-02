@@ -1,12 +1,12 @@
 {
-  "generated": "01. June 2026, 07:31 UTC",
+  "generated": "02. June 2026, 07:10 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Wirtschaftskammer Steiermark durchläuft eine umfassende Reformphase, in der sie ihre Ausgaben bis 2030 um etwa zehn Prozent beziehungsweise acht Millionen Euro reduzieren wird und gleichzeitig mit Eva Liebmann eine neue Direktorin an die Spitze bekommt. Parallel dazu zeigt sich die steirische Wirtschaft mit Fokus auf Branchen wie die Kfz-Industrie und junge Unternehmer aktiv und innovativ positioniert.",
+      "summary": "Die Wirtschaftskammer Steiermark durchlebt einen Umstrukturierungsprozess mit Sparmaßnahmen und Personalwechsel an der Spitze, während der steirische Arbeitsmarkt mit steigender Arbeitslosigkeit und wachsender Langzeitarbeitslosigkeit kämpft. Trotz dieser Herausforderungen bleiben regionale Wirtschaftsfaktoren wie das Narzissenfest in Bad Aussee und die Kfz-Wirtschaft wichtige Säulen der steirischen Wirtschaft.",
       "items": [
         {
           "title": "WKO Steiermark spart bis 2030 jeden zehnten Ausgaben-Euro ein - wko.at",
@@ -15,10 +15,16 @@
           "date": "28. May 2026"
         },
         {
-          "title": "Tag der Kfz-Wirtschaft Steiermark - autoundwirtschaft.at",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40M19ySFlMam9Ca0RmQ2lkNm5qU1pVZW5oT2RiZjcwZEpiQ0xYT2FNUmM3T2E1N0QzLUZBbXhwNzNtWXhNME8zWVRLWTZHalB5aGtpaC1EUU4tRkhnVkZkT0tBZ1dwenVOeTlMV2QwelNmMXE4eGtvWVJB?oc=5",
-          "source": "autoundwirtschaft.at",
-          "date": "26. May 2026"
+          "title": "Größter Anstieg bei Langzeitarbeitslosen: Arbeitslosigkeit in der Steiermark im Mai gestiegen - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZEk3MmhLdnJxMXV0OW1mX3VFaHJVSTFaUTB5VVQtemZ6NUdxcVotZl92UkpSeGdCVldEdlRwMDFvU2NmWmhBOGczNEYzNlJHaEI3X1o1d0swRjI5UU9YUmpGMWVBcDl0VkV0aVExbTc1Rmx3WFdnYUdibDA3N21CZUMxSWJQM3pHVXdrcnNra19rY190ZTFDMlFCRlNqT3BlLWZqWHpuRGJCLXExdzI4?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "1. Jun 2026"
+        },
+        {
+          "title": "Bad Aussee: Wirtschaftsfaktor Narzissenfest - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hMUt0cjU4RGxaVnozNFFFTzZ4NDh6S2NnSmpvQ25IbVprMVNNWGFHOHFodlJsV0lhYTVTR19RTmMzU3M5NXpaaTZXc25BbmplRmFsNQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "30. May 2026"
         },
         {
           "title": "Josef Herk holt Managerin Eva Liebmann an die Spitze der WKO Steiermark - Der Grazer",
@@ -27,28 +33,22 @@
           "date": "29. May 2026"
         },
         {
-          "title": "Kammer-Reform Steiermark: WKO Steiermark spart kräftig, neue Direktorin ab 2027 fixiert - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdG52aVZBc0pEanByLXJ0NlI2RWZBc05RYkxGcGdOdUQtcUlodXlLTlhBUndLVjlKQmhWajVvNDE0REZrLXVaektWOVRRZGdmcXBPWnJkMk1TWEdsQzJxSXp6TmcwMmZKN09qS0R5NFl1dER2SkkwdUpMUDBCdndNbkxETDZsc19zdGM1ZHlHR3VzTDkxRldrQlJaZFZCVk15UHZQM3dKMnFUYmQyVWRHQUJtc3UzaTVRMmJpUQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "29. May 2026"
+          "title": "Tag der Kfz-Wirtschaft Steiermark - autoundwirtschaft.at",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40M19ySFlMam9Ca0RmQ2lkNm5qU1pVZW5oT2RiZjcwZEpiQ0xYT2FNUmM3T2E1N0QzLUZBbXhwNzNtWXhNME8zWVRLWTZHalB5aGtpaC1EUU4tRkhnVkZkT0tBZ1dwenVOeTlMV2QwelNmMXE4eGtvWVJB?oc=5",
+          "source": "autoundwirtschaft.at",
+          "date": "26. May 2026"
+        },
+        {
+          "title": "Josef Herk bestellt Eva Liebmann zur neuen WKO-Steiermark-Direktorin - wirtschafts-nachrichten.at",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU3RnOGI1bGZ0UXVNWjRFc29MVzNjTVJKSkpWZXdPWTVwRGFBZWp2V3gxc1FvRVh3MWREV1FuQVVrMG5hb2FJTFA1TlB4Q3c5SWhVMUFTYXlNcWRBeVVmRzhXemJHT2l1N1VjR1IwNm9Odjd2ekJzNVFIM3B0NlNMd2EwRDlnRXJWUTEzNmZrOTIwMmVjREVzbG1rSXltcU5HQ2EzZnpJc0xDQndhTk1iQ3h1aU9Jdw?oc=5",
+          "source": "wirtschafts-nachrichten.at",
+          "date": "28. May 2026"
         },
         {
           "title": "Eva Liebmann wird neue Direktorin der WKO Steiermark - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQjN4clZPMjRNZFpwU0VINVhKNDN4emdJdVVIcXNGemNmaGVjUkhCNHk4cjBuM0ZVU2diTWJtZy1JbjFKU2YxM1p3VmJ4a0VLSmM4UF9FY3lYVVlaTU1seE9fWmF5QVFveVlIVFpkM1NGaEp0UWF5Qjh5Qlc3VDcwYVczeVpSSktSVEQ5LW0xczBfVndoeVpvMHNqXzRPc2s?oc=5",
           "source": "5 Minuten",
           "date": "29. May 2026"
-        },
-        {
-          "title": "Steirische Wirtschaftskammer will laufende Kosten um acht Millionen Euro senken - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNXzhURTlIN0cwUWU3NlZEb29RaXU2RHpieHgzeEZjOWJndFpCRVdPMGRkZlUxNkxXSU1TbjVRVEpKNm1UdEhIMGpSWXAyOW5CaTRBYlg2Zi1kS25BdGtLNnpGUUcxaFA2MnpLRkdjY0hiV1BpblAxV2E4SDRVT0N3ZUZyRWxRdHpNWGlRd0Z5ZzF3MjcydzEweWp6b0dwMkVsek9iY2VmN3g5RC1MSnM4WS1Qcw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "28. May 2026"
-        },
-        {
-          "title": "Junge Wirtschaft: Jungunternehmer in Straden denken unterschiedlich und denken neu - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVE1BMGRidWJvS3dBOVAwT05iVlh0R1JSSGs4a3YwQUswQWxfNTZ5MU9mbm9RaTBkaHdLQmJXUElpVl9CcTU4WWZJS2RFdjNZeXY1LVpiQlV2ZGxTXzlRUzF6VEVVMHduR2lyVTIwYXdrOHVOV0R6MFktcjhheTh5QjQ0bkZIVjF5ZzJfaGxHUEY5Vy11SkpDOUM0NFBaOUZtQm1Jd25NNUJyaHhUNW9zX2dVQWZEenBlb3JqQ1dYbFBBSG5fanc?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "27. May 2026"
         },
         {
           "title": "Wirtschaftskammer: Generalsekretariat wird wieder abgespeckt - Kleine Zeitung",
@@ -62,7 +62,7 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark verzeichnet einen Rekordwinter mit erstmals über sechs Millionen Nächtigungen, wobei besonders Regionen wie das Gesäuse und Erzberg-Leoben starke Besucherzuwächse erzielen. Durch gezielte Tourismusförderung und neue Infrastruktur wie die Koralmbahn sowie internationale Marketinginitiativen wie die Erlebnisregion Graz positioniert sich die Steiermark erfolgreich als führendes Tourismusdestination.",
+      "summary": "Die Steiermark erlebte im Winter 2025/26 einen Rekordtourismus mit erstmals über sechs Millionen Nächtigungen, wobei besonders Destinationen wie das Gesäuse und Erzberg-Leoben starke Besucherzuwächse verzeichneten. Trotz des Tourismusbooms entstehen durch die steigende Nachfrage neue Herausforderungen, insbesondere für Almtourismus-Angebote, während die Tourismusförderung mit neuer Führung an der WKO-Steiermark ihre Strategien weiterentwickelt.",
       "items": [
         {
           "title": "Wintertourismus-Bilanz: Wohin es die Gäste in der Steiermark zieht - MeinBezirk.at",
@@ -89,9 +89,9 @@
           "date": "28. May 2026"
         },
         {
-          "title": "Tourismusbilanz: Starker Winter knackte die Sechs-Millionen-Grenze - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ1QzMWFJRjU2YzhGWFd1RG5fbUlNY096NXNvaWd3VWJqdU1CNHNyRmdiOUpOQzEwYlNJWk8tM1BDVXZ1N3RiNWprWU9UbnpMa2ZBZXNxbVdHS2ZjTHdrRURpVVpGRURyWTZiUXJpM3ZVSGFqd09kRTZJbjhRNHNzSEZyZDk3TmhJeGFqdHdaZWFFYW0xQXE0RTc4UQ?oc=5",
-          "source": "Kleine Zeitung",
+          "title": "Josef Herk bestellt Eva Liebmann zur neuen WKO-Steiermark-Direktorin - wirtschafts-nachrichten.at",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU3RnOGI1bGZ0UXVNWjRFc29MVzNjTVJKSkpWZXdPWTVwRGFBZWp2V3gxc1FvRVh3MWREV1FuQVVrMG5hb2FJTFA1TlB4Q3c5SWhVMUFTYXlNcWRBeVVmRzhXemJHT2l1N1VjR1IwNm9Odjd2ekJzNVFIM3B0NlNMd2EwRDlnRXJWUTEzNmZrOTIwMmVjREVzbG1rSXltcU5HQ2EzZnpJc0xDQndhTk1iQ3h1aU9Jdw?oc=5",
+          "source": "wirtschafts-nachrichten.at",
           "date": "28. May 2026"
         },
         {
@@ -101,16 +101,16 @@
           "date": "30. May 2026"
         },
         {
-          "title": "Mehr steirische Badegäste dank Koralmbahn - kaernten.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GUGo1MTlWYnZnbURlbkYwZFZSZzBka25MU2NHbXYtTTVRcGJZODJxOFVxWHRtTy1TUjhZMnE5WVdlYzlBbUJkOHlJUzZCUjFYT3c?oc=5",
-          "source": "kaernten.ORF.at",
-          "date": "30. May 2026"
+          "title": "Urlaub auf der Alm: Die Idylle und ihre Herausforderungen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaTV1dV9ZMEEyTm5JZGtVNHZ1QXRyamprMVNpZi0wd2M0ZVVyVTB3RU9LUDVvSjRwd1liU2RCZW5IT1h2RmhnV1J3OVowZnU3aXJFOHh5MHNRY2VIWFY0VHVaeDRIc2tSU0VTM3hqOHRaV2M4cjIzb0NqOUxiX1hIaWJWZExwTzdCbHdKdVdrVUhzOWpVZGktN2FqUDZoMGZ1OTlVQw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "31. May 2026"
         },
         {
-          "title": "Erlebnisregion Graz bringt steirisches Lebensgefühl nach Hamburg - VOLLMUND erstmals auf internationalem Boden - OTS.at",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNa0I4VmJjZ0FnNzhZaWtER1Atcm81THZ0aFdwWEhyaFEzZUFRX0lYQVpYY3htWmVaaEZJck5za1B5LXZsbzloNEdLNmpDekZvcVR1Q3lWN0FhSkt5ZDU0UXlUN2t1MUZtLXhtNUxwZUFuTzBkMzdmclN6dGhkd1B3OFluRkxnNzNhMmx0YktMcGpLSUNEeEk0UUNGU0p0LWZsa1BqY1lReVlpZnB5WUNETERHVlZfT2lTak9QdEJCY2NhWjlTM0pxb3d5bVlGU2puY3VIV1BuOVZaNzJMMXRNdGczSnlWY284UzV6QWlKUGladUM3LXhFWkJR?oc=5",
-          "source": "OTS.at",
-          "date": "29. May 2026"
+          "title": "2für1-Urlaub: Bergdorf Riesner - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HLWFiX0VpR05Ub3BfNzd6Tjk1d2tRU2poVkdzcG52UFdFVTFaTWFpRkRmT2U1R2dQN3NLa1NtRnhfUGhLMi1DbmdqZ1ZOOVIxc1B2UHRqWlBsczdvUVlKM1dUZHBBOFlZUjItR0hXVQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "26. May 2026"
         }
       ]
     },
@@ -118,19 +118,19 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Steiermark verzeichnet bedeutende Forschungsfortschritte, wie eine Grönland-Expedition der Uni Graz und wissenschaftliche Bestätigungen zur Wirksamkeit der steirischen Hagelabwehr sowie neue Erkenntnisse zur Evolution zeigen. Das Land würdigt diese Leistungen durch Ehrenzeichen und Auszeichnungen für verdiente Forscherpersönlichkeiten wie Roland Pomberger und andere engagierte Steirer.",
+      "summary": "Die Steiermark zeichnet sich durch herausragende Forschungsleistungen aus, wie die Grönland-Expeditionen der Uni Graz, wissenschaftliche Bestätigungen der steirischen Hagelabwehr und neue evolutionäre Erkenntnisse zeigen. Das Land würdigt diese Leistungen durch Auszeichnungen für verdiente Wissenschaftler und fördert verstärkt die Kooperation zwischen seinen Hochschulen.",
       "items": [
+        {
+          "title": "Hohe Auszeichnungen des Landes Steiermark für verdiente Persönlichkeiten - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWX3A3QzZlaHFtVEVKMW5qZWlKNlpHTUhnaGZaaVcyRmJZZmlxUnd0bWsxZW91aHNuWWpYd1ZlRjhmdHlQazBGUVp5cFFfRXpONXZxaXRMRElWZWxkNzdjOGxBMjI4LXNqTHY0UGRpSjZHeTJYZHEzQw?oc=5",
+          "source": "Kommunikation - Land Steiermark",
+          "date": "29. May 2026"
+        },
         {
           "title": "Grazer Forschungsteam auf Grönland-Expedition - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rLXV5NU9fc3V0bmdaME80V0s4STBCSWxLRUdyS2s3c2VQc01BUTN4VnJ0MnpWYS1kY1BsQzhjeEUtSVphSlRxTjJ4RUdHa2lLemczMA?oc=5",
           "source": "steiermark.ORF.at",
           "date": "31. May 2026"
-        },
-        {
-          "title": "Ehrung in Graz: Land zeichnet engagierte Steirer aus - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMDhKR3ctSjlhd3BWY2MtYTVrS1N6SkxUX1Y4Ymp6SGRDZWtZUm9JN2I4bFEyRFgwMDdUVENRb0hENEtvNnRKM1ZHb0VmeXdMaGNiV0tlT29mWmJ3djJ5cDl0X0l6UE1ZalpNT2FRQjVER3VPNGR4dkpNd2VJRER6SC1pc3pwZ0lOUU1JY2FBb0hJMGtYa2FwaUIwQmFnNjI4ZXF5WjU3VQ?oc=5",
-          "source": "5 Minuten",
-          "date": "30. May 2026"
         },
         {
           "title": "Ehrenzeichen für Roland Pomberger: Hohe Landesauszeichnung für Leobener Abfall-Experten - MeinBezirk.at",
@@ -145,16 +145,16 @@
           "date": "27. May 2026"
         },
         {
-          "title": "Steiermark: Hohe Auszeichnungen des Landes Steiermark für verdiente Persönlichkeiten - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLTNFN21GV1BJdU01bmtna1VrVGdlVDdTSWdva1FEdkN1ZWxEN3RZUkFzM0ZiRVhMUGpzcFBXOUU3VmVIUTlZdXVkcWJ1NkxDNWU2S1Y2bFpBb2RzQksyNVd3c2JybTdpTkNXazhzM0Vfby1vUVZEX3MyZEV0ZzMwbHJHTE1ET2lIcnJTMFF6Y1NldmZGWjhfakRXTmxqalBTRElXdkhKSnVINy1zVFdWUDBFYTEzdzRVUk54Y9IBvAFBVV95cUxOLTNFN21GV1BJdU01bmtna1VrVGdlVDdTSWdva1FEdkN1ZWxEN3RZUkFzM0ZiRVhMUGpzcFBXOUU3VmVIUTlZdXVkcWJ1NkxDNWU2S1Y2bFpBb2RzQksyNVd3c2JybTdpTkNXazhzM0Vfby1vUVZEX3MyZEV0ZzMwbHJHTE1ET2lIcnJTMFF6Y1NldmZGWjhfakRXTmxqalBTRElXdkhKSnVINy1zVFdWUDBFYTEzdzRVUk54Yw?oc=5",
-          "source": "Regionews.at",
-          "date": "30. May 2026"
+          "title": "Steirische Hochschulen für mehr Kooperation - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zM0g2QWJyWjN3MFhkT2ZVYmxUbE9pYTJQdTZtdFI3c1dKNHQwOE9POGdkcVBQWXA1MzR0RUpGOVhvbS13Snl6ZVk4VnJDR2pmdUhWWA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "1. Jun 2026"
         },
         {
-          "title": "Uni Graz liefert neue Erkenntnisse zur Evolution - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2J4NHc5RHgyYVlqYzhfekt0MG5KUGdpbHpUWXZ6QUZ2ODJ6M0VpYms0UTAzREhoaDRTY3p0SzkxMEQybGw3MVlGbXd6OTdaZXY3Yzk5WlBHM2RaXzdxR0ZQcnJDLVFOSHhSeHdZY2ZMblp5b2NsTXNvbllPcFBnajlXZ2JINl9GZGxiM3BVdl9iZw?oc=5",
+          "title": "Fest am Campus: Uni Graz feierte Wissenschaft und Kunst - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjQzMFlUWWl1c0FBaVg0R3Bzb01jNnYzQi1sRG51UFlkUkNEc2J6OW9oZHIyM3BzZnVocUk1Y2lqX1F3cmZhWDhfdzY3T2hxUFZpTUl5VTAtZTFNbkVnOHNGUU53S2xRX055T0FHUmR6Q2RTdTVLd1RwNDJHODFZM3ZPYmhvSlVwMG85SzZqY2NCa2tYOEpQbHFR?oc=5",
           "source": "5 Minuten",
-          "date": "31. May 2026"
+          "date": "30. May 2026"
         },
         {
           "title": "Graz erlebte größte Studentendemo gegen Regierung seit Jahren - Kleine Zeitung",
@@ -163,10 +163,10 @@
           "date": "28. May 2026"
         },
         {
-          "title": "Fest am Campus: Uni Graz feierte Wissenschaft und Kunst - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjQzMFlUWWl1c0FBaVg0R3Bzb01jNnYzQi1sRG51UFlkUkNEc2J6OW9oZHIyM3BzZnVocUk1Y2lqX1F3cmZhWDhfdzY3T2hxUFZpTUl5VTAtZTFNbkVnOHNGUU53S2xRX055T0FHUmR6Q2RTdTVLd1RwNDJHODFZM3ZPYmhvSlVwMG85SzZqY2NCa2tYOEpQbHFR?oc=5",
+          "title": "Uni Graz liefert neue Erkenntnisse zur Evolution - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2J4NHc5RHgyYVlqYzhfekt0MG5KUGdpbHpUWXZ6QUZ2ODJ6M0VpYms0UTAzREhoaDRTY3p0SzkxMEQybGw3MVlGbXd6OTdaZXY3Yzk5WlBHM2RaXzdxR0ZQcnJDLVFOSHhSeHdZY2ZMblp5b2NsTXNvbllPcFBnajlXZ2JINl9GZGxiM3BVdl9iZw?oc=5",
           "source": "5 Minuten",
-          "date": "30. May 2026"
+          "date": "31. May 2026"
         }
       ]
     },
@@ -174,8 +174,14 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Die österreichische Forschungsprämie bietet Unternehmen eine steuerliche Förderung für Forschungs- und Entwicklungsaktivitäten, die ihre Innovationskraft stärkt und Investitionen in F&E attraktiver macht. Dieses Instrument trägt wesentlich dazu bei, dass Unternehmen in der Steiermark ihre Wettbewerbsfähigkeit durch gezielte Forschungsförderung erhöhen können.",
+      "summary": "Die Steiermark startet eine neue Millionenförderung zur Senkung von Heizkosten für Bürger und Unternehmen. Zusätzlich bietet Österreich über die Forschungsprämie eine steuerliche Förderung für Forschungs- und Entwicklungsaktivitäten an.",
       "items": [
+        {
+          "title": "Heizkosten senken: Neue Millionenförderung startet in der Steiermark - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdE9FLVluUGpsYndWc1Racl9zMGdxV29iNHl6czl2UnY4b2hZdHdpbWdNcGhoM1BGMURQWnloNVRXVjlhd2s1N2lWNElwQ0JpME92UmRlcXFyX0hLOW5UbDZndzNhc0pydThxOEFrVXNwVHRDOWdlNmZrbFdjZUgwNHBKX3pjU1IyZUliVnA2Q2djTkhaX1dZLXV4MUxmYS0yNDNsbkpUR0Q2NFJjNWpUbzJJdEY?oc=5",
+          "source": "5 Minuten",
+          "date": "28. May 2026"
+        },
         {
           "title": "Steuerliche Förderung von Forschung in Österreich: Die Forschungsprämie - Deloitte",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQczRpZmYyejd3dnVnck1FZl9ZVm1yY1cyV2hBN3ZOSldBcFBuUjltQ3p2Sk1uUTFkaEVMVVlnOVpxVWFHZE1JbXBjcjE4TVBCclJnTXVEVWNzVlZEZThZSXhYV2k0LUEydFF0R0F5YS1TbFM1Z0ZEdGQxYkpvYjVBekZFZHpYOGd2a2JSY3JzNDdhR2xnUXA0?oc=5",
@@ -188,19 +194,13 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die steirische Junge Wirtschaft setzt auf praktische KI-Workshops und den Austausch mit innovativen Unternehmen wie Krispel, um Gründer und junge Unternehmer fit für die digitale Zukunft zu machen. Gleichzeitig wächst das Bewusstsein für nachhaltige Technologien, bei denen Umweltfreundlichkeit und Innovation Hand in Hand gehen.",
+      "summary": "Leibnitz positioniert sich als Vorreiter für digitale Verwaltungslösungen in der Steiermark und treibt damit die Modernisierung der öffentlichen Dienste in der Region voran. Die Initiative zeigt das wachsende Engagement steirischer Gemeinden, Digitalisierungsprozesse voranzutreiben und damit Bürgernähe und Effizienz zu verbessern.",
       "items": [
         {
-          "title": "Junge Wirtschaft beim Genussgut Krispel und KI-Workshop in St. Anna/Aigen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONHE1dE80Z0xwdVVOaHRCdzBpaVV5aF9IMWFZb1FkWDNqRGtySHZSZEFwZzBXM3hSYzd3TTM5ZWFkSkF1OGVyczlXRTltay0waFAzcEp0NUpQMU54bHpELTBodm1UMFhsaWI5RDIwT2UzV1JZNnlxNUpPdUNMY3RTaEdhVDliSS1TWWR3LVVidGtnSExHSmhRajV4cW9ubjRwS3lRSTNyUW9YYkNoR3otN19n?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "27. May 2026"
-        },
-        {
-          "title": "Umweltfreundlich, bitte lächeln! - report.at",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EckVLNzVqWXNwVFBsMkJrUDhqRmUzVlgzTkxHNGRPb1c1YWFxV2pJUmFJNXd2dlhiN2c1R3hpT0hmaGVERmRPSjUtQ1BUTGFSRElPdHd0Y09OZUdyRnliUmpzRWw5eHY0NEpv?oc=5",
-          "source": "report.at",
-          "date": "27. May 2026"
+          "title": "Digitalisierung: Leibnitz will Vorreiter bei digitaler Verwaltung in der Steiermark sein - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUnBFTWhtTi1nN094eVhiRmJXOUR5VVBmQVR1M3E4dEh4MHV6SjlFNTg4R1BfSVFodEgzOG9wSDgxVWVzMUhRYkI4bjlvWFlrQlN1RHBfeGxPQUdBT0tKSUZQSkZiaHdaVXZXcUluOWdGZlJVMzdjSFE0MlBrRmZyTUdrbm1qZHhsY3dGeFJJQjRka0tPY18wdWhYVVRlUkxvd0QzZFVZZ2F5ZmdRYi1FeURmajBXT1FUZGd6ZXZkR0ZIdjA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "1. Jun 2026"
         }
       ]
     }
