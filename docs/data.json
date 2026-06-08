@@ -1,12 +1,12 @@
 {
-  "generated": "07. June 2026, 06:49 UTC",
+  "generated": "08. June 2026, 07:15 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die steirische Wirtschaft zeigt gemischte Signale: Während innovative Unternehmen wie spezialisierte Maschinenbaubetriebe mit internationalen Großaufträgen erfolgreich sind und Betriebe wie voestalpine für ihre Ausbildungsqualität ausgezeichnet werden, verschärft sich die Arbeitsmarktlage mit steigenden Arbeitslosenzahlen von über 44.000 Personen, besonders im Segment der älteren Arbeitnehmer. Die Branche versucht durch Branchendialoge und Wirtschaftspreise gegenzusteuern, doch die Arbeitsmarkttrends deuten auf strukturelle Herausforderungen hin, die über Einzelerfolge hinausgehen.",
+      "summary": "Die steirische Wirtschaft zeigt trotz einzelner Erfolge wie dem Millionenauftrag eines Maschinenbau-Unternehmens in Deutschland und der Verleihung des Wirtschaftspreises der Diözese Graz-Seckau eine besorgniserregende Arbeitsmarktentwicklung mit steigender Arbeitslosigkeit, die im Mai knapp 45.000 Personen betroffen hat und besonders ältere Arbeitnehmer belastet. Neben diesen wirtschaftlichen Herausforderungen wurden auch Sicherheitsrisiken durch einen Großeinsatz bei einem Industriebrand in der Südoststeiermark deutlich.",
       "items": [
         {
           "title": "Steiermark: Wirtschaftspreis der Diözese Graz-Seckau verliehen - Katholische Kirche Österreich",
@@ -15,10 +15,10 @@
           "date": "3. Jun 2026"
         },
         {
-          "title": "Branchentrends beim Donners-Talk und erfolgreiche Landesweinprämierung - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTkZxcWZiY2x4M3hNdFdKbV9DLXYyUFZfTzVYbk1uNkNEWGFhOXh0WFcyeUlBTldyQXhQZ2FzYzJObnZMV1FZS29pTjRfYjNPT0JBQkQtcVVINGlTZ3YtRFF4NG1EWklBNXphT040RkREdDlpLTItYXQ1bGFRUFFnQjgtQ3JuYzVKSWhXNXduYTE5bmc3N29fVzJKanQtZzREd3g5QmxSMDh0aWhDYVpEOERyRmpmRTlP?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "3. Jun 2026"
+          "title": "Großeinsatz bei Industriebrand in der Steiermark - news.joyn.at",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRjhEU0FVaWxWSmJ5UUJlMzdBOWZDSjctNlNJdHpzTVY2NU1YelN6cFdXTmd4YmYycFo2OHhuN040RDhBVUV3TUxVTVlnS1Fuc2FyYllyQ2JMUllhTEpicU5VMTk1MGNTbWZ4WXVpdDVzcG5aU2ljdGhUT25jVWxoRWtrWHByVGptMHhuWWR6bWdoWTJfU1hnMw?oc=5",
+          "source": "news.joyn.at",
+          "date": "6. Jun 2026"
         },
         {
           "title": "Maschinenbau: SMB aus der Steiermark sichert Millionenauftrag in Deutschland - Industriemagazin",
@@ -27,10 +27,10 @@
           "date": "3. Jun 2026"
         },
         {
-          "title": "Staatliche Auszeichnung für voestalpine‑Lehrbetriebe in Zeltweg - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYkpYM2x6UDZQQVlzQkNNMTVsQlRiTVlLenlRbUhLM3JuYnNkZnh5bXZiMUlEUEdQUFA5SzQyLVVacFZKTnllTGxNMEhhOWc4OWUzQ3huVVR3X2JFNXVyV1M3US1XZzl5OWdEVkpDb1ZUVHJHQVF4amJXQk1fVWVRbGQwU004X0kyNVIwVDdsRHlucndGbTY0T1huQy1KTFVwcnlrTUMxb2RVM0piTU9WSkFjSS1HVGoyZzJmQU1kOA?oc=5",
-          "source": "wko.at",
-          "date": "1. Jun 2026"
+          "title": "Südoststeiermark - Großeinsatz bei Industriebrand: Feuer im Griff - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4wV3gzRmo5U2FiWjdzclMzcUR2WDFPYXJhWFBmbHBnM2J0b0U1UEpGVnVvODNhTGkwTy1zSzR1WFJUUQ?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "6. Jun 2026"
         },
         {
           "title": "Arbeitslosigkeit stieg im Mai weiter an - steiermark.ORF.at",
@@ -62,7 +62,7 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark setzt erfolgreich auf vielfältige Tourismusangebote wie Konzerte, Wintersport und Wandern, um ihre Nächtigungszahlen zu steigern, wie die gestiegenen Übernachtungen in der Region Erzberg-Leoben zeigen. Durch strategische Maßnahmen wie die Neupositionierung von Tourismusverbänden und die Vermarktung attraktiver Destinationen festigt die Steiermark ihre Position als wettbewerbsfähiges Urlaubsziel im europäischen Vergleich.",
+      "summary": "Die Steiermark setzt verstärkt auf Veranstaltungen und kulturelle Events wie Konzertreigen und Summer-Openings, um ihre Tourismusattraktivität zu steigern und internationale Besucher anzuziehen. Gleichzeitig optimieren lokale Tourismusverbände ihre Infrastruktur und Präsenz, während die Region mit ihren Natur- und Wanderangeboten sowie gezielter Vermarktung (wie der Wien-Kampagne) ihre Position als führendes österreichisches Urlaubsziel festigt.",
       "items": [
         {
           "title": "Konzertreigen kurbelt Tourismus an - steiermark.ORF.at",
@@ -72,7 +72,7 @@
         },
         {
           "title": "Summer-Opening Schladming begeistert mit internationalem Staraufgebot - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YZ2doZUVXdVB5Mkt5cEo1eXBBanU4UjVoUnlmdzk3azREN0FiN1VmYVVVQkRadTNoTWN5VDdCZjZHLXJtMUhDc0NIZEVwS0V4eTNlajZCSlNxbVE2QUM0c21kQjRkRVI3RG1FemFqYVJMcHFuZko4?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkN19nMXBVY3VEdE5lckJRSU9la3lGel9WVWd1a0pQTHYzWlE2dDJIMzNkdDRwVDNuMGNxUjZlWjA3clpaUDF6VXJ3S19NVW1sMFhfRXI4Wk8zNTdzcTJxQ0FEUjRqV2FoSmVCWUQtQmEtUGtESlY1TQ?oc=5",
           "source": "Kommunikation - Land Steiermark",
           "date": "4. Jun 2026"
         },
@@ -89,28 +89,16 @@
           "date": "6. Jun 2026"
         },
         {
-          "title": "Wintersaison: Nächtigungen in Tourismusregion Erzberg-Leoben stiegen um 10 Prozent - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLUd1ZlJFRUJqX2R3YlJUczViZEhUTzh1Wi0tRjhKdFpoTU5CWHpwQ09ZX2lSeHcxcnFjR0RjejRVTEZVVU1iSGJyemlGeWlLdG51bTJieXBndjB3aF84VWUtcFZBXzdHaEZ2Sl8zVnJaTjRpbzhyaFd2dGNuWUJlajlrbTdVZS13NHlmWDZmRXJjUmpwcXp2aUt6em1USDh2QUhhZ3FXcjQxbnhjeXpFMVRKY2xrUQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "3. Jun 2026"
-        },
-        {
           "title": "Wandern: Eine gar nicht harte Runde bei Hartberg - Der Standard",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQamRTS0N4cWVmZUF6bkdfOFp4bWVoNzlrdDFGbWxOa1plNWJKRmRwSF9scE1PYS11aWNkVlBWaUxyTjUxY1ZwZ1FKcDJtMFN3VHkwcHNyT3otaUY2VnQ3N3BlcHB3a19keWtSbXNXT0thLWNHOGs5RmFuMlJCMjRfMlJlTnd0Z1VKcUNZdlFHS3RFSVRfSDRRV1Vhd1VRUlp1Y2hNQTZmT2tsQQ?oc=5",
           "source": "Der Standard",
           "date": "4. Jun 2026"
         },
         {
-          "title": "Urlaub auf der Alm: Die Idylle und ihre Herausforderungen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaTV1dV9ZMEEyTm5JZGtVNHZ1QXRyamprMVNpZi0wd2M0ZVVyVTB3RU9LUDVvSjRwd1liU2RCZW5IT1h2RmhnV1J3OVowZnU3aXJFOHh5MHNRY2VIWFY0VHVaeDRIc2tSU0VTM3hqOHRaV2M4cjIzb0NqOUxiX1hIaWJWZExwTzdCbHdKdVdrVUhzOWpVZGktN2FqUDZoMGZ1OTlVQw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "31. May 2026"
-        },
-        {
-          "title": "2für1-Urlaub: Bergdorf Riesner - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HLWFiX0VpR05Ub3BfNzd6Tjk1d2tRU2poVkdzcG52UFdFVTFaTWFpRkRmT2U1R2dQN3NLa1NtRnhfUGhLMi1DbmdqZ1ZOOVIxc1B2UHRqWlBsczdvUVlKM1dUZHBBOFlZUjItR0hXVQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "3. Jun 2026"
+          "title": "Countdown läuft: Das Grüne Herz schlägt ab Mittwoch in Wien - oe24.at",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMUNDMFpab0hiU0l0TWZnVHpCSFpwN0E3QXR2QXdKblpzX1hLMG5aUVdtRFJXYmtvR3JOckVGS2VUSzdFNjBxWXJXS1QtaG5Od2RwTm5YRzZaR0d0bjhmSlMwMFYzYTc1M3FzbUdNVlNRZ3dNczFOd1hDU1poQTlPb3F1XzYyNVpyTDQyaW5TZ1lYUmI3N1pncndxQXQ3Z2pNdmloZlctQlFQaFQxa3NpNmluYlJYcFnSAbwBQVVfeXFMTXgyYTFiM0pNRl9sWDUtSWRjYl9FWXhzcl9GS1l6ZHRVYlZmN0lxdFByWmFfc1VYcFJ4dGtOcmRpdm13VXRUTHR0UHVaTzl3bjlDandBX09GMDRTZGZMZm1WcWVJZ3dQbUM2MTZWaEpONTRvSlUwUng1eWFRTDZidFlCRGg3WHQyU1JyVzFFNnJWRl9lOVRPTnFfSGZMZVJ5LVI5MW9wZThCR0JvY0dqZkFzMkIyZjVFbnZTcVc?oc=5",
+          "source": "oe24.at",
+          "date": "4. Jun 2026"
         }
       ]
     },
@@ -118,7 +106,7 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Steiermark zeigt starke Forschungsaktivitäten mit Auszeichnungen für Wissenschaftler wie Anja Haase, internationalen Expeditionen und innovativen Projekten zu Klimaanpassung und Evolution an der Universität Graz. Gleichzeitig intensivieren steirische Hochschulen ihre Kooperationen und Unternehmen wie SMB-Maschinenbau sichern sich bedeutende internationale Aufträge, was die wachsende Wettbewerbsfähigkeit der Region unterstreicht.",
+      "summary": "Die Steiermark zeichnet sich durch herausragende Forschungsleistungen aus, wie die Ehrung der Weizer Forscherin Anja Haase und die Beteiligung von Südwind an der Wissenschaftswoche 2026 zeigen. Gleichzeitig wird die regionale Innovationskraft durch verstärkte Hochschulkooperationen, erfolgreiche Maschinenbauunternehmen wie SMB mit internationalen Großaufträgen und Initiativen zur Energiezukunft mit 100 Schauplätzen nachhaltig gestärkt.",
       "items": [
         {
           "title": "Auszeichnung: Weizer Forscherin Anja Haase erhielt das Ehrenzeichen - MeinBezirk.at",
@@ -127,22 +115,10 @@
           "date": "5. Jun 2026"
         },
         {
-          "title": "Grazer Forschungsteam auf Grönland-Expedition - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rLXV5NU9fc3V0bmdaME80V0s4STBCSWxLRUdyS2s3c2VQc01BUTN4VnJ0MnpWYS1kY1BsQzhjeEUtSVphSlRxTjJ4RUdHa2lLemczMA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "31. May 2026"
-        },
-        {
           "title": "Südwind bei der Wissenschaftswoche 2026 - Südwind",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZajlyWEZwVTFRcEtXNHpXQUJfejZ2U3Nybk1mc09mQVF3QkhfRVJNNE4zNFIzLVVKOERDLTU5eVd3UDRjcWZnRHp1bF9uN2VmNkFxQkcwYXJ3TXN0WDdWTzU3RVFNVXhwTlBUQWN2djljRG8?oc=5",
           "source": "Südwind",
           "date": "3. Jun 2026"
-        },
-        {
-          "title": "Ackerbau: Forschung zu Hitzeperioden - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TSFhSVFFubE1MOFozOGttVWp6NzdNZWY1bjJNeDVQeWRlSnFpSnRqTGRJYjQwSXBWdVZGeGdDSFhfSlFFeFJMWHZ5VmJkbHc5VFJrOA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "6. Jun 2026"
         },
         {
           "title": "Steirische Hochschulen für mehr Kooperation - steiermark.ORF.at",
@@ -151,21 +127,15 @@
           "date": "1. Jun 2026"
         },
         {
-          "title": "Uni Graz liefert neue Erkenntnisse zur Evolution - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2J4NHc5RHgyYVlqYzhfekt0MG5KUGdpbHpUWXZ6QUZ2ODJ6M0VpYms0UTAzREhoaDRTY3p0SzkxMEQybGw3MVlGbXd6OTdaZXY3Yzk5WlBHM2RaXzdxR0ZQcnJDLVFOSHhSeHdZY2ZMblp5b2NsTXNvbllPcFBnajlXZ2JINl9GZGxiM3BVdl9iZw?oc=5",
-          "source": "5 Minuten",
-          "date": "31. May 2026"
-        },
-        {
-          "title": "Über 100 Spielerinenn und Spieler beim „Snow Battle“ am Semmering - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ19OODVaeVRZZ0NVVExJQndIUV96UVdGOFlHUUJRdTZJUzZxdkk1MDV3bEtURnhtdmlWR21fVnVFdUxTaC1ncEVHRW5xYjVFd1R6eGg5MXJpaXd6OGNTZVIxZDU2T3VJdWEwTzNSOXp1QVpOcWx6eGluZUhXZ2xZOHoyWVZZblpINU5JQ0E0VnVrRUlNZmgyY21RUnpUd0xtQVE5eA?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "1. Jun 2026"
-        },
-        {
           "title": "Maschinenbau: SMB aus der Steiermark sichert Millionenauftrag in Deutschland - Industriemagazin",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU3hLZTMwTXlKS280Sm5XQkNoQVpLVzFvak9VajVYLWNZbnZ5OHBtRWl1SmRXZXJoMmd2bmJmdjhBdzFYZXFYWFpoNHRYRGFBemhPZzlKOTNGOU50ajVpY2lDWFNjdERUb2RrdVUtRk1iS0lvX0xoanVMSndrVVc2eHNzcEd5NDVpRGNCZzEyaFpoQTFhT21XWmpuSWhtV0prVnNTeDQzVQ?oc=5",
           "source": "Industriemagazin",
+          "date": "3. Jun 2026"
+        },
+        {
+          "title": "Energiezukunft: 100 Schauplätze öffnen ihre Türen - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uSHJlX2tGeXNCcmtMd21CMk1XRlluNTVpSkwxMm9EdWRPSTk1VEdtZ3ZzQjBTUXRKRC0xYk91UjdHOEV2N0pqT094cmhWdHFXVWdUSA?oc=5",
+          "source": "steiermark.ORF.at",
           "date": "3. Jun 2026"
         }
       ]
@@ -174,7 +144,7 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Die FPÖ-geführten Bundesländer leisten Widerstand gegen die EU-Gebäuderichtlinie zur Energieeffizienz, während das Unternehmen Neuron Automation aus St. Pölten eine Förderung der Österreichischen Forschungsförderungsgesellschaft (FFG) für die Entwicklung von künstlicher Intelligenz erhält. Beide Meldungen zeigen die Spannungen zwischen EU-Vorgaben und nationalen sowie regionalen Interessen bei der Umsetzung von Förder- und Regulierungsmaßnahmen.",
+      "summary": "Die FPÖ-geführten Bundesländer leisten Widerstand gegen die EU-Gebäuderichtlinie zur Energieeffizienz, während das Unternehmen Neuron Automation aus St. Pölten eine Förderung der Forschungsförderungsgesellschaft (FFG) für ein Künstliche-Intelligenz-Projekt erhält. Diese beiden Meldungen zeigen die Spannungen zwischen EU-Regulierung und nationalen Interessen einerseits sowie erfolgreiche Förderungen von innovativen Technologieprojekten andererseits.",
       "items": [
         {
           "title": "Passiver Widerstand aus blauen Bundesländern gegen Gebäuderichtlinie - Kleine Zeitung",
@@ -194,7 +164,7 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark treibt ihre digitale Transformation vooran, wobei Leibnitz als Vorreiter bei der digitalen Verwaltung fungiert und gleichzeitig KI-Kompetenzen in Beruf und Studium gestärkt werden sollen. Parallel dazu vollzieht sich in Donawitz ein bedeutender wirtschaftlicher Umbau, der eine neue Ära für die Region einleitet.",
+      "summary": "Die Steiermark treibt ihre digitale Transformation vooran, wobei Leibnitz als Vorreiter bei der Digitalisierung der Verwaltung fungiert und gleichzeitig KI-Kompetenzen in Beruf und Studium gestärkt werden sollen. Mit dem Umbau in Donawitz beginnt eine neue wirtschaftliche Ära, die auf modernisierte Strukturen und innovative Technologien setzt.",
       "items": [
         {
           "title": "Digitalisierung: Leibnitz will Vorreiter bei digitaler Verwaltung in der Steiermark sein - MeinBezirk.at",
