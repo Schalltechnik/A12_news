@@ -1,13 +1,25 @@
 {
-  "generated": "09. June 2026, 06:33 UTC",
+  "generated": "10. June 2026, 06:50 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die steirische Wirtschaft zeigt sich dynamisch mit erfolgreichen Unternehmensansiedlungen und internationalen Geschäftserfolgen wie dem Millionenauftrag eines Maschinenbauers in Deutschland, während gleichzeitig Infrastrukturprojekte wie die Reformierung des Innenstadtplatzes in Bruck/Mur die regionale Entwicklung vorantreiben. Allerdings offenbaren sich auf dem Arbeitsmarkt Herausforderungen wie der erschwerte Jobzugang für ältere Arbeitnehmer, weshalb Betriebe verstärkt auf Gesundheits- und Mitarbeiterinitiativen setzen.",
+      "summary": "Die steirische Wirtschaft wird durch traditionelle Branchen wie die Holzwirtschaft und die Autoindustrie geprägt, die durch gezielte Kampagnen und ministerielle Unterstützung gestärkt werden, während gleichzeitig Infrastrukturprojekte wie die Neugestaltung des Bruck/Mur-Platzes die Standortentwicklung vorantreiben. Allerdings zeigen sich am Arbeitsmarkt Herausforderungen, da trotz zahlreicher offener Stellen ältere Arbeitnehmer zunehmend Schwierigkeiten bei der Jobsuche haben und die Industrie verstärkt Appelle für bessere Standortpolitik erhebt.",
       "items": [
+        {
+          "title": "Branche mit neuer Kampagne: So wichtig ist die Holzwirtschaft für die Steiermark - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRngzdENyR25PRTA5VUs3U1R6RjJSTmdNRFlObU5iUHV3a25uS18zbjBUQ0g1YXVOZjZZaS1YcmE4TkNsUGVyVGVZZjIxdGgwY1NSc0ZnTm1OZTRUcE1kTE1DZWYxc2FaM09sZTY0TVFFQjFoWmxmV1BDOGFMWTF5LWF4QnIyby0yYnNrZXVCQ1VOVS01elJWN1pJcFBJZG5TdmRfejFGVEd4NHhTNDVCSlZ3?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "9. Jun 2026"
+        },
+        {
+          "title": "Autoindustrie: Minister gibt Rückenwind - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwMlY4elE1UTZXd2hSNnhLS1dFN1FlQjRHS1FjZUZmMnh2YnpWR2x5YlFBSFNSQWZreFF4cncwWnVsQ3RDM2ZOcUVHUGhZdEU0c0Q1eg?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "9. Jun 2026"
+        },
         {
           "title": "Bruck/Mur: Österreichs zweitgrößter Innenstadtplatz wird reformiert - wirtschafts-nachrichten.at",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2xKUXNfVWh2TTlLRjB2QWRnN0hteXRYNlMwQWRjUzNkYWRrX3V4SGtrLTFHWThrUWY2Z3dCcEpIRDRmUzlQZXhtMUdRVXJsNmgtUlRVY2dmQmRBVnl5Q2JNbG9faEU4SHBzMnpHeGh4QVpZV2ZYRjF4ck5VVS1OaXhOWlJuX0tMcEl2aVRDRnVaTGcxbmJrUVVJNXRTVXA2VFRfRkp5N1ZUTXlmQ2UzRQ?oc=5",
@@ -21,40 +33,16 @@
           "date": "3. Jun 2026"
         },
         {
-          "title": "Wirtschaftskammer: Unternehmen aus dem Bezirk Deutschlandsberg im Goldenen Buch - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSnYwcGhSN0ZVUDNoMFBzVi0zNUZOQnFYWWhQcFlqNFpCaHRDV3BRX1RpYUg4REVBWEdBQ1NBbFJjd21aekRtTkRkMFJqXzZ1N21NeG5EQnZFMGxGUTA5dXJWWFJVeWhZRkRsMk5fcHVab21rMlFnRlVaeXBlWVFpQmpPSndnNWJLY1diWkp0UnpJNVlCOUhFUENyVE1pMGFubUVvVVppUU1KZFlBZDJicnZRMWhIVzRLNk5zU2czUE9BMHc?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "2. Jun 2026"
+          "title": "Standortpolitik: Appell aus der Industrie - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wUE1QM3VSXzVNRGI4M01xazY4dzJOMkVrcTlqY1paQy1UWDZvSDY4Zkt6dEhNNjFsQzdNeXV0TmY0OXBKLV9ocHAtUXdPcnFiZGh1TA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "9. Jun 2026"
         },
         {
-          "title": "Großeinsatz bei Industriebrand in der Steiermark - news.joyn.at",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRjhEU0FVaWxWSmJ5UUJlMzdBOWZDSjctNlNJdHpzTVY2NU1YelN6cFdXTmd4YmYycFo2OHhuN040RDhBVUV3TUxVTVlnS1Fuc2FyYllyQ2JMUllhTEpicU5VMTk1MGNTbWZ4WXVpdDVzcG5aU2ljdGhUT25jVWxoRWtrWHByVGptMHhuWWR6bWdoWTJfU1hnMw?oc=5",
-          "source": "news.joyn.at",
-          "date": "6. Jun 2026"
-        },
-        {
-          "title": "Südoststeiermark - Großeinsatz bei Industriebrand: Feuer im Griff - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4wV3gzRmo5U2FiWjdzclMzcUR2WDFPYXJhWFBmbHBnM2J0b0U1UEpGVnVvODNhTGkwTy1zSzR1WFJUUQ?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "6. Jun 2026"
-        },
-        {
-          "title": "Maschinenbau: SMB aus der Steiermark sichert Millionenauftrag in Deutschland - Industriemagazin",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU3hLZTMwTXlKS280Sm5XQkNoQVpLVzFvak9VajVYLWNZbnZ5OHBtRWl1SmRXZXJoMmd2bmJmdjhBdzFYZXFYWFpoNHRYRGFBemhPZzlKOTNGOU50ajVpY2lDWFNjdERUb2RrdVUtRk1iS0lvX0xoanVMSndrVVc2eHNzcEd5NDVpRGNCZzEyaFpoQTFhT21XWmpuSWhtV0prVnNTeDQzVQ?oc=5",
-          "source": "Industriemagazin",
-          "date": "3. Jun 2026"
-        },
-        {
-          "title": "Arbeitsmarkt Hartberg-Fürstenfeld: Viele offene Stellen, doch Jobsuche wird für ältere Bürger schwerer - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMEZLSDZubHVfbFhDQnI5cjdNcDNMZ0NPaU81bVYwY0dsVGYwbXpZYTNpVVNvRmd5bkdvV3k4VnJnaFZkSkozRkRWUWh2Rnh6bUlkbkYwX0JuNHFFMWxJTjYxZS1WdjV4XzhDVFhNOEF5eE1seldCZklDUWRMTmVNZm9oRXB0ZHpGaS1rUFFwTDkxQUZMTTB1SnZsemxOVk83TEZ6RlBMQXJmMzJJVTMwTzVjUDRsQm1YTjhMZWNrQzdSaUZNc2phd2pqR0hNOFlVckdHVFc1YTZGc01mcU9Wd0lMTVo?oc=5",
+          "title": "AMS Hartberg-Fürstenfeld: Viele offene Stellen, doch Jobsuche wird für ältere Bürger schwerer - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPanhOWC1pRTBvSU5RdDQ0WGc2X2I2ZEJwUjhxY0RKM3FHME94ZWExeTBlMnYwRzZsTmNLaUpvUm1WR2lvdE9UbHZ6bXpHZUpBVmFCdkp0NFZFbHIxSEVqWm1XQXVOR3YxSFh3bzZwYjF0cU0tR1pDNGFQSS1sVmo5ZEFHbkFJTl8yakgtUDlnNGxJZHA3bHJVMDFoSjBsUmRBRXd3ZXdNUE9jTUFqX3NINERBRlFNbnZ1V296SUoxMHJsakd0b0FFei1TMTgyS3dudjFtOUlR?oc=5",
           "source": "MeinBezirk.at",
           "date": "8. Jun 2026"
-        },
-        {
-          "title": "Gesundheitspreis „Fit im Job“: Diese steirischen Betriebe wurden ausgezeichnet - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOWhYSHM4SXNYdHFvY1dUODluOTMza3Z4Y1ZQSXRVd1FERVJzaXlybUJYN09qQVd4SExUZTJmTXNFOTliQnZNQVVUQjdna29tMW4xVHMxdVpPZ2RHMFllYXBUWDZJQmhweENmNkdwT2o4YWt0RzlqVUpWQ2xya0I4aVMtY0g5MkJTUDFDSUpoZVExd0pzSjBhTTYwT0VmYUc0WDBfZFh3N3M2WTBMQThRcUhvQWxOYXpaOFE4QXJR?oc=5",
-          "source": "5 Minuten",
-          "date": "2. Jun 2026"
         }
       ]
     },
@@ -62,13 +50,13 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die steirischen Tourismusregionen setzen verstärkt auf hochwertige Veranstaltungen und internationale Künstler wie beim Summer-Opening in Schladming und dem Konzertreigen, um Besucherströme anzuziehen und die Nächtigungszahlen zu steigern. Gleichzeitig verfolgen Destinationen wie Ramsau am Dachstein und der Tourismusverband Erzberg-Leoben eine nachhaltige Entwicklungsstrategie mit neuen Infrastrukturen und regionalen Impulsen, um langfristiges Wachstum im Tourismus zu sichern.",
+      "summary": "Die Steiermark positioniert sich als kulinarisches und kulturelles Tourismusreiseziel, wobei Events wie das Summer-Opening Schladming und Konzertveranstaltungen nachweislich zur Ankurbelung des Tourismus beitragen. Gleichzeitig investiert die Region durch die Expansion von Tourismusverbänden und Bildungsangeboten in die professionelle Infrastruktur und Fachkräfteentwicklung des Tourismussektors.",
       "items": [
         {
-          "title": "Konzertreigen kurbelt Tourismus an - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nbGNEZENiaU9sbmFjNWtwOEx4TFd5LTlQMFFOVGJUYXhtckxOdGNaMUdtVmNnVjdCekRMU3hWZGRhTzlMXzV2OElqdmp0SnlmZ2lVdA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "6. Jun 2026"
+          "title": "„Die Steiermark ist das kulinarische Nonplusultra“ - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4xdUhOcTBvNEthbDVQc3hJS1R5V1F5SXl0QlU1QTZOVjFTSk9sOHlIaTF5Vmp2ZVp3MEdOWk1VOVdFdw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "9. Jun 2026"
         },
         {
           "title": "Summer-Opening Schladming begeistert mit internationalem Staraufgebot - Kommunikation - Land Steiermark",
@@ -83,10 +71,10 @@
           "date": "8. Jun 2026"
         },
         {
-          "title": "Impulse für die Region: Ramsau am Dachstein setzt auf nachhaltige Entwicklung - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbWphVS1ueFhFcmFzSVVYeXh3ek1Fal9zS3AwdnBBYWZtQUU1UTZjVExSNV9yQjB6Skh1S0UwMXVpUUU0Z2hJSXRZOFoxQl9iOHF2al83anhxMlBqcGVPUmVSUjd0TTZza20yN1lXV01sZ0NsRTZvczFSdEFZR3kxaG8yVUZzb2t1akJzVGR0S0k1SHdMVndEeU5Jb2ZTZ1dBSVpZUFowdk0?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "9. Jun 2026"
+          "title": "Konzertreigen kurbelt Tourismus an - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nbGNEZENiaU9sbmFjNWtwOEx4TFd5LTlQMFFOVGJUYXhtckxOdGNaMUdtVmNnVjdCekRMU3hWZGRhTzlMXzV2OElqdmp0SnlmZ2lVdA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "6. Jun 2026"
         },
         {
           "title": "Neuer Standort: Tourismusverband Erzberg-Leoben zieht in die Homanngasse - MeinBezirk.at",
@@ -95,16 +83,22 @@
           "date": "5. Jun 2026"
         },
         {
-          "title": "Wandern: Eine gar nicht harte Runde bei Hartberg - derStandard.de",
+          "title": "AK-SERVICE-TIPP - Dienstverhinderung, wenn der Flug ausfällt? - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1NZHNSeVJ3YUZndGdoMFJaMDVHV2RISkhST1hzZy1hMG1QMkJnT1RWREhveVVpckZmSHRWVS1zU2JYQQ?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "10. Jun 2026"
+        },
+        {
+          "title": "Wandern: Eine gar nicht harte Runde bei Hartberg - Der Standard",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQamRTS0N4cWVmZUF6bkdfOFp4bWVoNzlrdDFGbWxOa1plNWJKRmRwSF9scE1PYS11aWNkVlBWaUxyTjUxY1ZwZ1FKcDJtMFN3VHkwcHNyT3otaUY2VnQ3N3BlcHB3a19keWtSbXNXT0thLWNHOGs5RmFuMlJCMjRfMlJlTnd0Z1VKcUNZdlFHS3RFSVRfSDRRV1Vhd1VRUlp1Y2hNQTZmT2tsQQ?oc=5",
-          "source": "derStandard.de",
+          "source": "Der Standard",
           "date": "4. Jun 2026"
         },
         {
-          "title": "Countdown läuft: Das Grüne Herz schlägt ab Mittwoch in Wien - oe24.at",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMUNDMFpab0hiU0l0TWZnVHpCSFpwN0E3QXR2QXdKblpzX1hLMG5aUVdtRFJXYmtvR3JOckVGS2VUSzdFNjBxWXJXS1QtaG5Od2RwTm5YRzZaR0d0bjhmSlMwMFYzYTc1M3FzbUdNVlNRZ3dNczFOd1hDU1poQTlPb3F1XzYyNVpyTDQyaW5TZ1lYUmI3N1pncndxQXQ3Z2pNdmloZlctQlFQaFQxa3NpNmluYlJYcFnSAbwBQVVfeXFMTXgyYTFiM0pNRl9sWDUtSWRjYl9FWXhzcl9GS1l6ZHRVYlZmN0lxdFByWmFfc1VYcFJ4dGtOcmRpdm13VXRUTHR0UHVaTzl3bjlDandBX09GMDRTZGZMZm1WcWVJZ3dQbUM2MTZWaEpONTRvSlUwUng1eWFRTDZidFlCRGg3WHQyU1JyVzFFNnJWRl9lOVRPTnFfSGZMZVJ5LVI5MW9wZThCR0JvY0dqZkFzMkIyZjVFbnZTcVc?oc=5",
-          "source": "oe24.at",
-          "date": "4. Jun 2026"
+          "title": "Studien- und Lehrgänge im Tourismus - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zR2htRlZ4NnFEZ1I2RlJjUWdiVV9lb3lyMTFvbnFZQnJwelJmV0hvQUFmYnQtNFZEY2NmNlVIdVRKLUxKQnJxYXZrVEc1Q1dCaUVncXRRN3VJOURjR1BXa0ZFSlhvVWVQWVhLQ24td1ZmTEdObUE?oc=5",
+          "source": "wko.at",
+          "date": "9. Jun 2026"
         }
       ]
     },
@@ -132,7 +126,7 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark kritisiert die EU-Gebäuderichtlinie zur Sanierungsverpflichtung von Gebäuden scharf, da diese erhebliche finanzielle Belastungen mit sich bringt und auf Widerstand aus den Bundesländern trifft. Parallel werden Infrastrukturprojekte wie die Reformierung des Innenstadtplatzes in Bruck/Mur vorangetrieben, um die wirtschaftliche Entwicklung in der Region zu fördern.",
+      "summary": "Die Steiermark kritisiert die EU-Gebäuderichtlinie scharf, da deren Umsetzung zu erheblichen Sanierungskosten für Gebäudeeigentümer führt und auf Widerstand aus den Bundesländern trifft. Parallel werden Innenstadtplätze wie in Bruck/Mur reformiert, um die wirtschaftliche Entwicklung in den Regionen zu unterstützen.",
       "items": [
         {
           "title": "Bruck/Mur: Österreichs zweitgrößter Innenstadtplatz wird reformiert - wirtschafts-nachrichten.at",
@@ -158,7 +152,7 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark positioniert sich als innovativer Digitalstandort durch Veranstaltungen wie das Digital-Festival im Grazer Schaumbad und zukunftsweisende KI-Debatten, während gleichzeitig traditionelle Industriestandorte wie Donawitz durch umfassende Umstrukturierungsprojekte in eine neue technologische Ära überführt werden.",
+      "summary": "Die Steiermark positioniert sich als innovativer Digitalstandort durch Veranstaltungen wie das Digital-Festival im Grazer Schaumbad und avantgardistische KI-Ansätze, während die Industriellenvereinigung mit ihrem Forderungskatalog zur Grazer Wahl eine zukunftsorientierte Standortentwicklung für die Region einfordert.",
       "items": [
         {
           "title": "Digital-Festival zum Mitmachen im Grazer Schaumbad - ORF ON",
@@ -173,10 +167,10 @@
           "date": "8. Jun 2026"
         },
         {
-          "title": "„Voll im Plan“: Umbau läuft, die neue Ära in Donawitz naht - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUGVyUzBXMG45Ti11Z1RSZGdQWlV0MkZLYzhsZk5uUjdROXcwclRwUHJNUGlTWlBCUlVUVHhRem1TbzdHMzMxRDM1d3Z0aWFNbVZqQmQ4ZlQ0YWxIaC1ST0gzWktkSnhJM0dHWlAtanJpMlFUZGJIMmhHeDNwSm9ZVWdTZXlhTEFTTHVWakRfbGxvekp0SlVDNXpMWWgwcXQxQnA3eQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "4. Jun 2026"
+          "title": "Standortentwicklung: IV-Steiermark präsentiert vor Grazer-Wahl Forderungskatalog an Stadt - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQnBuTjVGSmRaY3hHdEVpXzlsSDBlbkY0c1ZSTlFoQ1RuZHI3ZmpUdHBhMlNMVEVlLVg2cnFPQkxDZTk4U2JWLU1JdVozWXY1ZjhqMUZHMmp2WldUeGN1c1oxWm9ncnNnQ3hMM1B0T0RLZUhBN05JUTNJSHliOUxuX203VFpFbDYxcTVVMDI4NGtFTXM4THBtTlZ1M0JoTTE0Snc1UTZNcHhRNzhZV20xSURuOE1wZzNMNzNZ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "9. Jun 2026"
         }
       ]
     }
