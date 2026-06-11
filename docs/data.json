@@ -1,12 +1,12 @@
 {
-  "generated": "10. June 2026, 06:50 UTC",
+  "generated": "11. June 2026, 07:16 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die steirische Wirtschaft wird durch traditionelle Branchen wie die Holzwirtschaft und die Autoindustrie geprägt, die durch gezielte Kampagnen und ministerielle Unterstützung gestärkt werden, während gleichzeitig Infrastrukturprojekte wie die Neugestaltung des Bruck/Mur-Platzes die Standortentwicklung vorantreiben. Allerdings zeigen sich am Arbeitsmarkt Herausforderungen, da trotz zahlreicher offener Stellen ältere Arbeitnehmer zunehmend Schwierigkeiten bei der Jobsuche haben und die Industrie verstärkt Appelle für bessere Standortpolitik erhebt.",
+      "summary": "Die steirische Wirtschaft setzt verstärkt auf ihre traditionellen Stärken wie Holzwirtschaft und Autoindustrie, die durch gezielte Kampagnen und ministerielle Unterstützung gefördert werden. Während zahlreiche offene Stellen am Arbeitsmarkt vorhanden sind, wächst gleichzeitig der Druck auf die Standortpolitik und es entstehen Herausforderungen bei der Vermittlung älterer Arbeitnehmer.",
       "items": [
         {
           "title": "Branche mit neuer Kampagne: So wichtig ist die Holzwirtschaft für die Steiermark - MeinBezirk.at",
@@ -15,26 +15,14 @@
           "date": "9. Jun 2026"
         },
         {
-          "title": "Autoindustrie: Minister gibt Rückenwind - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwMlY4elE1UTZXd2hSNnhLS1dFN1FlQjRHS1FjZUZmMnh2YnpWR2x5YlFBSFNSQWZreFF4cncwWnVsQ3RDM2ZOcUVHUGhZdEU0c0Q1eg?oc=5",
+          "title": "Standortpolitik: Appell aus der Industrie - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wUE1QM3VSXzVNRGI4M01xazY4dzJOMkVrcTlqY1paQy1UWDZvSDY4Zkt6dEhNNjFsQzdNeXV0TmY0OXBKLV9ocHAtUXdPcnFiZGh1TA?oc=5",
           "source": "steiermark.ORF.at",
           "date": "9. Jun 2026"
         },
         {
-          "title": "Bruck/Mur: Österreichs zweitgrößter Innenstadtplatz wird reformiert - wirtschafts-nachrichten.at",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2xKUXNfVWh2TTlLRjB2QWRnN0hteXRYNlMwQWRjUzNkYWRrX3V4SGtrLTFHWThrUWY2Z3dCcEpIRDRmUzlQZXhtMUdRVXJsNmgtUlRVY2dmQmRBVnl5Q2JNbG9faEU4SHBzMnpHeGh4QVpZV2ZYRjF4ck5VVS1OaXhOWlJuX0tMcEl2aVRDRnVaTGcxbmJrUVVJNXRTVXA2VFRfRkp5N1ZUTXlmQ2UzRQ?oc=5",
-          "source": "wirtschafts-nachrichten.at",
-          "date": "8. Jun 2026"
-        },
-        {
-          "title": "Steiermark: Wirtschaftspreis der Diözese Graz-Seckau verliehen - Katholische Kirche Österreich",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc19OdEY1c2JkU2ZMUC1zSGhWNHYtbUJ2WUNjcGVaVzdfYmhTRlN0TFdCVk1zemw4RDJMSXVrVlh1R1J5SmFzVmlVQkd5cV9fdy04OS1xdDJSeUtrcExFZEtYUnZodHh3TjE3NDVQcGVoZy1zV05obWlfdEZVUzVseDZqeUVScC1tUWRrZGozbE5NWngtWVB1UlFRaXFnSUJJY0xEbHh3NEM?oc=5",
-          "source": "Katholische Kirche Österreich",
-          "date": "3. Jun 2026"
-        },
-        {
-          "title": "Standortpolitik: Appell aus der Industrie - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wUE1QM3VSXzVNRGI4M01xazY4dzJOMkVrcTlqY1paQy1UWDZvSDY4Zkt6dEhNNjFsQzdNeXV0TmY0OXBKLV9ocHAtUXdPcnFiZGh1TA?oc=5",
+          "title": "Autoindustrie: Minister gibt Rückenwind - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwMlY4elE1UTZXd2hSNnhLS1dFN1FlQjRHS1FjZUZmMnh2YnpWR2x5YlFBSFNSQWZreFF4cncwWnVsQ3RDM2ZOcUVHUGhZdEU0c0Q1eg?oc=5",
           "source": "steiermark.ORF.at",
           "date": "9. Jun 2026"
         },
@@ -50,7 +38,7 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark positioniert sich als kulinarisches und kulturelles Tourismusreiseziel, wobei Events wie das Summer-Opening Schladming und Konzertveranstaltungen nachweislich zur Ankurbelung des Tourismus beitragen. Gleichzeitig investiert die Region durch die Expansion von Tourismusverbänden und Bildungsangeboten in die professionelle Infrastruktur und Fachkräfteentwicklung des Tourismussektors.",
+      "summary": "Die Steiermark positioniert sich als führendes Kulinarik- und Veranstaltungsdestination, wobei Konzerte und hochkarätige Events wie das Summer-Opening in Schladming gezielt zur Tourismusförderung eingesetzt werden. Gleichzeitig werden durch Bildungsangebote im Tourismus und die Bewerbung von Aktivitäten wie Wandern sowie kulinarischen Erlebnissen die Grundlagen für eine nachhaltige Tourismusstrategie geschaffen.",
       "items": [
         {
           "title": "„Die Steiermark ist das kulinarische Nonplusultra“ - Kronen Zeitung",
@@ -59,10 +47,10 @@
           "date": "9. Jun 2026"
         },
         {
-          "title": "Summer-Opening Schladming begeistert mit internationalem Staraufgebot - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkN19nMXBVY3VEdE5lckJRSU9la3lGel9WVWd1a0pQTHYzWlE2dDJIMzNkdDRwVDNuMGNxUjZlWjA3clpaUDF6VXJ3S19NVW1sMFhfRXI4Wk8zNTdzcTJxQ0FEUjRqV2FoSmVCWUQtQmEtUGtESlY1TQ?oc=5",
-          "source": "Kommunikation - Land Steiermark",
-          "date": "4. Jun 2026"
+          "title": "Konzertreigen kurbelt Tourismus an - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nbGNEZENiaU9sbmFjNWtwOEx4TFd5LTlQMFFOVGJUYXhtckxOdGNaMUdtVmNnVjdCekRMU3hWZGRhTzlMXzV2OElqdmp0SnlmZ2lVdA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "6. Jun 2026"
         },
         {
           "title": "Personaldienstleister Steiermark: ANS Weiz eröffnet neuen Standort - wirtschafts-nachrichten.at",
@@ -71,27 +59,21 @@
           "date": "8. Jun 2026"
         },
         {
-          "title": "Konzertreigen kurbelt Tourismus an - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nbGNEZENiaU9sbmFjNWtwOEx4TFd5LTlQMFFOVGJUYXhtckxOdGNaMUdtVmNnVjdCekRMU3hWZGRhTzlMXzV2OElqdmp0SnlmZ2lVdA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "6. Jun 2026"
-        },
-        {
-          "title": "Neuer Standort: Tourismusverband Erzberg-Leoben zieht in die Homanngasse - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWHpZOWtmYVZCTnNVdlY4STVBM0p1bjRuTVEzZ21OSVNtR0dfbUd4LU02ZlpBZ1pKc3RlRzh5YzJCVktodzZORnZIdG52cXFlZ3lzbkxWV09NMTVKY0NUd1p6Y3VnYW5XOTc1d1ZkQ1JlbzdQbVl1STRXVHlPRmJaS0M5RlpHaHVOUXAzNVZIYmFzZHRFVlA5QUUtYXhSRjhEQndGaG1rQ09ZX3Rf?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "5. Jun 2026"
-        },
-        {
-          "title": "AK-SERVICE-TIPP - Dienstverhinderung, wenn der Flug ausfällt? - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1NZHNSeVJ3YUZndGdoMFJaMDVHV2RISkhST1hzZy1hMG1QMkJnT1RWREhveVVpckZmSHRWVS1zU2JYQQ?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "10. Jun 2026"
+          "title": "Summer-Opening Schladming begeistert mit internationalem Staraufgebot - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkN19nMXBVY3VEdE5lckJRSU9la3lGel9WVWd1a0pQTHYzWlE2dDJIMzNkdDRwVDNuMGNxUjZlWjA3clpaUDF6VXJ3S19NVW1sMFhfRXI4Wk8zNTdzcTJxQ0FEUjRqV2FoSmVCWUQtQmEtUGtESlY1TQ?oc=5",
+          "source": "Kommunikation - Land Steiermark",
+          "date": "4. Jun 2026"
         },
         {
           "title": "Wandern: Eine gar nicht harte Runde bei Hartberg - Der Standard",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQamRTS0N4cWVmZUF6bkdfOFp4bWVoNzlrdDFGbWxOa1plNWJKRmRwSF9scE1PYS11aWNkVlBWaUxyTjUxY1ZwZ1FKcDJtMFN3VHkwcHNyT3otaUY2VnQ3N3BlcHB3a19keWtSbXNXT0thLWNHOGs5RmFuMlJCMjRfMlJlTnd0Z1VKcUNZdlFHS3RFSVRfSDRRV1Vhd1VRUlp1Y2hNQTZmT2tsQQ?oc=5",
           "source": "Der Standard",
+          "date": "4. Jun 2026"
+        },
+        {
+          "title": "Countdown läuft: Das Grüne Herz schlägt ab Mittwoch in Wien - oe24.at",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMUNDMFpab0hiU0l0TWZnVHpCSFpwN0E3QXR2QXdKblpzX1hLMG5aUVdtRFJXYmtvR3JOckVGS2VUSzdFNjBxWXJXS1QtaG5Od2RwTm5YRzZaR0d0bjhmSlMwMFYzYTc1M3FzbUdNVlNRZ3dNczFOd1hDU1poQTlPb3F1XzYyNVpyTDQyaW5TZ1lYUmI3N1pncndxQXQ3Z2pNdmloZlctQlFQaFQxa3NpNmluYlJYcFnSAbwBQVVfeXFMTXgyYTFiM0pNRl9sWDUtSWRjYl9FWXhzcl9GS1l6ZHRVYlZmN0lxdFByWmFfc1VYcFJ4dGtOcmRpdm13VXRUTHR0UHVaTzl3bjlDandBX09GMDRTZGZMZm1WcWVJZ3dQbUM2MTZWaEpONTRvSlUwUng1eWFRTDZidFlCRGg3WHQyU1JyVzFFNnJWRl9lOVRPTnFfSGZMZVJ5LVI5MW9wZThCR0JvY0dqZkFzMkIyZjVFbnZTcVc?oc=5",
+          "source": "oe24.at",
           "date": "4. Jun 2026"
         },
         {
@@ -106,7 +88,7 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Weizer Forscherin Anja Haase wurde für ihre wissenschaftliche Arbeit mit einem Ehrenzeichen ausgezeichnet. Der Presseclub, die FH JOANNEUM und die Österreichische Medienakademie haben gemeinsam den ersten steirischen Lokaljournalismus-Preis ins Leben gerufen.",
+      "summary": "Die Weizer Forscherin Anja Haase wurde für ihre wissenschaftliche Arbeit mit einem Ehrenzeichen ausgezeichnet, während die steirische Forschungs- und Innovationslandschaft durch Initiativen wie den neuen Lokaljournalismus-Preis und das zehnjährige Bestehen des SILICON ALPS Clusters weiter gestärkt wird. Parallel dazu zeigt sich die wirtschaftliche Dynamik der Region durch Expansionsprojekte wie die Wachstumsstrategie des Anlagenbauers Rosendahl.",
       "items": [
         {
           "title": "Auszeichnung: Weizer Forscherin Anja Haase erhielt das Ehrenzeichen - MeinBezirk.at",
@@ -119,6 +101,18 @@
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNV2I0MV93bWYtV0RnZzh5dUlFS19qc3N4dXZVN24tU0QtNi1sM0otUlVYZnNaekFPbnU2MEI0QUxFS3VheG9fMDQxajJZS0xiRVkwQzI3UDBMVmFBNHRfNHRtNWN3dV93dDVOSW5iWExvcXAwbkx4TDJDYjBCVm5fcDF2Uko4UW5yRHZlTTVDWTRYbmdNTW5OTk4wTHFmOWp5cW11THhJVzQwQ0Z1ZldXNHp5THFXV0tuNUl2WGU2RTFpZk9hRmt5T0FKMV9FT25nZkFYWndablMtbC1lc0p3b3NzUUpvTl9MbHBOWFQ2S2g2SGRwMVZUbkpyeG9UUGNQ?oc=5",
           "source": "OTS.at",
           "date": "8. Jun 2026"
+        },
+        {
+          "title": "Rundes Jubiläum: 10 Jahre SILICON ALPS Cluster im Villacher Technologiepark - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2JmNUdJdlRvRmRtb0Jtc2M0Y09TUFJyUDY5TlJyVXluSzNYSEVHUi1lRE5pcEVvT1h2b1l5ZXFTS2pDTHBqZUtUS0VHR3JYRmEwcDhTT2UzUTFjckIwTFJQMWdBQU5KWkZWcW01RnNTZnFBR2VBa3p3ZWRkaVRUeEZoZWc5cnVKUllqWE52RDN1ZFRwbmVkSElmeDN1Yll1ZUxoNVRWTzdSVmg4U0QwdA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "10. Jun 2026"
+        },
+        {
+          "title": "Mega-Deal in der Steiermark: Anlagenbauer Rosendahl auf Expansionskurs - exxpress",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbXRJXzA4NkhqSV9OSUhNVm1xOVR0cFhFQzVyRjhPV0M3aENJRzJBOVlRTkNPWGVuc3k2bUVBRjFfemxaUEw1YTc4OF9UWUVudkhTS3lERVd3SVdlZWMwNjlFR2dmQURkOXdrWHlROFd2VUNxS3M5WkVQb3dfZHNhTDZYa1NWUktEOU43UTlibENfbHZCRzgxUHdwVmF0ZVU?oc=5",
+          "source": "exxpress",
+          "date": "8. Jun 2026"
         }
       ]
     },
@@ -126,7 +120,7 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark kritisiert die EU-Gebäuderichtlinie scharf, da deren Umsetzung zu erheblichen Sanierungskosten für Gebäudeeigentümer führt und auf Widerstand aus den Bundesländern trifft. Parallel werden Innenstadtplätze wie in Bruck/Mur reformiert, um die wirtschaftliche Entwicklung in den Regionen zu unterstützen.",
+      "summary": "Die Steiermark investiert in die Revitalisierung ihrer Innenstädte wie Bruck/Mur, um die wirtschaftliche Attraktivität urbaner Zentren zu stärken und neue Geschäftsmöglichkeiten zu schaffen. Gleichzeitig werden Förderprogramme zur Unterstützung von Arbeitskräften bei der Anpassung an KI-gestützte Veränderungen in der Arbeitswelt vorangetrieben, während einzelne Bundesländer bei der Umsetzung europäischer Gebäuderichtlinien Widerstand leisten.",
       "items": [
         {
           "title": "Bruck/Mur: Österreichs zweitgrößter Innenstadtplatz wird reformiert - wirtschafts-nachrichten.at",
@@ -135,16 +129,16 @@
           "date": "8. Jun 2026"
         },
         {
+          "title": "Neue Möglichkeiten: So verändert KI die Arbeitswelt in der Region - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWmllUWlJa01lMW5hc0RiSlRkNE1BbHk4LTltd2VQNmFRWW51V2ttaGtGMGR2WHR5UUt4bGlHNmJBV05UOUZzSnNpQ0w0VW1qa2I4VXFXUWNvR09TY3A3UEVpMVJsb25uSTNITmVZYVJvc2FEcXJOU1ZPdW9JNFl6eXhHZjk4TmMwaElaSGFWckkwdWhBT1V3dTRhT2JkWmswNWRDU2FB?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "10. Jun 2026"
+        },
+        {
           "title": "Passiver Widerstand aus blauen Bundesländern gegen Gebäuderichtlinie - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY1pMeWgwdWt2RC13MDZzQ0hVYjVKTG0wUTV1dG1seG9naksySWxXcm9ESEM3WU5WdEwtXzFvbVYyY3ZVYWkyWlZ3Wlo3a0F3dDEtYk1ReUhFTTUtVDVVM29YUVRLdjdqZFJva1Z2RzhvQkRDczF1UWttOFJ1Smd2cTVSSUw2ODQwaXJmTGlRLVpNeGgxXzZhaWlQZWFQcHl1dkFWRjZMVjdjZHRXdlg1aEhaeE5TMGF6?oc=5",
           "source": "Kleine Zeitung",
           "date": "5. Jun 2026"
-        },
-        {
-          "title": "Gebäude werden saniert - Teures Gesetz: Scharfe steirische Kritik an der EU - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BNkV2S2dGR25QdmVCVzViYVhlVW5iX1JydW1sMDh6R2drbjVYVC04NmdRZWYzWHFKX25GUEctZzdCUQ?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "3. Jun 2026"
         }
       ]
     },
@@ -152,13 +146,13 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark positioniert sich als innovativer Digitalstandort durch Veranstaltungen wie das Digital-Festival im Grazer Schaumbad und avantgardistische KI-Ansätze, während die Industriellenvereinigung mit ihrem Forderungskatalog zur Grazer Wahl eine zukunftsorientierte Standortentwicklung für die Region einfordert.",
+      "summary": "Die Steiermark positioniert sich als innovativer Technologiestandort, in dem künstliche Intelligenz die Arbeitswelt transformiert und etablierte Cluster wie Silicon Alps die Region ins europäische Zentrum rücken. Die Industrie fordert von der Stadt Graz verstärkte Investitionen in die digitale Infrastruktur, um die Wettbewerbsfähigkeit des Standorts langfristig zu sichern.",
       "items": [
         {
-          "title": "Digital-Festival zum Mitmachen im Grazer Schaumbad - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV1JwVDM1NXp6V09hTVVNUXFFVEJQb3JuR1ZvZ1FXMWcyalpKNlJiVmx3WGZiSi1jaVJSdGxtSmlwMnBZNFBTU0w4ZER0S3hLOHVPb3h2OS04YXU0YXY5YmZsOFlwRGtPRE5BdmZ3dDFKdHpPa0VNRlRLZkNaR05TRTJlRTd6a2xCc3NJcTlTSnQ3UHhMcklz?oc=5",
-          "source": "ORF ON",
-          "date": "5. Jun 2026"
+          "title": "Neue Möglichkeiten: So verändert KI die Arbeitswelt in der Region - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWmllUWlJa01lMW5hc0RiSlRkNE1BbHk4LTltd2VQNmFRWW51V2ttaGtGMGR2WHR5UUt4bGlHNmJBV05UOUZzSnNpQ0w0VW1qa2I4VXFXUWNvR09TY3A3UEVpMVJsb25uSTNITmVZYVJvc2FEcXJOU1ZPdW9JNFl6eXhHZjk4TmMwaElaSGFWckkwdWhBT1V3dTRhT2JkWmswNWRDU2FB?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "10. Jun 2026"
         },
         {
           "title": "Oswald Werner: KI avantgardistisch gedacht - steiermark.ORF.at",
@@ -171,6 +165,18 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQnBuTjVGSmRaY3hHdEVpXzlsSDBlbkY0c1ZSTlFoQ1RuZHI3ZmpUdHBhMlNMVEVlLVg2cnFPQkxDZTk4U2JWLU1JdVozWXY1ZjhqMUZHMmp2WldUeGN1c1oxWm9ncnNnQ3hMM1B0T0RLZUhBN05JUTNJSHliOUxuX203VFpFbDYxcTVVMDI4NGtFTXM4THBtTlZ1M0JoTTE0Snc1UTZNcHhRNzhZV20xSURuOE1wZzNMNzNZ?oc=5",
           "source": "MeinBezirk.at",
           "date": "9. Jun 2026"
+        },
+        {
+          "title": "Rundes Jubiläum: 10 Jahre SILICON ALPS Cluster im Villacher Technologiepark - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2JmNUdJdlRvRmRtb0Jtc2M0Y09TUFJyUDY5TlJyVXluSzNYSEVHUi1lRE5pcEVvT1h2b1l5ZXFTS2pDTHBqZUtUS0VHR3JYRmEwcDhTT2UzUTFjckIwTFJQMWdBQU5KWkZWcW01RnNTZnFBR2VBa3p3ZWRkaVRUeEZoZWc5cnVKUllqWE52RDN1ZFRwbmVkSElmeDN1Yll1ZUxoNVRWTzdSVmg4U0QwdA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "10. Jun 2026"
+        },
+        {
+          "title": "10 Jahre Clusterarbeit - Silicon Alps rückt Region ins Zentrum Europas - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9LTm91a0tXTTZDc21Eelpja0t0TzRMS3BtdEhuWl9BUGdGbGZwX2d1bHdUZDhMSnY1NGlMc195Xzhrdw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "10. Jun 2026"
         }
       ]
     }
