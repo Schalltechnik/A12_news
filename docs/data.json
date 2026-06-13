@@ -1,16 +1,46 @@
 {
-  "generated": "12. June 2026, 07:06 UTC",
+  "generated": "13. June 2026, 06:40 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Steiermark zeigt Stärken in nachhaltigen Technologien und Industrieansiedlungen, wie die Auszeichnung des Biomasseheizwerks Premstätten und die Unterstützung der Autoindustrie durch den Minister belegen, während gleichzeitig Herausforderungen beim Arbeitsmarkt bestehen, da trotz vieler offener Stellen ältere Arbeitssuchende zunehmend Schwierigkeiten haben und die Industrie verstärkt Appelle für verbesserte Standortpolitik erhebt.",
+      "summary": "Die Steiermark setzt mit ihrer ÖVP-geführten Landesregierung gezielt auf Wirtschaftswachstum und zukunftsorientierte Projekte, wie etwa die 25-Millionen-Euro-Investition in einen grünen Wasserstoff-Hub der Energie Steiermark in Bergla für die Wolfram AG. Dabei werden regionale Entwicklungsperspektiven in verschiedenen Bezirken diskutiert und innovative Mobilitätskonzepte wie in Gleisdorf als Vorbilder für nachhaltige Standortentwicklung ausgezeichnet.",
       "items": [
         {
-          "title": "Globe Styria Award 2026: Hohe Auszeichnung für Biomasseheizwerk Premstätten - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOEtaZFI4cjN0Wm01ZTU0MnBjR2RTVWlDaXh6SGpBX2NkQjFLVm5EaDZOemhZRzNIOEE0eXJrakFFXzlTMDRNUUk3VTlDS1psSDhxQmRmQW5IcWh0M050SUdnek9DZTRPSkUxR25pUkN1amZlSWU4UW4tcUE3cjZUd0Yxc0pjMlJHUmpXUWlaQy1iNEVNYTVmTWdqNHVIcUgwYUxsMW1OVFVQZ0xkSXlXVEpTVmM?oc=5",
+          "title": "ÖVP-Klausurtagung: Schwerpunkt Wirtschaft - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HZzI4M0s4UkNsXzZ0RHZpcHVSVUN3SXdMTmhTaV9DNVdYSTRucjRTUjczUVhPS2JFemhmT1lMNTZuR2F4MGFaYnJ6Wlp5eGpHbTBJSA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "12. Jun 2026"
+        },
+        {
+          "title": "Landeshauptmann -Stv. Khom: „Jetzt das Richtige für das Zukunftsland Steiermark tun.\" - Leibnitz Aktuell",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS2VPUERzaFM2NzV5ekhJeWpPcGxwMFJlWTVXTTJCQUFaand3YTBvT29tSTY5akdmRjJUQjJBZFZnRTFIR2ZObGhMd2xUbmhkM05vQXc0b1JwS2hmc3dPNEVOa1pDMmdUbVA5bFNCbXc0UENacFlyYm9WYmJyWUlfeVdZbHZCUnVfQ2dMVWNzcDZJdGZablZSYS05SWYzcFZoMm5KMDZsREhnNkVYTEExSlg4YmNWMmdEekZlbQ?oc=5",
+          "source": "Leibnitz Aktuell",
+          "date": "12. Jun 2026"
+        },
+        {
+          "title": "Zukunftsland Steiermark: ÖVP-Bezirksforum in Deutschlandsberg erörtert regionale Entwicklungsperspektiven - weltstimme.com",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWF90WTI1ZEVLOEFfbzBSS2Y4VTNlRDJHZmZTaHh3WldDNWFrV0VIRXA1SU1HVXQ4V0t1a3lzbmJ4VXVjMWc1M0hkZnQxU0VURGRMSGhaT3lqVGVZR2NqbkZtUFExalFVbHBaaGhFQnRpVFFNQjVvZGVGSmYteWNyNWk4YjVLS2ZQQ0g0UTdqN1ZqejhPUjBsS3Exb0tzRy1RUWx6QmZVXzdlblJDSkRKaG9ibHVveDFEMEtnTzRtTzU4bUxCWldITDVEcnktem1IUnUwNXR0ZEU?oc=5",
+          "source": "weltstimme.com",
+          "date": "12. Jun 2026"
+        },
+        {
+          "title": "25 Millionen-Euro-Projekt: Energie Steiermark baut Wasserstoff-Hub in Bergla - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOUFtdEh6ZF96QWFuUHRMU280VGxrUUtPT3BycnRJV21fQjdINFZYbUxnalFJTVRFRW5hb3VlVzZXb1JlX3lKTUotVmxCMWtxZTJXMjBkN3hXNFl3RmZ2Q0NmS3pvbkhWREVla25kbVZIVFEyTVcybWZOQTRrYm4xUm1fU0dXWnV2c1JBckFCX2xjTE1td2hERXYyUEdTbVdqTzhJQ0RPSDI4ZGV5?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "12. Jun 2026"
+        },
+        {
+          "title": "Energie Steiermark: Grüner Wasserstoff für Wolfram AG: In Bergla werden Millionen investiert - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNjNGamVyX2lILUxYVXczc044Z3kwNi1IQ09CalFVeGxtTk9fU3NjMUFoY2tPVUxTemtqamZCQXBicXlLSTRuU1p3bjY5Y1FFZ29oZElhZjF0eDl5dW0tZmd2M1Z5SnBtaUhsdkZrQ0FLRWxKYXpQY2tmNEloY0hCQUhmVkhtT2ZCYWphMDdTNmlzVUlmTk5Qb0s4TzBCNHl2Q2tmQXlsUlUyRnhI?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "12. Jun 2026"
+        },
+        {
+          "title": "Zukunftsland Steiermark: ÖVP-Bezirksforum in Deutschlandsberg diskutierte die Zukunft - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVERldmpkQjhhU3BjRWlDQzBXNHZkS2NjUUpkdHd2clpkeVNFX3B5dVcxVFVvVlA0UEJmb0lJYnpIYWpITkdybk96STQ2WUtwSzZ5WnZIUlU4Zlh3aFpaZld5ZGxlR2VyMkw3elFsZ0h2ZC1DWTlGdHFhejVmaGl5RHRhZHRvMi1HX2hOdkZlQjYxMEhaZ2xSR2ZnX0JXeE5vbzBEMV9WTEdNeXlzQ3BJVElYbXFKZGNuUTBMbFFMbjdLUGdY?oc=5",
           "source": "MeinBezirk.at",
           "date": "12. Jun 2026"
         },
@@ -21,28 +51,10 @@
           "date": "11. Jun 2026"
         },
         {
-          "title": "Standortpolitik: Appell aus der Industrie - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wUE1QM3VSXzVNRGI4M01xazY4dzJOMkVrcTlqY1paQy1UWDZvSDY4Zkt6dEhNNjFsQzdNeXV0TmY0OXBKLV9ocHAtUXdPcnFiZGh1TA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "9. Jun 2026"
-        },
-        {
-          "title": "Autoindustrie: Minister gibt Rückenwind - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwMlY4elE1UTZXd2hSNnhLS1dFN1FlQjRHS1FjZUZmMnh2YnpWR2x5YlFBSFNSQWZreFF4cncwWnVsQ3RDM2ZOcUVHUGhZdEU0c0Q1eg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "9. Jun 2026"
-        },
-        {
-          "title": "Südoststeiermark - Großeinsatz bei Industriebrand: Feuer im Griff - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4wV3gzRmo5U2FiWjdzclMzcUR2WDFPYXJhWFBmbHBnM2J0b0U1UEpGVnVvODNhTGkwTy1zSzR1WFJUUQ?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "6. Jun 2026"
-        },
-        {
-          "title": "AMS Hartberg-Fürstenfeld: Viele offene Stellen, doch Jobsuche wird für ältere Bürger schwerer - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPanhOWC1pRTBvSU5RdDQ0WGc2X2I2ZEJwUjhxY0RKM3FHME94ZWExeTBlMnYwRzZsTmNLaUpvUm1WR2lvdE9UbHZ6bXpHZUpBVmFCdkp0NFZFbHIxSEVqWm1XQXVOR3YxSFh3bzZwYjF0cU0tR1pDNGFQSS1sVmo5ZEFHbkFJTl8yakgtUDlnNGxJZHA3bHJVMDFoSjBsUmRBRXd3ZXdNUE9jTUFqX3NINERBRlFNbnZ1V296SUoxMHJsakd0b0FFei1TMTgyS3dudjFtOUlR?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "8. Jun 2026"
+          "title": "Gleisdorfer Mobilitätskonzept gewinnt Energy Globe Styria Award 2026 in Weiz - weltstimme.com",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTlpGb0tTaTc1T1pENjNKeEVmaXVlcXN3MjMwTWpGQjBMRXFpYkEzWVkyNDAtajVTUllnMmVET2lIWEpCMjhDTnJCVm1EdWZXUU9XZS02VHMwdVVkVzlxYWFDWG1XUmlhUG92ZE9MMEt0OUFES3A2bkdYcHJGZWtCc3lHdldKTGxiS2V5SFRxZW1QZHF0OG5QN3ZXUVFvVHBPWC1ZM0FaWUQ4M29jMDF3YUt3?oc=5",
+          "source": "weltstimme.com",
+          "date": "12. Jun 2026"
         }
       ]
     },
@@ -50,8 +62,20 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark positioniert sich erfolgreich als kulinarisches und kulturelles Reiseziel, wobei Konzertveranstaltungen und hochwertige Gastronomie den Tourismus ankurbeln. Gleichzeitig wird die touristische Infrastruktur durch strategische Investitionen wie die Modernisierung des Thermenresorts Loipersdorf und Fachkräfteausbildung im Tourismussektor gestärkt.",
+      "summary": "Die Steiermark positioniert sich erfolgreich als attraktives Reiseziel mit starker Nachfrage aus Osteuropa und nutzt dabei gezielt ihre Stärken in den Bereichen Kulinarik und Kulturveranstaltungen zur Tourismusförderung. Parallel dazu werden strategische Investitionen in Infrastruktur und Tourismusunternehmen wie dem Thermenresort Loipersdorf vorangetrieben, um die Wettbewerbsfähigkeit und Attraktivität des Landes langfristig zu sichern.",
       "items": [
+        {
+          "title": "Gemeinsamer Auftritt: Starke Nachfrage: Reiseprofis aus Osteuropa entdecken Kärnten und die Steiermark - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX3NieERVX1hjY2Nzc1o1ZnF3Q2o4RFFnbHN0akFpRjV0U2w0X21LZXJHZDB4eDN5R0hDT3djRUFSZW8xUmY4RGF2cWEwcU53M1lScmxKSXFMUWNQZld6VXJrWks1MlR0M3JzcEdDNmFRM1RXcm4temItVnlrUEZnRHcxRG0ySnJzTm9FVTM5QUZYbVh3MGV1OHVTcm8tdUtSTGJiMHFJakNBVnNRRXkyX1dIblBYdw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "13. Jun 2026"
+        },
+        {
+          "title": "25 Millionen-Euro-Projekt: Energie Steiermark baut Wasserstoff-Hub in Bergla - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOUFtdEh6ZF96QWFuUHRMU280VGxrUUtPT3BycnRJV21fQjdINFZYbUxnalFJTVRFRW5hb3VlVzZXb1JlX3lKTUotVmxCMWtxZTJXMjBkN3hXNFl3RmZ2Q0NmS3pvbkhWREVla25kbVZIVFEyTVcybWZOQTRrYm4xUm1fU0dXWnV2c1JBckFCX2xjTE1td2hERXYyUEdTbVdqTzhJQ0RPSDI4ZGV5?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "12. Jun 2026"
+        },
         {
           "title": "„Die Steiermark ist das kulinarische Nonplusultra“ - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4xdUhOcTBvNEthbDVQc3hJS1R5V1F5SXl0QlU1QTZOVjFTSk9sOHlIaTF5Vmp2ZVp3MEdOWk1VOVdFdw?oc=5",
@@ -63,12 +87,6 @@
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nbGNEZENiaU9sbmFjNWtwOEx4TFd5LTlQMFFOVGJUYXhtckxOdGNaMUdtVmNnVjdCekRMU3hWZGRhTzlMXzV2OElqdmp0SnlmZ2lVdA?oc=5",
           "source": "steiermark.ORF.at",
           "date": "6. Jun 2026"
-        },
-        {
-          "title": "ANS Personalservice GmbH eröffnet neuen Standort in Weiz | Personaldienstleister Steiermark - wirtschafts-nachrichten.at",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSUUxTUNNbmFOWlJFSXlRUzRFTVhpZlBLYmlmaGt2RFJIem1IVTNBS1ZWNnJnUzVFVXhDa0NFR1RZNVhvMEtfTVlYNEwxbDgxS3ZURGxLMUtNSDdKdlNhODBLeHZaNnM5MkdtbFR6ZmtEU1FpWGdiblZCVnNwOXNGVFF2b2ZlYUQ2ZEY3T0Y0OGZSN09qWTJ5ODJTd0l3QVU0MHlWMGNB?oc=5",
-          "source": "wirtschafts-nachrichten.at",
-          "date": "8. Jun 2026"
         },
         {
           "title": "Falkensteiner, Merkur Versicherung und Granit bündeln ihre Kräfte für die Zukunft des Thermenresorts Loipersdorf in der Steiermark - OTS.at",
@@ -83,6 +101,12 @@
           "date": "10. Jun 2026"
         },
         {
+          "title": "Energie Steiermark errichtet Wasserstoff-Hub in Bergla mit 25 Millionen Euro Investition - weltstimme.com",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdkdtUlVIaF93MWJaU0VFTWgzUkp6YXhjeXZBS2o2US1IZWxlSElxOU41OHVKaWF2NTJXVmR4d1dsZVY5S2syLXlFYlBUY19Cald5Sm54V2cwSUU2cnpmdk1oYTRyX2p6aUdxeGVIbm9FY1F3eWd3a0UwaENsTFQzMEl2dmxNX1ZYN190Q2JvRFQwYVpfODlOZTRyeFNEaUMwN0htTjdEMDZpSVBoMFRmZ3V5LXNzY21haVFpTFRuUFY?oc=5",
+          "source": "weltstimme.com",
+          "date": "12. Jun 2026"
+        },
+        {
           "title": "Studien- und Lehrgänge im Tourismus - wko.at",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zR2htRlZ4NnFEZ1I2RlJjUWdiVV9lb3lyMTFvbnFZQnJwelJmV0hvQUFmYnQtNFZEY2NmNlVIdVRKLUxKQnJxYXZrVEc1Q1dCaUVncXRRN3VJOURjR1BXa0ZFSlhvVWVQWVhLQ24td1ZmTEdObUE?oc=5",
           "source": "wko.at",
@@ -94,25 +118,13 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Weizer Forscherin Anja Haase wurde für ihre wissenschaftliche Arbeit mit dem Ehrenzeichen ausgezeichnet, während die FH JOANNEUM gemeinsam mit dem Presscluб und der Österreichischen Medienakademie erstmals einen steirischen Lokaljournalismus-Preis vergibt. Das SILICON ALPS Cluster feiert sein zehnjähriges Bestehen im Villacher Technologiepark und unterstreicht damit die wachsende Bedeutung der Innovationslandschaft in der Steiermark.",
+      "summary": "Der erste steirische Lokaljournalismus-Preis wird von Presseclub, FH JOANNEUM und Österreichischer Medienakademie ausgeschrieben, um qualitativ hochwertige lokale Berichterstattung auszuzeichnen. Diese Initiative stärkt die Bedeutung von Lokaljournalismus in der Steiermark und fördert den Nachwuchs in diesem wichtigen Medienbereich.",
       "items": [
-        {
-          "title": "Auszeichnung: Weizer Forscherin Anja Haase erhielt das Ehrenzeichen - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT3BpTDJaazZwbFEzM1poRDlQVjVFSkF6RTBLakpBMTRvYXpqOHJBbVZ0YzVnR1hPVVZtZ3J6SkVEV2dER0tCMlRWT0dBbUhheHZIRl9MUjlrYmJ5cVMzQlNMM2hRN1NreWJJUFZVVy1wLWVUMVRvY3d4VEJ6akNHY2xfTmRab25VQklTQmVwSmY3OFljM0IzNFRoSXhnd05aNnFr?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "5. Jun 2026"
-        },
         {
           "title": "Presseclub, FH JOANNEUM und Österreichische Medienakademie schreiben den 1. steirischen Lokaljournalismus-Preis aus - OTS.at",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNV2I0MV93bWYtV0RnZzh5dUlFS19qc3N4dXZVN24tU0QtNi1sM0otUlVYZnNaekFPbnU2MEI0QUxFS3VheG9fMDQxajJZS0xiRVkwQzI3UDBMVmFBNHRfNHRtNWN3dV93dDVOSW5iWExvcXAwbkx4TDJDYjBCVm5fcDF2Uko4UW5yRHZlTTVDWTRYbmdNTW5OTk4wTHFmOWp5cW11THhJVzQwQ0Z1ZldXNHp5THFXV0tuNUl2WGU2RTFpZk9hRmt5T0FKMV9FT25nZkFYWndablMtbC1lc0p3b3NzUUpvTl9MbHBOWFQ2S2g2SGRwMVZUbkpyeG9UUGNQ?oc=5",
           "source": "OTS.at",
           "date": "8. Jun 2026"
-        },
-        {
-          "title": "Rundes Jubiläum: 10 Jahre SILICON ALPS Cluster im Villacher Technologiepark - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2JmNUdJdlRvRmRtb0Jtc2M0Y09TUFJyUDY5TlJyVXluSzNYSEVHUi1lRE5pcEVvT1h2b1l5ZXFTS2pDTHBqZUtUS0VHR3JYRmEwcDhTT2UzUTFjckIwTFJQMWdBQU5KWkZWcW01RnNTZnFBR2VBa3p3ZWRkaVRUeEZoZWc5cnVKUllqWE52RDN1ZFRwbmVkSElmeDN1Yll1ZUxoNVRWTzdSVmg4U0QwdA?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "10. Jun 2026"
         }
       ]
     },
@@ -120,7 +132,7 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Die Stadt Bruck/Mur investiert in die Reformierung ihres großen Innenstadtplatzes, was typischerweise durch regionale Wirtschaftsförderungen und Stadtentwicklungsprogramme unterstützt wird. Gleichzeitig leisten mehrere österreichische Bundesländer Widerstand gegen die EU-Gebäuderichtlinie, die erhebliche Anforderungen an Sanierungen und Energieeffizienz mit sich bringt.",
+      "summary": "Die Steiermark investiert in die Modernisierung ihrer urbanen Zentren, wie die Reformierung des Innenstadtplatzes in Bruck/Mur als Österreichs zweitgrößtem Platz dieser Art zeigt. Parallel werden regionale Entwicklungsperspektiven und Klimafitness-Maßnahmen in Städten wie Fürstenfeld vorangetrieben, um die Steiermark zukunftsorientiert und nachhaltig zu gestalten.",
       "items": [
         {
           "title": "Bruck/Mur: Österreichs zweitgrößter Innenstadtplatz wird reformiert - wirtschafts-nachrichten.at",
@@ -129,10 +141,16 @@
           "date": "8. Jun 2026"
         },
         {
-          "title": "Passiver Widerstand aus blauen Bundesländern gegen Gebäuderichtlinie - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY1pMeWgwdWt2RC13MDZzQ0hVYjVKTG0wUTV1dG1seG9naksySWxXcm9ESEM3WU5WdEwtXzFvbVYyY3ZVYWkyWlZ3Wlo3a0F3dDEtYk1ReUhFTTUtVDVVM29YUVRLdjdqZFJva1Z2RzhvQkRDczF1UWttOFJ1Smd2cTVSSUw2ODQwaXJmTGlRLVpNeGgxXzZhaWlQZWFQcHl1dkFWRjZMVjdjZHRXdlg1aEhaeE5TMGF6?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "5. Jun 2026"
+          "title": "Zukunftsland Steiermark: ÖVP-Bezirksforum in Deutschlandsberg erörtert regionale Entwicklungsperspektiven - weltstimme.com",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWF90WTI1ZEVLOEFfbzBSS2Y4VTNlRDJHZmZTaHh3WldDNWFrV0VIRXA1SU1HVXQ4V0t1a3lzbmJ4VXVjMWc1M0hkZnQxU0VURGRMSGhaT3lqVGVZR2NqbkZtUFExalFVbHBaaGhFQnRpVFFNQjVvZGVGSmYteWNyNWk4YjVLS2ZQQ0g0UTdqN1ZqejhPUjBsS3Exb0tzRy1RUWx6QmZVXzdlblJDSkRKaG9ibHVveDFEMEtnTzRtTzU4bUxCWldITDVEcnktem1IUnUwNXR0ZEU?oc=5",
+          "source": "weltstimme.com",
+          "date": "12. Jun 2026"
+        },
+        {
+          "title": "Klimafitte Thermenhauptstadt: Fürstenfeld stellt Weichen auf Klimafitness - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWFJWWVdnNG1mTTNlNV9pbFV2NG1fR0EtTVgwNGpreE9FRGNzZjZ6MW9ITm9fMG9fbWh0alJhNmJyQUNCVGxjRElnMzIySDBSVzAyZllkSHFFWXBMc2dmT29vVnpxcl9SQWNHcUxFMzJ6U1BnbjUwZUpCQVJtUS1lM1BUSUVCVnR0blZ1NFVEUWQtNmQ4NmdveTNwSUF1bHkyTUxhUm00SzdONkFTc0M5cA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "12. Jun 2026"
         }
       ]
     },
@@ -140,7 +158,7 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark positioniert sich als innovativer Technologiestandort durch die Etablierung von Clustern wie Silicon Alps und die Entwicklung intelligenter Infrastrukturen wie dem Grazer Smart City Campus, während künstliche Intelligenz zugleich die Arbeitswelt transformiert und neue avantgardistische Ansätze in der Region ermöglicht. Durch gezielte KI-Experimente und zehnjährige Clusterarbeit rückt die Steiermark ins Zentrum europäischer Technologieentwicklung vor.",
+      "summary": "Die Steiermark positioniert sich durch etablierte Technologiecluster wie Silicon Alps und verstärkte KI-Integration als innovativer Wirtschaftsstandort, während gleichzeitig Green-Tech-Kompetenzen und nachhaltige Energielösungen wie Elektrolyse-Anlagen die Arbeitswelt der Region transformieren. Die Digitalisierungsoffensive adressiert sowohl technologische Avantgarde als auch praktische Qualifizierung für zukunftsorientierte Arbeitsplätze in einem wettbewerbsintensiven europäischen Kontext.",
       "items": [
         {
           "title": "Experiment mit künstlicher Intelligenz: Vier KIs, vier Städte, nur zwei überleben - MeinBezirk.at",
@@ -161,10 +179,10 @@
           "date": "10. Jun 2026"
         },
         {
-          "title": "Jetzt ist der neue Schulcampus in der Grazer Smart City komplett - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR1VxR2pWcm5WNGt0YkpESTdMQUpPSEMxUHdLSTFLeGxTa0JmTi1DbTdHWG5NbWlTUW93TzhTb0pWWnpJYmMtcnpWZ0R4LVpzLXNHbHJUdWJZSHA1X3dSdzl0WV9ncFJVcnZjR3dmRGVtc3pTU0wxVGZ5ZV95ZGJfbmFNUldBM21TZ0g0SmQtUTBTTkpxX296aXVXRFMwaDlYV2tSNE5tNjBBLUtPelUw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "12. Jun 2026"
+          "title": "Standortentwicklung: IV-Steiermark präsentiert vor Grazer-Wahl Forderungskatalog an Stadt - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQnBuTjVGSmRaY3hHdEVpXzlsSDBlbkY0c1ZSTlFoQ1RuZHI3ZmpUdHBhMlNMVEVlLVg2cnFPQkxDZTk4U2JWLU1JdVozWXY1ZjhqMUZHMmp2WldUeGN1c1oxWm9ncnNnQ3hMM1B0T0RLZUhBN05JUTNJSHliOUxuX203VFpFbDYxcTVVMDI4NGtFTXM4THBtTlZ1M0JoTTE0Snc1UTZNcHhRNzhZV20xSURuOE1wZzNMNzNZ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "9. Jun 2026"
         },
         {
           "title": "Rundes Jubiläum: 10 Jahre SILICON ALPS Cluster im Villacher Technologiepark - MeinBezirk.at",
@@ -177,6 +195,18 @@
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9LTm91a0tXTTZDc21Eelpja0t0TzRMS3BtdEhuWl9BUGdGbGZwX2d1bHdUZDhMSnY1NGlMc195Xzhrdw?oc=5",
           "source": "Kronen Zeitung",
           "date": "10. Jun 2026"
+        },
+        {
+          "title": "333 Green-Skills-Angebote für die Jobs mit Zukunft - OTS.at",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFJ4eFRabzZIejhSUndnTGc0SmVmRkcwdGNoVE5weEhMeHY3Z2xZdTVWMGRtaEk3dE9LeFVkOEZmXzFjMnFNeENmM0lDVzc3blRfNkFJWUpkMjVGMHRuMmV1SmotdWpnQTR1ZnNxYXhOWjhrZWx5T3Mwa3h5LVpsRDRoU0VlRWJjRThfdnVJS0xBU2pyWENvTUpoZl96R3U1aEhTWTVob29qbVZL?oc=5",
+          "source": "OTS.at",
+          "date": "11. Jun 2026"
+        },
+        {
+          "title": "Energie Steiermark baut Elektrolyse-Anlage - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2WDdidmVwRnFVcGpuLVViSkhHR2dWUlJMbXo4eFRJVndUQXdWRWR1OWpCTnc2N3VjZFpPYVN1RGdGYWkyMTIxU2h6UjFWZjRwRzRCOQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "12. Jun 2026"
         }
       ]
     }
