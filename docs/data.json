@@ -1,12 +1,12 @@
 {
-  "generated": "14. June 2026, 07:08 UTC",
+  "generated": "15. June 2026, 08:39 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Steiermark positioniert sich als Zukunftsstandort durch strategische Investitionen in grüne Technologien wie Wasserstoffproduktion und nachhaltige Energielösungen, während gleichzeitig traditionelle Branchen wie die Holzwirtschaft gestärkt und regionale Entwicklungsperspektiven in allen Landesteilen vorangetrieben werden. Die ÖVP-geführte Landesregierung setzt dabei auf wirtschaftspolitische Schwerpunkte, die Unternehmensansiedlungen fördern und die lokale Wirtschaft durch Events und Kampagnen beleben.",
+      "summary": "Die Steiermark positioniert sich als Zukunftsstandort durch strategische Investitionen in grüne Technologien, insbesondere in die Wasserstoffwirtschaft, wobei Energie Steiermark eine der größten grünen Wasserstoffanlagen für Unternehmen wie Wolfram AG errichtet. Parallel dazu werden infrastrukturelle Maßnahmen wie die Hofwege-Projekte in der Landwirtschaft und eine wirtschaftspolitische Neuausrichtung der ÖVP vorangetrieben, um die Steiermark als nachhaltiges Zukunftsland zu etablieren.",
       "items": [
         {
           "title": "ÖVP-Klausurtagung: Schwerpunkt Wirtschaft - steiermark.ORF.at",
@@ -39,10 +39,10 @@
           "date": "12. Jun 2026"
         },
         {
-          "title": "Branche mit neuer Kampagne: So wichtig ist die Holzwirtschaft für die Steiermark - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRngzdENyR25PRTA5VUs3U1R6RjJSTmdNRFlObU5iUHV3a25uS18zbjBUQ0g1YXVOZjZZaS1YcmE4TkNsUGVyVGVZZjIxdGgwY1NSc0ZnTm1OZTRUcE1kTE1DZWYxc2FaM09sZTY0TVFFQjFoWmxmV1BDOGFMWTF5LWF4QnIyby0yYnNrZXVCQ1VOVS01elJWN1pJcFBJZG5TdmRfejFGVEd4NHhTNDVCSlZ3?oc=5",
+          "title": "Infrastruktur-Boost: 33 Hofwege-Projekte stärken Landwirtschaft in neun Bezirken - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRUFwa25iSGlsUHlpNVp1a2FIQmFwbFE2SE1BNlh4SXN0ZXB3YVNOLUdueFBYdlVKcGZ4Wm1OWDYyRU1zRHhScTg0eGRkaHZIOUd6TE1zc0dnTkFhQnFkQnY1STJzaVRFdF8tSlFVLUhQWTM0LVUzcWEtLXU5STQ3bWFUWFVUVlFoQXRPZjhNaVVhQUlnMHE0QjNQY3RSRWs4MEtuWXJ2cVlFVHd1RHhjZ1FxMGdDNXpFVkkw?oc=5",
           "source": "MeinBezirk.at",
-          "date": "9. Jun 2026"
+          "date": "14. Jun 2026"
         },
         {
           "title": "Zukunftsland Steiermark: ÖVP-Bezirksforum in Deutschlandsberg erörtert regionale Entwicklungsperspektiven - weltstimme.com",
@@ -51,10 +51,10 @@
           "date": "12. Jun 2026"
         },
         {
-          "title": "Grazathlon belebt die Stadtwirtschaft - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TajZWdlUxTUNwMldXMmNzOHJ3NV9lbU8zbFZ5TUJFam9vSTBJUGxEWFJfaWU3MGl5TWtxM0t4ZlJwX0FVMjdxREZkeTJLc3dVQWRuSA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "13. Jun 2026"
+          "title": "33 Hofwege-Projekte in der Steiermark unterstützen Landwirtschaft in neun Bezirken - weltstimme.com",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZXlaUmlNdlE2WTV1SXBWOWlLa25LVVJ4YUdja0MyNm1JdUQ5RFNaZVZWSzhYVVpuMks4RzVDNGYyNVF5T25hMjZBM3dBOEZadDFNTW81Q3JlSU5JWFM3RG9LNERjMjFyTG91SnAtbDZETEpGYXAzZTZpZ0VGR0JyWUZid1drT1lKZFlLOGU5OGJCQ2l1dkdrcmkzNVVjVWhMWENkMTJsMVVXcEFVY0xJdW5sT2M4bEM2SUE?oc=5",
+          "source": "weltstimme.com",
+          "date": "14. Jun 2026"
         }
       ]
     },
@@ -62,14 +62,8 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark positioniert sich als attraktives Reiseziel mit starker Nachfrage aus Osteuropa und profiliert sich dabei besonders durch ihre Naturparke und kulinarischen Angebote. Parallel dazu werden bedeutende Infrastrukturinvestitionen wie der Wasserstoff-Hub und die Modernisierung des Thermenresorts Loipersdorf vorangetrieben, um die Wettbewerbsfähigkeit und nachhaltige Entwicklung des Tourismussektors zu stärken.",
+      "summary": "Die Steiermark positioniert sich als kulinarisches Reiseziel mit wachsender internationaler Nachfrage aus Osteuropa und stärkt gleichzeitig ihre Tourismusinfrastruktur durch Investitionen in etablierte Angebote wie das Thermenresort Loipersdorf sowie die Weiterentwicklung ihrer Naturparke. Parallel dazu werden nachhaltige Energielösungen wie der Wasserstoff-Hub in Bergla ausgebaut, die langfristig auch die Wettbewerbsfähigkeit und Attraktivität des Tourismusstandorts Steiermark unterstützen.",
       "items": [
-        {
-          "title": "Naturparke Steiermark: So will der neue Chef die steirischen Naturparke weiterentwickeln - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNGU2OFNsUHNheUlWZWlqTi1sNUg1YlgzLTRyVzFadldLTE1XVDdKaE8xZXF5MW9Od3lKUi13OXF1Y0hXWm93UkIzRXZkc25xM21DWXFQdlhkTGRKVmw4WEpnSVBNSnNJaV9wd3d1YmFjdFIwaTlSXzVhX1NKQnZkSHNfSV9DeHRHSlhLZE5ucy1QZFdBc1dLQXhWWXBCWDNtX1ZOeXphdTZOZVVHSE94Q1BzUkxuVkxjenVn?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "14. Jun 2026"
-        },
         {
           "title": "Grüner Wasserstoff: Energie Steiermark baut größte grüne Wasserstoffanlage - wirtschafts-nachrichten.at",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc2xlY1B4VWVraU1sSG9XT3hkbTFwTjJLaVBDSDVPR2xWRHBCbDladzRCUnd5ZTNQQzRLbWhkLXlNOEE3a2gyTUNSeXkzU1hjQmdvUTZzeWFxb0p0TTYwSENURUF0WHVsdDliQXMzelEyVS01ZmxBMldFb3lYUG1xMVZoSkNJVW5kZU9PcVVFQzNPbmwwMEFsVDd4c25UVGQ5NXdBZ2lPaTk?oc=5",
@@ -83,22 +77,16 @@
           "date": "13. Jun 2026"
         },
         {
+          "title": "Naturparke Steiermark: So will der neue Chef die steirischen Naturparke weiterentwickeln - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNGU2OFNsUHNheUlWZWlqTi1sNUg1YlgzLTRyVzFadldLTE1XVDdKaE8xZXF5MW9Od3lKUi13OXF1Y0hXWm93UkIzRXZkc25xM21DWXFQdlhkTGRKVmw4WEpnSVBNSnNJaV9wd3d1YmFjdFIwaTlSXzVhX1NKQnZkSHNfSV9DeHRHSlhLZE5ucy1QZFdBc1dLQXhWWXBCWDNtX1ZOeXphdTZOZVVHSE94Q1BzUkxuVkxjenVn?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "14. Jun 2026"
+        },
+        {
           "title": "„Die Steiermark ist das kulinarische Nonplusultra“ - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4xdUhOcTBvNEthbDVQc3hJS1R5V1F5SXl0QlU1QTZOVjFTSk9sOHlIaTF5Vmp2ZVp3MEdOWk1VOVdFdw?oc=5",
           "source": "Kronen Zeitung",
           "date": "9. Jun 2026"
-        },
-        {
-          "title": "25 Millionen-Euro-Projekt: Energie Steiermark baut Wasserstoff-Hub in Bergla - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOUFtdEh6ZF96QWFuUHRMU280VGxrUUtPT3BycnRJV21fQjdINFZYbUxnalFJTVRFRW5hb3VlVzZXb1JlX3lKTUotVmxCMWtxZTJXMjBkN3hXNFl3RmZ2Q0NmS3pvbkhWREVla25kbVZIVFEyTVcybWZOQTRrYm4xUm1fU0dXWnV2c1JBckFCX2xjTE1td2hERXYyUEdTbVdqTzhJQ0RPSDI4ZGV5?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "12. Jun 2026"
-        },
-        {
-          "title": "ANS Personalservice GmbH eröffnet neuen Standort in Weiz | Personaldienstleister Steiermark - wirtschafts-nachrichten.at",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSUUxTUNNbmFOWlJFSXlRUzRFTVhpZlBLYmlmaGt2RFJIem1IVTNBS1ZWNnJnUzVFVXhDa0NFR1RZNVhvMEtfTVlYNEwxbDgxS3ZURGxLMUtNSDdKdlNhODBLeHZaNnM5MkdtbFR6ZmtEU1FpWGdiblZCVnNwOXNGVFF2b2ZlYUQ2ZEY3T0Y0OGZSN09qWTJ5ODJTd0l3QVU0MHlWMGNB?oc=5",
-          "source": "wirtschafts-nachrichten.at",
-          "date": "8. Jun 2026"
         },
         {
           "title": "Falkensteiner, Merkur Versicherung und Granit bündeln ihre Kräfte für die Zukunft des Thermenresorts Loipersdorf in der Steiermark - OTS.at",
@@ -107,10 +95,22 @@
           "date": "11. Jun 2026"
         },
         {
+          "title": "25 Millionen-Euro-Projekt: Energie Steiermark baut Wasserstoff-Hub in Bergla - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOUFtdEh6ZF96QWFuUHRMU280VGxrUUtPT3BycnRJV21fQjdINFZYbUxnalFJTVRFRW5hb3VlVzZXb1JlX3lKTUotVmxCMWtxZTJXMjBkN3hXNFl3RmZ2Q0NmS3pvbkhWREVla25kbVZIVFEyTVcybWZOQTRrYm4xUm1fU0dXWnV2c1JBckFCX2xjTE1td2hERXYyUEdTbVdqTzhJQ0RPSDI4ZGV5?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "12. Jun 2026"
+        },
+        {
           "title": "Energie Steiermark errichtet Wasserstoff-Hub in Bergla mit 25 Millionen Euro Investition - weltstimme.com",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdkdtUlVIaF93MWJaU0VFTWgzUkp6YXhjeXZBS2o2US1IZWxlSElxOU41OHVKaWF2NTJXVmR4d1dsZVY5S2syLXlFYlBUY19Cald5Sm54V2cwSUU2cnpmdk1oYTRyX2p6aUdxeGVIbm9FY1F3eWd3a0UwaENsTFQzMEl2dmxNX1ZYN190Q2JvRFQwYVpfODlOZTRyeFNEaUMwN0htTjdEMDZpSVBoMFRmZ3V5LXNzY21haVFpTFRuUFY?oc=5",
           "source": "weltstimme.com",
           "date": "12. Jun 2026"
+        },
+        {
+          "title": "Studien- und Lehrgänge im Tourismus - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zR2htRlZ4NnFEZ1I2RlJjUWdiVV9lb3lyMTFvbnFZQnJwelJmV0hvQUFmYnQtNFZEY2NmNlVIdVRKLUxKQnJxYXZrVEc1Q1dCaUVncXRRN3VJOURjR1BXa0ZFSlhvVWVQWVhLQ24td1ZmTEdObUE?oc=5",
+          "source": "wko.at",
+          "date": "9. Jun 2026"
         }
       ]
     },
@@ -118,7 +118,7 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Steiermark zeichnet mit dem Energy Globe STYRIA AWARD innovative Klimaprojekte aus und würdigt damit das Engagement für nachhaltige Lösungen in der Region. Das SILICON ALPS Cluster feiert sein zehnjähriges Bestehen im Villacher Technologiepark und unterstreicht damit die Bedeutung der Technologie- und Innovationscluster für die wirtschaftliche Entwicklung Kärntens und der Steiermark.",
+      "summary": "Die Steiermark zeichnet mit dem Energy Globe STYRIA AWARD herausragende Klimainnovationen aus und würdigt damit das Engagement für nachhaltige Lösungen in der Region. Das SILICON ALPS Cluster feiert sein zehnjähriges Bestehen im Villacher Technologiepark und hat sich als bedeutende Plattform für technologische Entwicklung etabliert.",
       "items": [
         {
           "title": "Energy Globe STYRIA AWARD: Steiermarks beste Klima-Ideen prämiert - 5 Minuten",
@@ -138,8 +138,14 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Die Stadt Bruck an der Mur investiert in die Revitalisierung ihres zweitgrößten Innenstadtplatzes, um die lokale Wirtschaftskraft und Attraktivität zu stärken. Fürstenfeld setzt mit Klimafitness-Maßnahmen auf nachhaltige Entwicklung und positioniert sich als zukunftsorientierte Thermenstadt in der Steiermark.",
+      "summary": "Die Steiermark setzt auf Sparmaßnahmen und Infrastrukturreformen, wie die geplante Umgestaltung des Innenstadtplatzes in Bruck/Mur zeigt. Gleichzeitig werden Klimaschutzprojekte wie in Fürstenfeld sowie Cybersicherheitsförderungen durch die FFG vorangetrieben, um die Region zukunftsfähig zu gestalten.",
       "items": [
+        {
+          "title": "Teamchefin Khom schwört die ÖVP auf harten Sparkurs im Land ein - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbkwtcm42T3ZxQUVwZ3NYNFlPTDBZcGFYVUNGRlR0dHRVcGl0cjZ5dEc4TGxhRVlKQkh2a1NRVVNjVXFpQ0xXMjVjTkZTRmk1Z1A0R3RlSXBMUDBBQ2I4eFYxOHZvS2RXVUhEQWpTbExMNWVwZ3dQNHhyUlVHakZucFhqeDdNcjg0WEFfc3RnSERVNncydG9tSW50dXJRM25XZnBWb091SmhwN2c?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "13. Jun 2026"
+        },
         {
           "title": "Bruck/Mur: Österreichs zweitgrößter Innenstadtplatz wird reformiert - wirtschafts-nachrichten.at",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2xKUXNfVWh2TTlLRjB2QWRnN0hteXRYNlMwQWRjUzNkYWRrX3V4SGtrLTFHWThrUWY2Z3dCcEpIRDRmUzlQZXhtMUdRVXJsNmgtUlRVY2dmQmRBVnl5Q2JNbG9faEU4SHBzMnpHeGh4QVpZV2ZYRjF4ck5VVS1OaXhOWlJuX0tMcEl2aVRDRnVaTGcxbmJrUVVJNXRTVXA2VFRfRkp5N1ZUTXlmQ2UzRQ?oc=5",
@@ -151,6 +157,12 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWFJWWVdnNG1mTTNlNV9pbFV2NG1fR0EtTVgwNGpreE9FRGNzZjZ6MW9ITm9fMG9fbWh0alJhNmJyQUNCVGxjRElnMzIySDBSVzAyZllkSHFFWXBMc2dmT29vVnpxcl9SQWNHcUxFMzJ6U1BnbjUwZUpCQVJtUS1lM1BUSUVCVnR0blZ1NFVEUWQtNmQ4NmdveTNwSUF1bHkyTUxhUm00SzdONkFTc0M5cA?oc=5",
           "source": "MeinBezirk.at",
           "date": "12. Jun 2026"
+        },
+        {
+          "title": "NIS2: FFG-Förderung und FFG-Webinar - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WWlRTN2ZQbnNEM1g5UTl2OUxrZzQ3bkFVcFFuQ2I1UHRKWG45OW5SV0UtaUMzdzhJU1ZWVUdWWmRqSjk3dTJxYTBSVGo5MGxjLVVNNjFmeU9mTnprRVQ2U1F2b2pNdGh1eEQ0ZFdMbks0SFJUVXoySw?oc=5",
+          "source": "wko.at",
+          "date": "10. Jun 2026"
         }
       ]
     },
@@ -158,7 +170,7 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark positioniert sich als innovativer Technologiestandort durch etablierte Cluster wie Silicon Alps, intelligente Stadtentwicklung und intensive KI-Forschung, die sowohl avantgardistische Ansätze als auch praktische Anwendungen in der Arbeitswelt umfasst. Parallel dazu werden Green Skills und nachhaltige Technologien wie grüner Wasserstoff massiv ausgebaut, um die Region als zukunftsorientiertes Zentrum für digitale und ökologische Transformation zu stärken.",
+      "summary": "Die Steiermark positioniert sich als innovativer Technologiestandort mit dem etablierten SILICON ALPS Cluster und modernen Smart-City-Infrastrukturen wie dem neuen Grazer Schulcampus, während künstliche Intelligenz zugleich die Arbeitswelt transformiert und Green-Tech-Kompetenzen durch umfangreiche Schulungsangebote für nachhaltige Zukunftsjobs entwickelt werden. Experimentelle KI-Projekte und die Erschließung grüner Wasserstofftechnologien unterstreichen das Engagement der Region für avantgardistische Lösungen in Digitalisierung und Nachhaltigkeit.",
       "items": [
         {
           "title": "Experiment mit künstlicher Intelligenz: Vier KIs, vier Städte, nur zwei überleben - MeinBezirk.at",
@@ -197,16 +209,16 @@
           "date": "10. Jun 2026"
         },
         {
-          "title": "333 Green-Skills-Angebote für die Jobs mit Zukunft - OTS.at",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFJ4eFRabzZIejhSUndnTGc0SmVmRkcwdGNoVE5weEhMeHY3Z2xZdTVWMGRtaEk3dE9LeFVkOEZmXzFjMnFNeENmM0lDVzc3blRfNkFJWUpkMjVGMHRuMmV1SmotdWpnQTR1ZnNxYXhOWjhrZWx5T3Mwa3h5LVpsRDRoU0VlRWJjRThfdnVJS0xBU2pyWENvTUpoZl96R3U1aEhTWTVob29qbVZL?oc=5",
-          "source": "OTS.at",
-          "date": "11. Jun 2026"
+          "title": "333 Green-Skills-Angebote für die Jobs mit Zukunft - Ökonews",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYUQ2Rm05QU1rUVphS2Uyb3lwQXFMd3lkR09UY2Y2Vng1RnpBLWFveGVZS21UTzFqdVlPLVllQlFKM1Q2RDZXNEk2N0NyYmVYYmRvaGNOeXhnSDRhVVUzRG5uVTFnLVlGWjBRQUt0eXQzTTRvUWVTMFFYdkFudS1qVVBtbWhLclRlemxPOQ?oc=5",
+          "source": "Ökonews",
+          "date": "15. Jun 2026"
         },
         {
-          "title": "Grüner Wasserstoff: Steiermark startet 25-Millionen-Euro-Projekt - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTU9TVjd3OGFMUVhrTEd3UmRES3JaX3N6Yjh0b0p2emNpblN0S1h4bC1sX2lUN0xmVHBxX2FuVjhlXzFfbFhTNWwtWGhURl9CSEt6UmNnMlFZd3lGRXZ4VEVCWEFZeHNNeldFQ0JQdHdWbG44R2RBZm5iZXBVMDJoQm81RVNzSXNkdXN5emNNdnF2TTRYQ3ktVW5SRkZ3c1NsaHlfdmtUU1QxOGJfNWFr?oc=5",
-          "source": "5 Minuten",
-          "date": "14. Jun 2026"
+          "title": "Bald grüner Wasserstoff für die Wolfram Bergbau und Hütten AG - Österreichische Verkehrszeitung -",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWWZkbUpEVGNGRTMxMTlnVExqVHNhUl9SVEx3V1ZYR3JZX2F1Y2VlenYtYlNxZ0hqcFZWcnMwdGpHZm13RDRGRXp3WUM4THpVbVBOWUgyZ1dqN1FXTHNyZVY1US1IV2xJS3VuZzhYSWJQMW40SEdvUGVUT2tMMExqOVgzMDYtVjFFRFE?oc=5",
+          "source": "Österreichische Verkehrszeitung -",
+          "date": "15. Jun 2026"
         }
       ]
     }
