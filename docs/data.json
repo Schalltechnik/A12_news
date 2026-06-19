@@ -1,18 +1,30 @@
 {
-  "generated": "18. June 2026, 07:17 UTC",
+  "generated": "19. June 2026, 08:17 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Steiermark setzt mit Initiativen wie der Stärkung von Frauen in der Wirtschaft und Impulsveranstaltungen auf eine diversifizierte Wirtschaftsentwicklung, während gleichzeitig zukunftsorientierte Projekte wie die größte grüne Wasserstoffanlage von Energie Steiermark den Fokus auf nachhaltige Technologien legen. Allerdings zeigen steigende Insolvenzen im Baugewerbe und wirtschaftliche Herausforderungen, dass die Steiermark trotz dieser positiven Entwicklungen mit strukturellen Schwierigkeiten kämpft und eine gezielte Wirtschaftspolitik zur Stabilisierung gefährdet erscheinender Branchen benötigt.",
+      "summary": "Die Steiermark positioniert sich durch strategische Unternehmensansiedlungen wie die Expansion des Bauzentrums Hannak und die geplante Inbetriebnahme eines Elektro-Ofens bei voestalpine 2027 als attraktiver Wirtschaftsstandort mit Fokus auf nachhaltige Industrielösungen. Parallel dazu werden durch Initiativen wie die Meisterausbildung in der Agrarwirtschaft und die Stärkung von Frauennetzwerken in der Wirtschaft die Fachkräfteentwicklung und unternehmerische Kompetenz in der Region gezielt gefördert.",
       "items": [
         {
-          "title": "Christiane Ortner übernimmt Obfrau-Position bei Frau in der Wirtschaft – Südoststeiermark - weltstimme.com",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUlhsSVo5ZDFhQXVUZXROYlNzdjEwZFpzRy04cktfcVdKeUs4dmRpSC1QUUR1RHJRRURUU00tazlvdEpNa0tacVV3ZUR4VURwRUFYV3FWTnh3YW1YaVRUMm9aWGRXWG55OXEyRUJFenhvSVNIY0ZVVXZYLWZmRHhTemtkdnFmUEJWTlc0VlcxSi1pRDhQNC1UdThpaWZZdmEzV29XU1NwbkRwWFc3cTloLXBkQXdXV09KYWlxMU5EOTRsQQ?oc=5",
-          "source": "weltstimme.com",
-          "date": "17. Jun 2026"
+          "title": "Innenstadt, Verkehr, Wirtschaft: Hohensinner (ÖVP) über seine Pläne für Graz - Steiermark heute vom 18.06.2026 - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZE80dXktWVo0TGRNNTBSR21ZbzRXOFlTNjVpal81UGR0V0o4Uy1IYlBkcWR1d1dnMlNmZ1NEWWtIWWluWWwySk05TDE1SWU3OTN0cVQ3ZndaSVp5WDFHTkxzSTBSMExrVzhKRENjMXRsYWZDUk5vOHNLSjJ4MGMzSi1jcHR3Q2RUMHZRV1lad216c2VpZUhNWXFnbWR2MmR3MTVvZFk2T0pNMWVfTUxlenhKTWxoQVdLUGNLRld1WVdxb0FVcXFza3g1UG1RbzVESDNTOEJ1aVRmVTRxclpRXw?oc=5",
+          "source": "ORF ON",
+          "date": "19. Jun 2026"
+        },
+        {
+          "title": "„Glaubwürdigkeit muss man jeden Tag verdienen“ - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbVRUVm1oVXRNZFZxY1hWMGtoaTYwS1k0dm9WX0Vrd0dBQ0M4QTlKZjJzSzNLVG1aWFN6YWFZRkJHa2FyOUY5SWtud3luc2VYUFk0bTZONVVKM0lvV0Vaa24tVEQ5TTNkTGJlN19MVXpJNlRnazVSa0RZMnZVY3M?oc=5",
+          "source": "wko.at",
+          "date": "18. Jun 2026"
+        },
+        {
+          "title": "Top Meisterausbildung: Fünf Absolventen aus der Südoststeiermark sind neue Agrarmaster - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdmdfWV9CSG40N3JYeEZ0ZTdsSGkyRkdpNU95REV0QWdWampVY2dwbzV4R0d2X0Y1dzhBRmk0SHM5NFRKMFU2Y3FONnpPUjc5dzU3cVNBV1lXcnZCV3ZQZUhQR1I0eGhfQkRFNmFOaGFsRW80OTR6V2J6THpCWjBUQjB4cVZNdDQ3VXNiSmtWVmZybjJ0SkRNcXVxWElRTUNTM0Q0VnRrcWpkT09rXzhQdWJCZ2UtaHJhVGc2NnJFY3p6czZjcWhySnlrZw?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "19. Jun 2026"
         },
         {
           "title": "Erfolgreicher Impulsabend und neuer Vorstand bei Frau in der Wirtschaft - Kleine Zeitung",
@@ -21,16 +33,10 @@
           "date": "17. Jun 2026"
         },
         {
-          "title": "ÖVP-Klausurtagung: Schwerpunkt Wirtschaft - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HZzI4M0s4UkNsXzZ0RHZpcHVSVUN3SXdMTmhTaV9DNVdYSTRucjRTUjczUVhPS2JFemhmT1lMNTZuR2F4MGFaYnJ6Wlp5eGpHbTBJSA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "12. Jun 2026"
-        },
-        {
-          "title": "Brucker Wirtschaft: Betriebs-Besuche zeigen, wie vielfältig die Stadt Bruck ist - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZENRNEVkTHFOZkFLajEyTnVBbXN1clRNWTRIYnd2NE8ycF9scnIyRHM5Z1pmc0I5Z09Yd3ROMnRkSUluQnZ5N1JCSGlscU9teFlNTHlaUEl3em9qX0VCTDhmcGFweGgtTnJYVDJ0UTVLb1VzY0ZjTnMxcmhqSE1EaHBfdF9YdzJ4WGhab1A0VHNlZ25lQURiN1BUcjZndnVRdFpycjRheDRDeDByQmZnY2dYOVJpdU84QVlXdjc2TnZ4Z2dEREpycVRSZlZ5OFhf?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "18. Jun 2026"
+          "title": "Christiane Ortner übernimmt Obfrau-Position bei Frau in der Wirtschaft – Südoststeiermark - weltstimme.com",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUlhsSVo5ZDFhQXVUZXROYlNzdjEwZFpzRy04cktfcVdKeUs4dmRpSC1QUUR1RHJRRURUU00tazlvdEpNa0tacVV3ZUR4VURwRUFYV3FWTnh3YW1YaVRUMm9aWGRXWG55OXEyRUJFenhvSVNIY0ZVVXZYLWZmRHhTemtkdnFmUEJWTlc0VlcxSi1pRDhQNC1UdThpaWZZdmEzV29XU1NwbkRwWFc3cTloLXBkQXdXV09KYWlxMU5EOTRsQQ?oc=5",
+          "source": "weltstimme.com",
+          "date": "17. Jun 2026"
         },
         {
           "title": "Jetzt die Weichen für das Zukunftsland stellen - BLO24.at",
@@ -39,22 +45,16 @@
           "date": "15. Jun 2026"
         },
         {
-          "title": "Landeshauptmann -Stv. Khom: „Jetzt das Richtige für das Zukunftsland Steiermark tun.\" - Leibnitz Aktuell",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS2VPUERzaFM2NzV5ekhJeWpPcGxwMFJlWTVXTTJCQUFaand3YTBvT29tSTY5akdmRjJUQjJBZFZnRTFIR2ZObGhMd2xUbmhkM05vQXc0b1JwS2hmc3dPNEVOa1pDMmdUbVA5bFNCbXc0UENacFlyYm9WYmJyWUlfeVdZbHZCUnVfQ2dMVWNzcDZJdGZablZSYS05SWYzcFZoMm5KMDZsREhnNkVYTEExSlg4YmNWMmdEekZlbQ?oc=5",
-          "source": "Leibnitz Aktuell",
-          "date": "12. Jun 2026"
+          "title": "voestalpine: Elektro-Ofen in der Steiermark soll 2027 in Betrieb gehen - Oberösterreichische Nachrichten",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04cDdJY2tIVm92NHhGOUI0V284Z0ZCRVg1UE1kbmQxbDk1Sy1KakxsVGJzVVB6aXBnNFFvbVFTTGIya3ZlTVRYdXJUQU5NRlExdnJ2ZFpmOWljaUFaTlZ0dVJodTBYTk5u?oc=5",
+          "source": "Oberösterreichische Nachrichten",
+          "date": "18. Jun 2026"
         },
         {
-          "title": "Grüner Wasserstoff: Energie Steiermark baut größte grüne Wasserstoffanlage - wirtschafts-nachrichten.at",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc2xlY1B4VWVraU1sSG9XT3hkbTFwTjJLaVBDSDVPR2xWRHBCbDladzRCUnd5ZTNQQzRLbWhkLXlNOEE3a2gyTUNSeXkzU1hjQmdvUTZzeWFxb0p0TTYwSENURUF0WHVsdDliQXMzelEyVS01ZmxBMldFb3lYUG1xMVZoSkNJVW5kZU9PcVVFQzNPbmwwMEFsVDd4c25UVGQ5NXdBZ2lPaTk?oc=5",
-          "source": "wirtschafts-nachrichten.at",
-          "date": "13. Jun 2026"
-        },
-        {
-          "title": "62 Pleiten in der Steiermark: „Situation im Baugewerbe hat sich zuletzt wieder zugespitzt“ - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRVhFdFpNOUF5TlJtY2VydHA5d1F5TVNsZ3phNHNNV04yekpQNUk5eGVyMVhjSWt2MVRma056bkZZYk4teDRhSUYybDN3eVAwbFRmUWdERjQzdnA3SzFVM1JDNEMzR0pQQndocGwydjh6dDFmcjJzRlFpb2dia2RTRTNiTVVOdW82dU41UGFkTWZ4aHh0Q1pfSEJudEpaaXhHd01Eam9WT2paRktodjNvaU05X0Njdw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "17. Jun 2026"
+          "title": "Bauzentrum Hannak expandiert in die Steiermark: Neuer Standort in Liezen wurde nun eröffnet - Salzburger Nachrichten",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcTlOTWYyVExlSmJRUlFzQWJFbm5uQjNtdEdOeDVsVU1PUEI0bWtpMnhXOXVfVHFiWVhlT21YTjZLaGQxaHRiY3VYVFBmWnRnTC1oUVcxQjhtMUpzTGZkNTZPQ1Qtc2d2SWZjemRyMllySWZaa3VYSngtRjMzVDFva1ltMXhTR1RCSnl5MXNXN01jOTVvU0VEZmtCcVVqY3I3VkN1VWNZY3NjM0E5S2xaUnd6cUtONUJIV0xSd0lRb2doa1RaUFE4ZDZabDJtbF9wcXlpUHVWcw?oc=5",
+          "source": "Salzburger Nachrichten",
+          "date": "16. Jun 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die steirische Tourismuswirtschaft modernisiert sich durch den Einsatz von Künstlicher Intelligenz und setzt verstärkt auf nachhaltige Entwicklung ihrer Naturparke, während gleichzeitig die Nachfrage von internationalen Reisegästen aus Osteuropa wächst und der Inlandstourismus durch attraktive Sommeraktionen gestärkt wird. Die Region positioniert sich damit als zukunftsorientiertes Tourismusdestination, die Digitalisierung mit Naturschutz und regionaler Wertschöpfung verbindet.",
+      "summary": "Die Steiermark positioniert sich touristisch zukunftsorientiert durch den Einsatz von künstlicher Intelligenz und die Weiterentwicklung ihrer Naturparke, während gleichzeitig verstärkt internationale Gäste aus Osteuropa sowie inländische Urlauber durch attraktive Angebote wie Thermenresorts und leistbare Ferienaktionen angelockt werden. Die Region investiert parallel in nachhaltige Infrastruktur wie grüne Wasserstoffanlagen, um ihre Wettbewerbsfähigkeit als modernes und umweltbewusstes Tourismusdestination zu stärken.",
       "items": [
         {
           "title": "Tourismus rüstet sich mit KI für Zukunft - steiermark.ORF.at",
@@ -95,6 +95,12 @@
           "date": "17. Jun 2026"
         },
         {
+          "title": "Urlaubsfeeling statt Alltag – Ferienzeit im Thermenresort Loipersdorf - weekend.at",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ0diemVORUxCZ3BwRi1nbUhJbFpvYnpGVU9UbEJSUzhVQjRxUzhuanVUSS11ZTlta2FobVFNdjl6SllBam1iX1paS3N4Ri1jTmZkWFFvc3owYm5KR2xPRXpXSFhxMUxhTkdrZzd2azM1QVFCZ2JhaDhIMGFwS2ZlWFdLTll4T000?oc=5",
+          "source": "weekend.at",
+          "date": "18. Jun 2026"
+        },
+        {
           "title": "Sommeraktionen: Für eine leistbare Auszeit zuhause! - KPÖ Steiermark",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVDFqS2Q1S2doOHRrUURJRVc4Y2lfR3lGNGdwTEliMUpDN1FLMlB0R1pDaTUwN2Vnd2RxOGtLRWpQY1FkbU5OWkxMUkI4azU0RWJuaC1ObzhMUVpvZTAxSWVYMkY5N0lYVno2MS1CVVdkdV9xUnZoOF9aZkhLd1ZLQ2pxUl81YUJpcEFNMXkwTEg?oc=5",
           "source": "KPÖ Steiermark",
@@ -105,12 +111,6 @@
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdkdtUlVIaF93MWJaU0VFTWgzUkp6YXhjeXZBS2o2US1IZWxlSElxOU41OHVKaWF2NTJXVmR4d1dsZVY5S2syLXlFYlBUY19Cald5Sm54V2cwSUU2cnpmdk1oYTRyX2p6aUdxeGVIbm9FY1F3eWd3a0UwaENsTFQzMEl2dmxNX1ZYN190Q2JvRFQwYVpfODlOZTRyeFNEaUMwN0htTjdEMDZpSVBoMFRmZ3V5LXNzY21haVFpTFRuUFY?oc=5",
           "source": "weltstimme.com",
           "date": "12. Jun 2026"
-        },
-        {
-          "title": "Schule: Zahl der Suspendierungen explodiert - oe24.at",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96enNPbGIxUUl4bG1NcW16R0c4N1lSM0xVT2hweVJ0RF9Ybk5QT2tTd1RxRWVRaDlaQzRMc1JDM1c3QVpMOGpUTi1HU1BrUzlEZ1dLSkRjX21JVFZ6cjNSMWctVmdMcWVSamRReFVISUVZdkpEc0JaY3hZV3VhaVHSAYQBQVVfeXFMUC1veng4YVp2V2dwcHJaNzZKOEhYYjB1SzlRTDlBMnpPSGRGVXlUYXEzRU1oOV9aMDJJSzVkSkhzTGwzSW8wTTNJbmM4QXl4b3YyU1E0S2NSNXhYT2JwOUtXVlExelpiQV9TSW13S2lGMWphb2pmQlJfOGgzcmtVbnc2OUJ5?oc=5",
-          "source": "oe24.at",
-          "date": "15. Jun 2026"
         }
       ]
     },
@@ -118,13 +118,25 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Grazer Forscher machen Durchbrüche in der Evolutionsbiologie und Altersforschung, während die Med Uni Graz Erkenntnisse zu gesundem Altern liefert. Die Steiermark stärkt gleichzeitig ihre Innovationskraft durch eine neue Start-up-Allianz mit zehn Millionen Euro Förderung und setzt auf künstliche Intelligenz im Tourismus.",
+      "summary": "Die Technische Universität Graz entwickelt innovative Batteriemanagementsysteme zur Früherkennung von Zellschäden, während die Medizinische Universität Graz Forschungen zu Vitaminen und Faktoren für gesundes Altern vorantreibt. Eine neu gegründete steirische Start-up-Allianz mit zehn Millionen Euro Förderung und KI-gestützte Innovationen im Tourismus unterstreichen das starke Engagement der Region für zukunftsorientierte Forschung und wirtschaftliche Entwicklung.",
       "items": [
         {
-          "title": "\"Alternatives Splicing\": Grazer Forscher identifizieren Mechanismus für Entstehung von Arten - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOFJPYXBGR2J6ZEpPQ2VfSXpLekR4czl0ZjU1Wi1sZUp3amNMZ3Q4Q01NS2dCWmdjUnNHYzhueXRKM2RUbjJFMVpEbzFiMk5fMjR0WjA3MVpuUXd6QmNNV2xBSWQyMUNzR0xCMkZmOVlFQ2RiNURsa3hKS1VacVZIdjZZMHRGTjhwMng5eEUyTUloTzFncG5QWXNKMUVZZjFKWWMzdzVlUmE0TGphZEY0Vm41cnZZWDRKUENTNm41MFRZQQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "17. Jun 2026"
+          "title": "TU Graz: New Battery Management System Detects Cell Damage Early - VISION mobility",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQVRfeXp4bll4OEhNVDgxOE1fRkQzXzcxSGc0Yy1EWnoxTDFCYWs3dEptXzNjbVgtcXN0d2g0Tm9YYmpQX1RmNzZRN1RQdlBhOUl3RTIxVElta3I2ZVlRcGNGdXVGU1U1UVYxRTlPcHlrRUVqS3FqQ0xJRWpQZUNPSUNURFVQSFJITzZualFraE1GOFY0ZlBNcmhhcTBPZjZHWVdVTzRFaUZPY3RHWDI0?oc=5",
+          "source": "VISION mobility",
+          "date": "18. Jun 2026"
+        },
+        {
+          "title": "TU Graz: Neues Batterie-Management-System erkennt Zellschäden frühzeitig - VISION mobility",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUXNrODV4VERYM1JNYTMtYkVGUFlUSjdleDMxTG40OF84ck1obS1VZWNxaWhnVGM2aVdFYURaWDl4QVJacmxfS0dJT2NmVVhrTng1Q0tzMVprUTY2QnF4Uk5lUDEtQi0zOUcybnlDdkcyTUdtUzRfMnBYMXhLZW1hdS1OWUd0N0VvcEFlUzRwRXF2Um1EdzF1TVFfMzFmNGw3ZzRhX1prb2tOWmxFeG1CNkwzU0ViaGJM?oc=5",
+          "source": "VISION mobility",
+          "date": "18. Jun 2026"
+        },
+        {
+          "title": "Follow-up-Prüfung zu Lehre und Betreuungsverhältnissen an der Universität Graz und der Wirtschaftsuniversität Wien - Der Rechnungshof",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ2RGaGRRVTVER3d4ajVGQThsNTd5aUVGSFhaZ21DYTJ6WDdWN19VWWlmTlRtRXVzLVcySjJjZ054OW9NdXQ4NnZCeHl0NVZnMFZELWw2bWlxQl95RmlybVU4anZpamlwMjJUdFd2amVJb2hwa3RfWFZaZktHQ2pRb3RseU9URU0wUHo1bmljUF9RMUFZN3ZEYUNTbDVHYVZqdlJGNmQ1U001b0N4c2k5QzZBY0tUUEkyOUNOdw?oc=5",
+          "source": "Der Rechnungshof",
+          "date": "19. Jun 2026"
         },
         {
           "title": "Med Uni Graz erforscht Vitamine und weitere Faktoren für gesundes Altern und gibt Tipps für den Alltag - ARF – Ausseer Regionalfernsehen",
@@ -137,6 +149,12 @@
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWHA1aHU0RE5kR09paFhRZWx6aVlpWFlibVVOYWdMbG5ucF9KbkNkSWFhbl9NTm9BaDVjQ2lhYmFSNkZPbVJmNjlJSVFQellhUExxSWN2Qk10d01hYUgyb2hmSS1rWmhUUXVoWi1aV3pPZ0MxemJQY2JELU03QkNRdnVGeTRXVEw0aWlwVlo4TjczOGtEMnBIQU1MVjVnS0FMclRfYUpienZhZi1QMTNB?oc=5",
           "source": "Kleine Zeitung",
           "date": "17. Jun 2026"
+        },
+        {
+          "title": "10 Millionen Euro für die Zukunft der Steiermark - BLO24.at",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeUJzSUJOY3NrQkx6YnRYUHhaOV9zcV9lZXBwLUdjb2JxdkNzZWFLa21tcEdKSk1YakdCeTVvVzRBLUE1OW1CMFZUMzE1ZnY0ZDJQdkkxYUVaSnowZFE3Y3FCLVozYkdwcXNxY3RoNjNUeVBxNFlMaHA3Qmh6a2ZIdEdlQXdCVjM3aVhwWkhYMTlSc2x4U3QwSkozd29SZWJv?oc=5",
+          "source": "BLO24.at",
+          "date": "18. Jun 2026"
         },
         {
           "title": "Steirische Start-up-Allianz geschmiedet, zehn Millionen Euro im Gepäck - Kleine Zeitung",
@@ -156,7 +174,7 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark setzt trotz Sparmaßnahmen auf zukunftsorientierte Investitionen, insbesondere in den Bereichen Wasserstoff und Klimaschutz, wie die geplante 25-Millionen-Euro-Investition der Energie Steiermark in einen Wasserstoff-Hub und die Klimafitness-Initiative in Fürstenfeld zeigen. Diese Projekte sollen die Region als innovatives Zukunftsland positionieren und wirtschaftliche Chancen in den Bereichen grüne Energie und nachhaltige Entwicklung schaffen.",
+      "summary": "Die steirische ÖVP setzt auf einen strikten Sparkurs, während gleichzeitig strategische Zukunftsinvestitionen wie der 25-Millionen-Euro-Wasserstoff-Hub der Energie Steiermark in Bergla vorangetrieben werden. Diese Maßnahmen sollen die Steiermark als innovativen Wirtschaftsstandort positionieren und die Weichen für nachhaltige Entwicklung stellen.",
       "items": [
         {
           "title": "Teamchefin Khom schwört die ÖVP auf harten Sparkurs im Land ein - Kleine Zeitung",
@@ -175,12 +193,6 @@
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdkdtUlVIaF93MWJaU0VFTWgzUkp6YXhjeXZBS2o2US1IZWxlSElxOU41OHVKaWF2NTJXVmR4d1dsZVY5S2syLXlFYlBUY19Cald5Sm54V2cwSUU2cnpmdk1oYTRyX2p6aUdxeGVIbm9FY1F3eWd3a0UwaENsTFQzMEl2dmxNX1ZYN190Q2JvRFQwYVpfODlOZTRyeFNEaUMwN0htTjdEMDZpSVBoMFRmZ3V5LXNzY21haVFpTFRuUFY?oc=5",
           "source": "weltstimme.com",
           "date": "12. Jun 2026"
-        },
-        {
-          "title": "Klimafitte Thermenhauptstadt: Fürstenfeld stellt Weichen auf Klimafitness - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWFJWWVdnNG1mTTNlNV9pbFV2NG1fR0EtTVgwNGpreE9FRGNzZjZ6MW9ITm9fMG9fbWh0alJhNmJyQUNCVGxjRElnMzIySDBSVzAyZllkSHFFWXBMc2dmT29vVnpxcl9SQWNHcUxFMzJ6U1BnbjUwZUpCQVJtUS1lM1BUSUVCVnR0blZ1NFVEUWQtNmQ4NmdveTNwSUF1bHkyTUxhUm00SzdONkFTc0M5cA?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "12. Jun 2026"
         }
       ]
     },
@@ -188,25 +200,25 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark positioniert sich als innovativer Technologiestandort mit Schwerpunkten auf künstlicher Intelligenz, Smart-City-Infrastruktur und grünen Technologien, wie die Entwicklung eines neuen Schulcampus und KI-Experimente zeigen. Gleichzeitig stärkt die Region ihre Startup-Szene durch gezielte Förderung und Vernetzung, unterstützt durch Initiativen wie tech2b und eine neu gegründete Startup-Allianz mit erheblichen Investitionen, während Green Skills und nachhaltige Lösungen wie biobasierte Rohstoffe zunehmend an Bedeutung gewinnen.",
+      "summary": "Die Steiermark etabliert sich als führender Technologiestandort mit einem starken Mikroelektronik-Sektor und dem etablierten Silicon Alps Cluster, das über ein Jahrzehnt erfolgreich Innovationen vorantreibt. Parallel bündelt Österreich seine Kräfte im Bereich Green Tech und Umwelttechnik, wobei die Steiermark als südösterreichischer Wirtschaftsmotor dabei eine zentrale Rolle spielt.",
       "items": [
-        {
-          "title": "Experiment mit künstlicher Intelligenz: Vier KIs, vier Städte, nur zwei überleben - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZXNYSXpISURjdU9Md2tqRmxvMzZBZXA1cGNxTm5INUhVdk5iM25LSC1NZ0t4eDdIUEt1bEYtS25NYnpQZ0Rvc1c4MlFIN19Eelc3eDFzaXNLTkpLYWxjRnhwOWRQckI1SXZ5ZGNEbFR6WUwxMFM2NkxIalNwRl9zVVVuelhzVk9pZ0NIaExwWVJueVRNZ3phWXF5VjlORlNGZ3hOUHVEUm0yQUMySXRRWQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "11. Jun 2026"
-        },
-        {
-          "title": "Jetzt ist der neue Schulcampus in der Grazer Smart City komplett - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR1VxR2pWcm5WNGt0YkpESTdMQUpPSEMxUHdLSTFLeGxTa0JmTi1DbTdHWG5NbWlTUW93TzhTb0pWWnpJYmMtcnpWZ0R4LVpzLXNHbHJUdWJZSHA1X3dSdzl0WV9ncFJVcnZjR3dmRGVtc3pTU0wxVGZ5ZV95ZGJfbmFNUldBM21TZ0g0SmQtUTBTTkpxX296aXVXRFMwaDlYV2tSNE5tNjBBLUtPelUw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "12. Jun 2026"
-        },
         {
           "title": "Wird ZiB1-Star Bernhard ORF-Chefin in der Steiermark? - oe24.at",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU3pGTEstLXlYYjlhcGlVLVB3TVphTE9ELXIyS0pfTUxrWVVmdTlDdFc5Y3ZGOW5Uank3bG5ZWGc5anBYcWdKeXRvaS1yUnVVNlNrRXVDTlRQR29KMk4yYllvVVV3b19rcHFMWVhjUWhtcXNnMW1qekVvQ3R5Zklvd1JHaDhybXg3RkJrSdIBkgFBVV95cUxQQlJrS0lIaUZtTk1KWWZOYVFfUXBCQU4tRUoyemxZUVYzNXJkemN5NkZrVXExZkFKUS16ZkdxS0JRWkRtektXUDFVRC0tMW03clV0SDdyaEpVWTREZG42YUhyUkNteVBONm1HVVJiRWdBSXpoQk01MjJBZk5HR19fVkRuS0p4MFJLaVdvWTlMUmJqUQ?oc=5",
           "source": "oe24.at",
           "date": "17. Jun 2026"
+        },
+        {
+          "title": "10 Jahre Silicon Alps Cluster – mnews - medianet.at",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMjB1cjlxRlV2RnllTjhqWl9LUVROcm54M29wZTJpcmNObzdhMEZMZUt1TTRwTjBqWXNNRktEUDlzc0pnYnpGY2Ffak9tQjNBMElHSkNzWXd1WXdTUzUxXzc1aVBONGlEZXhiM3M1Vk9qQWRjamV5cjFNc1JjTVhxcW5GWmhoSllRemdiWmVMSXY?oc=5",
+          "source": "medianet.at",
+          "date": "18. Jun 2026"
+        },
+        {
+          "title": "80 Prozent der Mikroelektronik-Wertschöpfung entstehen im Süden Österreichs - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeUtrdXRpT1VKWHhMdFJ5czFFNUYxZUNNbGo1YnE1SmRDTFhqWTBqMXNoSUxpMWtIMWdCNjFfSVVGT05OeDlnQk5zTDFKUGZPMWNkRXA1OVZ3em5TTWtPVTdHX1V5d3VkY0RBbDRGQ0VHMlNwWFc2ZFREVWhKWjRZYjVlM2ZqRktRa3JTX29ZUF92T3Fkd016ekUzWkltYWF1UUpKWlMxVXFXSFIxZ2wwS3NFWlRxaUFOcEVKOWpR?oc=5",
+          "source": "5 Minuten",
+          "date": "19. Jun 2026"
         },
         {
           "title": "Delegation zu Besuch - Steirer strecken ihre Fühler nach Montenegro aus - Kronen Zeitung",
@@ -215,16 +227,10 @@
           "date": "18. Jun 2026"
         },
         {
-          "title": "333 Green-Skills-Angebote für die Jobs mit Zukunft - Ökonews",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYUQ2Rm05QU1rUVphS2Uyb3lwQXFMd3lkR09UY2Y2Vng1RnpBLWFveGVZS21UTzFqdVlPLVllQlFKM1Q2RDZXNEk2N0NyYmVYYmRvaGNOeXhnSDRhVVUzRG5uVTFnLVlGWjBRQUt0eXQzTTRvUWVTMFFYdkFudS1qVVBtbWhLclRlemxPOQ?oc=5",
-          "source": "Ökonews",
-          "date": "15. Jun 2026"
-        },
-        {
-          "title": "Mit tech2b-Unterstützung: Wie BioShift mit Stroh als Rohstoff Erdgas ersetzt - brutkasten",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZlhxckFKOXNsa0tKaUN0dVBlZVVsZEotWF83cGE5TWRwMWdfRGliVDhvVllJRHVqRi1RZXlydjhzSW9hZkJBdzhFUzQzRTVaUUNvcEpCalRvVjJrMUpGS2h5T3VZdWZVZEljZEtsV0xQS1g5UWM5Mm9BMEVQLURib253RHJ3M2VZbEF5ZmUxMm8tRVpGSzBtR05OS2FZUmk3TFQ3TkU5ZElOSkk?oc=5",
-          "source": "brutkasten",
-          "date": "15. Jun 2026"
+          "title": "Österreichs Umwelttechnik bündelt die Kräfte - kommunal.at",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XNUNRbVZVc3BjN2J3aTNQc3lRRGFrODRHendrOGRvQTlqYVlmdl91T0VZZ05QejFPdWN4aDZUZ2tJNEdHRGhJdzFrWGxXb2I2NmJQZlpfUFlGN3R6Mlo0blpqS0NaM0Q0VjhqX3VWMlI3Q3BDR1E?oc=5",
+          "source": "kommunal.at",
+          "date": "18. Jun 2026"
         },
         {
           "title": "Neue Plattform - Grüne Industrie Österreichs bündelt ihre Kräfte - Kronen Zeitung",
@@ -233,10 +239,16 @@
           "date": "16. Jun 2026"
         },
         {
-          "title": "Steirische Start-up-Allianz geschmiedet, zehn Millionen Euro im Gepäck - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcG00SklpcldacUxxaG1jeHc0ZlVIWFNuUUN2bFh6YURkTTdBSGJEb0Mwb00xcV9KRnRzcEVwMTBCNjBWQnFSQ0xFSjlpQXN2SWxUekUtVFVHS21yNU1Pby13aVpfb3oxYUU1eHg1Y05UcUF5VVgyeHFoN2JkWnNoenktMklyVEZvbWUzNGV5MWZCbEdMdnhmM1pWcjRBVkNUb2piY3VGTlI0cnBtX3JpQ3AxY1phYXc?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "16. Jun 2026"
+          "title": "Signation | Headlines - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Fd29iTGJDTDlTYUZpeUhxaFpDclJmMURmdHczX3dacjdwMm1zbmhyTThQVXhfNjFxT2tYVFNSc1VTZjBXTnIzZTNYTlpOYjdyc2NlRFRsN0QwN19Selh5aE5hOEtqTGFxWWl1NkdB?oc=5",
+          "source": "ORF ON",
+          "date": "18. Jun 2026"
+        },
+        {
+          "title": "Österreich: Österreich bündelt Kräfte für Green Tech Industry – Totschnig: Umwelttechnik ... - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUFFkNmlGRDhWTXZybWd6bHpVdFgxR1lvOXBGVC1HMUllUmI4QUszcGFYQ0ZNcTJJcC1WRUMzVEhlMGtmaGZweDlxbnpSdS1LeDZVUC1YeXVGQ2g2QXRjX296WXZ1MUZWRFZjRkVSSDkzbFRZOTY5a3ZvV2t5VGJLV2wwYnhONnhzZ0NSTEVOdUMtVy1mb1p2S0ZSeW01Q19NU081TFdwb3E3VFJKSzVOWjJ0NmhWSG0zTWFVNkpJODBiSGJMeGwtSG1vMlNkN09hSlhYXzJTN1lZWG8wVkxVaU5fNNIB5wFBVV95cUxQOTBfSWdCM0JvSlo4b3VxbURDdTdLU0NEdUJpN3JObHFOX2Y2ZjBfZ3lDcEwwNUVsXzloblRKeWltcU0wRjBLdW1KZXpjOW9RMzhVRm43N3J2MzN2R0o5d1FieXNYS3BlQl9YWkxQeVV0RXhrX0x2VkNMWFBncjR5TmdUMFlYQkM1SG9mTzI5b2J3OGptOW13WkxLZ0lORGxHc3RBWGc0LXVRQWtybldHUC1OLUg1bVYwelN6b0NUTVhJamc0Q0pRMG81TEhLNVQ4dl8wMURCUmxkLWlleUFTS3RIR2p5N0U?oc=5",
+          "source": "Regionews.at",
+          "date": "17. Jun 2026"
         }
       ]
     }
