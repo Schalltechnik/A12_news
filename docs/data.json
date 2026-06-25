@@ -1,24 +1,30 @@
 {
-  "generated": "24. June 2026, 06:30 UTC",
+  "generated": "25. June 2026, 06:33 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Steiermark setzt auf infrastrukturelle Verbesserungen wie die Koralmbahn zur Stärkung von Tourismus und Wirtschaft sowie auf internationale Kooperationen etwa mit Montenegro, um ihre Wettbewerbsfähigkeit zu erhöhen. Gleichzeitig wird die Rolle von Frauen in der Wirtschaft durch neue Führungspersonen wie Christiane Ortner gestärkt und die lokale Wirtschaftspolitik in Städten wie Graz durch ambitionierte Pläne zu Infrastruktur und Verkehr vorangetrieben.",
+      "summary": "Die Steiermark investiert gezielt in zukunftsorientierte Infrastruktur wie die Koralmbahn und E-Ladeparks sowie in die Förderung von Fachkräften durch internationale Wettbewerbe, um ihre Wettbewerbsfähigkeit zu stärken. Gleichzeitig fordern Sozialpartner und Wirtschaftsvertreter eine zentrale Koordinationsstelle für Energiefragen und setzen auf Kreislaufwirtschaft und internationale Kooperationen, um die wirtschaftliche Zukunft der Region nachhaltig zu sichern.",
       "items": [
-        {
-          "title": "Steireranzug-Regionalität trifft auf kommunistische Sozialnostalgie: Die bipolare Steiermark - Der Standard",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbEFXN1UtLVRWUDNNWEo0U080WkNJdXVQbWxVQmlNZDdfcTJwdkMzNUVjRXkzY3FubFJlNWM1UEF0YktTMktRaEJ0R3hfam5TcXc1QkQ0NHVBU3NHbVV4Qm4ySFhRX1EzRzBnX24taV9fSk1CWVd0eFprcFM0ZThiVkJYazFZYm1MQ29NbG9LZmtSb1N4dlRkMFZTVzR3cEY3OGFETlpvQV9HWHpLNG44dHlyNVQ5ekE0M1FCdXN0SEZCMGJzdEp5Mm0yU3lVblZRWE9ZTTdR?oc=5",
-          "source": "Der Standard",
-          "date": "24. Jun 2026"
-        },
         {
           "title": "Koralmbahn stärkt Tourismus und Wirtschaft in Region - ORF ON",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONl9PcjgtMmh1SzJncWQ3T3ZNVlFFeUFaYnV2QTI2ek8wTExGc0FmenNzMGpfZFcwOXdkZXV1RTY5Zy05OGpZTjNTMU9VS0RCMngyRFItdF9jdVpUX2huWEdyc29FUExjQUU5OHJyUnpRczlUUVRMcXNQQzZybzA0MWRvV3dPS0xpWHFfREpEZEhOV1RiTFRyejE1QQ?oc=5",
           "source": "ORF ON",
           "date": "20. Jun 2026"
+        },
+        {
+          "title": "Energie-Zukunft Steiermark: Sozialpartner und IV fordern zentrale Stelle für Energiefragen - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUDhTNlR0NkQ1VXB2cHBKY3VseHdEVDEwV280dzZQMER1MXJBVl83ckdWVGNuU19wOHhWZXdUQmk1SUpzTlZCQy1mRzdYY3Q1NzYxU25NbnViaXNKN2xIbVYyeUo5OHBhNzhsUl9YOVdkMGIyWHJadVQ1WTE2VTEwY19wVDdsSWJ3WkM5TkVPZ0M5dUZncm9GVWZka3FicVVsRUZ4ZldiTm9yZlhkd04ybWpTeVhuc1Z6ai1HcGQxOA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "24. Jun 2026"
+        },
+        {
+          "title": "Steireranzug-Regionalität trifft auf kommunistische Sozialnostalgie: Die bipolare Steiermark - Der Standard",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbEFXN1UtLVRWUDNNWEo0U080WkNJdXVQbWxVQmlNZDdfcTJwdkMzNUVjRXkzY3FubFJlNWM1UEF0YktTMktRaEJ0R3hfam5TcXc1QkQ0NHVBU3NHbVV4Qm4ySFhRX1EzRzBnX24taV9fSk1CWVd0eFprcFM0ZThiVkJYazFZYm1MQ29NbG9LZmtSb1N4dlRkMFZTVzR3cEY3OGFETlpvQV9HWHpLNG44dHlyNVQ5ekE0M1FCdXN0SEZCMGJzdEp5Mm0yU3lVblZRWE9ZTTdR?oc=5",
+          "source": "Der Standard",
+          "date": "24. Jun 2026"
         },
         {
           "title": "„Glaubwürdigkeit muss man jeden Tag verdienen“ - wko.at",
@@ -27,34 +33,28 @@
           "date": "18. Jun 2026"
         },
         {
+          "title": "Positionspapier zur Nachhaltigkeit: Chance für Kreislaufwirtschaft - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeDV5RWVPV0hGbTNZeGU3dTFEUGxjNC16TUFSZnpsMkc0TDg5LThrRFk3Wi1iSlpDR2Ruc2o5bW9ueDNrU3cyU3JQZUViXzF3Q19Ub3p4SlE3OGxmUUNoaDRmbUNoS2F4cXFEWjhxeXBiYjNQRkloSEkyenROcFgzbmJTZ013cWp4c2ZIbWVjNFZlTEhUNks2bWktWEkzU2FGdkVtcmQzTHBPcFVLLTZtcllB?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "24. Jun 2026"
+        },
+        {
           "title": "Steiermark und Montenegro vertiefen ihre Zusammenarbeit - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU1BhX2xDWUlWY01fSS1NcENJdkRGeGJWLXlkaXdvQWFRaW9MWWJmRXRvY2dydGpqVEo2WTlYYkhXMDJOaV9hTG5zWEdyTHpZeUdYQTFfNC10LUdYV0xmT3FoMGdOdzVVeUt1cFZmQ1puYVROS2Nsa29udG9JRUhJN2p3R0NTZjMxbnNYYVhhSkU0cTVRX2dYZHc0a2xIVXpQeDhz?oc=5",
           "source": "5 Minuten",
           "date": "19. Jun 2026"
         },
         {
-          "title": "Christiane Ortner übernimmt Obfrau-Position bei Frau in der Wirtschaft – Südoststeiermark - weltstimme.com",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUlhsSVo5ZDFhQXVUZXROYlNzdjEwZFpzRy04cktfcVdKeUs4dmRpSC1QUUR1RHJRRURUU00tazlvdEpNa0tacVV3ZUR4VURwRUFYV3FWTnh3YW1YaVRUMm9aWGRXWG55OXEyRUJFenhvSVNIY0ZVVXZYLWZmRHhTemtkdnFmUEJWTlc0VlcxSi1pRDhQNC1UdThpaWZZdmEzV29XU1NwbkRwWFc3cTloLXBkQXdXV09KYWlxMU5EOTRsQQ?oc=5",
-          "source": "weltstimme.com",
-          "date": "17. Jun 2026"
-        },
-        {
-          "title": "Erfolgreicher Impulsabend und neuer Vorstand bei Frau in der Wirtschaft - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTTl5a0pfbk9BTkQyamRpZTNJclMxM1AxUS0wMkhhN0NXTXVSVERJbGtIR0RBTklYTlFnMkhFbl9JMkF5M2RJZlE5c1c5UjRLTzlVQjlQQm5KR2lUY0dBa3Y2cUVTZDlVRlZDUnRvQ081bkVpTDJpaDhSb245TXd3VWM2cWVwaXVEbWpBcHkyckxKMlNONk1xUC10dS1oMklmTDJ2Zy05T3JlSzMzd2R5ZV82Zl9VbWZ0?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "17. Jun 2026"
-        },
-        {
-          "title": "Wechsel an der Spitze: Christiane Ortner ist neue Obfrau bei Frau in der Wirtschaft - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORXpHU1p2ajJCcm5RbVpiWXByM1FHR0hYZ1hDX0Y0OTZpVWJzc0ZSSzllV3JxYWNoZmJISWpFa3cxdXVTbURmQ0s2bDBDdzdKWjl6d0xiUVh5NXlTNE83NFZ3OEZMeTFfUHZyUEQ1bDFUazVmS3haNVh5Mm1PeVRaR09rTWlsUTlwTDJ2SWdoQlpnSV9IcmhCRzhuc2ZxYUpETkVBU0w1LWp6UkY0N01jM2NSZVBJbDdlMEhXMEhJYXVaU1ZJ?oc=5",
+          "title": "Neue Infrastruktur: St. Michael bekommt den größten E-Ladepark der Steiermark im September - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUVRtcXllb25jVjNrMTdHWktXTVg0cGw0MUJfNktwb3dGVkdsNEI4VlF1Sk11VkNibmhaeXFBa0J2SEtnOEYtRmpsNUJpTmRiMWREV3pUay03aGZtRmFWdHJDWThzWTVUMExlbWt1NzN0VGRlV1Z2SDNHZ3hhMkIxYTFMNmI0V2NHS3lOWnlfWDhkcG9qU2E4andsSm9peVV0alNQUlpRYWp0dXBhenRYY29SMWhYTkVkaHN5amJrTExrMklO?oc=5",
           "source": "MeinBezirk.at",
-          "date": "17. Jun 2026"
+          "date": "24. Jun 2026"
         },
         {
-          "title": "Innenstadt, Verkehr, Wirtschaft: Hohensinner (ÖVP) über seine Pläne für Graz - Steiermark heute vom 18.06.2026 - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZE80dXktWVo0TGRNNTBSR21ZbzRXOFlTNjVpal81UGR0V0o4Uy1IYlBkcWR1d1dnMlNmZ1NEWWtIWWluWWwySk05TDE1SWU3OTN0cVQ3ZndaSVp5WDFHTkxzSTBSMExrVzhKRENjMXRsYWZDUk5vOHNLSjJ4MGMzSi1jcHR3Q2RUMHZRV1lad216c2VpZUhNWXFnbWR2MmR3MTVvZFk2T0pNMWVfTUxlenhKTWxoQVdLUGNLRld1WVdxb0FVcXFza3g1UG1RbzVESDNTOEJ1aVRmVTRxclpRXw?oc=5",
-          "source": "ORF ON",
-          "date": "19. Jun 2026"
+          "title": "WorldSkills 2026: Steiermark entsendet 12 Talente zur Berufs-WM nach Shanghai - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMWM5MlZCaGwyVV9tWC1wZmdIcGhZX0h3VmpVMHFvUmxOT0U5WGdHbUNFTDdlOU1Pbko5R3BsT1ltdndiSjJESkxIZ1NIc0xScXdnNEJFTjJvdHRySzZYeldaZ28ta2JiX1o0cDhOVDREQTJaeFduQ0F6R2J0SU4yVVZ1SEhZaXJTMDlpWDBhN1BIQWFmQVV0SlVCeTA1YW9DQ2ZoVTJrel9uWHNmUS1YNWJtcnFNeWc1ZWc?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "24. Jun 2026"
         }
       ]
     },
@@ -62,19 +62,19 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark setzt verstärkt auf Infrastrukturentwicklung wie die Koralmbahn, die täglich 7.000 Gäste anzieht und den regionalen Tourismus ankurbelt, während gleichzeitig die Behörden gegen illegale Vermietungsplattformen vorgehen und durch attraktive Angebote wie Spa- und Thermenresorts Urlaubsgäste anlocken. Der steirische Tourismus profitiert von einer Kombination aus verbesserter Mobilität, regulatorischen Maßnahmen und diversifizierten Urlaubserlebnissen, die sowohl Erholung als auch Aktivtourismus abdecken.",
+      "summary": "Die Koralmbahn entwickelt sich als bedeutender Tourismusmotor für die Steiermark und zieht täglich tausende Gäste an, während gleichzeitig die Wirtschaftskammer gegen illegale Vermietungsplattformen vorgeht, um den regulären Tourismussektor zu schützen. Die Steiermark setzt dabei auf regionale Urlaubsangebote und Infrastrukturentwicklung, um sowohl Übernachtungszahlen als auch wirtschaftliche Wertschöpfung nachhaltig zu steigern.",
       "items": [
-        {
-          "title": "Illegale Vermietung: WKO greift ein – Kontrolle bei \"Airbnb\" und \"Booking\" in der Steiermark - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaHY3Q0YwNmc1emVhR3RtMGZlMVgwYzRBLWU5QVV3OWNBZXNmWnFyMHVxM09MRDcxMk9nQllWTFQ4S3BnV0I0UWk2RlBXMGUwemxIR2plLXhLaVNwa2xNYnFjSEg3VkNBZGdncWQ4Y0VTRlBzWTFpaVJzR1htOWRnY1NMampJTkdlT2IxTGxMMjBQRmdmaGpXODZLb3VGRHdBaGJNRExwV1M2bkdCcTVpM1FkMG9aWHAyS2RxNTlpeDhodw?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "24. Jun 2026"
-        },
         {
           "title": "7.000 Gäste täglich: Halbes Jahr Koralmbahn - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Zd3FjZWFYSXlUOGp3TEg2RFN0b0IxZjdhaWhxNTdmOTdwaXg5RVZKOUlZM24zZ0RpdGMyMkI2YUlUblFYQ3htX2JaWlJlck9uWkpKaQ?oc=5",
           "source": "steiermark.ORF.at",
           "date": "21. Jun 2026"
+        },
+        {
+          "title": "Illegale Vermietung: WKO greift ein – Kontrolle bei \"Airbnb\" und \"Booking\" in der Steiermark - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaHY3Q0YwNmc1emVhR3RtMGZlMVgwYzRBLWU5QVV3OWNBZXNmWnFyMHVxM09MRDcxMk9nQllWTFQ4S3BnV0I0UWk2RlBXMGUwemxIR2plLXhLaVNwa2xNYnFjSEg3VkNBZGdncWQ4Y0VTRlBzWTFpaVJzR1htOWRnY1NMampJTkdlT2IxTGxMMjBQRmdmaGpXODZLb3VGRHdBaGJNRExwV1M2bkdCcTVpM1FkMG9aWHAyS2RxNTlpeDhodw?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "24. Jun 2026"
         },
         {
           "title": "Ski-Ort trauert - Kult-Wirt und Freundin bei Motorradunfall getötet - Kronen Zeitung",
@@ -89,16 +89,10 @@
           "date": "20. Jun 2026"
         },
         {
-          "title": "So viele Steirer fahren heuer mit dem Auto in den Urlaub - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeTdHRkxYR09mdmtGMmx1X3pESlpmX1VGbWJnR1hZRTRvVGlOZXB2bWJXZXYxY2lJVTBPNVJmSHNvT0ZOWUszYW9HT0pHWUNIQ3ZHMHhBSWJfRktXMkZ4eG1yclpYZDUwVzBPRW1LMmxYNWJMTUJaRExYVUtNeThmSXZUd2ltWHFrVkdsZTczcDJKQ25ZX3QydnBoVzFORTdnTE9VTw?oc=5",
-          "source": "5 Minuten",
-          "date": "17. Jun 2026"
-        },
-        {
-          "title": "2für1-Urlaub: Spa Resort Styria****S - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEa3lpWDB6bG85QUEwUk02ZWttUjVNT05jM3djU2hMcXhlV2lqVkVsTUYyQXMwc3dTazJDQTRIVTA5TEJJYVVIWHBEMTcxSDA1UnlXMjNlbXN0bFFwd3J1anpnVFVkNm4yOHB3aF83eVV3QQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "22. Jun 2026"
+          "title": "Urlaub daheim in deiner Region: Das bietet der obersteirische Sommer im Jahr 2026 - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUC1ONC1NZVJWSTZyZWU2VlRVY1JBNVdLZzB5eERxOUlVTlZpdnd6dzVXUVVFcUhhRXVtdy15UTRjWFdEaFBVbEFoa1lTblFfcnRHekVRX3pyM2Z5RTE3TjBzeS10WG9mREtWamk1Ql9qdVA5TDlkc2JZd01qT01DNEwtM1ByT2NQSVBxRWM5WFdVOUVLSWJiaUxwNTFzTGdrRFFzRg?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "24. Jun 2026"
         },
         {
           "title": "Urlaubsfeeling statt Alltag – Ferienzeit im Thermenresort Loipersdorf - weekend.at",
@@ -112,7 +106,7 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Steiermark verzeichnet bedeutende Erfolge in der Forschungsförderung, wobei Wissenschaftler der TU Graz mehrfach hochdotierte EU-Grants einwerben konnten und innovative Projekte wie ein intelligentes Batterie-Management-System entwickeln, während auch die Österreichische Akademie der Wissenschaften steirische Forscher auszeichnet. Parallel dazu zeigen aktuelle Studien der Universität Graz gesellschaftsrelevante Erkenntnisse, und österreichische Hochschulen, darunter mehrere aus der Steiermark, etablieren sich zunehmend in internationalen Rankings.",
+      "summary": "Die Steiermark verzeichnet bedeutende Erfolge in der Forschungsförderung, wobei Wissenschaftler der TU Graz mehrfach hochdotierte EU-Grants wie ERC Advanced Grants und millionenschwere Förderungen für innovative Projekte im Bereich Batterietechnologie und Bildverarbeitung erhalten. Parallel dazu werden führende Forscher wie Werner Magnes von der Österreichischen Akademie der Wissenschaften ausgezeichnet, während Universitäten wie die Uni Graz mit neuen Studien zu gesellschaftsrelevanten Themen beitragen.",
       "items": [
         {
           "title": "Hohe Auszeichnung für IWF-Gruppenleiter Werner Magnes - Österreichische Akademie der Wissenschaften",
@@ -157,9 +151,9 @@
           "date": "22. Jun 2026"
         },
         {
-          "title": "Uni-Ranking: Sechs österreichische Hochschulen in den Top 500 - Der Standard",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS2c5MDVxdzJKaFpKWlhQMzdySDhsOGx0amxMZ0d6VXliTVB1dXFPU29NY2lVLUppOW1IVnZGSG5TUGRBZ0ZtN1U3TXpWM1JrY2VZTVRTTV9rVXJidm1YcW9lbFIzQ19iV3Y1R2FJNTJhRlBqM1dNMGY0Q2xhd3VEUTVxR3NmQmhIMzV4LTVTUVFWQ3RrQ1pST2tJSjJWSkhxLXJucnRHempaWDdz?oc=5",
-          "source": "Der Standard",
+          "title": "10 Millionen Euro für die Zukunft der Steiermark - BLO24.at",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeUJzSUJOY3NrQkx6YnRYUHhaOV9zcV9lZXBwLUdjb2JxdkNzZWFLa21tcEdKSk1YakdCeTVvVzRBLUE1OW1CMFZUMzE1ZnY0ZDJQdkkxYUVaSnowZFE3Y3FCLVozYkdwcXNxY3RoNjNUeVBxNFlMaHA3Qmh6a2ZIdEdlQXdCVjM3aVhwWkhYMTlSc2x4U3QwSkozd29SZWJv?oc=5",
+          "source": "BLO24.at",
           "date": "18. Jun 2026"
         }
       ]
@@ -168,7 +162,7 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Die Technology Talks Austria 2026 positionieren Österreich als Zentrum für europäische Technologieführerschaft und schaffen eine Plattform für Innovationsdiskurse. Das Event unterstreicht die Bedeutung von Technologie und Forschung für die wirtschaftliche Wettbewerbsfähigkeit der Region.",
+      "summary": "Die Technology Talks Austria 2026 positionieren Österreich als Zentrum für europäische Technologieführerschaft und fördern den Austausch über zukunftsweisende Technologien. Das Event unterstreicht die Bedeutung von Innovationsförderung und internationaler Zusammenarbeit für die technologische Wettbewerbsfähigkeit der Region.",
       "items": [
         {
           "title": "Österreich: Technology Talks Austria 2026 rücken Europas Technologieführerschaft und ... - Regionews.at",
@@ -182,7 +176,7 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark positioniert sich als führender Technologie- und Innovationsstandort, wobei digitale Transformation im Gesundheitswesen, KI-Integration in Unternehmen und die starke Mikroelektronik-Industrie zentrale Wachstumstreiber darstellen. Gleichzeitig treibt das Land mit Initiativen wie grünem Stahl und internationalen Kooperationen die nachhaltige Technologieentwicklung voran und sichert damit seine Rolle als europäischer Technologieführer.",
+      "summary": "Die Steiermark positioniert sich als führender Technologie- und Innovationsstandort mit Schwerpunkten in Mikroelektronik, KI-Integration in Unternehmen und digitaler Transformation des Gesundheitswesystems, während gleichzeitig Green-Tech-Initiativen wie grüne Stahlproduktion und internationale Kooperationen zur nachhaltigen Wertschöpfung beitragen. Das Silicon Alps Cluster und die Technology Talks Austria unterstreichen Österreichs Anspruch auf europäische Technologieführerschaft, die durch steirische Unternehmen in Bereichen wie erneuerbare Energien und nachhaltige Rohstoffgewinnung konkret umgesetzt wird.",
       "items": [
         {
           "title": "E-Rezept Alltag: Wie Digitalisierung das Gesundheitswesen in der Steiermark verändert - MeinBezirk.at",
@@ -221,10 +215,10 @@
           "date": "19. Jun 2026"
         },
         {
-          "title": "Delegation zu Besuch - Steirer strecken ihre Fühler nach Montenegro aus - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5QQVNLaFp6YnV0N2pjYlVmbUMtU09SWU5NekY1UUx2LXV2ZjREeGVjN1RmWHJYSkRBOWFfcDJuQzlQQQ?oc=5",
+          "title": "Steirer in Montenegro - Goldgräberstimmung am Balkan: Wasser, Holz, Strom - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1BZjRkTnZ2X1k3MzV5WFNlN2tIRV95MjNWOWtBMjVkYmN6TmprUzZpbTFKLUNUNEx0OUd5THEwNTNFZw?oc=5",
           "source": "Kronen Zeitung",
-          "date": "18. Jun 2026"
+          "date": "21. Jun 2026"
         },
         {
           "title": "Bald grüner Stahl aus Donawitz - steiermark.ORF.at",
