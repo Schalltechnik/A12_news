@@ -1,24 +1,18 @@
 {
-  "generated": "27. June 2026, 06:15 UTC",
+  "generated": "28. June 2026, 06:45 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Steiermark investiert gezielt in Infrastruktur und Technologie, um ihre Wirtschaftskraft zu stärken – von der Koralmbahn über neue Erschließungsstraßen bis hin zu Zukunftstechnologien wie KI und Robotik, während gleichzeitig etablierte Unternehmen wie Siemens Mobility neue Standorte eröffnen und junge Talente durch internationale Wettbewerbe gefördert werden. Parallel dazu setzt die Wirtschaftskammer verstärkt auf Regulierung illegaler Geschäftsmodelle, um faire Wettbewerbsbedingungen für legale Betriebe zu schaffen.",
+      "summary": "Die Steiermark kämpft mit wirtschaftlichen Herausforderungen wie gestiegenen Privatkonkursen durch Teuerung, während gleichzeitig strategische Investitionen wie die Siemens-Mobility-Ansiedlung in Fürstenfeld und die Förderung von Zukunftstechnologien in Robotik und KI das Potenzial für tausende neue Arbeitsplätze schaffen. Die Landesregierung und Sozialpartner setzen dabei auf Fachkräfteentwicklung, zentrale Energiekoordination und technologische Innovation, um die Wettbewerbsfähigkeit des Standorts zu sichern.",
       "items": [
         {
-          "title": "Koralmbahn stärkt Tourismus und Wirtschaft in Region - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONl9PcjgtMmh1SzJncWQ3T3ZNVlFFeUFaYnV2QTI2ek8wTExGc0FmenNzMGpfZFcwOXdkZXV1RTY5Zy05OGpZTjNTMU9VS0RCMngyRFItdF9jdVpUX2huWEdyc29FUExjQUU5OHJyUnpRczlUUVRMcXNQQzZybzA0MWRvV3dPS0xpWHFfREpEZEhOV1RiTFRyejE1QQ?oc=5",
-          "source": "ORF ON",
-          "date": "20. Jun 2026"
-        },
-        {
-          "title": "Illegale Vermietung: WKO greift ein – Kontrolle bei \"Airbnb\" und \"Booking\" in der Steiermark - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaHY3Q0YwNmc1emVhR3RtMGZlMVgwYzRBLWU5QVV3OWNBZXNmWnFyMHVxM09MRDcxMk9nQllWTFQ4S3BnV0I0UWk2RlBXMGUwemxIR2plLXhLaVNwa2xNYnFjSEg3VkNBZGdncWQ4Y0VTRlBzWTFpaVJzR1htOWRnY1NMampJTkdlT2IxTGxMMjBQRmdmaGpXODZLb3VGRHdBaGJNRExwV1M2bkdCcTVpM1FkMG9aWHAyS2RxNTlpeDhodw?oc=5",
+          "title": "Steiermark leidet unter Teuerung: 473 Privatkonkurse im ersten Halbjahr gemeldet - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWE1iYVZ3d2RtVFVqNW1NdFJDNTc2alZoM3N5RVFVTGFueGpZVVdfZllNelFFRS1sX3RubkVicUhFUlNCWnVhT2s3ODVoV0ZieEdBRllRZXVMRktvTmg1UmlCSlgxdXFQRS1sdjBTcWpWa2I5QWdYeUVaMlB2S3hCWUs0OS1OOGpNSDVZSXVta0tKLXJJaHE5eFlkX01EeUNReklvMm9pUVY?oc=5",
           "source": "MeinBezirk.at",
-          "date": "24. Jun 2026"
+          "date": "25. Jun 2026"
         },
         {
           "title": "Steireranzug-Regionalität trifft auf kommunistische Sozialnostalgie: Die bipolare Steiermark - Der Standard",
@@ -27,21 +21,21 @@
           "date": "24. Jun 2026"
         },
         {
-          "title": "Neue Erschließungsstraße soll den Wirtschaftspark Frohnleiten beflügeln - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdjRIOXFXNHJHUjRSQ29zRmNvSGZjQkJ2Q2hnM0lGYXJuNk5sRDFTcGZCc3A3LTRnQWQ1aDlJSWlOMEpCMVpJWklCRGtEWVZXVVJWalg5Z1BNU3J4bDNNMVBkczhzNE1Ndkg1Y2JxdnJRVExIeHFVem9rcDR0OXQ2TVJTOThuU1NLSnowRXJWb19lZ2V5dWlRTzl5bVN6S1prcFA4anRJZlBzMnV6OUE?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "25. Jun 2026"
-        },
-        {
           "title": "WorldSkills 2026: Steiermark entsendet 12 Talente zur Berufs-WM nach Shanghai - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMWM5MlZCaGwyVV9tWC1wZmdIcGhZX0h3VmpVMHFvUmxOT0U5WGdHbUNFTDdlOU1Pbko5R3BsT1ltdndiSjJESkxIZ1NIc0xScXdnNEJFTjJvdHRySzZYeldaZ28ta2JiX1o0cDhOVDREQTJaeFduQ0F6R2J0SU4yVVZ1SEhZaXJTMDlpWDBhN1BIQWFmQVV0SlVCeTA1YW9DQ2ZoVTJrel9uWHNmUS1YNWJtcnFNeWc1ZWc?oc=5",
           "source": "MeinBezirk.at",
           "date": "24. Jun 2026"
         },
         {
-          "title": "Siemens Mobility eröffnete neuen Standort in Fürstenfeld - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rb1F3Y3VaOTBNT2t6Q25TdGdoOE0zTFRxRjBnRzlVaUFlanp0UmNZR0lhdkNZSXNYaVZ0VUl3Y1RCQjhDczU5a2NWaURYSk1zY1FNT1N6aTBXbFFrRGpsc1lBV0dveXQyS2RfVmtnaGdfdmxqNDZNbQ?oc=5",
-          "source": "Kommunikation - Land Steiermark",
+          "title": "Energie-Zukunft Steiermark: Sozialpartner und IV fordern zentrale Stelle für Energiefragen - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUDhTNlR0NkQ1VXB2cHBKY3VseHdEVDEwV280dzZQMER1MXJBVl83ckdWVGNuU19wOHhWZXdUQmk1SUpzTlZCQy1mRzdYY3Q1NzYxU25NbnViaXNKN2xIbVYyeUo5OHBhNzhsUl9YOVdkMGIyWHJadVQ1WTE2VTEwY19wVDdsSWJ3WkM5TkVPZ0M5dUZncm9GVWZka3FicVVsRUZ4ZldiTm9yZlhkd04ybWpTeVhuc1Z6ai1HcGQxOA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "24. Jun 2026"
+        },
+        {
+          "title": "Siemens Mobility eröffnete neuen Standort in Fürstenfeld - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBakRrNnpkbnI0UVJzems2MDdXV0tWcmhzQ1lVQjhTbldMeVAtUlI1YnRUbjFneTAtT0tLazl4cnVLUFptWThWd1JpRHVTS0FLYTI5MUlHWi1GT3RtVTFIcHZJWG0yTmVTREQxQWVjaw?oc=5",
+          "source": "Land Steiermark News Portal",
           "date": "25. Jun 2026"
         },
         {
@@ -55,6 +49,12 @@
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YR1VveW9NSXVJM1ZZVWVESmlRa3NCMkoyOUVBdWxwXzFoTFZjQnNFRnZfRWM5OUZTbFdWckVLcHo2bllaeTM4ZmpEY2YxUnRJVzZ4ZA?oc=5",
           "source": "steiermark.ORF.at",
           "date": "26. Jun 2026"
+        },
+        {
+          "title": "Steirische Robotik soll bis zu 10.000 neue Jobs bringen - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeFoySG5SVS13eHRMSHU2SWk5T0h4THlndFdKVkNjaDNuak9zMFVnSEhvWW00VlZzMDlRdEgtaU9DdTM5aHRHTVlaa3lSbjhGbUZlYUd2ODBocXlUN3pnaUhVbXYtNl94Qmw2OXVNbi1DWjg1bkZ6YXUzSXo0MDBEemFmNFZ6VGpyLTNIWF80aEx6Z1ZTVzVXbnowYUZoeUY5WFlV?oc=5",
+          "source": "5 Minuten",
+          "date": "27. Jun 2026"
         }
       ]
     },
@@ -62,13 +62,19 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark verzeichnet starkes Tourismuswachstum durch Infrastrukturprojekte wie die Koralmbahn, die täglich Tausende Gäste in die Region bringt und Wandertourismus fördert, während gleichzeitig die Wirtschaftskammer gegen illegale Vermietungsplattformen vorgeht, um den regulären Tourismussektor zu schützen.",
+      "summary": "Die Steiermark profitiert von hochkarätigen Events wie der Formel 1 und dem Ausbau ihrer Infrastruktur durch die Koralmbahn, die täglich Tausende Gäste anzieht und das Wandertourismus-Angebot stärkt. Gleichzeitig kämpft die Tourismusbranche mit Herausforderungen wie illegalen Vermietungsplattformen und tragischen Unfällen in beliebten Tourismusorten.",
       "items": [
         {
-          "title": "Das Wandern ist der Hochsteirer Lust - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45MW80NGNETXRTRldlbjFZcmtQbnpzY1JOeERqUFgyQ1RFN2s1dS13XzBQamJlZ3lueGFMQWpxWXB2UWNDRnM1S1ljbHVLTXh1XzRLNHMyWDVjcGV4Mmc?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "21. Jun 2026"
+          "title": "Formel 1-Teams schwärmen von der schönen Steiermark, Tourismus jubelt - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa1VGdzl5cUNZNVdkSkc4ZERGYnloS3hFMUp5R05aaWw2UmVPYXNvaDQycTI5ZE55M2xxZVFIaUozQXI0cUsyVTlUeDdqY0syaWtUUEVTOHZMeEp3aHJfbnVXS092VGZzZENHd1RzV2V6bWV0QlNDcWFNa0NfWVIwQU9MS2NtMXZ1VnJVNmJFdjF4ck5KRXFQWi1jZE02NGUxY05uNUtPQWdUcEgtNVlCWWgtemxwY0U?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "27. Jun 2026"
+        },
+        {
+          "title": "Ski-Ort trauert - Kult-Wirt und Freundin bei Motorradunfall getötet - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE52eFowel9rWHJkWHRiZkNoUF9WalJXYUFEeU5TMnpTTGJPNXlfSnlPOGltY1hQTl8yRE4tTHc5UUhPN09mOTA4?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "28. Jun 2026"
         },
         {
           "title": "Illegale Vermietung: WKO greift ein – Kontrolle bei \"Airbnb\" und \"Booking\" in der Steiermark - MeinBezirk.at",
@@ -77,16 +83,10 @@
           "date": "24. Jun 2026"
         },
         {
-          "title": "Ski-Ort trauert - Kult-Wirt und Freundin bei Motorradunfall getötet - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5qRUhUQ1JwdFc3MW52S2RoVkluWmFBb1RQTl8tY2ZtY1pXVkgxUU5DOHE5QXBVMkZ4a3ZRR2Y0S0VZdw?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "22. Jun 2026"
-        },
-        {
-          "title": "Koralmbahn stärkt Tourismus und Wirtschaft in Region - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONl9PcjgtMmh1SzJncWQ3T3ZNVlFFeUFaYnV2QTI2ek8wTExGc0FmenNzMGpfZFcwOXdkZXV1RTY5Zy05OGpZTjNTMU9VS0RCMngyRFItdF9jdVpUX2huWEdyc29FUExjQUU5OHJyUnpRczlUUVRMcXNQQzZybzA0MWRvV3dPS0xpWHFfREpEZEhOV1RiTFRyejE1QQ?oc=5",
-          "source": "ORF ON",
-          "date": "20. Jun 2026"
+          "title": "Das Wandern ist der Hochsteirer Lust - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45MW80NGNETXRTRldlbjFZcmtQbnpzY1JOeERqUFgyQ1RFN2s1dS13XzBQamJlZ3lueGFMQWpxWXB2UWNDRnM1S1ljbHVLTXh1XzRLNHMyWDVjcGV4Mmc?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "21. Jun 2026"
         },
         {
           "title": "7.000 Gäste täglich: Halbes Jahr Koralmbahn - steiermark.ORF.at",
@@ -100,25 +100,13 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Ein TU Graz-Forscher erhielt mit einem ERC Advanced Grant eine Top-EU-Förderung von 2,5 Millionen Euro für seine Forschungsarbeit. Parallel zeigen Grazer Uni-Forscher in neuen Studien zur Erderwärmung alarmierende Ergebnisse, während die steirischen Universitäten Reformforderungen stellen und die Initiative \"Kapital!Offensive Startups\" 10 Millionen Euro für steirische Jungfirmen bereitstellt.",
+      "summary": "Der TU Graz-Forscher Thomas Pock erhielt einen prestigeträchtigen ERC Advanced Grant, während Grazer Uni-Forscher neue Erkenntnisse zur früheren und stärkeren Erderwärmung präsentieren. Die Steiermark investiert zudem massiv in ihre Innovationskraft durch Initiativen wie die Kapital!Offensive für Startups und Veranstaltungen zur Zukunft der Energietechnologien.",
       "items": [
-        {
-          "title": "2,5 Millionen Euro: TU Graz-Forscher erhält Top-EU-Förderung - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdldaZHROd01tTVBNa0k0QnpYX2NlYVFMTGVDQ3luS2VuT0pxSWdpZXVsNzV1MjdaX1dOSThyNXhaalY4UUNpcDk1TWdPZkFHVzcxRm4yTi1XT3pRSExqMHZLT0RYa01oc1NNc0xYUkJGa1d0UWpyanU4bHFpb0pnVS0zSzZOa3dST2pJUE9CQmZCZU9IWDg2dkUxdXpSSXlkOFE?oc=5",
-          "source": "5 Minuten",
-          "date": "23. Jun 2026"
-        },
         {
           "title": "ERC Advanced Grant für TU Graz-Forscher Thomas Pock - openPR.de",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcnRiQWZJeTdkajZwbEpXd2stdG9XdmtrS0pEYlAzYm5SSUd5X2hUaFNzUzBVYllUQ2w4eVpncHZkLVZFN1hiVmtaSTVfeVdQOUJJUTVtUmpOeXJTLXpBcmtIeUU0RUFYY1Y3NklsYXpsR3BES2NqNmNIRUd6MFpnSlpVS25ZeUpYcVBYa05wUWVQUGpGdEl0ODFFT3A?oc=5",
           "source": "openPR.de",
           "date": "23. Jun 2026"
-        },
-        {
-          "title": "Uni-Reform: Steirische Unis stellen klare Forderung - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVzhEWXNiNjRnWWdiR0dSNklmWkVtM0xQQW9yeE5tNUZjOVVPVE9JcjJJQW5hbjktR2E5c1VrNm5GWUllaUhUcU0wb2cyXzUtdzZxdnV5OExZMHd2OElUWVVFWW1oMHl0am4tSnRvSVFZeG1EY3RFVU9sVEdNUnBaUmFPUHRCZlNGRldjVnhaVFZmX3l5?oc=5",
-          "source": "5 Minuten",
-          "date": "26. Jun 2026"
         },
         {
           "title": "Grazer Uni-Forscher: Frühere und stärkere Erderwärmung - NÖN.at - Niederösterreichische Nachrichten",
@@ -127,21 +115,9 @@
           "date": "25. Jun 2026"
         },
         {
-          "title": "Neue Studie der Uni Graz zeigt, was sich Bürger beim Sparen vom Staat erwarten - Der Grazer",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNUpqUzRrWlVXcE43TTVxZ3hPcGJSNTMwNXJEVzJmbnpiUnNWWEE1ek5aMndXdlg1c3Z3NkVKUVdNRzllcDZ6cXk5TWNpSUFGTkV1LUJCWngtNlBfTldnYWZEQnFwMHRGSUgtVlBURkM3MDRjeVFwQmlOMElOb2pIaF9wckV5RjN6VHZqYw?oc=5",
-          "source": "Der Grazer",
-          "date": "22. Jun 2026"
-        },
-        {
-          "title": "Hitze - Grazer Uni-Forscher: Bis 2027 globale Erwärmung von 1,7 Grad - News.at",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVVRaZGRQelNucWNQWk90NV9NVlJ1SnlRZmpBeHg0RjNEcWlOWHlxR3RaQkhfdXdDd1J5dzNveTRHcHVINWFPRlpCMW1Pc3hsZkxUV0FWZFJ3V1YyeXFLUGRTb1BYVW1ZV1lLUG10a0thT1c0OVdMcG9FN1VaNVF6OEVsU3FaTEhldGFXa2R2dG53ME11T1k0?oc=5",
-          "source": "News.at",
-          "date": "25. Jun 2026"
-        },
-        {
-          "title": "Grazer Uni-Forscher warnen vor früherer Erderwärmung - VOL.AT",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObjVvdE1jSHpBY0w1ZG9zaVdxbERDU2xfcVR6dFRBUXhGMWJxM1JMQjluY01PaHpmcXpGN1NlM2M0Z2g4Y2FSR2pfZF8tNzVFaVVUYWZUZU5iNFdFdWRISG9TcEl0WUJSZUNiU0pYZkk3WVpLX1RyY0t4czZJa1BzYncxNlBWUERiaFR4ag?oc=5",
-          "source": "VOL.AT",
+          "title": "Graz: Grazer Uni-Forscher: Frühere und stärkere Erderwärmung - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUFphY2NsT2FuaTJocjd4cHN2UlRXU3FwQlo3UzZvZi1CVlNhUG51VjlybzE2Zml4R2I2dFdaamFsNzBwM0d5a0Zmc01ONkVlX2JCOXlXN0V1OExpcFhfSTJ0aExhdU4xcEdVX3FCcG14Zi1BeVVXUC0tNXZqMkRpM3M3THJpTTAtYmhoUExLeGtRR3MwY2ItcHMtakFYRXVNdzVkeg?oc=5",
+          "source": "Kleine Zeitung",
           "date": "25. Jun 2026"
         },
         {
@@ -149,6 +125,24 @@
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQTlsZDVDUy03YlFBemMxM1BJV05IdWpKdnFVS3NhY1lPUnREQVJlbnVmdXZOUjBmb1d3QS1YMG9FNmlsci1ING1DdlVNaTBOWVdvajd6YVpKajNPY1FkLXcxSklkMER2c2Y3VjZWeF95ZTdERkhZVGtycGFvdW9xT19TZTc5a1R0TnJBczl5OFR6M2tRcF9tMklHd2FzZVd6OWdmMnB3eUdJMHdq?oc=5",
           "source": "trendingtopics.eu",
           "date": "23. Jun 2026"
+        },
+        {
+          "title": "Neue Perspektiven auf Natur und Technologie im ESC-Medienkunstlabor - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZEk4VE1wRE5QdW5FWlFOc3BPQW5tWnJ5ZWRtUGd0Rm1oTEh5a01uaWtnLUxVVG1hRU0wX0RJM2ZqeXM3SW5UUXJuWGVjTWtmVmFqR2NUV2RNTmNPX0xwdEZyOFI3cGVVN0xBMkc5QU50WG1FWUROcHVxRVM5MndXR2txaDhaWE1hQjM0QnN4YzdjbUVnNkJmZEtCWFZDenk5UE82RWtEOU82bGhwblE?oc=5",
+          "source": "ORF ON",
+          "date": "24. Jun 2026"
+        },
+        {
+          "title": "Zwölf Steirer reisen zur Berufs-WM nach China - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSjVqUV9CeWozNGtTU1hSeTd1N1JPX1NmNVFWQnNHcTFrVzljR2xUd0pTanBtOTFNZERySXM4bTRBMWJPcWFmVDY4WlA4MDlBUWJ5aDJCbVBuclRQekpxbGppajVVOHN3bFpuY3JJRTJKZURPMWVPdEJnVE5ES0Rwb0hGOGFJbXUySk5uc1VIRmhQUzhhZWp3?oc=5",
+          "source": "5 Minuten",
+          "date": "24. Jun 2026"
+        },
+        {
+          "title": "Langer Tag der Energie bietet Einblicke in die Zukunft der Energietechnologien in Deutschlandsberg - weltstimme.com",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORVpVQngzcG44M0R6NnVlR00wcGpTOHJBUVh4Wm5BWVJhSkFvQmlLdVhpNUo0ck12bXNncmdrN3ZlcVVUVHIxZzVad3ZxR2Q0NjhjTHdPRTFpMV9oRHJOVmdKQTh0QkNCNDBXZWxfYjBrT1pvWEw4aFBnUFhXVklac2tZTWlLNk1JTWxwUXBvbWJwQkRBSTl3QzVJanJWaDRBUlhJTnltTVRCVE5feHIzekFfaXNrM2MxRUVFMDZQblBxT1NqdHNXYThkVnVadw?oc=5",
+          "source": "weltstimme.com",
+          "date": "21. Jun 2026"
         }
       ]
     },
@@ -156,20 +150,39 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Österreichs innovativste Gründungen entstehen verstärkt in zwei Bundesländern, wie der Phönix Gründungspreis zeigt, während die Steiermark mit 24 Millionen Euro Förderung für zukunftsweisende Werkstofftechnikforschung in Leoben ihre Position als Forschungs- und Technologiestandort weiter ausbaut. Diese Investitionen unterstreichen die starke Rolle der Steiermark in der österreichischen Innovations- und Gründungslandschaft.",
+      "items": [
+        {
+          "title": "Österreichs beste Startups und Spinoffs kommen aus 2 Bundesländern| Phönix Gründungspreis - wirtschafts-nachrichten.at",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRy1aMng1UmRmRWIzektFUE1BVGxvWnVNb0tTOGwzOHhSZTVqVjJ5eGVoc3hJckhOV0czdmZpR1RyT2dTTDN1THRUUlg1ZzhPaVJ6UXVkU3RocHBvM1liczBoQkZ6aUxKNlE0Q01QZy1jVUNpUFJnX0JCMVp6dHBGSl90QnUyNkdwczVXR05wYkJ4Y1NEMTg2bzBlWGlJYWtkWlh3dFh1LTctZWRnZ3I1MHhYazdrOXE3UmJaU3RtUVhmc3hHVkdYZFdLNlJQUQ?oc=5",
+          "source": "wirtschafts-nachrichten.at",
+          "date": "23. Jun 2026"
+        },
+        {
+          "title": "Forschung in Leoben: 24 Millionen Euro für die Werkstofftechnik der Zukunft - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNHVTRW9SU1VmcWVSVGlpUkNtcnA1NjYyRXA0bXVKcjlRT3FjaUkzS0hUMnl0THgxTHMxeExERVJFeS1odmtlQjFVVWwtRmFNUmd6akdDSDJYTzlwc0ZMVC1SdmVOMHFjVzNvQmt6YUF6ZTNLcHdpYXRGbXhVLWg5RG9WWllpSFQ0eWFKOHlqVE93VEpNNXY0TkVWVGJjNDg4QlI2SVJzQlVUdmhzOWVYMzFLVkZHWDE2bllGZkR3?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "27. Jun 2026"
+        }
+      ]
     },
     "innovation": {
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark erlebt durch die Digitalisierung des Gesundheitswesens und den massiven Einsatz von KI sowie Robotik in Unternehmen einen tiefgreifenden Transformationsprozess, der trotz Jobverlagerungen insgesamt tausende neue Arbeitsplätze schaffen soll. Parallel dazu positioniert sich die Region mit grünen Technologien wie der Wasserstofferzeugung als innovativer Green-Tech-Standort und unterstreicht damit ihren Anspruch als führendes Digitalisierungs- und Technologiecluster Österreichs.",
+      "summary": "Die Steiermark positioniert sich als Innovationshub durch die Digitalisierung des Gesundheitswesens und die massive Expansion der Robotik- und KI-Industrie, die bis zu 10.000 neue Arbeitsplätze schaffen soll. Parallel dazu treibt das Bundesland die Green-Tech-Transformation voran, wie der Ausbau grüner Wasserstofferzeugung durch Energie Steiermark demonstriert.",
       "items": [
         {
           "title": "E-Rezept Alltag: Wie Digitalisierung das Gesundheitswesen in der Steiermark verändert - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNS1NRVkzZHZrdG1la2VSbVJhYnpGVzFSSWtKbm8zVmZkQW5rYl9BQXh2XzVOcVVPWFhnYXgxUFdoQm13Z2h3bW5XdWdxN3pJOTkzY0FmNE85NUplVGZzQy01SEVUVmF4WUtESU5SczktM3V0WWNUcXdMWXY1elI2MnA1UmZmTERsWkktVXhXYlBHWC1kM05DZjdvVGRmS3dyNkdaMFFZQXMzZ0MwMnVESjhrdkVSMkx2c0p1eklTX0pTUU0?oc=5",
           "source": "MeinBezirk.at",
           "date": "23. Jun 2026"
+        },
+        {
+          "title": "Steirische Robotik soll bis zu 10.000 neue Jobs bringen - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeFoySG5SVS13eHRMSHU2SWk5T0h4THlndFdKVkNjaDNuak9zMFVnSEhvWW00VlZzMDlRdEgtaU9DdTM5aHRHTVlaa3lSbjhGbUZlYUd2ODBocXlUN3pnaUhVbXYtNl94Qmw2OXVNbi1DWjg1bkZ6YXUzSXo0MDBEemFmNFZ6VGpyLTNIWF80aEx6Z1ZTVzVXbnowYUZoeUY5WFlV?oc=5",
+          "source": "5 Minuten",
+          "date": "27. Jun 2026"
         },
         {
           "title": "KI und Robotik sollen tausende Jobs bringen - steiermark.ORF.at",
