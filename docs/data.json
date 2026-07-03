@@ -1,202 +1,41 @@
 {
-  "generated": "02. July 2026, 06:24 UTC",
+  "generated": "03. July 2026, 06:16 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Steiermark kämpft mit wirtschaftlichen Herausforderungen wie Hitzeschäden und steigender Arbeitslosigkeit, insbesondere bei Frauen, während gleichzeitig positive Entwicklungen in der Fachkräfteausbildung, innovativen Arbeitsräumen und der regionalen Zusammenarbeit sowie in der Infrastrukturförderung erkennbar sind. Mit dem größten österreichischen Team bei der WorldSkills 2026 und erfolgreichen Lehrlingen wie dem Steiermark-Sieger in der Tischlerei zeigt sich das Potenzial des Standorts in der Nachwuchsförderung und im internationalen Wettbewerb.",
-      "items": [
-        {
-          "title": "Wirtschaft: Großer Schaden durch Hitze - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05ZUxVXzR6OUc5RVA3WE9LcUlHU1lfQzAzYTc2dHB5YTN0ODh0OVJwaFZCWnh2UzAwdG9wbjRKVDJQblRCei1uUHduUnFQQ0dZc0dadg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "29. Jun 2026"
-        },
-        {
-          "title": "MIt Blick nach vorn: Weizer Tischlerlehrling ist Steiermark-Sieger und bundesweit Dritter - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNkFmRzZOcHlBQ1l3MGxFNzY3NWtBV1RIYnQ1UmhoaVF6VnlSZ2NMcnV0c24tWU81RDZGX2NnOUhfSGlYZWxUN0lLVmt3MWpLYXlYbXhCMDBWQ2gtVlRRU3RuLUgxUlBhamdGSUY3VEY5aUdZMERVY2dJU0dSRDdFWnlFZFRXTjQ4T3BzT2JwajczNDBMNWxmZ29UWnowTkZlUjRYNDE2YVdZWHlYbE1EWEgyVC1tWS1NOVg3SWhB?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "2. Jul 2026"
-        },
-        {
-          "title": "Steiermark und Kärnten verstärken gemeinsame Auftritte - Leibnitz Aktuell",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOblhIUzhndXZyTHlRYjNfRTRmV25mVHlmZ2dlWVE1bU43Tzl3QWM0NmJ6V2JXd21ySUZxZ1htYld0ejVvZ3NWVjZNOTBuU18yeU4yc1FXZy1fX1ZPa3BfVFpaaWVUdTA0a2tpXzhOZ29Yc1B6ZzRkenRaLWFYTXhIZ0tNc1Z6c003aWkyb3NyQlhSTHRRQmJfWnc4X2VSN1Uydmc?oc=5",
-          "source": "Leibnitz Aktuell",
-          "date": "1. Jul 2026"
-        },
-        {
-          "title": "Steirische Volkspartei: 12,95 Millionen Euro für steirische Landesstraßen – Bezirk Leibnitz profitiert von Bauprogramm - Leibnitz Aktuell",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNa2FKTHdsSVlnbnZLajJXdjBldi1BNTVVQlNJQ3pCb0Q5QTRGRnlHTnM5T2FQTU50UW5JMHFuT2FuRkxUM25NMW5YYjJTQnNZY2pUYlAwZzBMMTJCLVJ3N2hLY3RBOGZWdVI0Z2FGTUNiS05kT0YzcGNFRWQwckdqb0UtOU9DdjMwWDdzbDhBVkdURWE0eEhZV0lfZVJFMzBnckFwRm9xLWIzMnZFdHBkbW1aMkVJYmZFbG16andpZVJoblgyRDFYMThPUkM0Wk1jaHdFMWgyY1dEMlk?oc=5",
-          "source": "Leibnitz Aktuell",
-          "date": "1. Jul 2026"
-        },
-        {
-          "title": "Arbeitslosenzahlen Juni: Frauen haben es am steirischen Arbeitsmarkt derzeit schwerer - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdzFEdEpDSXl0bENTUG9fVlRqUWpIaHlsUlg2VTJIZUFPdXNnZnQ4TWJHUjFNYVJJcnljbU83a1FTdmdDRFNybmxZQlhBdGpyd3F0eUNVYU0xMzVZRUMxcVY1Q09uMmp1Z2RZYVdUMVd4dTdKMHJyM1F0UVZvakZWb1hQemFGRmF6TXFmS2pQaWFocGVZTi1vRG5uTWYwcGs4ak9rWUwxMDBLRlF1VjQtaE4zMDFIeFl4bnRn?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "1. Jul 2026"
-        },
-        {
-          "title": "Arbeitslosigkeit im Juni erneut gestiegen, schon 368.948 sind ohne Job - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSWFFUEVvSkJBVkNqYzk2aUNWMUsxVVQydE9Ubjd1NmFfbnNxQnZsb0NHMHpRbEZKcnlTSzZTOXpHSi1qR3VvMUYtRmxXLUo3Z2c0SFhUTmZ1WV9ISXNHMXY5NHJfME5oaElvSVozaWpKU3BsWW1Cc2hJZWE3V1FfTjl0ZFlhR0lGZnhJdDZiUThWNFRKX2d5UVo5T1E5ZDY2OGtKV0x2dmk2REVJVE1rbDZSVUU?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "1. Jul 2026"
-        },
-        {
-          "title": "Innovative Coworking-Spaces boomen in der Steiermark - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVGZ6RjdGNFV1LU4yWFhvcmotR0k4WW44TjE4aTFDeWhaSlN5c1FIT0FTNFpYVlhSdU1CbDBEWFNOd0hSY0x5d253bWtyQXQ2aXEwSjBzbmFQVzdkRkNZajlSdjctRDVwRjBMWDRnRUdjaVpyellENGhfcHQ2UFZZYWFDR3VSQzNR?oc=5",
-          "source": "wko.at",
-          "date": "2. Jul 2026"
-        },
-        {
-          "title": "WorldSkills 2026: Steiermark entsendet größtes Team Österreichs - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYU1YUllSSHROT2F0UXlJcWpneGFHWlhFamJiQjNmNDA5YmRyZWVTYi1IY0hJZHVHYWhiS3hlT2lpRHR5UF91YlYxbURTZXFYX1lLTUZ6QVVkRkRXbnpYc2JMU3BqaUl4M2NMSll2a1Q2djBWZVdDTElkS2hUc2x3cUV0Umt3bnpY?oc=5",
-          "source": "wko.at",
-          "date": "28. Jun 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "tourismus": {
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark profitiert von internationalen Großevents wie der Formel 1 und Instagram-Hotspots wie dem Grünen See, die das Tourismusimage prägen, während gleichzeitig nachhaltige Herausforderungen wie Overtourism und die Balance zwischen Kommerzialisierung und Naturschutz bewältigt werden müssen. Boutique-Hotels und regionale Urlaubsangebote wie Almtourismus zeigen alternative Tourismusstrategien auf, die lokale Besonderheiten nutzen und gezielt Gäste mit spezifischen Interessen ansprechen.",
-      "items": [
-        {
-          "title": "Formel 1-Teams schwärmen von der schönen Steiermark, Tourismus jubelt - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa1VGdzl5cUNZNVdkSkc4ZERGYnloS3hFMUp5R05aaWw2UmVPYXNvaDQycTI5ZE55M2xxZVFIaUozQXI0cUsyVTlUeDdqY0syaWtUUEVTOHZMeEp3aHJfbnVXS092VGZzZENHd1RzV2V6bWV0QlNDcWFNa0NfWVIwQU9MS2NtMXZ1VnJVNmJFdjF4ck5KRXFQWi1jZE02NGUxY05uNUtPQWdUcEgtNVlCWWgtemxwY0U?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "27. Jun 2026"
-        },
-        {
-          "title": "Grüner See in der Steiermark: Vom Insta-Star zum Schlammloch? - FAZ",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa0NDUFpaMmhvLXFvVkhDVWUwTno3U2pYajZfVjVZa29WS09uX3FRS3V4eXFwVF9qYWRjWjNQZDBpMHNva3lDZUhvUnE2cllrTTl4SmJzM0ljcXBqdFY0Q01wTFBsMldyWkszaTlCZVBOc3pjaTZwNzdWTkhlMFEtM0RxcWFnOFNQa1lXbWp3VkpyQmNueUtCMnhkN2FqdHZyUWNvZ25fa1lVbUktSEl4anNjalI?oc=5",
-          "source": "FAZ",
-          "date": "30. Jun 2026"
-        },
-        {
-          "title": "Urlaub auf der Alm: Die Idylle und ihre Herausforderungen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaTV1dV9ZMEEyTm5JZGtVNHZ1QXRyamprMVNpZi0wd2M0ZVVyVTB3RU9LUDVvSjRwd1liU2RCZW5IT1h2RmhnV1J3OVowZnU3aXJFOHh5MHNRY2VIWFY0VHVaeDRIc2tSU0VTM3hqOHRaV2M4cjIzb0NqOUxiX1hIaWJWZExwTzdCbHdKdVdrVUhzOWpVZGktN2FqUDZoMGZ1OTlVQw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "28. Jun 2026"
-        },
-        {
-          "title": "2für1-Urlaub: De Merin - Boutique Hotel Straden - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYjlJX2ZfZlIzdWpETDlPNGZIMVBPY29mWEhfU0FWTWM4UmpJY28ydnI0U1BydDFIQ0JTMHZybVhCUzFRT3VOX0hackVHMmt4cENRRWJXUnZpRzRsTUYzR1ZySFpqd29jUVc4ZldQNXVueGJfWnRTRFNIdW53eWdIdWxuZw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "29. Jun 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "wissenschaft": {
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Technische Universität Graz übernimmt den Vorsitz der TU Austria und unterstreicht damit ihre führende Rolle im österreichischen Hochschulwesen, während zwei ihrer Forscherinnen mit dem renommierten Astra-Preis für ihre Arbeiten zu Künstlicher Intelligenz und Quantenmaterialien ausgezeichnet wurden. Die steirischen Universitäten fordern im Zuge von Reformdebatten klare Verbesserungen ihrer Rahmenbedingungen ein, während gleichzeitig Innovationsakteure wie die Energie Steiermark an der Skalierung von Forschungsergebnissen arbeiten.",
-      "items": [
-        {
-          "title": "TU Graz übernimmt Vorsitz der TU Austria - OTS.at",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdk4zNmlJUXNPc3ZuRjlOMDVEZEl3a3FCV2Rfd3VId09aQ0RpMnQ1UDYwNVhVRnFyTjZPbWdJZUk3MmViNFJaTDhoT0JwWWU2LUlleTJqYWo0RVRQZHZsdlJ4NzBrZkVUdnQzTnpnb1pjMnJWVXM4ZEFDV1F1Q2tKLW1EX0tQRkJNTHQ1S0tZNzlrVUVpaGd1OVFVSHMtS1U?oc=5",
-          "source": "OTS.at",
-          "date": "1. Jul 2026"
-        },
-        {
-          "title": "Astra-Preise für TU Graz-Forscherinnen Galler und Könighofer - Extrajournal.Net",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSTJzcUtxMjNqb3ZHVm5EWnhYcDFyOS1scE1nWHE4c0IzNHRDYVpyQ3NaSkRFdHhtT28wNnR2RHZPeXd5SGtpNVhIUWRvZUpidFdrdDY3VWVkVW16T21VM1FCWDV5SGpxVTdjRjJLdnNhTW5ITGtsRlZfY1hpUnlLdHdzbmlpeVJvN1NZSE5CblZ2ZFR5U2ppWnFuVTRVd0Q2?oc=5",
-          "source": "Extrajournal.Net",
-          "date": "29. Jun 2026"
-        },
-        {
-          "title": "Wörthersee: Jede Bootswelle ist so schädlich wie ein Sturm - Der Standard",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS2trWkpFUTljcUw1ZTBuYXNUaHo5bDVWdVV5SGFObVN5bFlxek9sOHhiQlFCMWpZN2lIWUVKUGlsaGN1UXNLV1ZWYkREVEJYcWhRZF9HYU1Mb1BJYnBNV0tsTGU0QU9sSS0zNWR3YWFmdXlHUXNLMVBDTVM2VUdPTllBeFloRmVkUHB0NmU3Q21IdG9BSjN5Z1RJOE5JZEtxWTZUdGMwbmxlUQ?oc=5",
-          "source": "Der Standard",
-          "date": "27. Jun 2026"
-        },
-        {
-          "title": "KI und Quantenmaterialien: Astra-Preis für zwei TU-Graz-Forscherinnen - Computer&Automation",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPazViUWpXUmFoUXVkRzYxZndNeXNPNnB3Wmt6Uk40TjBIOWFGOHhoZ3ZZTXJ6X1E4Mi1ndVRUUXkycUpKN3FIaFdLZTBXVmVXVGhZN3MyN1JvWm5OZXZyYVZkXy1pYTlVMWtWZzA2Q0hkVFU1VVF2T2c4am9UTk1pOWtVQ1EycUlrLUh2WGVXUk9EOXFCNGZiTXozdThQZlFHbTFKRGxVMjlYX3d6YzR6akhNOHN0V0FYWUF3Zg?oc=5",
-          "source": "Computer&Automation",
-          "date": "29. Jun 2026"
-        },
-        {
-          "title": "Uni-Reform: Steirische Unis stellen klare Forderung - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVzhEWXNiNjRnWWdiR0dSNklmWkVtM0xQQW9yeE5tNUZjOVVPVE9JcjJJQW5hbjktR2E5c1VrNm5GWUllaUhUcU0wb2cyXzUtdzZxdnV5OExZMHd2OElUWVVFWW1oMHl0am4tSnRvSVFZeG1EY3RFVU9sVEdNUnBaUmFPUHRCZlNGRldjVnhaVFZmX3l5?oc=5",
-          "source": "5 Minuten",
-          "date": "26. Jun 2026"
-        },
-        {
-          "title": "Wie die Energie Steiermark Innovationen zur Skalierung bringt - brutkasten",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVWo3SUhOczNXVnNmcEZxR1NaNUM0LWlLYkcxX1R1VUJCSTFOaE8wdGdHdkZGR0hDLXc5ZWpxN0wyQkNVN3BoOE83c3dPS29CWU02MkhyT0Y3VlRLYkRSeWl5T1k4V25IdGd2Wk5BN1lRNGpoYTZCekZvZDNmYXBfRXVOLWJMeEVNS253M3o3Zk5Tb0stNnc?oc=5",
-          "source": "brutkasten",
-          "date": "30. Jun 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "foerderungen": {
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Die Montanuniversität Leoben erhält 24 Millionen Euro Förderung zur Erforschung zukunftsweisender Werkstofftechnologien. Diese bedeutende Investition unterstreicht die Bedeutung der Steiermark als Forschungsstandort und stärkt die Innovationskraft in einem Schlüsselbereich der Materialwissenschaften.",
-      "items": [
-        {
-          "title": "Forschung in Leoben: 24 Millionen Euro für die Werkstofftechnik der Zukunft - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVkpQODVXeGs1T21JVkIweHNaMGxkSHFxcmJKak9hcWplTy1aWThyaXk0cGI4SUdpWTlGTmtKdzdjU2c2UmZMbFplWVY3Nk1LM3JXcF9nZzY1bVdpMlhWVGlUcTAtbHZmWFdlRXZKSnJjVnVaRUlDck5JZHFEOEtvUWszZlZ5RkZ4ZDRValo4SnByZ2tIUXFYX0pqU2FHQkNURlB0ZXZuS1VzNkhCZEt3?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "27. Jun 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "innovation": {
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark positioniert sich als innovativer Technologiestandort, in dem KI-gestützte Lernlösungen das Bildungssystem transformieren und Robotik sowie Automatisierung massiv neue Arbeitsplätze schaffen sollen. Parallel dazu fördern moderne Coworking-Spaces und Energieinnovationen wie Wasserstoffproduktion ein dynamisches Ökosystem für Startups und nachhaltige Technologieentwicklung.",
-      "items": [
-        {
-          "title": "Bildung & Zukunft: Steirisches Unternehmen zeigt, wie Lernen mit KI funktioniert - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc19QbkF3MmF2S1U5VnBQenlFTVRWNDUwS01UenhzdDk0bHplcXI5MW9XdjRjTHY3ZnJqR3RmU2JqaFJVTWZfNnNaWmdMUjF0WFdCMHBWSXRCUjVqY2lUUmpiNVpLREZVb1hIem9vUi1QREZqOHFDVkVzaWJzQ1RFb2ZEY3RSQmgtbmFNU2RhbmJIc1RoUXhzNGtyZGZ1Qlh0UE8zMkViRmlCNFNPMC1xWGNIQndOTDI3d2k4?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "30. Jun 2026"
-        },
-        {
-          "title": "KI und Robotik sollen tausende Jobs bringen - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YR1VveW9NSXVJM1ZZVWVESmlRa3NCMkoyOUVBdWxwXzFoTFZjQnNFRnZfRWM5OUZTbFdWckVLcHo2bllaeTM4ZmpEY2YxUnRJVzZ4ZA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "26. Jun 2026"
-        },
-        {
-          "title": "AK für Anpassungen - KI soll jetzt auch die steirischen Schulen erobern - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5KMFNDckk4ZG1hdm1QRDBsdF9iS0tNNm5tTlRiYl9Gak55cUpZbEZHOHJtRVJvVkJSTXUyaXFjTlF6Zw?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "1. Jul 2026"
-        },
-        {
-          "title": "Steirische Robotik soll bis zu 10.000 neue Jobs bringen - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeFoySG5SVS13eHRMSHU2SWk5T0h4THlndFdKVkNjaDNuak9zMFVnSEhvWW00VlZzMDlRdEgtaU9DdTM5aHRHTVlaa3lSbjhGbUZlYUd2ODBocXlUN3pnaUhVbXYtNl94Qmw2OXVNbi1DWjg1bkZ6YXUzSXo0MDBEemFmNFZ6VGpyLTNIWF80aEx6Z1ZTVzVXbnowYUZoeUY5WFlV?oc=5",
-          "source": "5 Minuten",
-          "date": "27. Jun 2026"
-        },
-        {
-          "title": "Innovative Coworking-Spaces boomen in der Steiermark - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVGZ6RjdGNFV1LU4yWFhvcmotR0k4WW44TjE4aTFDeWhaSlN5c1FIT0FTNFpYVlhSdU1CbDBEWFNOd0hSY0x5d253bWtyQXQ2aXEwSjBzbmFQVzdkRkNZajlSdjctRDVwRjBMWDRnRUdjaVpyellENGhfcHQ2UFZZYWFDR3VSQzNR?oc=5",
-          "source": "wko.at",
-          "date": "2. Jul 2026"
-        },
-        {
-          "title": "Wie die Energie Steiermark Innovationen zur Skalierung bringt - brutkasten",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVWo3SUhOczNXVnNmcEZxR1NaNUM0LWlLYkcxX1R1VUJCSTFOaE8wdGdHdkZGR0hDLXc5ZWpxN0wyQkNVN3BoOE83c3dPS29CWU02MkhyT0Y3VlRLYkRSeWl5T1k4V25IdGd2Wk5BN1lRNGpoYTZCekZvZDNmYXBfRXVOLWJMeEVNS253M3o3Zk5Tb0stNnc?oc=5",
-          "source": "brutkasten",
-          "date": "30. Jun 2026"
-        },
-        {
-          "title": "Energie Steiermark produziert Wasserstoff für Wolfram AG - i-Magazin",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcnY4NzhFck9wZDlNRUR1UTFIUlBDYW9PcEhoNU9CR0VyNnJPUkFVekU2SnRGMnBaSDB2bnhiQUJ1Mi1ZWTMtakM5LS11X0xPZ1ItbWlsQnlYT05qNEtJX1d4dkVlSDdicjc5dXJuUVl2emZaQXNZb0lUQkl1UWZ5Q3RxYlpzNk0?oc=5",
-          "source": "i-Magazin",
-          "date": "29. Jun 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     }
   }
 }
