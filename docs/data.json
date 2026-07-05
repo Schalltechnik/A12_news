@@ -1,23 +1,17 @@
 {
-  "generated": "04. July 2026, 06:00 UTC",
+  "generated": "05. July 2026, 06:25 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die steirische Wirtschaft befindet sich in einer angespannten Lage, in der über die Hälfte der Unternehmen unter Druck gerät, sinkende Investitionen meldet und um Arbeitsplätze fürchtet. Gleichzeitig zeigen sich innovative Jungunternehmer als hoffnungsvolle Zukunftsperspektive, wobei mehrere steirische Gründer in die nationale „Top 30 unter 30\"-Liste aufgenommen wurden.",
+      "summary": "Die steirische Wirtschaft befindet sich in einer angespannten Lage, wobei mehr als die Hälfte der Unternehmen pessimistisch in die Zukunft blickt und mit Personalabbau sowie wirtschaftlichen Herausforderungen wie Hitzeschäden kämpft. Die Wirtschaftskammer fordert mit einem 10-Punkte-Programm neue Impulse für die Region, um aus dem Krisenmodus herauszukommen und die Wettbewerbsfähigkeit des Standorts Steiermark zu sichern.",
       "items": [
         {
-          "title": "Influencer bis Elektrikerin: Diese steirischen Jungunternehmer sind die „Top 30 unter 30“ - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMjZCWUpRbzIxSXZJOFhEc3hmMFJ6RFZYQVFpb3JxSVBkZWh1M25Ydjhic1NCN2JhUTQ2RWh1dzZTbEE5NjFZRDhMU01uMXl2WllzYWU4M0QtLUpmaG8yWTlyc24tQkd1SGVlS3JTd1dvLWp4MjhSR3Jvb2hqVFRLR1pBdWRrd0ZDVU9CWEhpc01YaWk0WUxGaURoVlJ6NUFnTm12ZjI1NTR5OGljbEY0QVd4ZDN6WFBw?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "3. Jul 2026"
-        },
-        {
-          "title": "Steirische Wirtschaft bleibt im Krisenmodus - weekend.at",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZGszbloydm1rcWl3UXQ3OVY3cmY3S1EzOUQwSkwxcFhGX1ZOSWh0aXlfZDU3Y01abVJzYTYzSW9xMzVvbDV4WTN5dGM4ejB0VUZ4cVZadHRIMXlFTEYwbHhFLTUzVkFONmpZRlZPRDRNb1NHdXJPN3lhbHZfN0phdg?oc=5",
-          "source": "weekend.at",
+          "title": "Jeder zweite Unternehmer sieht Wirtschaft skeptisch - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2syNVZ3RUZHVFdvWDQ1NlBGclNqODZPT2FpY3A3ajlUY2Ywa1ZYYXFCV2g5U2pyNlFac1JlRnpxbzRrZjRiOE1sNThUTFV0Xy02MEtLeVBiTnhObWtJMTNfQTNUZS04NERyQjBnZ0lhSy1TcHNTemxCNS1IemJ2TXdDN3BCTW82SlE4WkdNalRFN3gzOXZCQg?oc=5",
+          "source": "ORF ON",
           "date": "2. Jul 2026"
         },
         {
@@ -27,33 +21,39 @@
           "date": "2. Jul 2026"
         },
         {
-          "title": "WKO Steiermark: Zwei \"Top 30 unter 30\" aus dem Bezirk unter den Besten des Landes - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ1E5NFA1TkdiZl9XNnBPcFhVM1UtV3ZoaHItc1VGTk9sS3FwZllib1NBQWF4QzduSkJZRFc5OE5CM0IxcjNqVjFLeW8tb01zZEZXcmhXd2xDZTVKYUh4NzJJeGVodnRUQXJlR0c0Y1A5YUtFVnRqRVY3RENkYm1SaUVEY0tUWjFlU3VaM3hnUkVfWnEwUWVaUXhiME5BdmVuckt3a3VtdV82VDZzS01ucW43VWV1WDVQSTFmaTdHRWFFZGhnVW0w?oc=5",
+          "title": "Wirtschaftsbarometer: Wirtschaftsklima in der Hochsteiermark bleibt angespannt - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3BzcFNPekQtVTJ4V2YzSGw3T0otZnU0OWJvbXJ1UGZ0YW5hUEZYRk1SQS10RnJfQVc3US10Wk1rOXh4WUI5cUdMSVlRcmd6aHB6QUM3Uk5odGFoS2pJRnVMc2dVclhiTmlQaVA3U3I0b2ZjU1JZbnBhNU5MVDI5UzhtbjgxMG45UVZ0dHF6b0dnMzFwZHZKTDBlTG1VdmlBMWdiN2R4ZnEwbVV6cFBJaUIwYw?oc=5",
           "source": "MeinBezirk.at",
+          "date": "4. Jul 2026"
+        },
+        {
+          "title": "Steirische Wirtschaft bleibt im Krisenmodus - weekend.at",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZGszbloydm1rcWl3UXQ3OVY3cmY3S1EzOUQwSkwxcFhGX1ZOSWh0aXlfZDU3Y01abVJzYTYzSW9xMzVvbDV4WTN5dGM4ejB0VUZ4cVZadHRIMXlFTEYwbHhFLTUzVkFONmpZRlZPRDRNb1NHdXJPN3lhbHZfN0phdg?oc=5",
+          "source": "weekend.at",
           "date": "2. Jul 2026"
         },
         {
-          "title": "Brot, Eier, Milch und Co.: So kommt die Mehrwertsteuersenkung im steirischen Handel an - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTXRqMDhHVFJoY2tRNWw0SmJMVlhoeFdmN3BoM2VHaUp1YzFrUFdXV3JMUjFYYUs2WEJDTTMwWkljQklaZ3FKZy1vbzl3RVdORTN0cVk1SjFjbUhvM09MQ2VLc3UtWXBZMHYwaDZaSktweFd0YXhpbVZjVzFWVjdHUGYwVzYwVWx5eldnanVnXzFoRWYtZW9OaVNydDdsYkRqUFJzVUFlWVBmS2xvQk5JMzJaeGpQNVQ0SEE?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "2. Jul 2026"
+          "title": "Nachhaltigkeitstag 2026 - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPUFNEdklLQTVaaE9tbENKNFU1c1haallyU19pTDE1MVBMMV9RME9fU2Z5eFVUQTFLVHZ1dHN6Vi1RMzRPLTY5UFRqdGFtZ2tSNXRudDcyUWVjSmc?oc=5",
+          "source": "wko.at",
+          "date": "29. Jun 2026"
         },
         {
-          "title": "Top 30 unter 30: Zwei Jungunternehmer aus Trofaiach gehören zu den besten des Landes - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMW5xZUFVMmZKbDBYQXJLcjY5Y3l1QTk3cUhwVWZXNmVMdm14TlJtcE5XMFNrMkZqalNZcmZsTlJSSndQYTNxbHBIVE5aSmhDQ1I4bHRTdm8zYmRGM2dYN01jMWhnVUZIOWRaZlNDUVdnVFFNZHRVR1MteExNZGNGRjFpTUdKcGxQMlBwSFVKYlMySUxDS0RHR2RkQ3gtUnlOdHpQT2lVSmh0d1B6dFpIelo0LTJ6N2dlaWZtVEFUdUI?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "2. Jul 2026"
+          "title": "Wirtschaft: Großer Schaden durch Hitze - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05ZUxVXzR6OUc5RVA3WE9LcUlHU1lfQzAzYTc2dHB5YTN0ODh0OVJwaFZCWnh2UzAwdG9wbjRKVDJQblRCei1uUHduUnFQQ0dZc0dadg?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "29. Jun 2026"
         },
         {
-          "title": "Umfrage: Wenig Investitionen, Arbeitsplätze wackeln - so kämpfen steirische Betriebe - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQldXYUlMbk1feHpobHJmeGhydTBJQ09FNGpkRnpJTF9YdnQ2VjFtb0NvM0xHZWpHdDhmWk5wN2dqNWF2TG13TlJFa2ZIZnFWYkpJX0M3aVZxM21KdUZyNU5xbW1wdVFTYl81bGNfNHViV0ktc2tSaEx2LWxldzU4NU5jWHVNeENaUG1yd0xuQmpSeWdzRjV5VlNoaHNHVzN0RU1JNm1GWXd3SzBXMHVrYzMwQmp4VFJ3MUZZRjZEa0Y0YVo0UTZiYTFTUkpZUQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "2. Jul 2026"
+          "title": "10-Punkte-Programm - Wirtschaftskammer: „Graz braucht neue Impulse“ - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1GQWVDN0JEV2FET0FIUld6M2NoLVY1VWE5dHNyN3gtRkJna0ZxMUpGajJzcWY2ZUVmTWdkMnVfZXlwQQ?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "3. Jul 2026"
         },
         {
-          "title": "Jeder zweite Unternehmer sieht Wirtschaft skeptisch - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2syNVZ3RUZHVFdvWDQ1NlBGclNqODZPT2FpY3A3ajlUY2Ywa1ZYYXFCV2g5U2pyNlFac1JlRnpxbzRrZjRiOE1sNThUTFV0Xy02MEtLeVBiTnhObWtJMTNfQTNUZS04NERyQjBnZ0lhSy1TcHNTemxCNS1IemJ2TXdDN3BCTW82SlE4WkdNalRFN3gzOXZCQg?oc=5",
-          "source": "ORF ON",
+          "title": "Wirtschaftsbarometer: Fast jeder dritte steirische Betrieb beschäftigt sich mit Personalabbau - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZEdGZlJOUG1ZOGZWc3FHejhZcUdtU3dCbHlMNUNkX2FyQVgyc21LT0x0cEtmYlhDOW9LWjh6OS1vVDZNd2pxNllCOXZUNVJNSElPWVJTVGs3a0h1WUFaMVc4U1pMZjdLMTN5MUFFMi1fMm9jOXNiZXpYYS13bFQ0eFVOSEJWdWQxQjU1NHZpVENhcXUxeGlMREVvaF9LMG4xTDN2cEZISQ?oc=5",
+          "source": "Kleine Zeitung",
           "date": "2. Jul 2026"
         }
       ]
@@ -62,31 +62,37 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark profitiert von Großveranstaltungen wie der Formel 1 und Instagram-Hotspots wie dem Grünen See, muss aber gleichzeitig mit Overtourism und Infrastrukturbelastungen umgehen. Nachhaltige Tourismuskonzepte wie Almurlaub und Boutique-Hotels deuten auf eine Diversifizierung des Angebots hin, um Qualität vor Quantität zu priorisieren.",
+      "summary": "Die Steiermark verzeichnet trotz Herausforderungen wie Verkehrsstaus und infrastrukturellen Belastungen durch gutes Wetter zu Ostern positive Nächtigungszahlen und profitiert von der wachsenden Nachfrage nach authentischen Urlaubserlebnissen in idyllischen Regionen wie Almgebieten und Boutique-Hotels. Die Tourismusförderung konzentriert sich dabei auf die Vermarktung des „richtigen Lebens\" und nachhaltiger Urlaubserfahrungen, muss aber gleichzeitig die Bewältigung von Overtourism und Infrastrukturproblemen als zentrale Herausforderungen adressieren.",
       "items": [
         {
-          "title": "Grüner See in der Steiermark: Vom Insta-Star zum Schlammloch? - FAZ",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa0NDUFpaMmhvLXFvVkhDVWUwTno3U2pYajZfVjVZa29WS09uX3FRS3V4eXFwVF9qYWRjWjNQZDBpMHNva3lDZUhvUnE2cllrTTl4SmJzM0ljcXBqdFY0Q01wTFBsMldyWkszaTlCZVBOc3pjaTZwNzdWTkhlMFEtM0RxcWFnOFNQa1lXbWp3VkpyQmNueUtCMnhkN2FqdHZyUWNvZ25fa1lVbUktSEl4anNjalI?oc=5",
-          "source": "FAZ",
-          "date": "30. Jun 2026"
+          "title": "Zu Ostern - Gutes Wetter rettet steirische Ferienbilanz - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5Xd29uUW9Lc1pCOVpMR1pLX2hVcmV5Y3JBb3d1SzdPVUVlckRqYmN2RFNzdFB3dzlSYlBKeG84bmhKQQ?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "4. Jul 2026"
         },
         {
-          "title": "Formel 1-Teams schwärmen von der schönen Steiermark, Tourismus jubelt - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa1VGdzl5cUNZNVdkSkc4ZERGYnloS3hFMUp5R05aaWw2UmVPYXNvaDQycTI5ZE55M2xxZVFIaUozQXI0cUsyVTlUeDdqY0syaWtUUEVTOHZMeEp3aHJfbnVXS092VGZzZENHd1RzV2V6bWV0QlNDcWFNa0NfWVIwQU9MS2NtMXZ1VnJVNmJFdjF4ck5KRXFQWi1jZE02NGUxY05uNUtPQWdUcEgtNVlCWWgtemxwY0U?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "27. Jun 2026"
-        },
-        {
-          "title": "Urlaub auf der Alm: Die Idylle und ihre Herausforderungen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaTV1dV9ZMEEyTm5JZGtVNHZ1QXRyamprMVNpZi0wd2M0ZVVyVTB3RU9LUDVvSjRwd1liU2RCZW5IT1h2RmhnV1J3OVowZnU3aXJFOHh5MHNRY2VIWFY0VHVaeDRIc2tSU0VTM3hqOHRaV2M4cjIzb0NqOUxiX1hIaWJWZExwTzdCbHdKdVdrVUhzOWpVZGktN2FqUDZoMGZ1OTlVQw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "28. Jun 2026"
+          "title": "Das „richtige Leben“ im Urlaubsidyll - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53OWgwdkt1V2lTbFBkTEJhaVg4Z0RJWVlxMTV3TlEyLTk2MzFUT1c4ZlNzOGdZODhpS21xd0w5N0xSOGZfR0FFRm03VW5CWUZ0cFY0THg3S2RsSnlFUFRR?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "4. Jul 2026"
         },
         {
           "title": "2für1-Urlaub: De Merin - Boutique Hotel Straden - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYjlJX2ZfZlIzdWpETDlPNGZIMVBPY29mWEhfU0FWTWM4UmpJY28ydnI0U1BydDFIQ0JTMHZybVhCUzFRT3VOX0hackVHMmt4cENRRWJXUnZpRzRsTUYzR1ZySFpqd29jUVc4ZldQNXVueGJfWnRTRFNIdW53eWdIdWxuZw?oc=5",
           "source": "Kleine Zeitung",
           "date": "29. Jun 2026"
+        },
+        {
+          "title": "Geduldsprobe für Urlauber: Kilometerlange Staus Richtung Süden - MSN",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQmdKbmQ1NHJFM3VSNml6SkRPQ3VJbmI1czhpcVB5WllsVUpOVWlLUGxOTmxoV1EyWFhwazMxUHUwTElTZk9wamt2RWxpM19OMndObjhqYWFCbWpEMWtWckxYMVIzZmQwX09yOEI3c3BNMDJqMUNhclFWYnpkNFU5QVdUUWRhRFNMcmg3Z2h6eEVxbDUwMzh0RzZzMU1QMVpDam83Q2toVUxqQ1dzS2JGZVVEc3RkRURmLW9qZXQ5YmhvcTdQZUNYaw?oc=5",
+          "source": "MSN",
+          "date": "4. Jul 2026"
+        },
+        {
+          "title": "Urlaub auf der Alm: Die Idylle und ihre Herausforderungen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaTV1dV9ZMEEyTm5JZGtVNHZ1QXRyamprMVNpZi0wd2M0ZVVyVTB3RU9LUDVvSjRwd1liU2RCZW5IT1h2RmhnV1J3OVowZnU3aXJFOHh5MHNRY2VIWFY0VHVaeDRIc2tSU0VTM3hqOHRaV2M4cjIzb0NqOUxiX1hIaWJWZExwTzdCbHdKdVdrVUhzOWpVZGktN2FqUDZoMGZ1OTlVQw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "28. Jun 2026"
         }
       ]
     },
@@ -94,8 +100,20 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Technische Universität Graz arbeitet an innovativen Lösungen in den Bereichen Mobilität und Materialwissenschaften, wie die Entwicklung eines autonomen Elektro-Kompostwenders und Forschungen zu MOF-Dünnfilmen zeigen. Gleichzeitig werden steirische Forscherinnen für ihre Arbeiten ausgezeichnet und die Region investiert in Infrastruktur sowie Innovationsförderung, um Talente anzuziehen und Forschungsergebnisse in die Praxis zu bringen.",
+      "summary": "Die TU Graz verzeichnet bedeutende Forschungserfolge in zukunftsweisenden Bereichen wie Hightech-Materialien, Cybersecurity und autonomer Elektromobilität, während sie mit einem neuen 25-Millionen-Euro-Campus ihre Infrastruktur massiv ausbaut. Durch verbesserte Verkehrsanbindungen wie die Koralmbahn und die Förderung von Innovationen durch Unternehmen wie Energie Steiermark wird die steirische Forschungslandschaft gestärkt und mehr Talente in die Region gezogen.",
       "items": [
+        {
+          "title": "Forschungserfolg: TU Graz löst Rätsel um Hightech-Material - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdEZYdnExZ1BEdGdWak9OZ3l3UUI0dFB5NEd3UlZ0RVhQR0pBb1NwZnU2bzJQZW1Fcm5acXlNRER4RHF2eWZRQzk0dDVsZjdub2d2LXVVU1dYT2dpTTBEVjJuNlFhVTNXTUlScEdyLVV3ZUhHcHVWc0JScXlWaVAzWV8ydzZJZkZqMm9YaDZ0a0JqbHczbFVIdjBkaFNQLVh1?oc=5",
+          "source": "5 Minuten",
+          "date": "4. Jul 2026"
+        },
+        {
+          "title": "Um 25 Millionen Euro - TU Graz eröffnet Mega-Campus für Cybersecurity - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAyOGdZWVBXTXlGc21kcFJIem4yX0Z0Ym5UcVRhNW5ydkdFTnFRRW5ucXE1eWJIakJTTlNHeTRmZHhsdw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "4. Jul 2026"
+        },
         {
           "title": "TU Graz entwickelt autonom fahrenden Elektro-Kompostwender - RECYCLING magazin",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTjZIRENHZ0Z2dUxRWkt4Sm5fMlhkSS0yQ0NhdGRwTDUwcUZCOW5lLUpKTVpQaEVNOEhVaVllM3ZocVg1MW5vUFlnSDJKcjNWYWJ0T3hTcGx3cjhibmxqdzlSWjJwOUFEOGpIVU03dHdtbEs3UHVTbS1PSWtPSHA5Y3VxS0VKRzNzak5ST3BsZjNPaThVSWhqZmtCNmhxNUE?oc=5",
@@ -109,22 +127,10 @@
           "date": "29. Jun 2026"
         },
         {
-          "title": "TU Graz löst Rätsel um Struktur von MOF-Dünnfilmen - openPR.de",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaWV1RF9vQlo0VV9OaXBmVkV5em5kc29tLUNiYnc5VGtSaThQaTZjWTdTY1VLblUzb1d3bUdhRXB5ckdFN2o5QjFtX082aHhIc3lTeUViQmY0OUpwamdmcEpGdU9GeFpBZVVlMGl5WFJwSExiWkRUYk5mQXVoRVh4V0ZBZ0JhWURFdXpZMGpoYjE0TlNWTjZyMGJ6QllPQQ?oc=5",
-          "source": "openPR.de",
-          "date": "2. Jul 2026"
-        },
-        {
           "title": "Steirer des Tages: Spaß an der Forschung und im Leben - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS0hRLW55RzVwYTZudm9nbFFzZ284X1U1MGRKd0VkRmpDU1gxcXhHZGhpZktHMDdyaE4wZFRGQ1lGbTM2Q3cteWNCVFJSTHl1VElNVHl2Tm9uSHV4Y2xPZ0tjMW1HbzBWcDRWWWxNQ3BEdVJRV1RXSVhKX21JOVhyWThoc01BTGttbEJHa2FxbDhKLUVaclBOUHpDeTQ4VHc?oc=5",
           "source": "Kleine Zeitung",
           "date": "30. Jun 2026"
-        },
-        {
-          "title": "Wörthersee: Jede Bootswelle ist so schädlich wie ein Sturm - Der Standard",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS2trWkpFUTljcUw1ZTBuYXNUaHo5bDVWdVV5SGFObVN5bFlxek9sOHhiQlFCMWpZN2lIWUVKUGlsaGN1UXNLV1ZWYkREVEJYcWhRZF9HYU1Mb1BJYnBNV0tsTGU0QU9sSS0zNWR3YWFmdXlHUXNLMVBDTVM2VUdPTllBeFloRmVkUHB0NmU3Q21IdG9BSjN5Z1RJOE5JZEtxWTZUdGMwbmxlUQ?oc=5",
-          "source": "Der Standard",
-          "date": "27. Jun 2026"
         },
         {
           "title": "Koralmbahn bringt mehr Studierende nach Graz - steiermark.ORF.at",
@@ -133,25 +139,11 @@
           "date": "3. Jul 2026"
         },
         {
-          "title": "Steirerin des Tages: Der Zufall führte zur Japanisch-Matura - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYzFLbTZWWU5fVTJNOElYS0MyejVFUUpPTnhQMUlvcHNsVXhrMGMzQzd2MWhBRUlkSl9DZEJSY1g5SG5JWmZFajZxMDFSOGUwTmpVLUt5czBFTDd6QjNXNEZXbThiR1MwMHUxWXFmRER2ZjVqdFhMMk1wdU5WX0lqMzMwS2RoYnlZYzJhdkpmTi1XUk0?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "2. Jul 2026"
-        },
-        {
           "title": "Wie die Energie Steiermark Innovationen zur Skalierung bringt - brutkasten",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVWo3SUhOczNXVnNmcEZxR1NaNUM0LWlLYkcxX1R1VUJCSTFOaE8wdGdHdkZGR0hDLXc5ZWpxN0wyQkNVN3BoOE83c3dPS29CWU02MkhyT0Y3VlRLYkRSeWl5T1k4V25IdGd2Wk5BN1lRNGpoYTZCekZvZDNmYXBfRXVOLWJMeEVNS253M3o3Zk5Tb0stNnc?oc=5",
           "source": "brutkasten",
           "date": "30. Jun 2026"
-        }
-      ]
-    },
-    "foerderungen": {
-      "label": "Förderungen & EU-Programme",
-      "icon": "💶",
-      "color": "#5a5a5a",
-      "summary": "Ich kann die angeforderte Zusammenfassung leider nicht erstellen, da Sie nur einen Nachrichtentitel bereitgestellt haben, der zudem sehr allgemein ist und keine konkreten Informationen zu Förderungen, EU-Programmen oder Strukturfonds enthält. Um eine aussagekräftige Zusammenfassung in zwei prägnanten Sätzen zu verfassen, benötige ich mehrere konkrete Nachrichtentitel mit substanziellen Inhalten zu Fördermaßnahmen oder EU-Programmen.",
-      "items": [
+        },
         {
           "title": "Nachhaltigkeitstag 2026 - wko.at",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPUFNEdklLQTVaaE9tbENKNFU1c1haallyU19pTDE1MVBMMV9RME9fU2Z5eFVUQTFLVHZ1dHN6Vi1RMzRPLTY5UFRqdGFtZ2tSNXRudDcyUWVjSmc?oc=5",
@@ -160,11 +152,18 @@
         }
       ]
     },
+    "foerderungen": {
+      "label": "Förderungen & EU-Programme",
+      "icon": "💶",
+      "color": "#5a5a5a",
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
+    },
     "innovation": {
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark positioniert sich als innovativer Technologiestandort, indem steirische Unternehmen KI-gestützte Lösungen in Bildung und Schulen implementieren und damit neue Wachstumspotenziale erschließen. Gleichzeitig treibt die Region durch Robotik, Wasserstoffproduktion und Energieinnovationen die Schaffung von Arbeitsplätzen und nachhaltige Technologieentwicklung voran.",
+      "summary": "Die Steiermark positioniert sich als innovativer Technologiestandort durch massive Investitionen in KI-gestützte Bildungslösungen und die Expansion etablierter Unternehmen wie AT&S, während gleichzeitig Green-Tech-Initiativen wie Wasserstoffproduktion und Energieinnovationen die nachhaltige Transformation der Region vorantreiben. Steirische Unternehmen und Forschungseinrichtungen nutzen dabei Skalierungsprogramme und Cluster-Strukturen, um Innovationen vom Prototyp zur Marktreife zu bringen und die Region als Zentrum für zukunftstechnologien zu etablieren.",
       "items": [
         {
           "title": "Bildung & Zukunft: Steirisches Unternehmen zeigt, wie Lernen mit KI funktioniert - MeinBezirk.at",
@@ -179,12 +178,6 @@
           "date": "1. Jul 2026"
         },
         {
-          "title": "Steirische Robotik soll bis zu 10.000 neue Jobs bringen - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeFoySG5SVS13eHRMSHU2SWk5T0h4THlndFdKVkNjaDNuak9zMFVnSEhvWW00VlZzMDlRdEgtaU9DdTM5aHRHTVlaa3lSbjhGbUZlYUd2ODBocXlUN3pnaUhVbXYtNl94Qmw2OXVNbi1DWjg1bkZ6YXUzSXo0MDBEemFmNFZ6VGpyLTNIWF80aEx6Z1ZTVzVXbnowYUZoeUY5WFlV?oc=5",
-          "source": "5 Minuten",
-          "date": "27. Jun 2026"
-        },
-        {
           "title": "Nachbericht zum Defense & Security Symposium - Militär Aktuell",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZVUJJTTd0SmRUU2NoMDFpX3RuX3BFXzdTNkg3WF9IUURNY1BuM0hmekg1WnVURGVTSklxRWZwcENPY09FVXFfVDBmRDBvampTT0VHZzJ0ZDVwTXM0RG1IM0dNaGh4TlI3bFRnRk5rdk5YUy1Qd1hkSXp3?oc=5",
           "source": "Militär Aktuell",
@@ -195,6 +188,24 @@
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVWo3SUhOczNXVnNmcEZxR1NaNUM0LWlLYkcxX1R1VUJCSTFOaE8wdGdHdkZGR0hDLXc5ZWpxN0wyQkNVN3BoOE83c3dPS29CWU02MkhyT0Y3VlRLYkRSeWl5T1k4V25IdGd2Wk5BN1lRNGpoYTZCekZvZDNmYXBfRXVOLWJMeEVNS253M3o3Zk5Tb0stNnc?oc=5",
           "source": "brutkasten",
           "date": "30. Jun 2026"
+        },
+        {
+          "title": "Millioneninvestition: AT&S feiert 50 Jahre und baut Standort aus - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3NmX0FwSUJwTG9oa3YweDdkZVdHdF85R0NCNjJnVjJHSVgzbktLZThtWDVwek1IY2RZQlVESGZXc2szWlZhaGVCcFUtYTFIai1CRG1KRlFyQWtSZ0hud05MeGxvLTZNWGYxX2RWY2ZUZ0lWa2ZUcjBTa2ZHVW1oUUJqcEwzcUFWSnBUaVB6a01FOFRhSThSQ0k3UGViS3JSZXRXUWV4MkxVMXJz?oc=5",
+          "source": "5 Minuten",
+          "date": "4. Jul 2026"
+        },
+        {
+          "title": "Österreich: 50 Jahre Standort Fehring – AT&S investiert Millionen für die Zukunft - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV29qYlFtYUN0WlRReWZVU1h4TU5qWllVOS15Vjl1NUl6NEpRcTEyUjFTWVA0ck5lb0tjdFcxa0NhSENKQ3hGUDlmRktLX0M3di1uS2lwMzUyVmtHUlV3TDVISHFTT0hsUEkwNjlPWFVzWDY2eVFxUzRjSlhjZ0p0UVFpUFpueDdONkJpZVZ3MThieGVBZDdrLS1MQ3FFUEd0MnNXYnVJcjBqUDBnbnZyZk1jd0NWVTU4Z0t4em1RdEfSAcABQVVfeXFMTVdvamJRbWFDdFpUUXlmVVNYeE1OalpZVTkteVY5dTVJejRKUXExMlIxU1lQNHJOZW9LY3RXMWtDYUhDSkN4RlA5ZkZLS19DN3YtbktpcDM1MlZrR1JVd0w1SEhxU09IbFBJMDY5T1hVc1g2NnlRcVM0Y0pYY2dKdFFRaVBabng3TjZCaWVWdzE4YnhlQWQ3ay0tTENxRVBHdDJzV2J1SXIwalAwZ252cmZNY3dDVlU1OGdLeHptUXRH?oc=5",
+          "source": "Regionews.at",
+          "date": "4. Jul 2026"
+        },
+        {
+          "title": "Niederösterreich: LH Mikl-Leitner eröffnet neuen Bauteil im XISTA Science Park - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTXYyWEljempvYmJqQk5CaWxtRzEtLUx5aFVlRWFSV2xzLVI4eEVzQjd6SWQzWjltVVpkOWlVM0xWdzRDa0pYWVM2bTBIVjVkOHRzTUNUOVlnSkRhZW11ZmYyMmc5TmNFQjFodVAwb1JHR0JIVFVwZ0pnR0ZvdEcxTWNERW9zb1luUm9aSUIyS01uQlhCOVZKelNiYVBfZzdEQklXVkIwc3VxWUHSAasBQVVfeXFMTk12MlhJY3pqb2JiakJOQmlsbUcxLS1MeWhVZUVhUldscy1SOHhFc0I3eklkM1o5bVVaZDlpVTNMVnc0Q2tKWFlTNm0wSFY1ZDh0c01DVDlZZ0pEYWVtdWZmMjJnOU5jRUIxaHVQMG9SR0dCSFRVcGdKZ0dGb3RHMU1jREVvc29ZblJvWklCMktNbkJYQjlWSnpTYmFQX2c3REJJV1ZCMHN1cVlB?oc=5",
+          "source": "Regionews.at",
+          "date": "4. Jul 2026"
         },
         {
           "title": "Energie Steiermark produziert Wasserstoff für Wolfram AG - i-Magazin",
