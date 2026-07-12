@@ -1,24 +1,24 @@
 {
-  "generated": "11. July 2026, 05:27 UTC",
+  "generated": "12. July 2026, 05:43 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Steiermark positioniert sich als innovativer Wirtschaftsstandort mit wachsendem Interesse an modernen Arbeitsräumen wie Coworking-Spaces, während gleichzeitig die Wirtschaftskammer mit Transparenzforderungen des Rechnungshofs konfrontiert ist und die Industrie strukturelle Reformen sowie einen gesellschaftlichen Wertewandel einfordert. Parallel dazu zeigen sich regionale Unterschiede bei Verbraucherpreisen und der Arbeitsmarkt sucht verstärkt nach qualifizierten Fachkräften im Handel und in innovativen Sektoren.",
+      "summary": "Die Steiermark arbeitet an ihrer Positionierung als Innovationsstandort und an der Revitalisierung von Ortskernen wie Fürstenfeld, während gleichzeitig Debatten über die Transparenz und Effizienz von Wirtschaftskammerrücklagen sowie über die Attraktivität von Coworking-Spaces als moderne Arbeitsräume geführt werden. Der Arbeitsmarkt in der Region zeigt dynamische Entwicklungen mit Fachkräftemangel im Handel und wachsendem Interesse an flexiblen Arbeitsmodellen, wobei jedoch auch Verbraucherpreise und regionale Kostenunterschiede an Bedeutung gewinnen.",
       "items": [
-        {
-          "title": "AK-Check Steiermark: Getränkepreise im Vergleich; Graz deutlich teurer als viele Bezirke - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcU4wZVpVLThFd3FGWmVNd3pEdm1EZkxMOEY5YVNzM0p2YWZqMHU0MXo1ZlNySk1KTnd0NHZUdHJGNVRhR3ZyZG5rRjBvcVNqci1mSXc3dUgyN081ZHRtaThINVYzUnRqUUc2ZkRiZVVManowZWFLcXRmSUZQcHQ4cVBwUnM0Mm5GY3hfZnRkeTRoVWdfbFEybk51M0o3bUVYelNwMFpaTmZfRWdqQzdraFlEZXNBRE1yaXQ5eGEwei1jSnVG?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "11. Jul 2026"
-        },
         {
           "title": "Rücklagen im Zentrum von WK-Reform - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNZzR1YVdaWng3Nm1NTHc0a1FLNFBBRTFOOTBBWVZCYW5aNHQ2S2RCcUo5MW5qWW1mXzkzeFh4TWpCekxHUl9HcWh4STVKQlJnaVZPVA?oc=5",
           "source": "steiermark.ORF.at",
           "date": "7. Jul 2026"
+        },
+        {
+          "title": "Ortskernakademie des Landes Steiermark: Masterplan für Fürstenfeld als Zentrum der Region - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeXdzSW84WW5OMmloWmdPQUkyMlJ5elR3YzVzWWg4OW5uT3o5OFAxdVhfS0hHVmJoanJONmJqQzNnY05WR0EwYTNkRExYQnhPT0hNeXN5Wk1ILWJPZTRINFMycTJNRUtRZWoxeXRDV1RzbElITUlZMzFzQnN3X0ZPWkJlRERlaVczdjQwWTNLMTNFa1hzWUdpYU5sU2dXdUtndklVbjhuVkoyVlNrd1QtenItZUYzcFlFWDRiTE5B?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "11. Jul 2026"
         },
         {
           "title": "WK Steiermark: Rechnungshof fordert mehr Transparenz bei Rücklagen der Wirtschaftskammer - Kleine Zeitung",
@@ -27,10 +27,22 @@
           "date": "7. Jul 2026"
         },
         {
+          "title": "Drei Hebel entscheiden über Österreichs Zukunft - Klipp Magazin",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYTV1T0FMQ1NSazAxakFRZTdZOUU2ek9aeG4yTkV0eDVIQzZCQ3JaN3c5N2pmT2NBLXpZVEVhakxuTjlqWVdRbDAycm9DcndTWHZwWjZyNkZfVW5aUnFIVHJ4Z3RmTWhqVFlLeFJ6MUM4SjhQaDFhOUZyQnJaSlRWX2dBdms5ZDFpTVpwZGZSUU5qQ0U5bWZZeTZPNXQ?oc=5",
+          "source": "Klipp Magazin",
+          "date": "9. Jul 2026"
+        },
+        {
           "title": "Visionen für Innovationsstandort diskutiert - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13Yy04Y21nSVctbFY4NWpkMlgwZTdiR0lIWFVJZDdGMVZjdGMwanlJcmNtZlpzWDJhdkRBRzhVQVRiRHRCWFNCczk5cllPbzAtZmZWZA?oc=5",
           "source": "steiermark.ORF.at",
           "date": "6. Jul 2026"
+        },
+        {
+          "title": "AK-Check Steiermark: Getränkepreise im Vergleich; Graz deutlich teurer als viele Bezirke - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcU4wZVpVLThFd3FGWmVNd3pEdm1EZkxMOEY5YVNzM0p2YWZqMHU0MXo1ZlNySk1KTnd0NHZUdHJGNVRhR3ZyZG5rRjBvcVNqci1mSXc3dUgyN081ZHRtaThINVYzUnRqUUc2ZkRiZVVManowZWFLcXRmSUZQcHQ4cVBwUnM0Mm5GY3hfZnRkeTRoVWdfbFEybk51M0o3bUVYelNwMFpaTmZfRWdqQzdraFlEZXNBRE1yaXQ5eGEwei1jSnVG?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "11. Jul 2026"
         },
         {
           "title": "Der Handel sucht die Besten seiner Zunft - wko.at",
@@ -43,18 +55,6 @@
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVGZ6RjdGNFV1LU4yWFhvcmotR0k4WW44TjE4aTFDeWhaSlN5c1FIT0FTNFpYVlhSdU1CbDBEWFNOd0hSY0x5d253bWtyQXQ2aXEwSjBzbmFQVzdkRkNZajlSdjctRDVwRjBMWDRnRUdjaVpyellENGhfcHQ2UFZZYWFDR3VSQzNR?oc=5",
           "source": "wko.at",
           "date": "6. Jul 2026"
-        },
-        {
-          "title": "IV-Sommerfest: Steirische Industrie spricht sich für mutige Reformen und Wertewandel aus - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa0lEWWhDWkdIaXg4MDR0LUZwN2dqT01MYXd1c0J2RUFWdGxYeXBHbkFLU0hUV1MyU1ktblJEZ2xCWUFzdEZicDhMeVVsUHFBcFhtZ2NYdENLc2tBRi02NWhBVXNsZzNhTjFhQ3ZRMlhDTXpNVkRhSHBOYUxpOGU2Wm1CY1c1ZmVrcm92dFR4RHdENXFpeFFvRGR3bW40cmNlajdLY1hxSWVJbXk1YVZkYmFDR3ZNMWYwUTNsVkJsVlFNcHA4YmhITVhWSTJrQQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "9. Jul 2026"
-        },
-        {
-          "title": "Kurt Maier: Ein neuer Job für den steirischen Industrie-Chef - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU3lSWXk0VGJDV2VULVc0VzlKeWluMk9oLUJUY25pV1JoWVNKeVdOc3VxZFdTY1dUTUFjeDFVbTNrejVpZHJXMmo0NHJ6d1VrY3RfdDNZOG5oU09iR2Y4V1J5d1h6VEgxUXZrTGxxcjZTWnBiLXo1dEZqVDA2RlRzU2tGWGNQZm51MUZ0dWZ1VGlYWUxCaVhUSHk4NA?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "10. Jul 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark Tourismus hat mit der „Grünen Nacht\" eine prominent besetzte Branchenveranstaltung durchgeführt, bei der rund 400 Gäste aus der Tourismuswirtschaft den Sommerbeginn feierten und damit die Saison offiziell einleiteten. Die Veranstaltung diente als Startschuss für die kommende Sommersaison und unterstreicht die Bedeutung des Tourismussektors als wichtiger Wirtschaftsfaktor in der Steiermark.",
+      "summary": "Die steirische Tourismuswirtschaft läutete mit der \"Grünen Nacht\" unter Beteiligung von 400 prominenten Gästen und Gastgebern offiziell die Sommersaison ein. Die Veranstaltung markierte einen symbolischen Startschuss für die kommende Urlaubssaison in der Steiermark.",
       "items": [
         {
           "title": "Gastgeber tauschen Rollen bei der Grünen Nacht des Steiermark Tourismus - ORF ON",
@@ -83,22 +83,22 @@
           "date": "9. Jul 2026"
         },
         {
-          "title": "Wofür schlägt dein Herz? - Klipp Magazin",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJeUV4QzhPTTNpTEpHSEl5SEtRRnRack1LQTRUM3g2TEpsVmRyM0U2T0M4eWh5YURFMjlPcU5EcmE1eTh2M2JIQVktOFdPeGdLODdNRF8wYjBGZnBudGV5RzNOX1N1QlBud3hoUENn?oc=5",
-          "source": "Klipp Magazin",
-          "date": "10. Jul 2026"
-        },
-        {
-          "title": "Almbauerntreffen auf der Brandalm - Bauernzeitung.at",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSHJiTFdXbXV1VEI4N0kyTEFZOWxOajdkaFZpb3RqN2ZsQjk4cGNmZUtIanZKRVF1OHV3cXZhWFlwakNYSTBrVmdHcHNzZ2RrNmdEZ3hHYkFDRGljQUhydDFzb0FVNEtzRUlkWDZXbm0xWjJUekU0dUlxQWhMejVWWm5XNA?oc=5",
-          "source": "Bauernzeitung.at",
-          "date": "10. Jul 2026"
-        },
-        {
           "title": "Die Touristiker feierten: Eine „Grüne Nacht“ als Startschuss für den Sommer - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTF96N2FJdXQxWnlHcUEzRzNiMnhaak5XV2puZGhWMFhQeTh0cEl4TmZ0SVZUTDc2RFhZelFyNWZ1d1ZMaDZKVWhzSEktWlFyUHFVSmZnUnBZTGRMcGhiT1NPS2FGc1J5RVhWVW53Rk5pbzMyOWUxTUFjYnMyRFE0c2R1MFFJb1B4WjNfYU50NER3U2JnTTB4c3pEOA?oc=5",
           "source": "Kleine Zeitung",
           "date": "9. Jul 2026"
+        },
+        {
+          "title": "USV Pleissing/Waschbach - Den neuen Stürmer beim Steiermark-Urlaub gefunden - NÖN.at - Niederösterreichische Nachrichten",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWEVPb01zS3VjWUI2ZG9ncWtubU1QbWQ0SC1jM0hxcEUwTEEwNkcyTU9EcVFhaUxsb05COGN6Y1U5V3dyMG41VjNuaDFOQnpjLUItbEhFTk1JaGJFVlZVeWhJU0FwaHNUc0M1QmtoQk41VGttMHp2UWtOVTctRHQ3OUVLMHd0dHdwb080TXJlNUNNVUI3bEIwLXFFQjlqNUhuR2JNN0dtWWVGbXZfNnhzTDVOc0ZkalU2YnBmZGwzb1liUmtweVlfVlNTMGNZcGI4?oc=5",
+          "source": "NÖN.at - Niederösterreichische Nachrichten",
+          "date": "7. Jul 2026"
+        },
+        {
+          "title": "Reisepass abgelaufen: So wird der Urlaubsstart teuer - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd1pFT0RKUV8xbTVFWUU4dUtCbkd2ejlHNUZHM1FHaGtwV2RvZHZ1cHB1NzJYbU82VG9oOHdFVVZJR1hCZDBBZDB3NlY2ZTNoYmJZTmROVGRyLTJ3VUUwWjFrRDEwcVM3UFdKcGkzUUpaLVctU185Q08zMjJacnFZZW00TnJ0TVE0YUtiTkFkN3ozSHBEaXFwSmNHalJQZw?oc=5",
+          "source": "5 Minuten",
+          "date": "11. Jul 2026"
         },
         {
           "title": "Urlaub, Ausschlafen, Grillparty: 129.404 steirische Schüler in starten in die Sommerferien - MeinBezirk.at",
@@ -107,10 +107,10 @@
           "date": "10. Jul 2026"
         },
         {
-          "title": "USV Pleissing/Waschbach - Den neuen Stürmer beim Steiermark-Urlaub gefunden - NÖN.at - Niederösterreichische Nachrichten",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWEVPb01zS3VjWUI2ZG9ncWtubU1QbWQ0SC1jM0hxcEUwTEEwNkcyTU9EcVFhaUxsb05COGN6Y1U5V3dyMG41VjNuaDFOQnpjLUItbEhFTk1JaGJFVlZVeWhJU0FwaHNUc0M1QmtoQk41VGttMHp2UWtOVTctRHQ3OUVLMHd0dHdwb080TXJlNUNNVUI3bEIwLXFFQjlqNUhuR2JNN0dtWWVGbXZfNnhzTDVOc0ZkalU2YnBmZGwzb1liUmtweVlfVlNTMGNZcGI4?oc=5",
-          "source": "NÖN.at - Niederösterreichische Nachrichten",
-          "date": "7. Jul 2026"
+          "title": "Staufallen-Überblick - Auf dem Weg in die Ferien braucht man viel Geduld - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1rdDZ4b2lLQmVrU1hjZVFZdVdGUFA0MXFMTVlMU3BKS3RFQ3VoeEtGN2t2elZjeWVnNFRHUWNUNkl6Zw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "10. Jul 2026"
         }
       ]
     },
@@ -118,7 +118,7 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Steiermark positioniert sich als führende Forschungsregion in Österreich, wobei die TU Graz durch Durchbrüche bei Hightech-Materialien und die Uni Graz durch innovative Gesundheitsstudien zu Babyentwicklung bedeutende Forschungserfolge erzielen. Parallel dazu wird an österreichweiten Infrastrukturen wie dem gemeinsamen Forschungsdatenmanagement (Shared RDM) gearbeitet, um die Forschungslandschaft zu stärken.",
+      "summary": "Die Steiermark positioniert sich als führende Forschungsregion in Österreich und treibt durch Projekte wie \"Shared RDM\" die gemeinsame Entwicklung von Forschungsdatenmanagement voran. Parallel führen steirische Universitäten wie die Uni Graz aktuelle Forschungsstudien durch, etwa zu Babygesundheit und historischen NS-Eliteschulen, für die sie gezielt Studienteilnehmer rekrutieren.",
       "items": [
         {
           "title": "Steiermark führt bei Forschung und Entwicklung - Steiermark heute vom 06.07.2026 - ORF ON",
@@ -133,22 +133,16 @@
           "date": "7. Jul 2026"
         },
         {
-          "title": "Forschungserfolg: TU Graz löst Rätsel um Hightech-Material - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdEZYdnExZ1BEdGdWak9OZ3l3UUI0dFB5NEd3UlZ0RVhQR0pBb1NwZnU2bzJQZW1Fcm5acXlNRER4RHF2eWZRQzk0dDVsZjdub2d2LXVVU1dYT2dpTTBEVjJuNlFhVTNXTUlScEdyLVV3ZUhHcHVWc0JScXlWaVAzWV8ydzZJZkZqMm9YaDZ0a0JqbHczbFVIdjBkaFNQLVh1?oc=5",
+          "title": "Historikerin sucht Erinnerungen an frühere NS-Eliteschulen - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM1JYM1pqMU5naXUybE0za2V3R2hPeFhQR1pydmhNMHJ6a1BQa3ZEWTF2bE5Uc0wxc21zYUJJYm1nZFZ0c2phM0poSWltSC1obGdab3hEbUtzNjYyRm81a1FkbU0ydkk2dmtyMTRwbEllQnQzakZGMU00NXZHQXhxSEhzdHRlcFpfc1p5aEd3bU1DUDQzY2J6VzY0NkU0a2I3?oc=5",
           "source": "5 Minuten",
-          "date": "4. Jul 2026"
+          "date": "12. Jul 2026"
         },
         {
           "title": "Uni-Graz-Forschende suchen Studienteilnehmer - News.at",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oR2RJbUN4aG84Q21pdGlOV3VRbGwyTGdmdFVkcmhiajRham1WdE84SWMxSzFwd3NRV0kyd0djdnFSUVlkLW5Rb0M0QzdabDVWaGpLbkMtVGJjNUs0ZU12MVpzd1lzaEFmanB6LUZZcHc0TUc1UmdkTGpjYlc?oc=5",
           "source": "News.at",
           "date": "10. Jul 2026"
-        },
-        {
-          "title": "Uni Graz sucht Babys und Schwangere für Studie - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00NG52a1J4bVE2enFKV1ZmQ3lRTXlwV3VMUU1oeGJNNlh2Zy1CaUVKc0JUYVVCOHM5S2NtR3VQSUtvN2VLQ3oyM2d1MS1iU3Z3Y1BMcg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "6. Jul 2026"
         },
         {
           "title": "Baby-Gesundheit: Uni Graz sucht Teilnehmer für Studie - 5 Minuten",
@@ -175,7 +169,7 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark steht vor der Herausforderung, dass viele etablierte Betriebe bei der KI-Adoption hinterherhinken, während gleichzeitig innovative Coworking-Spaces und Technologieunternehmen wie AT&S das digitale Ökosystem vorantreiben. Um die Arbeitswelt zukunftsfähig zu gestalten, braucht es verstärkte Anstrengungen, um Unternehmen und Arbeitskräfte für künstliche Intelligenz zu qualifizieren und die Kluft zwischen technologischen Möglichkeiten und ihrer praktischen Nutzung zu schließen.",
+      "summary": "Die Steiermark zeigt bei der KI-Adoption ein gespaltenes Bild: Während innovative Coworking-Spaces boomen und die Südweststeiermark ihre Jugend gezielt auf künstliche Intelligenz vorbereitet, hinken viele etablierte Grazer Betriebe bei der Digitalisierung hinterher und nutzen KI-Technologien deutlich weniger als möglich. Steirische Unternehmer erschließen gleichzeitig neue internationale Märkte und suchen nach Wachstumschancen über die Grenzen hinaus.",
       "items": [
         {
           "title": "Digitalisierung in Graz: Studie: Jeder zweite Grazer Top-Betrieb ist für ChatGPT unsichtbar - MeinBezirk.at",
@@ -184,10 +178,10 @@
           "date": "9. Jul 2026"
         },
         {
-          "title": "BBO-Vernetzungstreffen Südweststeiermark: Künstliche Intelligenz gestaltet die Arbeitswelt von morgen – Jugendliche fit für die Zukunft machen - Verwaltung - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fczBVY3R5Y012ZTNmSHJPTGtLX25uUGhCQWJTMW4tcGpqRGZNWFAwem56MjV1aEhJQmFGdEtkYVl3bXVMelB4NVV2Z3NHRmFNa3ZZNDBVSE5oOHJGbmVsTy1CcHdEVTlvWHBTWUxsSjVVbGtnZHR3?oc=5",
-          "source": "Verwaltung - Land Steiermark",
-          "date": "4. Jul 2026"
+          "title": "KI-Diskussion im Retzhof: So bereitet die Südweststeiermark ihre Jugend auf KI vor - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLV90RjdSSGlTVjhadXl3OWJQUzQ1MlVOVXJqYW9JcFY4UlY5THhMa0tJT3dOYXJmVHVTUXNHSTl5c09ESDFkQl9pT285bTZlS014YVdOSWJWYnU5Q2d6aHBzRmg1dmJfeTc4WS03ZTZTd25peFpOTTEwVWw2cTdaWWl3OXVjUEFuVVo0d1JzYndkczMxN3p3YWxHb2tyMDNqNFh4d0h4aGxGbzJiVElqSA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "11. Jul 2026"
         },
         {
           "title": "Künstliche Intelligenz im Alltag: KI im Alltag: Warum der Gap zwischen Möglichkeit und Nutzung größer ist als gedacht - MeinBezirk.at",
@@ -202,10 +196,10 @@
           "date": "6. Jul 2026"
         },
         {
-          "title": "Millioneninvestition: AT&S feiert 50 Jahre und baut Standort aus - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ3NmX0FwSUJwTG9oa3YweDdkZVdHdF85R0NCNjJnVjJHSVgzbktLZThtWDVwek1IY2RZQlVESGZXc2szWlZhaGVCcFUtYTFIai1CRG1KRlFyQWtSZ0hud05MeGxvLTZNWGYxX2RWY2ZUZ0lWa2ZUcjBTa2ZHVW1oUUJqcEwzcUFWSnBUaVB6a01FOFRhSThSQ0k3UGViS3JSZXRXUWV4MkxVMXJz?oc=5",
-          "source": "5 Minuten",
-          "date": "4. Jul 2026"
+          "title": "Steirer strecken ihre Fühler nach Montenegro aus - MSN",
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQVHNKeTRER1JyN0t2V2NpeDZ1c2hKZ0lXUFJzQkZMZ2F2R0lXSnFtUHZPYTFHZFVTUE1qZWlPWW11Qy1oN21lUHhaeGRlY3A3Y2lTTEZ2VTExS3dMSGNMU3NFd0g2MUt0NGExY1h5VFZzVjgzRjNCdmlnXzA4bmZ1ZmV5TEc5RVk3WGdPVFdHZWd2OVpqME9GZFN6bTVrY2FZS1U2OGVLTkk2SzlnNjlPV2xDUWtlUThTSFo4RDh0c1JaTmxFOVN6Q2hpV194RkJ5QUNxM2VYZFZZeWpjM2pIb3NYNElHTnZoempXaFcwQ18wWEZYLUUzakU2V1RlNDZmUjNlNS05OGFPNnJHdEJxRHE3cE5yc1hnSTdIMElzOFpaRU5NOVFaOWNxVE1fY1YzRlpTMmxVOExpZzlMdlhuajlDMA?oc=5",
+          "source": "MSN",
+          "date": "9. Jul 2026"
         }
       ]
     }
