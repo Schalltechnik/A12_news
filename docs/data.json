@@ -1,13 +1,19 @@
 {
-  "generated": "14. July 2026, 05:15 UTC",
+  "generated": "15. July 2026, 05:16 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die steirische Wirtschaft setzt auf Reformkurs und Infrastrukturinvestitionen, wie die Tourismusoffensive für die Hotellerie, die Forderungen der Industrie nach mutigen Reformen sowie die Expansion der Bankomatenversorgung zeigen. Gleichzeitig stehen Themen wie die anhaltend hohen Pelletspreise, die Transparenzforderungen beim Wirtschaftskammer-Management und die Orientierung auf europäische Wertschöpfung im Fokus der wirtschaftspolitischen Debatten.",
+      "summary": "Die Steiermark zeigt wirtschaftliche Dynamik durch Erfolge in der Fachkräfteausbildung und Unternehmertum, während gleichzeitig Tourismus und Hotellerie durch neue Fördermaßnahmen und eine Tourismusoffensive gestärkt werden sollen. Die steirische Industrie fordert mutige Reformen und Gemeindefusionen, um die Wettbewerbsfähigkeit des Standorts langfristig zu sichern.",
       "items": [
+        {
+          "title": "Erfolgsgeschichte bei WKO styrian skills: Erster Platz für Marlene Hinz aus Deutschlandsberg - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLVZlNlM2eVVJclA4anFnWHVieE1BV0hELUg3NjRlVnVEendyQlJmejNyTmJrRjdyQllFREJiQ2J4NFNMV1lzNmU5MXd5WE5oLU0xR1dWLTdnZHJTVXF5d0FZQ2U1dEpjVHk2ekRrTVVUdlV3MjZxWnRGUEJUMU1iT3lLV1hYOEJZZGpxNXM5YTlTQkIxMnVEYkpXVnlSTV90NU5pVXl0ZnpRdmRDcFVQNHVSNXB4OHc?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "14. Jul 2026"
+        },
         {
           "title": "Pelletspreise dürften hoch bleiben - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1odlB5VlZrZHJYLXhZSnRjcXhXSDlpNG1VM1Z1RWFqSjRYSWY1SVo5d19wYm5oYlZ0RVNZM1IxNUxpNFlKYjJnMHlOamdNaWtURHcwQQ?oc=5",
@@ -15,22 +21,16 @@
           "date": "13. Jul 2026"
         },
         {
-          "title": "Für bessere Bargeldversorgung: Zwölf neue OeNB-Bankomaten in der Steiermark errichtet - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWFdIMmQtRVR5LXJvN1NqLV9Ya2tPaER0WFpHQzI3MWZsNW1sUzBfWjhJTmtBS0N6cTJXdjZRVXFvS2htTVhKQUVxN05rZ0RRWUYxSHlaS2RMQ1h2ZUxpNjJ5WmFCVU1UYk0tZ3JwS3VCLUZZb3c1RU1jRGtWclVITmZmNzVXMWJSeThYaklKQU0wUFlFZ2lKVGVPRENFVnVCbEEtWnVpV1BibURjbEUwalZHU1E?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "13. Jul 2026"
-        },
-        {
-          "title": "Rücklagen im Zentrum von WK-Reform - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNZzR1YVdaWng3Nm1NTHc0a1FLNFBBRTFOOTBBWVZCYW5aNHQ2S2RCcUo5MW5qWW1mXzkzeFh4TWpCekxHUl9HcWh4STVKQlJnaVZPVA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "7. Jul 2026"
-        },
-        {
-          "title": "WK Steiermark: Rechnungshof fordert mehr Transparenz bei Rücklagen der Wirtschaftskammer - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbDQ0Q2RLdUlqTlE2eGNXWmZTQ2FlZFllR3NpVTBwX3hJbmRqWFJBSzRyQVR4MWVqXzFkVEhXQ2YxWXFFV0QxVjI4V3MxaVgzQlZveUIxV1NDV1gyaUNzdktVSHBjWGVHa08tU3o4YUV2ZVRnS3lfbjU0Z0Rvbk83N1FjbEw1czhZb29IRlJZdjNQeWJoRTdJUi1MYUJXYXI3LXE4Zw?oc=5",
+          "title": "Business-Szene Südweststeiermark: Gunther Riedlsperger mit Ehrenmedaille der WKO geehrt - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ2hqRG9OTUhtM3lFbXFtY3lIbHhwU0tmVWMwSUtGVHR0UzB0Rzk2WHNxZDJFRS1GM3lGNFpxVHRNNF9NUEZNT0RNYmlPM0lZcXpIYXBOamhYemJHa2hRNkx0QkhjSGgtUGFiUUEwdGZGc292UXBEaGF4TWhyQUhjd2Y1QjJZLWpHMjUzVWxHd1hxbGRjZGdhSENRa0VFbktN?oc=5",
           "source": "Kleine Zeitung",
-          "date": "7. Jul 2026"
+          "date": "14. Jul 2026"
+        },
+        {
+          "title": "Neue Förderung soll Hotels in der Steiermark zukunftsfit machen - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONTRxcHpQMTIxV1BMc01Zem0wNnRJeHlVeFgtVHVtdUZBZ0lzdmluVHBCTDJDSXNnRkJLOE9WbFQxSmY1R3N3NEdwTzYtMjNFV3ZrWVZ2bzJsSHVCWUIyYjRySHRoSkxVNFNjUHNPNlFfbkZEN1laMEJIdDlDQ1lUVGlOa0gtVmozNFZ1LU9NZUVuUUdKOWx1eFNRZXZnZkhCcXBVdDNVY0tONE1kZXJV?oc=5",
+          "source": "5 Minuten",
+          "date": "14. Jul 2026"
         },
         {
           "title": "Für Hotellerie - Land Steiermark startet Tourismusoffensive - Kronen Zeitung",
@@ -51,10 +51,10 @@
           "date": "10. Jul 2026"
         },
         {
-          "title": "Brüssel-Termin: Khom fordert stärkeren Fokus auf „Made in Europe“ - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRV94UzlNOUczVGRUcXpaVzNlZzB2dG9Eck0ySjI0N3g0LTQxcVpRb3FFV01hblFjak5CNnd4TElWV3NuMGFqNF9TZWZlYU96dGZiVWFzaXBuVDZNSFNnZmt3dG1YeVB3TklGX1BXWHZnZ2hjX0l0YldRR2Z5S2tqUFhxbmdVQ3JaRUZLSl9TcTc4dUY4S2ZqLW5HaXBBR0pEZGJ4M2pNTU0wV256V2JF?oc=5",
-          "source": "5 Minuten",
-          "date": "7. Jul 2026"
+          "title": "Vorstoß der Industrie - Ruf nach Gemeindefusionen: Land reagiert verhalten - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ELWdoalZjYk9DQW5MV0VXNl9FdU1xdWdRTmdOdUVJRnpYM1pSWWt5WGpHNHk4S1dudVZzSEk2WFVGZw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "9. Jul 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark setzt mit einer neuen Tourismusoffensive und gezielten Landesförderungen einen Investitionsschub in der Hotellerie in Bewegung, um die Infrastruktur zukunftssicher auszubauen. Mit Events wie der „Grünen Nacht\" wird gleichzeitig die Sommersaison gefeiert und die steirische Tourismusbranche als wichtiger Wirtschaftsfaktor gestärkt.",
+      "summary": "Die Steiermark startet eine umfassende Tourismusoffensive mit neuen Fördermaßnahmen, um Hotels in ihrer Zukunftsfähigkeit zu unterstützen und Investitionen in moderne Infrastruktur anzureizen. Mit der symbolträchtigen \"Grünen Nacht\" läuteten prominente Touristiker und Gastgeber den Sommersaison ein und signalisierten damit Aufbruchsstimmung und Zusammenhalt in der steirischen Tourismusbranche.",
       "items": [
         {
           "title": "Hotels investieren in Zukunft - steiermark.ORF.at",
@@ -83,14 +83,26 @@
           "date": "13. Jul 2026"
         },
         {
-          "title": "Steirische Initiative : Landesförderung soll Investitionsschub in der Hotellerie auslösen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY0RPc3NSdldyN0I1cmhvRVlER2xaMlllUi1RemlOa29OSmJ0QUYxcmJOVC1tN2hJV0FEZGE5M19PUjNUYWtEVTZQUWV6azF3S3BYT3ZIOHc1NXdHLXgycHhPQ3lKWE9DR2xmU2oxdTFEd0k4Vk1TamkwZ0xKeXlJN3JRbHctVzMzbHpKeEFQRkEtZkZJYWRKaW5LdGZxT2lkS0tQZEw2b3gzR2hycGJ0M0d2QQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "13. Jul 2026"
+          "title": "Neue Förderung soll Hotels in der Steiermark zukunftsfit machen - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONTRxcHpQMTIxV1BMc01Zem0wNnRJeHlVeFgtVHVtdUZBZ0lzdmluVHBCTDJDSXNnRkJLOE9WbFQxSmY1R3N3NEdwTzYtMjNFV3ZrWVZ2bzJsSHVCWUIyYjRySHRoSkxVNFNjUHNPNlFfbkZEN1laMEJIdDlDQ1lUVGlOa0gtVmozNFZ1LU9NZUVuUUdKOWx1eFNRZXZnZkhCcXBVdDNVY0tONE1kZXJV?oc=5",
+          "source": "5 Minuten",
+          "date": "14. Jul 2026"
         },
         {
-          "title": "Gastgeber tauschen Rollen bei der Grünen Nacht des Steiermark Tourismus - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeXdfdUZnU1pHeWo1cVA0SmF4d1BKRlhuWWh5blY0SXhHVUVraGo3TGxBUklpeUpfZFFESWdMeENfekhwckZETExaalNYZ1dyeFd0OUFHRnk4bHlBNU9YS0NkanYtVmNfUkk5YXFWNFlhbzRGVkZSNzA2UFF1cFYtUGtJdXFMM2hVRkhxZXl5WGJtVzdQN0VocEUwZDFNZ2kzOGF1cnh5Q0tCUnloeU9ZZ0ZiS2M?oc=5",
+          "title": "Steiermark heute vom 10.07.2026 - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYaVVrOXpQa1ZLV0tIdm9fSmVqckJDQm5wbzdQS1pXRTM2U1BsQzhyWE5UYXNTYmhoZUxEZUR5dDlVZ3JWaWNJeVR5LV9FZldrODFBbFRqUnJpV011VFdlMnVuQ2YzbEt0aUdIdGtmVQ?oc=5",
+          "source": "ORF ON",
+          "date": "10. Jul 2026"
+        },
+        {
+          "title": "Die steirischen Touristiker läuteten bei Grüner Nacht den Sommer ein - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVjBtY0hlZk5MTkwwbV80YTQ3WWZoQkszcG51MTlvSEJYd1AxWWhRZ3FwcnM1YkFmc3N4Vlh2UnpfcU4xRGptWDhTMzdNS3o3OHZRckJubENsNk5STWZ5M25fR1VXWjVTdzNMTjR4TVNFYmlyTW5IMWc4ZmVEa2k4c2thVmtkMnRLUFZpT1JqTWtwNG5NRW9JX004ZmdQUm8?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "9. Jul 2026"
+        },
+        {
+          "title": "Gastgeber tauschen Rollen bei der Grünen Nacht des Steiermark Tourismus - Steiermark heute vom 10.07.2026 - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQzlTSXhMRzlsdkY0cVBFNmNWaVJKNFhTTUxDQjA4WjJ3MjdQQjd4bkFCdmMzV1cyNUNoZkd0ZkQxZldVQ0YxTWFyYlNqdUJlaHZ0QWR3eGR6eDBzcWNFdGlpcGN5ek1IZnJUY2FQcHVnZUNxcG02dm9NdEVZUXM4THg4WENpZnE1NWlXdWFBbWtuZWFtX1lRdkxpU2lmWHE3Z3Z4QTM2WlhIcVF4QkZtQ29uQkswWXI5YkF0aDRNUWJ5T2gwZzkyeUF6SFVHbHEzcENsdUJvOGdFbDk5?oc=5",
           "source": "ORF ON",
           "date": "10. Jul 2026"
         },
@@ -99,18 +111,6 @@
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTF96N2FJdXQxWnlHcUEzRzNiMnhaak5XV2puZGhWMFhQeTh0cEl4TmZ0SVZUTDc2RFhZelFyNWZ1d1ZMaDZKVWhzSEktWlFyUHFVSmZnUnBZTGRMcGhiT1NPS2FGc1J5RVhWVW53Rk5pbzMyOWUxTUFjYnMyRFE0c2R1MFFJb1B4WjNfYU50NER3U2JnTTB4c3pEOA?oc=5",
           "source": "Kleine Zeitung",
           "date": "9. Jul 2026"
-        },
-        {
-          "title": "Urlaub, Ausschlafen, Grillparty: 129.404 steirische Schüler in starten in die Sommerferien - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWXE3cTJzMVJvYmg3RFhYb2FvNzhQR3VOUFRtUXgwTTVadXMxcVk0OFpMZnVnS0JjVTlBVGQ3OFJvNE1VMFE1c252OS1RcDBOaDNrSWh1ckRZeVFBWnc5azBsU2hQZXRTVC10ODJZN2YxTXRRODVQYnBkTUdfNkRKd0VFTENzUVJtRUhUZE9ZVEx1Y09TUHpSeDFLSGJRMXVNNFlaYURTMUhCS3hMRHhWZElPbw?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "10. Jul 2026"
-        },
-        {
-          "title": "Reisepass abgelaufen: So wird der Urlaubsstart teuer - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd1pFT0RKUV8xbTVFWUU4dUtCbkd2ejlHNUZHM1FHaGtwV2RvZHZ1cHB1NzJYbU82VG9oOHdFVVZJR1hCZDBBZDB3NlY2ZTNoYmJZTmROVGRyLTJ3VUUwWjFrRDEwcVM3UFdKcGkzUUpaLVctU185Q08zMjJacnFZZW00TnJ0TVE0YUtiTkFkN3ozSHBEaXFwSmNHalJQZw?oc=5",
-          "source": "5 Minuten",
-          "date": "11. Jul 2026"
         }
       ]
     },
@@ -118,7 +118,7 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die TU Graz übernahm den Vorsitz der TU Austria und arbeitet mit österreichischen Universitäten wie der TU Wien an gemeinsamen Forschungsdatenmanagement-Projekten, während die Universität Graz aktiv Studienteilnehmer für ihre Forschungsvorhaben rekrutiert. Ein Diebstahl von Gold im Wert von 240.000 Euro bei einem Technologie-Betrieb zeigt die Sicherheitsherausforderungen in der steirischen Forschungs- und Innovationslandschaft.",
+      "summary": "Die TU Graz übernahm den Vorsitz der TU Austria und arbeitet in EU-Forschungsprojekten an innovativen Lösungen wie der CO2-Einsparung durch optimierte Wohnraumnutzung. Die Universität Graz führt zudem mehrere Forschungsstudien durch, darunter ein historisches Projekt zur Aufarbeitung von NS-Eliteschulen.",
       "items": [
         {
           "title": "TU Graz übernahm Vorsitz der TU Austria - Universität Innsbruck",
@@ -127,10 +127,10 @@
           "date": "13. Jul 2026"
         },
         {
-          "title": "Shared RDM: Drei Jahre gemeinsame FDM-Entwicklung in Österreich - TU Wien",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSzFWY1M5bmFENUNmcW40NUpna094TDZlRVVWbTFWdkJsVm1HY1ZaaHRZcUtqVzNtUnJQUVRmVlY1NTZyU2JVNE5EWmFmZ3hRSnRERTdzNFE0Qnh4SUFBdWk4MVNTSXNJRUo5cGlObnp0ZUozUDh0ZUltcTFWc3dqeGRHNGh6bGR4amNrblJIZUZCOHBlM0gzN1dTV1B5bmVubGdxUEhlSUNILVk?oc=5",
-          "source": "TU Wien",
-          "date": "7. Jul 2026"
+          "title": "EU-Forschung mit TU Graz: Weniger Wohnraum bringt eine immense CO2-Einsparung - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeUJXQU5hbmtTRGN4ZW5pN1NhVFBaaUNubVd6bkM1dWFmbHpZTTlzUk8wMlpSRmhHU015SHBFQ0RDNmFCV0tjNEI4Rk9UR3NxYi13bGh4cWlRdGFjVHRlcjJYT1VmQ1VCSXhHR3RjNUhyZ0h6eU0ydTFvMEp6b29RS09oSEZrVGdsSWJmbG12TU9BazVnRFpudGZKOW12X3hGNnZmb2VwUQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "14. Jul 2026"
         },
         {
           "title": "Uni-Graz-Forschende suchen Studienteilnehmer - News.at",
@@ -139,10 +139,10 @@
           "date": "10. Jul 2026"
         },
         {
-          "title": "240.000 Euro Schaden - Gold bei prominentem Technologie-Betrieb gestohlen - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBoN1J3ZWVPWXhtQUV2aWhjSi1kdHhDaUJ4NlBvVlc3UEVzYmNSelAySFRrcng0N0VvZ3JxMFhULXJqUQ?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "7. Jul 2026"
+          "title": "Historikerin sucht Erinnerungen an frühere NS-Eliteschulen - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM1JYM1pqMU5naXUybE0za2V3R2hPeFhQR1pydmhNMHJ6a1BQa3ZEWTF2bE5Uc0wxc21zYUJJYm1nZFZ0c2phM0poSWltSC1obGdab3hEbUtzNjYyRm81a1FkbU0ydkk2dmtyMTRwbEllQnQzakZGMU00NXZHQXhxSEhzdHRlcFpfc1p5aEd3bU1DUDQzY2J6VzY0NkU0a2I3?oc=5",
+          "source": "5 Minuten",
+          "date": "12. Jul 2026"
         }
       ]
     },
@@ -157,8 +157,14 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die steirische Wirtschaft hinkt bei der digitalen Transformation hinterher, da viele Top-Betriebe in Graz noch nicht online sichtbar sind, während gleichzeitig KI-Anwendungen in Bereichen wie Wassersparen und Tourismushotels an Bedeutung gewinnen. Die Region bereitet ihre Jugend aktiv auf die KI-Zukunft vor und erkundet neue wirtschaftliche Chancen im internationalen Raum.",
+      "summary": "Die Steiermark investiert verstärkt in die digitale Transformation ihrer Wirtschaft, insbesondere in den Tourismus- und Hotelsektor, während gleichzeitig KI-Anwendungen zur Ressourcenschonung und in der Bildung vorangetrieben werden. Allerdings zeigt sich eine digitale Kluft, da viele Top-Betriebe in Graz noch nicht von modernen KI-Tools wie ChatGPT erfasst werden, weshalb gezielte Förderungen und Schulungsmaßnahmen für Jugendliche und Unternehmen notwendig sind.",
       "items": [
+        {
+          "title": "Hotels investieren in Zukunft - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rek5VTF9kRy1Bdm5lUThBZEc0OUxvMng2V1JRRml4MkFtLWlDRFdLbDY5ZjZQR1ZqbGpsRFJwTVcxcVhidERUYzQzQWVuUlMySmVxVA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "13. Jul 2026"
+        },
         {
           "title": "Digitalisierung in Graz: Studie: Jeder zweite Grazer Top-Betrieb ist für ChatGPT unsichtbar - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUndIczBjTW1uQVN6WV9JZEVQMDFYcXEyaFRlS1ZtdnVuemNROG50Y19IaFhPQjRTRVlpWGRWWE9JQU1FTXhZeTdFRC1za0kweVdGSk1iaE5pX0lKamh3RWx6SEZUOGJkZ0tKLXZBRHM1dk50QVZMOHRsNktfd1dIZnlFd0VCVTREal9uT3Vqd185ZEVGM2xjQWk0Z3JUNVphd0poNElUeHBmelRNMU81RVl4UVMzOEZ3NnJZNGFTak1wUDdkRm4zVHF3?oc=5",
@@ -166,10 +172,10 @@
           "date": "9. Jul 2026"
         },
         {
-          "title": "Hotels investieren in Zukunft - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rek5VTF9kRy1Bdm5lUThBZEc0OUxvMng2V1JRRml4MkFtLWlDRFdLbDY5ZjZQR1ZqbGpsRFJwTVcxcVhidERUYzQzQWVuUlMySmVxVA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "13. Jul 2026"
+          "title": "Neue Förderung soll Hotels in der Steiermark zukunftsfit machen - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONTRxcHpQMTIxV1BMc01Zem0wNnRJeHlVeFgtVHVtdUZBZ0lzdmluVHBCTDJDSXNnRkJLOE9WbFQxSmY1R3N3NEdwTzYtMjNFV3ZrWVZ2bzJsSHVCWUIyYjRySHRoSkxVNFNjUHNPNlFfbkZEN1laMEJIdDlDQ1lUVGlOa0gtVmozNFZ1LU9NZUVuUUdKOWx1eFNRZXZnZkhCcXBVdDNVY0tONE1kZXJV?oc=5",
+          "source": "5 Minuten",
+          "date": "14. Jul 2026"
         },
         {
           "title": "KI soll beim Wassersparen helfen - steiermark.ORF.at",
@@ -184,16 +190,16 @@
           "date": "11. Jul 2026"
         },
         {
+          "title": "HAK Feldbach triumphiert: Schüler gewinnen nationalen Award für ihre KI-Diplomarbeit - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWm5tRmhzV3ZBZU03RWpVOFFWOHp6aldiemxrNFBWd3p2eGZQeTFsU2xSU0pSMGM5a2M5bUd5b2RBYmJLTkktc3dOWmJ6bnlEUEZ6X214aWlJQXQ4RVV2THhfMWh1R3BXYWk0WlNPaHhMMmhYQUlHVnpveGt4NVUxVk5IU1dBcjd2cFBFeE5xZC1hY3ZKN24xeU1mVnRndEExQWRqMldKbXVLeVczVjJOT1M3RG41LWhzdm5GLVVnZU9HN0oy?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "14. Jul 2026"
+        },
+        {
           "title": "Frist läuft heute ab: Andrang bei den ORF-Direktionen - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV0RfQ2NWZklxc3Y4LTFPOWRCWFpsWWJUbUdZTkxDdlY5Vy1Jajk1WFh0WG5wZTQ2d3o4T2stMVMzSHFsSVNPOWdQRkRHNVlDajhBcUtYZEQ5dXVTYWN1MUNJV2dGOFF2aHN6aDlzd3d5SzFGSlNuRUdzM1JlY0QyeFZIaw?oc=5",
           "source": "Kleine Zeitung",
           "date": "14. Jul 2026"
-        },
-        {
-          "title": "Steirer strecken ihre Fühler nach Montenegro aus - MSN",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQjJHX0lub2ktNFVVVmx2TU1PRFRTZHVGQm80STdlazFKTWRidmhqUkJydUprMkUzeWZwRVB4dFdDRUlUQ3E1LWMwUU5hV2N2aVNTUmd3bnhuU2pfWWF1NUp1WFlWTVVJMkxGVmEtcFF1UTh2cjBqUnE4ZDJrbFNobEM4a2xXSEJCUGpPWDZZaUFpay1WdS0xZ2FaSnpXalF6SE9OamFEaE1OYlplbnc?oc=5",
-          "source": "MSN",
-          "date": "9. Jul 2026"
         }
       ]
     }
