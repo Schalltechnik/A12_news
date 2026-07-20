@@ -1,12 +1,12 @@
 {
-  "generated": "19. July 2026, 05:37 UTC",
+  "generated": "20. July 2026, 05:54 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die steirische Exportwirtschaft zeigt sich 2025 mit stabilen Ergebnissen von etwa 28,2 Milliarden Euro resilient, während die geplante Senkung der Lohnnebenkosten um 203 Millionen Euro eine wesentliche Entlastung für Unternehmen bringt. Trotz volatiler Marktbedingungen und täglicher Herausforderungen für Exporteure bleibt die steirische Wirtschaft auf einem respektablen Kurs, wobei auch Tourismusregionen wie die Oststeiermark durch neue Infrastrukturprojekte gestärkt werden.",
+      "summary": "Die steirische Exportwirtschaft zeigt sich trotz schwieriger globaler Bedingungen mit stabilen Ergebnissen von etwa 28,2 Milliarden Euro resilient, während gleichzeitig Lohnnebenkosten-Senkungen und gezielte Fördermaßnahmen in Tourismus und Energie die Wettbewerbsfähigkeit des Standorts stärken sollen. Die Landesregierung setzt damit auf eine Kombination aus Kostenentlastung für Unternehmen und strategischen Investitionen in zukunftsträchtige Branchen, um die wirtschaftliche Stabilität der Steiermark zu sichern.",
       "items": [
         {
           "title": "28,2 Milliarden Euro: Steirische Exportwirtschaft mit stabilem Ergebnis 2025 - wko.at",
@@ -27,34 +27,34 @@
           "date": "15. Jul 2026"
         },
         {
-          "title": "Steirische Exporte blieben 2025 stabil - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMjZHci1GRGhiNDRjc1dKWjhmSnBrSmFkMDE3X0ZuRzdFellOcjBVUXJGTWpkSTZLZmpKUVc2SUhuVEdtd3lXd1pud3hMb0hteHdMTQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "15. Jul 2026"
-        },
-        {
-          "title": "Oststeiermark Tourismus setzt auf Regiobus und MICE - wirtschafts-nachrichten.at",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcTVkYk9laDF5cmcxTE1OUjIzUDM0VERfcWIwQy1oaVdZOFYwS0RkN0dON0J2R3lBVHY5M25VZmE2aEN2VExNVVdQbWJjbElyM21aM1pBZHJPdzIzd0ZCSDJ5QlhJTC1qaHk3QUQ1QmpDS2Eyd19mVFU1WWFUdEF6NVlzLWNPa2d3YmNaWHVHTFJBOHpYdkNMVldGZklFLURHWjdkaWlQVFZIUFdPbk14ZGkwek9idU1kblBQaGNtU3VGYm1oZDFyMmFXTQ?oc=5",
-          "source": "wirtschafts-nachrichten.at",
-          "date": "16. Jul 2026"
-        },
-        {
           "title": "Steiermark plant Schwendttag zur Bekämpfung von Wildwuchs auf Almen - Welt Stimme",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQm5RNmNqMEQzRzJZS0k1V0o3VWx4MVVVS2NNcnRsSlpKZFNTeTJFZFkyUTFIdDMxMjRFSkN0ZzZzdXQ3dHZqempESjFRQU1YYUpDR2x2STlTelZEdW02NGVaMmJkblAtbFFiRDZBMGwxb3c5MEZIXzR0TnFyQjJoVFRxc3l6NkhTQkt0ZVgwT040QlltTFl1ZVB1R2VzbVhMOWxoOF9B?oc=5",
           "source": "Welt Stimme",
           "date": "16. Jul 2026"
         },
         {
-          "title": "Pelletspreise dürften hoch bleiben - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1odlB5VlZrZHJYLXhZSnRjcXhXSDlpNG1VM1Z1RWFqSjRYSWY1SVo5d19wYm5oYlZ0RVNZM1IxNUxpNFlKYjJnMHlOamdNaWtURHcwQQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "13. Jul 2026"
-        },
-        {
           "title": "„Lage verändert sich fast täglich“: Damit kämpfen steirische Exporteure - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNWF1ZXdDWUFETkdTRWROMC1velk2YjVuNm5OSzFvbDZFcmNxc1pNeUZLRFNFVGw0d005RnY4bDRoYVhaM2k5djJHM0l2Ym5wRk94bzFkZUsxLUFHZUtuZ3lsUVJkMF9aMWJxMzdVeG5pamlOMjVQRDBxYTNjRngwTEtuakkwS0ZaVEZvWlNGX3lsMXZxcUNNMzFJQmNyVTZpMTZkYm0tVURRMmp3YVc3dGhDN2VWYmdS?oc=5",
           "source": "Kleine Zeitung",
           "date": "16. Jul 2026"
+        },
+        {
+          "title": "Bund-Land-Achse für nachhaltig, leistbare und sichere Energiezukunft der Steiermark - Leibnitz Aktuell",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYW5HMUpoU0o2U2FMU2ZmS3FjelFLdVhuWm15ZnRzNDc2MUE3V1hiNy1LenFlcWVoS21FY2pyV2tacFljTmtSSDg5RUtvVWRKcWFjd2lPZHZkUkluREVyZmZOUzhKM0FrNDFmekpQUFhIdFNlRnYxNGd1X3IzT2p0X0ZMNHZqVDROZVVCY1pTWWkwQlpobHVTZTB6UFlJeGhKdk9ROWltbm5zUldPNWs1alZIV1E4Y2tCWWlWOV9JSHY?oc=5",
+          "source": "Leibnitz Aktuell",
+          "date": "17. Jul 2026"
+        },
+        {
+          "title": "Neue Förderung soll Hotels in der Steiermark zukunftsfit machen - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONTRxcHpQMTIxV1BMc01Zem0wNnRJeHlVeFgtVHVtdUZBZ0lzdmluVHBCTDJDSXNnRkJLOE9WbFQxSmY1R3N3NEdwTzYtMjNFV3ZrWVZ2bzJsSHVCWUIyYjRySHRoSkxVNFNjUHNPNlFfbkZEN1laMEJIdDlDQ1lUVGlOa0gtVmozNFZ1LU9NZUVuUUdKOWx1eFNRZXZnZkhCcXBVdDNVY0tONE1kZXJV?oc=5",
+          "source": "5 Minuten",
+          "date": "14. Jul 2026"
+        },
+        {
+          "title": "Für Hotellerie - Land Steiermark startet Tourismusoffensive - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9QQmdWTE00emlGZ0xVc2ZtLUZpcVRpNHY2bWxmSzRwUGdrc2hCVEh4cWJ3Z0RXMWF4VVFMY3UyQTRvdw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "13. Jul 2026"
         }
       ]
     },
@@ -62,8 +62,14 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark investiert mit 5,5 Millionen Euro in eine Qualitätsoffensive für die Hotellerie, um Hotels zukunftsfähig zu machen und ihre Wettbewerbsfähigkeit zu stärken. Der wachsende Tourismus und die steigende Bevölkerung treiben die Immobilienpreise in der Region in die Höhe, während die Oststeiermark gezielt auf nachhaltige Mobilitätslösungen und MICE-Tourismus setzt.",
+      "summary": "Die steirische Tourismuswirtschaft erlebt derzeit einen Aufschwung mit Rekordnächtigungen im Mai und wachsender Nachfrage, die auch Immobilienpreise in beliebten Tourismusregionen wie Altaussee in die Höhe treibt. Das Land Steiermark unterstützt diese positive Entwicklung durch eine umfangreiche Qualitätsoffensive mit 5,5 Millionen Euro Förderung für die Hotellerie und regionale Initiativen wie den Regiobus und MICE-Angebote, um Hotels zukunftsfähig zu machen und die Wettbewerbsfähigkeit zu sichern.",
       "items": [
+        {
+          "title": "Kräftiges Plus im Mai bringt steirischen Tourismus auf Rekordkurs - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeGFRb21xX1lRZXRWOUhVQk9MTm51T05XYldEbFRmMlYyblFIdkdjbjEzb0U2Y0wwbDlEQjNGVjlrYnlrY010VHQtdWdKUGdqcGRCYkt4aU40SzhQeW1FVzhacE1PZHhLNnFvVEM5V0ItYlFhbWhQNnBRclV1bFNiVGt0X2VMU0J5emNfZWgwLVpCbGlLcGdZQTk5SENRWEpOeVVsNjBjVTdKQ1hhRWVEYkp3?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "20. Jul 2026"
+        },
         {
           "title": "Tourismus & Bevölkerung hoben Immo-Preise - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uS3d4NTRQN2c5b3Q0R2gxcEZ6SDRIN3dydTFPZkpfNEdxUy1lRnl4Wl9iX2tTZnFqdnowbjBCbHMzWjI0X01rRm8xdE43Q0syN0owMQ?oc=5",
@@ -95,21 +101,15 @@
           "date": "14. Jul 2026"
         },
         {
-          "title": "Steiermark: Tourismus und Bevölkerungs-Plus lassen Immo-Preise steigen - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN1hSRjVBR21LVUpraDNIaWxLQWVxcU50S0E0QjA1akNIYkhTU1U3MUZ3bDRSbjNxRFhWYW5mVTZ5SjFSclJTYUtiQld3TlRJQTBIc0plZU84NUVHcFd1aGNFOFh5aWFrTTU2eHpfeXN4RGluaEV6VklzNVNNVWV0QzY4RERJTnpyVVMtazJ2SFZOVmhrT01IYm1XaDI0Yy1jb0l0cNIBqAFBVV95cUxPcWRlM1Q4QUE1X3JCUUJ4ZmkxVVZUR1hYbnpnQzhFZ0xuemVnZi0tODkwSW42Q1dRYkpIWm42WUVUWVYybTZXNVIwVkVOUU10NVZ2cjU4UFgzQXFYN25OTU1wYWJ3UFUzVS0weUJPS0haT3VGRWpVNVZ3d3VEbHlFZzF0SS1XYnV0TEFyeTkzYmZDVlR3WWdWSGZmLVc5emJNVm12S2ZEdEQ?oc=5",
-          "source": "Regionews.at",
-          "date": "17. Jul 2026"
+          "title": "Für Hotellerie - Land Steiermark startet Tourismusoffensive - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9QQmdWTE00emlGZ0xVc2ZtLUZpcVRpNHY2bWxmSzRwUGdrc2hCVEh4cWJ3Z0RXMWF4VVFMY3UyQTRvdw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "13. Jul 2026"
         },
         {
           "title": "Hotels investieren in Zukunft - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rek5VTF9kRy1Bdm5lUThBZEc0OUxvMng2V1JRRml4MkFtLWlDRFdLbDY5ZjZQR1ZqbGpsRFJwTVcxcVhidERUYzQzQWVuUlMySmVxVA?oc=5",
           "source": "steiermark.ORF.at",
-          "date": "13. Jul 2026"
-        },
-        {
-          "title": "Für Hotellerie - Land Steiermark startet Tourismusoffensive - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9QQmdWTE00emlGZ0xVc2ZtLUZpcVRpNHY2bWxmSzRwUGdrc2hCVEh4cWJ3Z0RXMWF4VVFMY3UyQTRvdw?oc=5",
-          "source": "Kronen Zeitung",
           "date": "13. Jul 2026"
         }
       ]
@@ -118,8 +118,14 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Steiermark investiert verstärkt in Cybersecurity-Forschung an der TU Graz und unterstützt innovative Hochschullehre an der FH JOANNEUM, während die TU Graz als Vorsitzende von TU Austria an EU-Projekten zur CO2-Einsparung und zur Förderung der regionalen Start-up-Szene mitwirkt. Forscherpersönlichkeiten wie Anna Galler erhalten für ihre zukunftsweisenden Arbeiten hochrangige Auszeichnungen und prägen damit das Innovationsprofil der steirischen Wissenschaftslandschaft.",
+      "summary": "Die Technische Universität Graz treibt Innovationen in zukunftsweisenden Bereichen voran, darunter faltbare und nachgeführte Photovoltaik-Module zur Steigerung der Energieeffizienz sowie verstärkte Forschung in Cybersecurity mit erheblicher Landesförderung. Darüber hinaus engagiert sich die TU Graz in EU-Forschungsprojekten zu nachhaltigen Wohnlösungen und übernimmt als Vorsitz der TU Austria eine Führungsrolle im österreichischen Hochschulsektor, während auch andere steirische Forschungseinrichtungen wie die FH JOANNEUM mit innovativen Lehransätzen und Grundlagenforschung etwa zu Vitamin E gegen chronische Entzündungen ausgezeichnet werden.",
       "items": [
+        {
+          "title": "TU Graz entwickelte faltbare PV-Module - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kVkxTYi1JNzVoMzBCa0k1dmN6X0JZWWI3VW9wcnZ4RFpFWGc5MGhMOEZ3bUpqU1BCRGdib2VUU0F0ZzZxWVZ0TVJKdUdXTkJZclFyMA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "16. Jul 2026"
+        },
         {
           "title": "TU Graz: Land zahlt eine Million Euro für mehr Cybersecurity-Forschung - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNGF2YmgxWUdiSGNGYkhsMzhpdXgyVlR2Y0xSNW1IR3JnWl9qYk1YdmVxY1Fjc1dVeTd4Q1F6cnRJazMzbmY1WnNkcU1hSlBRYnMwQWFLMF8tOGxnSjJwbm1BUk90RjZCTTJ0cjF1SzhuVzJsMWlmanRsTURfLURidV9ic0JnbVh6WlZpYjdLQkZISlZhbHFPRWxSNXhIQV9aZUJPbUtnSVlpallC?oc=5",
@@ -139,21 +145,27 @@
           "date": "14. Jul 2026"
         },
         {
+          "title": "TU Graz erprobt zweiachsig nachgeführte und faltbare Photovoltaik-Anlage - pv magazine Deutschland",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRlZ5d0VleW54aXk2X2YyZGY1S3YzdksxQkRyRkpEa2VubGhaMno1MF9UMmlHdHY4cTAzQk00cV9YQnpROUpaenJRbW56cW05YW1wcTlLTmxacVpyNERSNV9qaDVWTlliT0VSS3ZtNGpYUmtwaG5tOGtLdm9OalNVa0pFS25uV0FFa2ZIN3U3RE1fNkZFamhmYlNldEhGYThIZlB2UW11N0ZhRUlmWkFTM0hR?oc=5",
+          "source": "pv magazine Deutschland",
+          "date": "16. Jul 2026"
+        },
+        {
           "title": "Anna Galler: Hohe Auszeichnung für zweidimensionale Zukunftsvisionen - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQlN5ZVoxak01TENEZ3lwTWhfbFgzVU1sOXBpdjlfUWpNdmE4UUo3OXV3V2VSVGV6M3F1N1JPczE2TE50OUZlZzg2TGYxQl9GT3BPU1c2WjRBaE85b0pzbE5QQUJQUjZSZm1vci1JOGpFMGN2RzJlaUhMY2ZHcVQzTVktR29jd0dUWlowUFYxanhBdXhQQWQyZ0FaaW9zV2lEWk9UVw?oc=5",
           "source": "Kleine Zeitung",
           "date": "17. Jul 2026"
         },
         {
+          "title": "Mit Vitamin E gegen chronische Entzündungen - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjLWQ3RjZXdzRDamhwWEpIMGhZajVMcjhDT2VmOEE5aU51WTVoRzl6MF92WVhzN1d3QlR0QlZmb3BQV3FSYnBaVWxpem90SjNKSUFOWA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "19. Jul 2026"
+        },
+        {
           "title": "FH JOANNEUM: Auszeichnungen für innovative Hochschullehre - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMjJYWHpRYmxYNDFJQkdUQmJoUHg5OFRtMk80VHdiVTZHaDJGZml1R2h4eVVNaEVzaGUwQjBrNmQ3b3psVnJlOHFsalFvbWtka0RGYngtU0hya3Zvbm1vcU1kQVRFVTZhc3hHWE5kd01TbTRiTk5Td0ZXTHl4U1loeW9GRko0MHpQbWdXcVNjLXN2ekJVeTlib2d4NnltQQ?oc=5",
           "source": "5 Minuten",
-          "date": "15. Jul 2026"
-        },
-        {
-          "title": "Grazer Unis wollen Start-up-Szene helfen - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5OF9SOG5VU0htY2hNcmh0aFRucXlkVDJsdmN0X3FTODA0U3J4N1NRZUtBQ3FQenVYbXVvRHpLWGpiLS1VcEVKdGNLNjJRTWdadkpBXw?oc=5",
-          "source": "steiermark.ORF.at",
           "date": "15. Jul 2026"
         }
       ]
@@ -169,7 +181,7 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark treibt ihre digitale Transformation durch gezielte Förderungen vooran, die Hotels modernisieren und KI-Lösungen für Nachhaltigkeit wie Wassersparen implementieren. Gleichzeitig etabliert sich die Region als Innovationshub, in dem Bildungseinrichtungen und Universitäten gezielt Startups entwickeln und talentierte Nachwuchskräfte hervorbringen.",
+      "summary": "Die Steiermark treibt ihre digitale Transformation aktiv voran, indem Hotels durch neue Fördermaßnahmen modernisiert werden und Bildungseinrichtungen wie die HAK Feldbach mit preisgekrönten KI-Projekten Innovationskompetenz demonstrieren. Gleichzeitig unterstützen Grazer Universitäten die lokale Start-up-Szene, um ein dynamisches Ökosystem für technologische Neuentwicklungen zu schaffen.",
       "items": [
         {
           "title": "Hotels investieren in Zukunft - steiermark.ORF.at",
@@ -184,21 +196,15 @@
           "date": "14. Jul 2026"
         },
         {
-          "title": "KI soll beim Wassersparen helfen - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RZVZaY1pXbVN1eDVKSFl3WktDR2pKT09NYXRWdE5uMVF3V0pQNGhkV1RvcGtUVVRBdjZZREpjWmRzdklpVmp4U1dheDc3cXpuMFROeg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "13. Jul 2026"
-        },
-        {
           "title": "HAK Feldbach triumphiert: Schüler gewinnen nationalen Award für ihre KI-Diplomarbeit - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWm5tRmhzV3ZBZU03RWpVOFFWOHp6aldiemxrNFBWd3p2eGZQeTFsU2xSU0pSMGM5a2M5bUd5b2RBYmJLTkktc3dOWmJ6bnlEUEZ6X214aWlJQXQ4RVV2THhfMWh1R3BXYWk0WlNPaHhMMmhYQUlHVnpveGt4NVUxVk5IU1dBcjd2cFBFeE5xZC1hY3ZKN24xeU1mVnRndEExQWRqMldKbXVLeVczVjJOT1M3RG41LWhzdm5GLVVnZU9HN0oy?oc=5",
           "source": "MeinBezirk.at",
           "date": "14. Jul 2026"
         },
         {
-          "title": "Grazer Unis wollen Start-ups investor-ready machen - oe24",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLUFRWVVETHFDRTdLWW9qMmFCd1ZxTU1IbWZtY1djNGtGcXdBa0VXS2FUMnZnS3BYVVJCSnBOMlg1TGNaMFJ6ckVjaUlrZXZudUctNkJXaHltSUlwWGszZU1nQVFBa2NGMTVnd2pxTG5LRnZQbk1MUndEV0J4M3AwQ0ZiWEFIeDc1SXfSAY8BQVVfeXFMTnNGZFhoODJXdV90Q1J1UGt5V3d0SUY3ajZ6ZmtZd3pHcEx2M2NQRUxhQTVBck1CRW5Rd1B1MGpXRk5uMmEwTXVDNXVjaWJ4OWxNSm5aYTBjNTN0d1lyVDNmRzFPR1pINEtJUGd3aHNnYVdiRnBEcVItTWpUVjZfcmc2UjBfNDdJU0VBR1h4SlU?oc=5",
-          "source": "oe24",
+          "title": "Grazer Unis wollen Start-up-Szene helfen - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5OF9SOG5VU0htY2hNcmh0aFRucXlkVDJsdmN0X3FTODA0U3J4N1NRZUtBQ3FQenVYbXVvRHpLWGpiLS1VcEVKdGNLNjJRTWdadkpBXw?oc=5",
+          "source": "steiermark.ORF.at",
           "date": "15. Jul 2026"
         }
       ]
