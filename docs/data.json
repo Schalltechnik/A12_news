@@ -1,18 +1,18 @@
 {
-  "generated": "23. July 2026, 05:39 UTC",
+  "generated": "24. July 2026, 05:36 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die steirische Industrie befindet sich in einer anhaltenden Konjunkturflaute, während gleichzeitig Investitionen in Infrastruktur wie die Elektrifizierung der Murtalbahn und Entlastungsmaßnahmen für Unternehmen neue Arbeitsplätze und wirtschaftliche Impulse schaffen sollen. Die Förderung von E-Mobilität und nachhaltiger Energie sowie die Stärkung der Fachkräfteausbildung durch Lehrlingsinitiative bilden zentrale Ansätze zur Bewältigung der wirtschaftlichen Herausforderungen und zur Sicherung des Standorts Steiermark.",
+      "summary": "Die steirische Wirtschaft befindet sich in einer angespannten Phase, da die Industrie weiterhin mit konjunkturellen Herausforderungen kämpft und kaum neue Arbeitsplätze entstehen, während gleichzeitig Investitionen in Infrastruktur wie die Elektrifizierung der Murtalbahn und die Energiewende vorangetrieben werden. Zur Stabilisierung des Standorts setzen Politik und Wirtschaft auf regionale Netzwerke, Unternehmerinitiativen und nachhaltige Entwicklungsprojekte, um langfristig Wettbewerbsfähigkeit und Beschäftigung zu sichern.",
       "items": [
         {
-          "title": "Konjunkturumfrage der IV: Steirische Industrie sieht kein Ende der Flaute - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb1ktT3hQam1aRUJfMzBfMlN3ZEcxcVpIdFluSWQwV24xZTRZY0Z4QXhYOXZleGcwMlVBN3o3eEd6OGpYZnNmRVFtQ1kzcjAzSlN1RnlQWUVtVDNlX3NUQXNJRFBQRUU5bG1HR1VqUFlsZGtyVkVEaTVPbWJscWkweTdQUUU5TVVxMUo3ZkZybzUwYVk0NzVvajZNWHZVNFo1bTJHWXAxUGFLdw?oc=5",
+          "title": "Jetzt teilnehmen!: Regionale Kundenbindung stärken und Wettbewerbsvorteil gewinnen - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMENyNGdGdGZCVC10cmZabUpoX0pyV2VzTUxVc2ROY0pYM3RTY2Fyb2RQN2JoN2p6ckc5YzlMRWJoYVdCSlcxRmg5ZTlmZmdRMFRKaW9mX3B3UFBlTDZPMWJ3bm5id0VEMDgwX2x2Z1lkdHVDdTVjZmxpbXByWDBaN2ZDcnFNekRlLXRRUl80bzFHUXktTmNad3M0QjMzOU1jc0NpaVdlRnZ2d0VKVUpfc2xHa2NqeUR6RkJ3VFdjUE0?oc=5",
           "source": "MeinBezirk.at",
-          "date": "21. Jul 2026"
+          "date": "23. Jul 2026"
         },
         {
           "title": "Gemeinsam für unsere Energiezukunft - BLO24.at",
@@ -27,12 +27,6 @@
           "date": "20. Jul 2026"
         },
         {
-          "title": "Spritpreise treiben E-Mobilität in Steiermark an – die Politik hemmt sie - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQzA2eGVQWXBWUnhPVGJURWhmZUhaSFlVS1ZZUzd0Wm0zYzduUF9CcWZfcFB6WWRiSzVtYjV1WEYyRHpVM1pFYkoyVDc1MHpGaG5BZUZKSHNoM2VzTzVLVXdmX003RWZXV0NIbU0xVlZDQnBjOUMyQXlmV1A5dVhXaXBoYnNmYl9ZRUliYXFXSzhsc3R5eTkxaG5XU0NyTjc5T3AzUndzUEhiQkxDSVAyM2h4Zm9vVFJN?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "21. Jul 2026"
-        },
-        {
           "title": "Weltkarriere dank Lehre: 50 Jahre Johann Lafer - wko.at",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6a0docE1MUGlxUWZ0bU1lcFJFUjR3SDBqRUNvTThfT0lZbVJJMjZDWUpkOEF1TjlSckF2aW1HVEFtZVpROWFRRkFjaldCa1RqZG1RYVpwMWxzMUxKNDRnS2ItbjRycmlSLVJZU0RLbGZwSVpqSGRsNzg4S2JTTEk?oc=5",
           "source": "wko.at",
@@ -45,16 +39,22 @@
           "date": "17. Jul 2026"
         },
         {
-          "title": "Große Entlastung für steirische Unternehmen: Bis zu 1.400 neue Jobs möglich - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX3F3R0dXMzF6WG5uX2tLSko5TGlLS1pidmZtX2hiTXl3MHNELUE1cHhxU2Z5TTRDeHBEOFZHamRfcHFhOWJhMG9PTEQ3aHJsSnVrRDRCQ21pM3M5T3c2eFJUX05mbmF4X2JGMl9jaEI2eFBoaDVINFhLX3R5eE5iTEMtcHB2TjBJVGNTdUFTTjBkVGsyRlZ1V2lHQ1A0TThRZEZ3LXZEU1R4UDZhRkJsNjFNLTBiSnRURk1DeGZwLTA?oc=5",
-          "source": "5 Minuten",
-          "date": "17. Jul 2026"
+          "title": "Steirischer Unternehmer auf Erfolgskurs - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16aHVUbzlEVEI2VUdaYVl3a2hubkRZRkRTTi1PdnJucHR6d2tleFQ1MXlhRVVVSDNpY1VnejZiQUNhckhvVUpwZldYdF9abmhfSldTNw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "23. Jul 2026"
         },
         {
-          "title": "Industrielehrlinge überzeugen bei den StyrianSkills 2026 - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOUh6dnlyYlZNUVVOWUZfX2JrWTNvcy0wQmJqMVhNSzJRYndHMXpsRDAtWWFoaDFnZnFfbzdQTTdTTnVZVm4zUXRFWFIyMXpyZ0wxb19KZkctOGlYMm1RbUg1OUtIRm13em5JSVNkZFNFUTgwZmpqR0c1RjhvZlV5T2Z2LVo4eUFlV2hrOGgzYmNuTDVJa3c?oc=5",
-          "source": "wko.at",
-          "date": "16. Jul 2026"
+          "title": "Konjunkturumfrage der IV: Steirische Industrie sieht kein Ende der Flaute - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSHpiRF9uUmJRUnp1TVl0bnAycjNvbkJiWHFIWW1XaUxQUzhTOHFzQkNzbVp0X0tpenlCUUZGTF9iZ0ZBblAtSjNHcWNzZ1JzdGo0UWJaRkFvbVBaR3lfRlJhNVJOZmVZNkVpVGJmT1FCeThqWVRuWVpXYndHNXJHX1N2bU5yanIzUlJJemhiMGE0dVBaOXZSdnI5bXJRd19UeTdCeHFSMmFxQTVpeWtqMVVSOXFDcTZU?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "21. Jul 2026"
+        },
+        {
+          "title": "Kaum neue Jobs: Kein Befreiungsschlag für die steirische Industrie - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcWxZUGNvQW14LUF4N0paOHBTWWY1cDZ1aW9xbHYtbVF5SF9CcEJVdUFkNmt1dmNwYW4zYTJ1SnM4WXB6TWc2ZFVMY3RCVV91bEhlbXpLeTl6a0dGaE93WUpWLVBCUmlxNnRSVlQ3ZWl0b3FaREkySnZvc0lmZG4wM1MxUWNCdnJvalpyMEJ2OFFkSHZkMTJLdjVfVHNHSEF0SWpJUkl0Q3I4RXZ4YWI4bG1B?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "21. Jul 2026"
         }
       ]
     },
@@ -62,13 +62,25 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark verstärkt ihre Tourismusförderung durch eine Qualitätsoffensive in der Hotellerie und strategische Investitionen in nachhaltige Mobilitätslösungen wie den Regiobus, während gleichzeitig prominente Persönlichkeiten wie Spitzenkoch Johann Lafer die internationale Reputation des Landes als Tourismus- und Kulinarikdestination unterstreichen. Der Tourismus trägt wesentlich zur wirtschaftlichen Entwicklung der Region bei und beeinflusst auch die Immobilienpreise, wobei die Steiermark im intensiven Wettbewerb mit Kärnten um Tourismusgäste konkurriert.",
+      "summary": "Die Steiermark verzeichnet im Tourismus eine Rekordsaison mit kräftigen Zuwächsen bei den Nächtigungszahlen und konkurriert erfolgreich mit Kärnten um die Tourismusführerschaft. Das Land setzt dabei auf eine Qualitätsoffensive in der Hotellerie und nutzt prominente Botschafter wie Spitzenkoch Johann Lafer, um die Attraktivität des Tourismusstandorts zu unterstreichen.",
       "items": [
         {
-          "title": "Ski-Ort trauert - Kult-Wirt und Freundin bei Motorradunfall getötet - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE52eFowel9rWHJkWHRiZkNoUF9WalJXYUFEeU5TMnpTTGJPNXlfSnlPOGltY1hQTl8yRE4tTHc5UUhPN09mOTA4?oc=5",
-          "source": "Kronen Zeitung",
+          "title": "Tourismus peilt Rekordsaison an - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vZjFJOTd6OVJXdDZxNHNGRENtaC1zRXk2dnRTR2FPdlBFV1oyY2ptZkEyWjFEbHhsUnI3UWExZnh6UFdKNlZ6aFcyXzV0MFhGdnloa3hZeDNTeWdMTVdJdEkxWVF2Q0ZkZWtveA?oc=5",
+          "source": "wko.at",
           "date": "23. Jul 2026"
+        },
+        {
+          "title": "Land Steiermark startet Qualitätsoffensive für die Hotellerie - gast.at",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSXdFdTRnU1lOaHh0cGRGY2FjVDJNS2ZqRFNvUHJOSFNxNFBwajlyQmdVVTVOXzZkVENCeUJIMUUwalhPRmd5eGQ2MHhMd3RDLVdUaWFIMmhOZHhlbDM3VmdLS29DaU5hWGFfSXpuclU0OFJvajludVBUV2gxcmRJTnlzc2VveHhpMWJ3djFfY0U4cFRhSzJlT05reHBBOXpWcU1lWXpMUjdzUzZ0?oc=5",
+          "source": "gast.at",
+          "date": "20. Jul 2026"
+        },
+        {
+          "title": "Morgenpost: 1:1 im packenden Tourismus-Derby Steiermark gegen Kärnten - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZlJSU3NhMmRHWndlMWpNMkJQRnhJRVJvZldQWS03bkExYzY4eVRwbnRJZ0tDTDJPWmlrV1lVdWJlUWJScVVmOThwak1ScnhzRjNiN2xwX21POUxvdWx1NVh2VHpNYldiWTRTbVdweThOR3dyYk1oYVctT0c5aE9GT3lMSm9MOS1LdHBNcHhfemEyZHlEa0pQUnJTQjcxaGFYWFI2NXFWcw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "21. Jul 2026"
         },
         {
           "title": "Spitzenkoch: Johann Lafer 50 Jahre nach Lehrabschluss in Graz geehrt - MeinBezirk.at",
@@ -83,10 +95,10 @@
           "date": "22. Jul 2026"
         },
         {
-          "title": "Land Steiermark startet Qualitätsoffensive für die Hotellerie - gast.at",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSXdFdTRnU1lOaHh0cGRGY2FjVDJNS2ZqRFNvUHJOSFNxNFBwajlyQmdVVTVOXzZkVENCeUJIMUUwalhPRmd5eGQ2MHhMd3RDLVdUaWFIMmhOZHhlbDM3VmdLS29DaU5hWGFfSXpuclU0OFJvajludVBUV2gxcmRJTnlzc2VveHhpMWJ3djFfY0U4cFRhSzJlT05reHBBOXpWcU1lWXpMUjdzUzZ0?oc=5",
-          "source": "gast.at",
-          "date": "20. Jul 2026"
+          "title": "Vom Grazer Lehrling zum TV-Star: Johann Lafer feiert besonderes Jubiläum - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQWJheGtvVGtma1V3OHROSEMtRjJpR2ZsYnBxaTluM1JvS2FxR3RUeXdQbm5paWRadzJBWXNLLWRxaGhBOTFlazlFNkthOVQ3eVk5dkNlRTZVMUJWY3F2VE1mOU5nRjhHakdtOFNuQnd0eHd6ZHpnbTFiUmxUamVZcXVYeDhFc25YS3A0ZlVYRFBISGhBMGZfYUNLby0yVjN4WEM0bXVjTEZBUGN6SXdlQ19R?oc=5",
+          "source": "5 Minuten",
+          "date": "22. Jul 2026"
         },
         {
           "title": "Weltkarriere dank Lehre: 50 Jahre Johann Lafer - wko.at",
@@ -95,22 +107,10 @@
           "date": "21. Jul 2026"
         },
         {
-          "title": "Morgenpost: 1:1 im packenden Tourismus-Derby Steiermark gegen Kärnten - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZlJSU3NhMmRHWndlMWpNMkJQRnhJRVJvZldQWS03bkExYzY4eVRwbnRJZ0tDTDJPWmlrV1lVdWJlUWJScVVmOThwak1ScnhzRjNiN2xwX21POUxvdWx1NVh2VHpNYldiWTRTbVdweThOR3dyYk1oYVctT0c5aE9GT3lMSm9MOS1LdHBNcHhfemEyZHlEa0pQUnJTQjcxaGFYWFI2NXFWcw?oc=5",
+          "title": "Kräftiges Plus im Mai bringt steirischen Tourismus auf Rekordkurs - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeGFRb21xX1lRZXRWOUhVQk9MTm51T05XYldEbFRmMlYyblFIdkdjbjEzb0U2Y0wwbDlEQjNGVjlrYnlrY010VHQtdWdKUGdqcGRCYkt4aU40SzhQeW1FVzhacE1PZHhLNnFvVEM5V0ItYlFhbWhQNnBRclV1bFNiVGt0X2VMU0J5emNfZWgwLVpCbGlLcGdZQTk5SENRWEpOeVVsNjBjVTdKQ1hhRWVEYkp3?oc=5",
           "source": "Kleine Zeitung",
-          "date": "21. Jul 2026"
-        },
-        {
-          "title": "Oststeiermark Tourismus setzt auf Regiobus und MICE - wirtschafts-nachrichten.at",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcTVkYk9laDF5cmcxTE1OUjIzUDM0VERfcWIwQy1oaVdZOFYwS0RkN0dON0J2R3lBVHY5M25VZmE2aEN2VExNVVdQbWJjbElyM21aM1pBZHJPdzIzd0ZCSDJ5QlhJTC1qaHk3QUQ1QmpDS2Eyd19mVFU1WWFUdEF6NVlzLWNPa2d3YmNaWHVHTFJBOHpYdkNMVldGZklFLURHWjdkaWlQVFZIUFdPbk14ZGkwek9idU1kblBQaGNtU3VGYm1oZDFyMmFXTQ?oc=5",
-          "source": "wirtschafts-nachrichten.at",
-          "date": "16. Jul 2026"
-        },
-        {
-          "title": "Tourismus & Bevölkerung hoben Immo-Preise - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uS3d4NTRQN2c5b3Q0R2gxcEZ6SDRIN3dydTFPZkpfNEdxUy1lRnl4Wl9iX2tTZnFqdnowbjBCbHMzWjI0X01rRm8xdE43Q0syN0owMQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "16. Jul 2026"
+          "date": "20. Jul 2026"
         }
       ]
     },
@@ -118,14 +118,8 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die TU Graz entwickelt innovative Technologien wie faltbare und nachgeführte Photovoltaik-Module zur Steigerung der Solarenergie-Effizienz sowie Forschungsprojekte zur Verkehrssicherheit von E-Mobilität. Darüber hinaus trägt die Grazer Forschung mit überraschenden Erkenntnissen, etwa zur Wirkung von Kaffee auf Ameisen, zu neuen wissenschaftlichen Erkenntnissen bei.",
+      "summary": "Die TU Graz führt Verkehrssicherheitsstudien mit Elektrofahrzeugen durch und erforscht gleichzeitig überraschende Effekte von Kaffee auf Ameisen, während Joanneum Research durch eine neue Kooperation mit AT Styria und einem italienischen Cluster die Forschungslandschaft der Steiermark stärkt. Zusätzlich werden steirische Forschungsaktivitäten in der Arktis vorangetrieben, um wissenschaftliche Erkenntnisse in extremen Klimazonen zu gewinnen.",
       "items": [
-        {
-          "title": "TU Graz entwickelte faltbare PV-Module - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kVkxTYi1JNzVoMzBCa0k1dmN6X0JZWWI3VW9wcnZ4RFpFWGc5MGhMOEZ3bUpqU1BCRGdib2VUU0F0ZzZxWVZ0TVJKdUdXTkJZclFyMA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "16. Jul 2026"
-        },
         {
           "title": "Für Verkehrssicherheit: TU-Graz sucht \"Versuchskaninchen\" mit E-Scooter, E-Bike und Fahrrad - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc1lYQ215eS01TnFfQ3hoOElaMWZyeXUxNkwtaUo3eFl2MXJNOEF5eExzZGxGWUFkOW9MSGpOMXI0SEJmdHBjc0w4MHRDMXV6YU91Sk1qaTBpN1hnaFVETzdZWFhXUmlJazlkYWZlMTVZTXlDWEtsaU5ZREQwTDdWTDFrNktJOTNnRnRmY2pfaHYwRmdjVjhWM1ZHOEYyNDFqaXJ1aHJiVWtYN2FLdlo4VTh5QXE?oc=5",
@@ -133,16 +127,22 @@
           "date": "21. Jul 2026"
         },
         {
-          "title": "TU Graz erprobt zweiachsig nachgeführte und faltbare Photovoltaik-Anlage - pv magazine Deutschland",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRlZ5d0VleW54aXk2X2YyZGY1S3YzdksxQkRyRkpEa2VubGhaMno1MF9UMmlHdHY4cTAzQk00cV9YQnpROUpaenJRbW56cW05YW1wcTlLTmxacVpyNERSNV9qaDVWTlliT0VSS3ZtNGpYUmtwaG5tOGtLdm9OalNVa0pFS25uV0FFa2ZIN3U3RE1fNkZFamhmYlNldEhGYThIZlB2UW11N0ZhRUlmWkFTM0hR?oc=5",
-          "source": "pv magazine Deutschland",
-          "date": "16. Jul 2026"
-        },
-        {
           "title": "Kaffee als Medizin? Grazer Forschung macht überraschende Ameisen-Entdeckung - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTGxkNURYQlRydkVtaEZ3UDlBTkFVTWVPN1VtVVpEc1dTM20wdnZ0YjctdUVYdkh6OC03eFdhQ09kNGp5eFloMXVaZGdpUTVzQS1JeE9NSUpWNkt3aE92TTI3QUUyZmVZTHA1Vlk2OC0tY0lWM0Jfdk5zMEVIZmFtRlcxcFV0WFNZNF9jemQ0WTZLd3kyUjNHb0NtRU9QWG5pQ1AtY0lHV0hhS2RrbVZtV2VGNlZEUQ?oc=5",
           "source": "5 Minuten",
           "date": "22. Jul 2026"
+        },
+        {
+          "title": "Sihorsch über Forschungen in Arktis - news.ORF.at - ORF",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54Q1RfWm1uR3UtMmhjWlgyYXJkVGl4dWhQOXNta1JudEF5QllYektKV3FnWndpTjh3SGlOUmRhRE1GcElsUzhzd1BYLU5CMjFJY0Zta0pCSnJpUQ?oc=5",
+          "source": "ORF",
+          "date": "23. Jul 2026"
+        },
+        {
+          "title": "AT Styria und Joanneum Research besiegeln Kooperation mit Cluster in Friaul - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR2NEV3ZvSVRJYVJKVVRMUThRQnV1T2VxODR3X2hCUi1TVEljS0lRM0NHWVNKdWhvMGxkc1lMRmVsdHY1aDV0dlQ3ejJ5NDZRa01VVENyZDlrUDl6Zk13WjFJVmtOUFdZQl9NbFRkTTBSQ25jMTYtZmRfcjNrNEFFU2JvSTRBOUgwS3I5eTBhcHJLd1Zs?oc=5",
+          "source": "wko.at",
+          "date": "23. Jul 2026"
         }
       ]
     },
@@ -157,7 +157,7 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Ich kann die Zusammenfassung leider nicht erstellen, da Sie nur einen Nachrichtentitel bereitgestellt haben, der zudem unvollständig ist. Um zwei prägnante Sätze zu formulieren, benötige ich entweder mehrere vollständige Nachrichtentitel oder den kompletten Text des angegebenen Titels mit konkreten Informationen zu Digitalisierung, KI, Startups, Technologieclustern oder Green Tech in der Steiermark.",
+      "summary": "Ich kann diese Aufgabe leider nicht erfüllen, da mir nur die Nachrichtentitel ohne die vollständigen Inhalte vorliegen und insbesondere der erste Titel unvollständig ist. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich entweder die kompletten Artikel oder zumindest vollständige und aussagekräftige Titel zu den genannten Themen Digitalisierung, KI, Startups, Technologieclustern und Green Tech in der Steiermark.",
       "items": [
         {
           "title": "Burgenland: Wirtschaftsparks, Digitalisierung und Internationalisierung: Burgenland startet ... - Regionews.at",
