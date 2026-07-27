@@ -1,15 +1,27 @@
 {
-  "generated": "26. July 2026, 05:46 UTC",
+  "generated": "27. July 2026, 06:05 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die steirische Wirtschaft zeigt ein gemischtes Bild mit einzelnen Erfolgsgeschichten wie dem Online-Händler Niceshops, der 50 neue Jobs schafft, und etablierten Unternehmen wie Heidenbauer, deren Mitarbeiter am Arbeitsmarkt gefragt sind, während die Industrie laut Konjunkturumfrage weiterhin mit anhaltenden Schwierigkeiten kämpft. Regionale Wirtschaftsinitiativen wie die WKO-Ehrungen in Feldbach und die Business-Events in Gleisdorf unterstreichen das Engagement der steirischen Unternehmenslandschaft, trotz der aktuellen konjunkturellen Herausforderungen.",
+      "summary": "Die steirische Wirtschaft zeigt sich in 2024 mit gemischten Signalen: Während einzelne Unternehmen wie Niceshops mit Expansionen und Neuschaffung von Arbeitsplätzen voranschreiten und regionale Wirtschaftsgipfel sowie Netzwerkveranstaltungen den Austausch fördern, kämpft die Industrie insgesamt mit anhaltender Konjunkturflaute und steigenden Arbeitslosenzahlen, besonders in der Südsteiermark. Die Standortentwicklung wird somit durch punktuelle Erfolgsgeschichten geprägt, während der Arbeitsmarkt und die allgemeine Konjunkturlage weiterhin unter Druck stehen.",
       "items": [
         {
-          "title": "WKO in Feldbach ehrt zum 10-Jährigen und Landhaus Bender ausgezeichnet - Kleine Zeitung",
+          "title": "Am 19. August: Wirtschaftsgipfel Südeststeiermark lädt zum Austausch nach Hengsberg - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYVBJd1JEQ01fN0JLdDlrLTlNc0M5d0JaYnAzRmhJa3ptUUlaTWFyM29XYkdXZS16aWNDUTgtd1dTMmFjd3l5ZFNUZzNaU09pejVKNC1oZXUtSXRJNUJCVTUtdUN4cVM2WVJYY1VpOG5idlZYWjg5cGE4VDhTWmZnakdUZTVTNjlZWmpOSS15MHRjTl9SWkl6cU8ySldKa0VzYU41Z1FNRFV0bDhKUlpZSmgwSHJyRldmcXdDOG5XR3pNQWlZVnc?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "27. Jul 2026"
+        },
+        {
+          "title": "Bank Austria: Änderungen in den Chefetagen in Kärnten und der Steiermark - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdHVZeUhBWkx2TXB1aVZaZHRLRlRDWXVKRURvcmdtaFZtb0tCblgwRnMyN0YydFREU2hFUWpnMVJxMUNzOVc3dzhTU29Zam1xWWw0SElHbXNwNXd6NTVsYmJjeEJnNU5RZFQ4ek95Q3hLOUJ1a01KRGNUSTZpdlhjeGZjeFdXa2p4TWdjQ0Z3b0tSZ2tLMEhfRm9tWDBKSGxXYkZDaW84cHJMUQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "22. Jul 2026"
+        },
+        {
+          "title": "500 - Failed to fetch dynamically imported module: https://www.kleinezeitung.at/_nuxt/index.DgEuJ-P0.js - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWxoWDdjZjR6RTVFblpKXzRUSEtZbDJVX3BGWjR1cjdtRnZaTnJ4X3hEa2ZWVXVpektIUFRTaV92T0ZoVWZsNDlid1NXS2luV25McDdXWDlzTmlNNzQxYjBKcXBWV0d2YUZidE9UWnJpSDhJTlpJUDFEMXZPTnJ0MG02OWNSc1g0dmlUUWhDMjZzd0t6S21JMWFqQUNvWTBSM0FEM2Q3bTBBUk9FYkFqeGZR?oc=5",
           "source": "Kleine Zeitung",
           "date": "22. Jul 2026"
@@ -33,28 +45,16 @@
           "date": "21. Jul 2026"
         },
         {
-          "title": "Heidenbauer-Mitarbeiter am Arbeitsmarkt gefragt - oe24",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZjRQMkpOWjIzdGpNTEhkaW1ScEdRQXNiX0ZLQkQ3VW5oY01RUFJPMUE5RmhYRVhjM0hmdllWcmR2cl93VS1zQ0hXOWVMd1dXV05yajBrOHZ6T2xwcVp4enprQ3pHYlcwd2VlSFdvOFpobkVJNmVIenJjOGNDd1VmVy1TTmVkd9IBiwFBVV95cUxPWkVIbnNlNXZxZ2FlV3ZyVFRleVgwV1llS0VWdndFUUMyWnljTk10aE83U1ZQZ3FCNmM0eVIwMWdTcnd2cHlxTzEyeUs0em5HSnUtZDdBRTVnWkxTSzZ0b1kwQXpXT0JOcWE5YndsN2hjRE1ua3V6cXYwM0J0LUhsR0RMcTM4TzNqTzhz?oc=5",
-          "source": "oe24",
-          "date": "24. Jul 2026"
-        },
-        {
-          "title": "Online-Händler Niceshops investiert weiter: 50 neue Jobs - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdVhzRHJzQUlYNUZZdEJKYmJsVnM2X3NFcWQ5QUNicHEtdjU1R1pYSTRvckRJcWFvUFVXUXItVklLQTQzektpV2h2SmVvamkxRTNGSE8wa095OUlIc2Fva0dGREJWNzVfMUJIZHZaZVZuSHAzanNiYjl6Q09PNU1VWGUydkJxQVhkVmliaFk4bGdKVi1iQ19rOVdWNmNpNnJxMTlmeXZfckJvQVRna0RkNDVVcTJFdDdDd1VmbFJ0LVFUbHVINDBv?oc=5",
-          "source": "ORF ON",
+          "title": "Niceshops investiert in Saaz: 50 neue Jobs - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wUUV6NkthSXA4LU1lN3hDZTBqYlI1T3FwRFFPX3BBcTRoUXlFdzZqZmt5aDBIaU04T1RJYm1LSHBYdHNaVGNtWElmdTBxaW9hek9OSA?oc=5",
+          "source": "steiermark.ORF.at",
           "date": "22. Jul 2026"
         },
         {
-          "title": "„Arbeit macht frei“ - Lkw fährt mit NS-Parole durch die Steiermark - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBrUXdZQ0JNcXpYdFBLR2p5MEJSTjdWMFF1SXFNVkEtNzZ1Zk1CRUF2d08tTW5wamE3elpMaEhZT29OOXc4eVdJ?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "22. Jul 2026"
-        },
-        {
-          "title": "Fuchs löst Auffahrunfall auf A12 aus: Familie landet im Krankenhaus - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM0VreWZkTWJpNHcwSUVIVlFnZUNZd2dZYlZDWVI0YmZYMFFTUGp1UElleWViaEFGdjNSQW9xVC02WWJLeDB3WDFoZUdRNUtOZFQ3Z3piUEhaSUZxOFp5VmJTaENEeVJ0ZzdsNjczSFMtZlhuSmNkTm02Ri1Sa1dPR1hLcnVYQ3VfbXcwekNmeG1obzlFNFY5SFluOTNCUThuYlpkanV0Vkh2cV9o?oc=5",
-          "source": "5 Minuten",
-          "date": "20. Jul 2026"
+          "title": "Regionaler Arbeitsmarkt: Arbeitslosigkeit steigt – so ist die Lage in der Südsteiermark - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZUpHUjhoRFJ5V3VOaU1fYnpBMHRyaGFWcF8wYmx4dkVkaDVwRFlFWkJVVlhEMm8tcHVVMlBDakdTM1RYVm9Yd2VrX2R1djFUQnVyT2NyUWJKMmJ6b1VXdGlPX3I4WW5jMnNtZFNWZFNXZGJoXzNjMEhidVhQTV9XY1NpU2tic1V1b2QxY3cwUHA3MkxLS2V3TmRRN1ZJamdrc29uUmQ1OVdFQi1ZREktSHo0VjJqYjVHMVE?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "25. Jul 2026"
         }
       ]
     },
@@ -62,25 +62,13 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark verzeichnet in der laufenden Saison ein Nächtigungsplus und peilt eine Rekordsaison an, während das Land gleichzeitig mit einer Qualitätsoffensive für die Hotellerie und gezielten Tourismusstrategien wie dem Ausbau von Regiobus und MICE-Angeboten die Wettbewerbsfähigkeit stärkt. Kulinarische Exzellenz und innovative Freizeitangebote wie hundefreundliche Badestellen unterstreichen dabei das breite Profil der steirischen Tourismusförderung.",
+      "summary": "Die Steiermark strebt eine Rekordsaison im Tourismus an und setzt dabei auf Qualitätsoffensiven in der Hotellerie sowie auf innovative Strategien wie den Regiobus und MICE-Angebote in der Oststeiermark. Gleichzeitig wird die kulinarische Exzellenz als Tourismusmagnet gepflegt, wie die Ehrung des Spitzenkochs Johann Lafer zeigt, während einzelne Tourismusschulen mit Vorwürfen konfrontiert sind.",
       "items": [
         {
           "title": "Tourismus peilt Rekordsaison an - wko.at",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vZjFJOTd6OVJXdDZxNHNGRENtaC1zRXk2dnRTR2FPdlBFV1oyY2ptZkEyWjFEbHhsUnI3UWExZnh6UFdKNlZ6aFcyXzV0MFhGdnloa3hZeDNTeWdMTVdJdEkxWVF2Q0ZkZWtveA?oc=5",
           "source": "wko.at",
           "date": "23. Jul 2026"
-        },
-        {
-          "title": "Selten erlaubt: Wo man in der Steiermark mit dem Hund ins Wasser darf - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUE51YmI0dlRBSVpYVzk1LVkwQUZPa0ZxcUEyYWFWdDhnRGZoZDJpMXpIM2hZUVZtNEM3YXlodS02NEVDQXRxVHJybV9uMnVMcFR2TjBRaERwMTJmUmhRZVBvOV9zT0hqOF9MbVZ6dW9YMktXTnFuSHBaeWRTMUwwSC1fRmZDcVNSOVd1WjJCRXYzUWVGaXpXNlVhX1ZMOUwz?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "25. Jul 2026"
-        },
-        {
-          "title": "Sommer-Vorsaison: Leichtes Nächtigungsplus - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUeXotRGJLeWl4T3lGcm80bm1BTDdvRjQ1NXpPLUoxTkI3S3cwV0FKdnpQMWhwX0gtUE5Nb3owX3YtMFRsbGl4T3dMMGlCcjhMZ2kyQw?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "25. Jul 2026"
         },
         {
           "title": "Oststeiermark Tourismus setzt auf Regiobus und MICE - wirtschafts-nachrichten.at",
@@ -101,6 +89,12 @@
           "date": "20. Jul 2026"
         },
         {
+          "title": "Morgenpost: 1:1 im packenden Tourismus-Derby Steiermark gegen Kärnten - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZlJSU3NhMmRHWndlMWpNMkJQRnhJRVJvZldQWS03bkExYzY4eVRwbnRJZ0tDTDJPWmlrV1lVdWJlUWJScVVmOThwak1ScnhzRjNiN2xwX21POUxvdWx1NVh2VHpNYldiWTRTbVdweThOR3dyYk1oYVctT0c5aE9GT3lMSm9MOS1LdHBNcHhfemEyZHlEa0pQUnJTQjcxaGFYWFI2NXFWcw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "20. Jul 2026"
+        },
+        {
           "title": "Johann Lafer feiert 50-jähriges Lehrabschluss-Jubiläum im Grazer Gösser Bräu - GASTRO.at",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNODdncVdaaWdacUJOTms0aFc2X2NHTWt6MXYzTU5UVXBSb1B4MDNZbGxacHQ4MG5xeTE2RzNtVDlaOUhsOURXN2Y0d0d4SnZnWE83bDNvdGJIOXd2a1dETWdYcFl6aXFQcUs4R2tJTFk3ZkJWaUhIYmhaMEZHWVVYbVUwZ19mOWds?oc=5",
           "source": "GASTRO.at",
@@ -111,6 +105,12 @@
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQWJheGtvVGtma1V3OHROSEMtRjJpR2ZsYnBxaTluM1JvS2FxR3RUeXdQbm5paWRadzJBWXNLLWRxaGhBOTFlazlFNkthOVQ3eVk5dkNlRTZVMUJWY3F2VE1mOU5nRjhHakdtOFNuQnd0eHd6ZHpnbTFiUmxUamVZcXVYeDhFc25YS3A0ZlVYRFBISGhBMGZfYUNLby0yVjN4WEM0bXVjTEZBUGN6SXdlQ19R?oc=5",
           "source": "5 Minuten",
           "date": "22. Jul 2026"
+        },
+        {
+          "title": "Eltern erheben schwere Vorwürfe gegen Tourismusschulen Bad Gleichenberg - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDE3aFlaV3BUaFk3N0ZHSTg2ZC1Tb1J5aUNWWnE4X0VPZ3lFSzdpdlRBZS1Wa2J6U3BkRkw1d3dDY2x6WkxMc1V6SUxZb2hBN1ZJZk1BVDlHbDE1REhnN1NvZ0t1c3VkUWwtRWlRZUltLXEzUVRzLUZObG8zeW5XTTlYZWdLUjhiT2VJMUFvRlFZU0dib0ZmcFY1cE9IM1ZtSWpvVWNVam0?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "23. Jul 2026"
         }
       ]
     },
@@ -118,19 +118,19 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Technische Universität Graz führt mehrere Forschungsprojekte durch, darunter Verkehrssicherheitsstudien mit E-Scootern und Fahrrädern sowie bahnbrechende Quantencomputer-Forschung mit 30 Millionen Euro Förderung. Darüber hinaus entstehen in der Steiermark innovative Erkenntnisse von Arktisforschung über Kaffee-Ameisen-Studien bis hin zu grenzüberschreitenden Innovationsallianzen und Start-up-Initiativen.",
+      "summary": "Die Steiermark investiert massiv in zukunftsweisende Forschung, wie die 30 Millionen Euro Förderung für Grazer Quantencomputer-Forschung und eine neue Innovationsallianz mit der italienischen Region Friaul-Julisch Venetien zeigen. Parallel dazu führt die TU Graz praxisorientierte Sicherheitsstudien mit modernen Mobilitätsformen durch und beteiligt sich an arktischen Forschungsprojekten.",
       "items": [
-        {
-          "title": "Für Verkehrssicherheit: TU-Graz sucht \"Versuchskaninchen\" mit E-Scooter, E-Bike und Fahrrad - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc1lYQ215eS01TnFfQ3hoOElaMWZyeXUxNkwtaUo3eFl2MXJNOEF5eExzZGxGWUFkOW9MSGpOMXI0SEJmdHBjc0w4MHRDMXV6YU91Sk1qaTBpN1hnaFVETzdZWFhXUmlJazlkYWZlMTVZTXlDWEtsaU5ZREQwTDdWTDFrNktJOTNnRnRmY2pfaHYwRmdjVjhWM1ZHOEYyNDFqaXJ1aHJiVWtYN2FLdlo4VTh5QXE?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "21. Jul 2026"
-        },
         {
           "title": "30 Millionen Förderung - Grazer Forschung im Wettlauf um Quantencomputer - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9MdkZsNWFLWUh6X0l0eWFZSTJCYklaTkVnVGVTVEFkRjU4M2JhWkJZeGo1ajdYejgtNFhvTEU1YXVfQQ?oc=5",
           "source": "Kronen Zeitung",
           "date": "24. Jul 2026"
+        },
+        {
+          "title": "Für Verkehrssicherheit: TU-Graz sucht \"Versuchskaninchen\" mit E-Scooter, E-Bike und Fahrrad - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc1lYQ215eS01TnFfQ3hoOElaMWZyeXUxNkwtaUo3eFl2MXJNOEF5eExzZGxGWUFkOW9MSGpOMXI0SEJmdHBjc0w4MHRDMXV6YU91Sk1qaTBpN1hnaFVETzdZWFhXUmlJazlkYWZlMTVZTXlDWEtsaU5ZREQwTDdWTDFrNktJOTNnRnRmY2pfaHYwRmdjVjhWM1ZHOEYyNDFqaXJ1aHJiVWtYN2FLdlo4VTh5QXE?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "21. Jul 2026"
         },
         {
           "title": "Sihorsch über Forschungen in Arktis - news.ORF.at - ORF",
@@ -139,22 +139,10 @@
           "date": "23. Jul 2026"
         },
         {
-          "title": "Kaffee als Medizin? Grazer Forschung macht überraschende Ameisen-Entdeckung - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTGxkNURYQlRydkVtaEZ3UDlBTkFVTWVPN1VtVVpEc1dTM20wdnZ0YjctdUVYdkh6OC03eFdhQ09kNGp5eFloMXVaZGdpUTVzQS1JeE9NSUpWNkt3aE92TTI3QUUyZmVZTHA1Vlk2OC0tY0lWM0Jfdk5zMEVIZmFtRlcxcFV0WFNZNF9jemQ0WTZLd3kyUjNHb0NtRU9QWG5pQ1AtY0lHV0hhS2RrbVZtV2VGNlZEUQ?oc=5",
-          "source": "5 Minuten",
-          "date": "22. Jul 2026"
-        },
-        {
           "title": "Innovationsallianz verbindet Steiermark und Friaul-Julisch Venetien - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSTg5NHhWaC1yRDZZb2pKV09UYnYzRDNJWWYtRG81eVFQVkZXS1pxTkg4SE5tM1MxQ0hKaDdJbC1IME55SFlrdHd6NlZWdXY3YjRIM2xaelhUak5kbGt3bUt5bTdnNlRwS1cyODBVTkVkNXBQMnlmeDJPUjZWY2NSdlhHb0oyaGZwbnp5OVlxZlR5cUhGemxkZ29NM1lsRWhlUFVVREE1Y09XSUhZYXdDN1dYZw?oc=5",
           "source": "5 Minuten",
           "date": "25. Jul 2026"
-        },
-        {
-          "title": "Raika Start-up-Event: Junge Talente präsentieren Innovationen im Unicorn in Graz - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcTBiMHlGaXdNS3pRdlhhZDRnRFk0SHAwZ05KZWhrb2NzNFhabk9NUU5GN0dOLVJPd0s3WVVWb1pjNXJ2ZGV3cE1EcnBiSzhIWGExYkRBVXBETGl6R3NnTmdfRTgyTzFvU3U2Z2FKaGdEcFNpZEtBVzFDdDR5N1NSMlMyTVdvV3FoT081UEtIanFCZXU2VEVaRDBOLThWUGVIVEFqa1BGWHBpeVNSWkRqRk1n?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "23. Jul 2026"
         }
       ]
     },
@@ -162,10 +150,10 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Ich kann die Nachrichtentitel leider nicht verarbeiten, da der bereitgestellte Link einen Fehler enthält und keine verwertbaren Informationen zu Förderungen oder EU-Programmen in der Steiermark liefert. Bitte stellen Sie mir die konkreten Nachrichtentitel zur Verfügung, damit ich diese zusammenfassen kann.",
+      "summary": "Das Grazer Unternehmen Easelink hat mit seiner Technologie für automatisiertes Laden einen globalen Zulieferer als Partner gewonnen und stärkt damit die innovative Wirtschaftskraft der Steiermark. Diese Erfolgsgeschichte zeigt, wie steirische Technologieunternehmen durch Forschung und Entwicklung international wettbewerbsfähig werden und neue Märkte erschließen.",
       "items": [
         {
-          "title": "500 - Failed to fetch dynamically imported module: https://www.kleinezeitung.at/_nuxt/index.DgEuJ-P0.js - Kleine Zeitung",
+          "title": "Easelink: Automatisiertes Laden: Grazer gewinnen globalen Zulieferer als Partner - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVEZ4YlpoLWtrYmRHUmdSTEdtWW5vRjNraV9rUzFKSUp6eVlPRHhtbW5jbDNET0ZjREZrLUdBRG16YkVSRExXWFJHY28takxKRVNRZ2ZNV21uNkxSSkFzclZXVlVnQXJfNnl1ZzFManRiQVVYeVpDRU5vZnVaaU5CMmdjenBlY1FYSEJkLUEwMEl6Q21vTURxRXdTZWM3OHQ0UEZGbl9jandkdTM1Rm1XV1hpOTFYZw?oc=5",
           "source": "Kleine Zeitung",
           "date": "22. Jul 2026"
@@ -176,8 +164,14 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Der Rektor der Technischen Universität warnt vor der wachsenden Macht von KI-Systemen und deren zunehmenden Einfluss auf Gesellschaft und Wirtschaft. Die Steiermark muss sich als Technologiestandort intensiver mit den Chancen und Risiken der Künstlichen Intelligenz auseinandersetzen, um nicht den Anschluss zu verlieren.",
+      "summary": "Künstliche Intelligenz wird zunehmend kostenlos für Alltagsanwendungen verfügbar, während Experten vor der wachsenden Macht dieser Systeme warnen. Die Steiermark muss sich damit auseinandersetzen, wie sie die Chancen dieser Technologien nutzt und gleichzeitig deren Risiken verantwortungsvoll managt.",
       "items": [
+        {
+          "title": "KI im Alltag: Künstliche Intelligenz gratis nutzen: Diese Tools kosten nichts - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTl9EUDBpZFJ5eU9Ga1dFUDRMRlUwb0dCcnJFdnRPRUhoVGJYWnpsalZ0M29uME92YUZUWFZvWkRQWUVZRm11alZ1R0xjazhQcmZzWHdtRlp0STRxbWNNUDh5Qlg0NHB3UF84T3hISHhKVlBiSHYwaXNhOTF5TF9DMjktQ2NMV3ZJdXgtRGZ5RHJDZlprWnFDOUFfemFRT1U3bTBoeGpEcmpGLWp2MFNXdU9IdS1iV1ZoWlVDc3ZPRzdrRi1mZk5xSzhraW4zUQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "26. Jul 2026"
+        },
         {
           "title": "TU-Rektor zu KI: „Systeme mächtig geworden“ - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0clAxZGtKNG84cWFjbW9IX0tSbVA4dGxJLWJ4dm9ydTYxZ0RDcWdlUGh5ajVNYzdza3B1bjFHMDNDUEFoQW9ZRDJvU1VWeWVicENOUA?oc=5",
