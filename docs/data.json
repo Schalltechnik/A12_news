@@ -1,12 +1,12 @@
 {
-  "generated": "28. July 2026, 05:32 UTC",
+  "generated": "29. July 2026, 05:37 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Steiermark verzeichnet gemischte wirtschaftliche Signale mit infrastrukturellen Verbesserungen wie der Koralmbahn und einzelnen Unternehmensansiedlungen mit Jobzuwächsen, während die Industrie konjunkturelle Schwächen und steigende Arbeitslosigkeit beklagt. Regionale Initiativen wie Wirtschaftsgipfel und Unternehmensehrungen deuten auf Bemühungen hin, den Standort trotz angespannter Marktlage zu stärken.",
+      "summary": "Die Steiermark verzeichnet durch Infrastrukturprojekte wie die Koralmbahn sowie erfolgreiche Unternehmer und boomende Tourismusregionen positive Impulse für Wirtschaft und Arbeitsmarkt, während gleichzeitig regionale Unterschiede mit teilweise steigender Arbeitslosigkeit in einzelnen Bezirken bestehen. Wirtschaftsgipfel und die Auszeichnung innovativer Unternehmer unterstreichen das Potenzial der steirischen Wirtschaft, wobei eine differenzierte Betrachtung zwischen prosperierenden Regionen und Herausforderungen in anderen Landesteilen notwendig ist.",
       "items": [
         {
           "title": "Koralmbahn stärkt Wirtschaft und Arbeitsmarkt - ORF ON",
@@ -15,16 +15,22 @@
           "date": "27. Jul 2026"
         },
         {
+          "title": "Adrian Wetzel aus Irdning als „Star of Styria“ ausgezeichnet - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdmc4SVFDdjZnRkNCbXRiVTJZMzBzdjlVblp4UUJaLVBNcmlCQlZISlJMM2xreEM4SGo1bzREQTRacm43azFYbER6WGplVjVXYTExbGY0OGNuMGdnVXNHdGZkdUhzeER4N1Rrd1lqa1ctZjFfcVBPa2lRU0tiaHh3eXhZSVlTUkVwWngwOVp0ZERIV1c5ajJ2UGJwRVBFdHJlN2dIbENvUQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "28. Jul 2026"
+        },
+        {
           "title": "Am 19. August: Wirtschaftsgipfel Südeststeiermark lädt zum Austausch nach Hengsberg - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYVBJd1JEQ01fN0JLdDlrLTlNc0M5d0JaYnAzRmhJa3ptUUlaTWFyM29XYkdXZS16aWNDUTgtd1dTMmFjd3l5ZFNUZzNaU09pejVKNC1oZXUtSXRJNUJCVTUtdUN4cVM2WVJYY1VpOG5idlZYWjg5cGE4VDhTWmZnakdUZTVTNjlZWmpOSS15MHRjTl9SWkl6cU8ySldKa0VzYU41Z1FNRFV0bDhKUlpZSmgwSHJyRldmcXdDOG5XR3pNQWlZVnc?oc=5",
           "source": "MeinBezirk.at",
           "date": "27. Jul 2026"
         },
         {
-          "title": "WKO in Feldbach ehrt zum 10-Jährigen und Landhaus Bender ausgezeichnet - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWxoWDdjZjR6RTVFblpKXzRUSEtZbDJVX3BGWjR1cjdtRnZaTnJ4X3hEa2ZWVXVpektIUFRTaV92T0ZoVWZsNDlid1NXS2luV25McDdXWDlzTmlNNzQxYjBKcXBWV0d2YUZidE9UWnJpSDhJTlpJUDFEMXZPTnJ0MG02OWNSc1g0dmlUUWhDMjZzd0t6S21JMWFqQUNvWTBSM0FEM2Q3bTBBUk9FYkFqeGZR?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "22. Jul 2026"
+          "title": "Tourismusverband Erzberg-Leoben: So boomt die Region im Sommer - wirtschafts-nachrichten.at",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ2xmNDVZVS1Ib1ZvQm1mNDduWmxaVFpwTW9uZlBPRFh5ZGlZTlkxZkJLdVpXM1VzTXVpWG9MalVISm9WMmJDTk8tak9SazlHMXV3ZU9ZaTB2ZE1LSnJtUGtDS0Zxc0FxdUNFNzlLSmdQU1czUm9zdlpCS1dTWm1uQ3A2LUk?oc=5",
+          "source": "wirtschafts-nachrichten.at",
+          "date": "28. Jul 2026"
         },
         {
           "title": "Steirischer Unternehmer auf Erfolgskurs - steiermark.ORF.at",
@@ -33,10 +39,10 @@
           "date": "23. Jul 2026"
         },
         {
-          "title": "Konjunkturumfrage der IV: Steirische Industrie sieht kein Ende der Flaute - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb1ktT3hQam1aRUJfMzBfMlN3ZEcxcVpIdFluSWQwV24xZTRZY0Z4QXhYOXZleGcwMlVBN3o3eEd6OGpYZnNmRVFtQ1kzcjAzSlN1RnlQWUVtVDNlX3NUQXNJRFBQRUU5bG1HR1VqUFlsZGtyVkVEaTVPbWJscWkweTdQUUU5TVVxMUo3ZkZybzUwYVk0NzVvajZNWHZVNFo1bTJHWXAxUGFLdw?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "21. Jul 2026"
+          "title": "Koralmbahn stärkt Arbeitsmarkt zwischen Kärnten und Steiermark - Mein Klagenfurt",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNblNfNllFeUMzRlZnU1daSVlSbUlDdWpNY3V2VXpRZ3AzODFCaG54LWF3SUktM3Rkdm1hLXpJU3BGSV9PbEk0TmYxaGFxdTdFeVplU05HaFQxU29TdXlEWGxNTE9jR3JianVLYk42RkplaWJ4dHNueDNfS3Zqd0poTUI1TkhKRWRDa0UtcGZlR1ljeEFjMVBqMXFUekRUVnU1N1VtSWlYSm9tcUVBd1lybVFTVlVTWUNhRjlmV21YdkI2WkoxR0d5LUdhekNBMGVRQkkwSG1GSV9iemlIWllJ?oc=5",
+          "source": "Mein Klagenfurt",
+          "date": "28. Jul 2026"
         },
         {
           "title": "Regionaler Arbeitsmarkt: Arbeitslosigkeit steigt – so ist die Lage in der Südsteiermark - MeinBezirk.at",
@@ -49,12 +55,6 @@
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZjRQMkpOWjIzdGpNTEhkaW1ScEdRQXNiX0ZLQkQ3VW5oY01RUFJPMUE5RmhYRVhjM0hmdllWcmR2cl93VS1zQ0hXOWVMd1dXV05yajBrOHZ6T2xwcVp4enprQ3pHYlcwd2VlSFdvOFpobkVJNmVIenJjOGNDd1VmVy1TTmVkd9IBiwFBVV95cUxPWkVIbnNlNXZxZ2FlV3ZyVFRleVgwV1llS0VWdndFUUMyWnljTk10aE83U1ZQZ3FCNmM0eVIwMWdTcnd2cHlxTzEyeUs0em5HSnUtZDdBRTVnWkxTSzZ0b1kwQXpXT0JOcWE5YndsN2hjRE1ua3V6cXYwM0J0LUhsR0RMcTM4TzNqTzhz?oc=5",
           "source": "oe24",
           "date": "24. Jul 2026"
-        },
-        {
-          "title": "Niceshops investiert in Saaz: 50 neue Jobs - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wUUV6NkthSXA4LU1lN3hDZTBqYlI1T3FwRFFPX3BBcTRoUXlFdzZqZmt5aDBIaU04T1RJYm1LSHBYdHNaVGNtWElmdTBxaW9hek9OSA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "22. Jul 2026"
         }
       ]
     },
@@ -62,12 +62,18 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark positioniert sich mit vielfältigen touristischen Angeboten wie Almhütten, Weinkultur und kulinarischen Highlights für eine Rekordsaison, während regionale Tourismusverbände durch strategische Maßnahmen wie Regiobus und MICE-Fokus ihre Wettbewerbsfähigkeit stärken. Gleichzeitig zeigen sich Herausforderungen in der Qualitätssicherung von Tourismusausbildungseinrichtungen, die für die nachhaltige Entwicklung des Sektors von Bedeutung sind.",
+      "summary": "Die Steiermark setzt in ihrer Tourismusstrategie verstärkt auf regionale Mobilitätslösungen wie RegioBusse und MICE-Angebote, um Entdeckungstouren und Urlaubserlebnisse in verschiedenen Regionen wie der Südsteiermark, Oststeiermark und dem Erzbergland attraktiver zu gestalten. Mit neuen Weinhoheiten, kulinarischen Highlights und einem vielfältigen Almhütten-Angebot peilt der steirische Tourismus eine Rekordsaison an, während gleichzeitig Fragen zur Qualität der Tourismusausbildung aufgeworfen werden.",
       "items": [
         {
-          "title": "Auszeit in den Bergen: Über 150 Almhütten in der Steiermark laden zum Urlauben ein - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2w1cWpSZEQ0VWUydEloaFRyODJ2V1RmX0ttb0ZYbExnUTg2N3lISE9qZUFIOW5wek9wUjlJN0V2amczcjVfV09mUDBUbEdCN3VvTS13c0lLUGVHckZRVVdPR1pUQXJpRExNLUc3QjRqWUNBQWhFUHgwaGNCdTZIT3pqTGtyUnFQdjdFT3d5M2VPQmVKWjl1QmcyZU1uUXYtb3d4UjliUHJkRXNnQ2N4WkRaMEdKRi1s?oc=5",
+          "title": "Tourismus-Initiative: RegioBusse machen Lust auf Entdeckungstouren in der Südsteiermark - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR3JuWWlSZkc0MW5NVDVoemYzTVVaS0h3VGIyczJiUzltbzZCQzV6di1ZWFhPc2dvQnRrUk5zOVV3VjYzbm51am5nLTgyRENVbU9wd0w4VVJEV040cHljZVE0dThYcGFCLVRoc2ZxdlB4WjNMZUNHanllb0FrRGY3NmxTZFJCRzNvZmlzdHBYZ042NXAzaWZNLXNfd2JhTUpHQXhFMEExQ1hzQmZob2xaX09makZJQ3ZyQ0hhR1F3OFRVYm8tdTBr?oc=5",
           "source": "MeinBezirk.at",
+          "date": "28. Jul 2026"
+        },
+        {
+          "title": "Tourismusverband Erzberg-Leoben: So boomt die Region im Sommer - wirtschafts-nachrichten.at",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ2xmNDVZVS1Ib1ZvQm1mNDduWmxaVFpwTW9uZlBPRFh5ZGlZTlkxZkJLdVpXM1VzTXVpWG9MalVISm9WMmJDTk8tak9SazlHMXV3ZU9ZaTB2ZE1LSnJtUGtDS0Zxc0FxdUNFNzlLSmdQU1czUm9zdlpCS1dTWm1uQ3A2LUk?oc=5",
+          "source": "wirtschafts-nachrichten.at",
           "date": "28. Jul 2026"
         },
         {
@@ -89,21 +95,9 @@
           "date": "22. Jul 2026"
         },
         {
-          "title": "Johann Lafer: Ehrung im Lehrbetrieb - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53RUt4YlpRNWQ0T1pxVVlfTjNabnl1UXhIMklRUFl6OUFsZlZxRmU5SXk4enZ3eHJ0YzcwRFBrb3FjVGp5Y0JGZ2tIUzJHd1RfTkh0RA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "21. Jul 2026"
-        },
-        {
           "title": "Johann Lafer feiert 50-jähriges Lehrabschluss-Jubiläum im Grazer Gösser Bräu - GASTRO.at",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNODdncVdaaWdacUJOTms0aFc2X2NHTWt6MXYzTU5UVXBSb1B4MDNZbGxacHQ4MG5xeTE2RzNtVDlaOUhsOURXN2Y0d0d4SnZnWE83bDNvdGJIOXd2a1dETWdYcFl6aXFQcUs4R2tJTFk3ZkJWaUhIYmhaMEZHWVVYbVUwZ19mOWds?oc=5",
           "source": "GASTRO.at",
-          "date": "22. Jul 2026"
-        },
-        {
-          "title": "Vom Grazer Lehrling zum TV-Star: Johann Lafer feiert besonderes Jubiläum - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQWJheGtvVGtma1V3OHROSEMtRjJpR2ZsYnBxaTluM1JvS2FxR3RUeXdQbm5paWRadzJBWXNLLWRxaGhBOTFlazlFNkthOVQ3eVk5dkNlRTZVMUJWY3F2VE1mOU5nRjhHakdtOFNuQnd0eHd6ZHpnbTFiUmxUamVZcXVYeDhFc25YS3A0ZlVYRFBISGhBMGZfYUNLby0yVjN4WEM0bXVjTEZBUGN6SXdlQ19R?oc=5",
-          "source": "5 Minuten",
           "date": "22. Jul 2026"
         },
         {
@@ -111,6 +105,12 @@
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDE3aFlaV3BUaFk3N0ZHSTg2ZC1Tb1J5aUNWWnE4X0VPZ3lFSzdpdlRBZS1Wa2J6U3BkRkw1d3dDY2x6WkxMc1V6SUxZb2hBN1ZJZk1BVDlHbDE1REhnN1NvZ0t1c3VkUWwtRWlRZUltLXEzUVRzLUZObG8zeW5XTTlYZWdLUjhiT2VJMUFvRlFZU0dib0ZmcFY1cE9IM1ZtSWpvVWNVam0?oc=5",
           "source": "Kleine Zeitung",
           "date": "23. Jul 2026"
+        },
+        {
+          "title": "Auszeit in den Bergen: Über 150 Almhütten in der Steiermark laden zum Urlauben ein - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2w1cWpSZEQ0VWUydEloaFRyODJ2V1RmX0ttb0ZYbExnUTg2N3lISE9qZUFIOW5wek9wUjlJN0V2amczcjVfV09mUDBUbEdCN3VvTS13c0lLUGVHckZRVVdPR1pUQXJpRExNLUc3QjRqWUNBQWhFUHgwaGNCdTZIT3pqTGtyUnFQdjdFT3d5M2VPQmVKWjl1QmcyZU1uUXYtb3d4UjliUHJkRXNnQ2N4WkRaMEdKRi1s?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "28. Jul 2026"
         }
       ]
     },
@@ -118,7 +118,7 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Steiermark intensiviert ihre Forschungs- und Innovationsaktivitäten durch grenzüberschreitende Kooperationen mit Friaul-Julisch Venetien sowie durch massive Investitionen in zukunftsweisende Technologien wie Quantencomputer. Junge Unternehmer und Forschende präsentieren dabei ihre innovativen Projekte, die von der Arktisforschung bis zu Start-up-Initiativen reichen.",
+      "summary": "Die Steiermark verstärkt ihre Forschungsaktivitäten durch internationale Kooperationen und erhält erhebliche Förderung für zukunftsweisende Projekte, insbesondere im Bereich Quantencomputer und künstlicher Intelligenz. Die TU Graz erzielte dabei einen bedeutenden Durchbruch mit der Entwicklung einer gehirninspirierten KI, die flexibel planen und Probleme lösen kann, während gleichzeitig junge Innovatoren und Start-ups das Ökosystem der Region bereichern.",
       "items": [
         {
           "title": "Innovationsallianz verbindet Steiermark und Friaul-Julisch Venetien - 5 Minuten",
@@ -131,6 +131,24 @@
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9MdkZsNWFLWUh6X0l0eWFZSTJCYklaTkVnVGVTVEFkRjU4M2JhWkJZeGo1ajdYejgtNFhvTEU1YXVfQQ?oc=5",
           "source": "Kronen Zeitung",
           "date": "24. Jul 2026"
+        },
+        {
+          "title": "KI wie das menschliche Gehirn? TU Graz gelingt bemerkenswerter Durchbruch - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNml0Q3pIaENDMzhSU0Z0V2Z3dEw4SndMekp3UHZjLUc0eEROTFlLLUNBakJqQVQ1bEhDdnR2OU40UmlTQnR5dW0wSVZYY1U1LVl3ZllkckVRSG5aWjVrZE1LRnhuOWNjU1N6STBnemFfMkhFSFpYcC05S2laYzdjYlEtcllETXB2Zlp2ZWFDSWkzLTRCQkRUMmpOZmxFSXBHQmEzRG1fRmZoT3hlUFNUekhn?oc=5",
+          "source": "5 Minuten",
+          "date": "28. Jul 2026"
+        },
+        {
+          "title": "TU Graz: Grazer Forscher entwickeln KI, die wie unser Gehirn funktioniert - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT1RNalNIYXdmN1ZuUVhLbHNfQllxY0xIZmoyc05WNS0xTThTUGc4Z08zWDlDOGE1MEp0cmk5UGlJOU00aHM0LTZfNmVJTldCUE5USVhmTXBTMVlqOGNkWjBfX0tXSjFYRG9pWXZRUnBXZ3pKcGNMd2UwNTZvTEdHNzNENVlHdjNrZmEtUlR0X0J2SWRrT1plQUF4T1preHdtQ00xcnk5RlF0c3NGa3lkNHFKaW5ER3c?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "28. Jul 2026"
+        },
+        {
+          "title": "Gehirninspirierte KI der TU Graz kann flexibel planen und Probleme lösen - openPR.de",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV3BrQUdXOF9yZTkxcnljbFJpUDF1NDk0U2UydlZRZ2FTR2ZrUVNfMUk2WXJ6V2d2aDU1N2JBZkxlakdYLVJPbl83TDhEanotOEQweHlGbktzMDB1RVNyanREQU4wcDZ3aEJoYzBDTUtoV2RqTG1RbEZRZGdEM01xX3dSOUFrWVRRN1djOHRJRlEtLUZ5b1NENkNCZ2lST2pXaWViSmFJM1piRGlRNXg2Q2RxWWY5RXFq?oc=5",
+          "source": "openPR.de",
+          "date": "28. Jul 2026"
         },
         {
           "title": "Sihorsch über Forschungen in Arktis - news.ORF.at - ORF",
@@ -150,7 +168,7 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Das Grazer Unternehmen Easelink hat durch seine Technologie zum automatisierten Laden einen globalen Zulieferer als Partner gewonnen und stärkt damit seine Position im internationalen Markt. Diese Entwicklung zeigt die Wettbewerbsfähigkeit steirischer Innovationen und unterstreicht das Potenzial der Region als Technologie- und Wirtschaftsstandort.",
+      "summary": "Das Grazer Unternehmen Easelink hat mit seiner Technologie für automatisiertes Laden einen globalen Zulieferer als Partner gewonnen und stärkt damit seine Position im internationalen Markt. Dieser Erfolg zeigt die Innovationskraft steirischer Unternehmen und deren Potenzial, durch technologische Lösungen internationale Geschäftsbeziehungen aufzubauen.",
       "items": [
         {
           "title": "Easelink: Automatisiertes Laden: Grazer gewinnen globalen Zulieferer als Partner - Kleine Zeitung",
@@ -164,19 +182,25 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark setzt sich intensiv mit der wachsenden Macht künstlicher Intelligenz auseinander, wobei Experten wie der TU-Rektor vor der Bedeutung dieser Technologien warnen. Gleichzeitig werden kostenlose KI-Tools und europäische Alternativen zunehmend zugänglicher, um KI-Anwendungen im Alltag praktisch nutzen zu können.",
+      "summary": "Die Steiermark positioniert sich als innovativer KI-Standort, wobei die TU Graz an biologisch inspirierten Systemen forscht und Experten vor der wachsenden Macht dieser Technologien warnen. Gleichzeitig werden kostenlose KI-Tools und europäische Alternativen zunehmend im Alltag verfügbar, ohne dass diese breite öffentliche Aufmerksamkeit erhalten.",
       "items": [
         {
-          "title": "TU-Rektor zu KI: „Systeme mächtig geworden“ - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0clAxZGtKNG84cWFjbW9IX0tSbVA4dGxJLWJ4dm9ydTYxZ0RDcWdlUGh5ajVNYzdza3B1bjFHMDNDUEFoQW9ZRDJvU1VWeWVicENOUA?oc=5",
+          "title": "Gehirn als Vorbild: TU Graz entwickelt KI - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EdGNlUXlIRUw4WmNCWVpnVlF1emNET0NVYWhaRC1KNW9YdmlOb3BINDNBS3J5ckwyZlpmNTZwS3Vqa3JxYmEzZVhWWWtVZFlKMzl6RA?oc=5",
           "source": "steiermark.ORF.at",
-          "date": "25. Jul 2026"
+          "date": "28. Jul 2026"
         },
         {
           "title": "KI im Alltag: Künstliche Intelligenz gratis nutzen: Diese Tools kosten nichts - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTl9EUDBpZFJ5eU9Ga1dFUDRMRlUwb0dCcnJFdnRPRUhoVGJYWnpsalZ0M29uME92YUZUWFZvWkRQWUVZRm11alZ1R0xjazhQcmZzWHdtRlp0STRxbWNNUDh5Qlg0NHB3UF84T3hISHhKVlBiSHYwaXNhOTF5TF9DMjktQ2NMV3ZJdXgtRGZ5RHJDZlprWnFDOUFfemFRT1U3bTBoeGpEcmpGLWp2MFNXdU9IdS1iV1ZoWlVDc3ZPRzdrRi1mZk5xSzhraW4zUQ?oc=5",
           "source": "MeinBezirk.at",
           "date": "26. Jul 2026"
+        },
+        {
+          "title": "TU-Rektor zu KI: „Systeme mächtig geworden“ - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0clAxZGtKNG84cWFjbW9IX0tSbVA4dGxJLWJ4dm9ydTYxZ0RDcWdlUGh5ajVNYzdza3B1bjFHMDNDUEFoQW9ZRDJvU1VWeWVicENOUA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "25. Jul 2026"
         },
         {
           "title": "KI im Alltag: Warum über diese europäische KI-Alternative kaum wer spricht - MeinBezirk.at",
