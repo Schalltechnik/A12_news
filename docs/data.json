@@ -1,13 +1,19 @@
 {
-  "generated": "03. August 2026, 05:58 UTC",
+  "generated": "04. August 2026, 05:32 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Steiermark erlebt im ersten Halbjahr 2026 einen beispiellosen Gründerboom mit Rekordzahlen bei Unternehmensgründungen, während gleichzeitig Infrastrukturprojekte wie die Koralmbahn und intensivierte Handelsbeziehungen zu den USA als wichtigstem Exportmarkt die wirtschaftliche Dynamik und Arbeitsplatzentwicklung zusätzlich fördern.",
+      "summary": "Die Steiermark verzeichnet im ersten Halbjahr einen Gründungsrekord mit 2.791 neuen Unternehmungen und zeigt damit eine starke Gründungsdynamik, während der Arbeitsmarkt gleichzeitig erste vorsichtige Erholungstendenzen aufweist, die jedoch noch fragil bleiben. Diese positive Entwicklung bei Neugründungen und Unternehmertum deutet auf wachsendes Vertrauen in die wirtschaftliche Zukunft der Region hin, auch wenn die Arbeitsmarktlage insgesamt noch Stabilisierungsbedarf hat.",
       "items": [
+        {
+          "title": "AMS-Prognose Steiermark: Arbeitsmarkt stabilisiert sich langsam, doch Erholung ist fragil - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMUNQU0dIUkUtNlNfY3NDSVNwd3JHSnlESzJlbm1MNk12ZDczRlRkc0hyMy1UQ0ZIZU9RSlJhcE9SSkRIazd4b3UzN2M2dHpSeHFGUlZETkVSV1NqeGdXQl9NNDRxOVNDT2xlSy1vVTFjVGNycUFYb1FWaTRjaG9hMWN1MWdiU2VQV0ltaVBfN09odUdrTkpuVk12cnFPMy1kT2NZbkV4dlRTT1l0a1E0TEJTV056ZzJuRUdyODU0cw?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "3. Aug 2026"
+        },
         {
           "title": "Neuer Gründerrekord im ersten Halbjahr - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EcG5uNVBBYmNzR2NHOTRCc2ZnaERiSzc0OHRZTy1wWlBxakE0SXZRRlF5dUlwWWcyMzltZFI4eHEtMGJSNjdUNDJrcTlocTR0VmVyMA?oc=5",
@@ -21,40 +27,34 @@
           "date": "28. Jul 2026"
         },
         {
-          "title": "Erstes Halbjahr 2026: Steiermark verzeichnet Rekord bei Unternehmensgründungen - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQjVRNGdwZDdDd1RSSlIySW5kSk5CZGJoSkZZcnl1cllTVW03YlJuSm4zbmNXWGlEWUN3MGY3WlJmbnZnZl9tdE5rYnRWRlJRbmhSWEQ0RDM5UUZid1FVemUxOVh6MGE5VmY4UW5FejNmdzMtTGNoRXZEdE1zNEpmekVybHJLdE1FbE1QMnRwVk1icTRzYjd1cTR5cWhpZzVpUW94eHp4TWRaSEpNRVhwMzExVDJCNU0?oc=5",
-          "source": "MeinBezirk.at",
+          "title": "AMS macht Hoffnung: Steirischer Arbeitsmarkt zeigt erste Erholungstendenzen - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLVBNT0hYY3dsNFhSODhNNFhUNE8wTmcyUmM4LWtvWW1Gc3A1N2FQQVNiVGROSFpxMHZscGlUTUthbE5paWhlSVYzb0dYN2xWemxSbXJSaXc1WVpnV1dZbDJYS182c2pkM1BMRHIweDRqbEoyal81V0cxcDQ1NXVtNlluRGdDTGNpSUk5MVRzeHBqb3dzVHJjLWlRRnVNelhpdW5wMU0yUFRSS1d0V0Fnb0p5WFVwVUdnTFlpYQ?oc=5",
+          "source": "5 Minuten",
+          "date": "3. Aug 2026"
+        },
+        {
+          "title": "Einzigartig übernachten in der Steiermark - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KcWI1SWVPMUEtVGpicFQxZGg0a2p3Z0ZxTXFTQ2Q2OVZIZ0RfeVd5YW5KWTBlV3FQdS14ZEJiR2JKMlZwOHptY2U4NUwzMVRMUExqQmI1SmFHSGFDMEphWmg3ckp4ZW00WlJuUEMzNVRLWnVkTFZ0REdFYw?oc=5",
+          "source": "wko.at",
+          "date": "3. Aug 2026"
+        },
+        {
+          "title": "Rekord in der Steiermark: So viele Menschen machen sich selbstständig wie nie - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLWMxYTNJWVRBUDdLcXNXUUdsNXpYZDNrUFlSNDBBU1VPV25qemRwNDNKQlFtMjVBanZPVTkyWG9WNU84TVNzLURsRG9uLWhjMjhFUnBLVUlSVnBRTTN2M2VJcVlqYXV3c2F2V256a2hDaGpuZF9aWUFqandQRXZsTTlRVFJTbGNDQWdKU1pTRWVndE9Ta1U0cTVEb0lVOVBVWU1NVmF3U3lrVDU2TkVuWWFiSXVfU2xQTTdZa19CekI?oc=5",
+          "source": "5 Minuten",
           "date": "30. Jul 2026"
         },
         {
-          "title": "Gründungen: Rekord: Noch nie machten sich so viele Steirer und Steirerinnen selbstständig - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYjlCeUFreHVaNzJmclRFMEJOSnN3SmlCaURMS1VCNGhNY05VTkdlY1lYVDVhRkpKNWk2UHhidDRDRGFlZnBBYXRyMGo1Nld5WVk3NzlOeldzWDEyUHE2LV9MeFh2bFd3eHRBeDFhZEU5ekV2YUIyNWU2Ykticmk2aFk1em5jdERSamJxZmtybXFwdWxBZ21IM2N1OTdSQWN4Ti04NWtiZjdiNkNv?oc=5",
+          "title": "Neuer Rekord mit 2.791 Gründungen im ersten Halbjahr in der Steiermark - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSUpUUi1NSVRWQlNVVnVXT0tacXIwRDlkOHdSWDJwdFdBWGNLNXQxSnUzRGU4N3VOOXZwS3Z2bzZGQm9pcmg2QUc1Vnp4NS1vWDdOM1N1ZXl0QTktLTl2Z1RraUxXZUNLck9uSHUyR05TeFV5dE42eWlLMjlvTV9yeUQtdkdQNzJaT0RHUlFsOFRKQ3I2?oc=5",
+          "source": "wko.at",
+          "date": "30. Jul 2026"
+        },
+        {
+          "title": "Adrian Wetzel aus Irdning als „Star of Styria“ ausgezeichnet - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdmc4SVFDdjZnRkNCbXRiVTJZMzBzdjlVblp4UUJaLVBNcmlCQlZISlJMM2xreEM4SGo1bzREQTRacm43azFYbER6WGplVjVXYTExbGY0OGNuMGdnVXNHdGZkdUhzeER4N1Rrd1lqa1ctZjFfcVBPa2lRU0tiaHh3eXhZSVlTUkVwWngwOVp0ZERIV1c5ajJ2UGJwRVBFdHJlN2dIbENvUQ?oc=5",
           "source": "Kleine Zeitung",
-          "date": "30. Jul 2026"
-        },
-        {
-          "title": "Arbeitsreise in den zweitwichtigsten Exportmarkt – USA - Leibnitz Aktuell",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZWdKRDlDVWRfMTdlZDNvRnRXN2E4U3VyY2FacGxEVk5GVWV6OU1TNmJWN0FONkJ6cTZIT01lbERWNkdmazhkMXV5bmZLV2JnNzR3QlczdFNRQ0M1MjlTQjl1WlppSlFkc3kxVXNCRFpXZkhfV3N3ZWMxTFMtekFwd3pVTFJKbUo1QVFyQ2tBRVEzQQ?oc=5",
-          "source": "Leibnitz Aktuell",
-          "date": "30. Jul 2026"
-        },
-        {
-          "title": "Koralmbahn stärkt Wirtschaft und Arbeitsmarkt - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWXZzMEhORjdWN2plcFowTXJTekttUDB5R3VlUVJ1TmxxRmRlY3NRYzEzTkxPN2FWQURZdGl2QkxpU2dBRVVWLVpzSEJTNkRIUlNyVkZkY3dzaWdwWFhnUW93OXM0d2dnRjJJbkRleDNyWDNQVGVvcTVpQTYyV2hNdDVHc2pwV3Z6LTRfZUhFdEtDLTVId3N4N0VkMTctN2RyeU1hMVdOYXhueTVNQjJjeUprZ0tkWGphdFE?oc=5",
-          "source": "ORF ON",
-          "date": "27. Jul 2026"
-        },
-        {
-          "title": "Steiermark heute vom 27.07.2026 - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jYU5uRDJnSi1MSEtOWTRDOGFCcUZ0eVNrS3VPQTF6dXF0OUF5dVhOLXA5aTltaDhoRW1FTG0tdU5SNHhBR3pGSU84T3R0VndYTjV4OW9FWHZYbkRwRVpaVmlqS1hRTXBFWGxfc2lvbw?oc=5",
-          "source": "ORF ON",
-          "date": "27. Jul 2026"
-        },
-        {
-          "title": "ÖVP stärkt Partnerschaft mit den USA - BLO24.at",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSmo1c2tQMnF3UXV3ejN6TFk3eDR4RjF1cnF5UHR4X2pOWmZKMDh2UUxsaS1taFpxMFVrdXRTYkJwYmtMd2VqR0g0eWVPUTY3UzFmZFlBbWgxRnRwRlJVclJhTmpTaTlmdHJtSmI0aDBFR1lVN3l2WEttdDFZUGVoSW1Ba2JYVGgzRGsxR3ExMkpCUQ?oc=5",
-          "source": "BLO24.at",
-          "date": "2. Aug 2026"
+          "date": "28. Jul 2026"
         }
       ]
     },
@@ -62,14 +62,8 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark verzeichnet derzeit starke Tourismusaktivität mit positiven Nächtigungszahlen durch Bayern-Urlauber und internationale Großveranstaltungen wie den Esperanto-Kongress in Graz, während gleichzeitig die Tourismusakademie ihr Weiterbildungsangebot ausbaut und regionale Initiativen wie die RegioBusse in der Südsteiermark zur Angebotsvielfalt beitragen. Besonders die Regionen um Erzberg-Leoben und die Weinkultur der Steiermark profitieren von dieser positiven Entwicklung, wobei die infrastrukturelle Belastung durch Sommerverkehre auf den Autobahnen eine Herausforderung darstellt.",
+      "summary": "Die Steiermark verzeichnet starke Tourismusaktivitäten mit wachsenden Nächtigungszahlen, insbesondere durch Bayern-Urlauber und internationale Großveranstaltungen wie den Esperanto-Kongress in Graz, während gleichzeitig Rad-Tourismus und regionale Destinationen wie Erzberg-Leoben boomen. Die Tourismusförderung konzentriert sich auf die Professionalisierung durch erweiterte Weiterbildungsprogramme der Tourismusakademie, um die Qualität und Wettbewerbsfähigkeit des steirischen Tourismussektors nachhaltig zu sichern.",
       "items": [
-        {
-          "title": "Tourismusakademie startet mit neuem Weiterbildungsprogramm - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSm9HVy1yUl9VbEZQT2JWNXo1dFBiRmVnTWhrVElCSE5oRW54bzl5bWJDTU9RcDI4ZVp2UG8xVmwzemFORnduVFBqY0lHNUVqWkRJNUJRUHFRZFpKSGxmLWtmQVZydnN4QmRMN29FcnRkQ0E3dDNJbXRxNUd3ZnVCWjJvUU83S3NtOGxEWi11V2Zpd3k0N0ViS1VPZGIyTy1DV3p2VWhsdw?oc=5",
-          "source": "5 Minuten",
-          "date": "2. Aug 2026"
-        },
         {
           "title": "Tourismusakademie erweitert Weiterbildungsangebot - gast.at",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWlBvWU1IZEIzTXNxUkplZkgzeDhqdFNBZmd6NUlXd0JqQXlpRnhPSnBQY0lMV1FCSW1ZdzZweThsT1o3VXM2RjI0b25uVjc0eE1hQUYwd0cwQVItQTlPLVJidzJXbGdPYXYwWHhHZEU2RWFteWZfWk1tRUM4R2xUYWRTb1U0Y2hrRkRxbE4wYXRYdHdxb19GR2xR?oc=5",
@@ -83,15 +77,27 @@
           "date": "31. Jul 2026"
         },
         {
-          "title": "Tourismus-Initiative: RegioBusse machen Lust auf Entdeckungstouren in der Südsteiermark - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR3JuWWlSZkc0MW5NVDVoemYzTVVaS0h3VGIyczJiUzltbzZCQzV6di1ZWFhPc2dvQnRrUk5zOVV3VjYzbm51am5nLTgyRENVbU9wd0w4VVJEV040cHljZVE0dThYcGFCLVRoc2ZxdlB4WjNMZUNHanllb0FrRGY3NmxTZFJCRzNvZmlzdHBYZ042NXAzaWZNLXNfd2JhTUpHQXhFMEExQ1hzQmZob2xaX09makZJQ3ZyQ0hhR1F3OFRVYm8tdTBr?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "28. Jul 2026"
+          "title": "Tourismusakademie startet mit neuem Weiterbildungsprogramm - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSm9HVy1yUl9VbEZQT2JWNXo1dFBiRmVnTWhrVElCSE5oRW54bzl5bWJDTU9RcDI4ZVp2UG8xVmwzemFORnduVFBqY0lHNUVqWkRJNUJRUHFRZFpKSGxmLWtmQVZydnN4QmRMN29FcnRkQ0E3dDNJbXRxNUd3ZnVCWjJvUU83S3NtOGxEWi11V2Zpd3k0N0ViS1VPZGIyTy1DV3p2VWhsdw?oc=5",
+          "source": "5 Minuten",
+          "date": "2. Aug 2026"
         },
         {
-          "title": "Tourismus jubelt - Esperanto-Kongress holt die ganze Welt nach Graz - krone.at",
+          "title": "Wie die neue Top-10-Sightseeingtour von BikeGraz zur wachsenden Rad-Offensive im Land passt - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRXJDZnAzMFNVRnpXbzJhVDFXYXdXaUZ6RmlrVUZpNGl6VHpoQVMxcGJENmZRVzVNTVUyYnVrX3l6ZjlnTnA5c2pqTzUycDk0TmxoRWNIdXJTeFNWMzlGb3JqSGU2bngxeHlQTGYxUFk0TjV2eEFpXzVSbU9qYm5Yd1pRQWZLV2thdHBHRmh6a0R4QUs0Uk9yY2JFQjZjRVlZVXFkcGRyY1p4dUppMHBXQUg0MmpJVVlGZDRTOEJ4dmZjYkFCRUVQRm1CRVl1U0xpaUFzVzVvM1dVR2R4OUhOY0ZoSlIzTDFZbF8w?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "1. Aug 2026"
+        },
+        {
+          "title": "Tourismus jubelt - Esperanto-Kongress holt die ganze Welt nach Graz - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBKZ05yUVNBaV92S2Q0VmV0dWRVOFRBQVJ4M1ZUZS1zZ2dwYmdUMVdaV3BsaFJwbDdIbV9nNkhyQ3Z4Zw?oc=5",
-          "source": "krone.at",
+          "source": "Kronen Zeitung",
+          "date": "31. Jul 2026"
+        },
+        {
+          "title": "A2 und A9: In der Steiermark drohen jetzt die längsten Staus des Sommer - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNE9fTTVPa0ZrbkJXdk1WRjlfREZvRXlHQjdWck9qRlhpdmY5S19TTXF0V1lhSktPUXZqUTlyQ2ZoVU8xZEoyaHl6T2Utak1Nb0cwX1lGYTJxX1RDYm82UFYyeGxIeElXTFRVOVBwaXBSaDFGU3BoNFQ4eEZjTVRmcTduWkJpR1lRUlU0MWRsbVhhek5aMVRCeUtSb3FyQ3I4cjljNTM0UXVQblpMbG9PeWo0aDNmdWxT?oc=5",
+          "source": "5 Minuten",
           "date": "31. Jul 2026"
         },
         {
@@ -101,16 +107,10 @@
           "date": "28. Jul 2026"
         },
         {
-          "title": "Die Steiermark hat neue Weinhoheiten - Der Winzer",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSDAxbTAwam5aT2FnanY5bDZJTGJWUkFWR3Z5cDNDVkpjd0ZHbTJsak5NRFVZQXhtR0d5QkJxYi0zR09CQkIycThrbXlnM3lUeGpxeE85SXE3VzBrQzNqeXVvTm5TUV9YeUFNMEhxTXF3NEF0aWFDYlVGLXR0X3JTR2tNckI2NEk?oc=5",
-          "source": "Der Winzer",
-          "date": "27. Jul 2026"
-        },
-        {
-          "title": "A2 und A9: In der Steiermark drohen jetzt die längsten Staus des Sommer - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNE9fTTVPa0ZrbkJXdk1WRjlfREZvRXlHQjdWck9qRlhpdmY5S19TTXF0V1lhSktPUXZqUTlyQ2ZoVU8xZEoyaHl6T2Utak1Nb0cwX1lGYTJxX1RDYm82UFYyeGxIeElXTFRVOVBwaXBSaDFGU3BoNFQ4eEZjTVRmcTduWkJpR1lRUlU0MWRsbVhhek5aMVRCeUtSb3FyQ3I4cjljNTM0UXVQblpMbG9PeWo0aDNmdWxT?oc=5",
-          "source": "5 Minuten",
-          "date": "31. Jul 2026"
+          "title": "Im Frühling: In der Region Erzberg-Leoben machen Touristen besonders gerne Urlaub - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVlllblhnZlVRNzJ5V20yYWVqbHRTY0VkZmc1OTExYzZGcTBVWWdnVW5DbElnbklKeTdCbHJaaDQtS3g5V1pvWWdwTlN0V2oxTERnR2Y4RDBERkhHT3MwdFN2N3VNY2dXSUxwZzZtVUY3dk5CYS1Hd1lLbFUtUnVfak42eDFhUzZhaHNROTdGNk83ZTJfdFMzV0N5WDZ2cGtFRllORmd1U3llclh3OW90VHd3Rlg?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "29. Jul 2026"
         }
       ]
     },
@@ -118,7 +118,7 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die TU Graz erzielte bedeutende Durchbrüche in der Entwicklung gehirninspirerter künstlicher Intelligenz, die flexibel planen und Probleme lösen kann, während gleichzeitig den Energieverbrauch durch Nachahmung biologischer Prozesse senkt. Die Med Uni Graz stärkt ihre internationale Forschungskooperation im Bereich Hirnblutungen, während die Universität Graz mit budgetären Herausforderungen kämpft und mit Stellenabbau rechnet.",
+      "summary": "Die Steiermark zeigt in der Forschung bemerkenswerte Fortschritte, insbesondere an der TU Graz mit bahnbrechenden KI-Entwicklungen, die das menschliche Gehirn nachahmen und den Energieverbrauch senken, sowie an der Med Uni Graz mit internationalen Kooperationen zur Hirnblutungsforschung und innovativen Verfahren zur Tumorzellanalyse mittels Laser und Gold. Allerdings drohen diese Erfolge durch Sparmaßnahmen gefährdet zu werden, da die Universität Graz mit Stellenabbau und Aufnahmestopps rechnet.",
       "items": [
         {
           "title": "Tieschen: Forschungsfest am Hauptplatz zeigt aktuelle Grabungsergebnisse - MeinBezirk.at",
@@ -130,18 +130,6 @@
           "title": "KI wie das menschliche Gehirn? TU Graz gelingt bemerkenswerter Durchbruch - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNml0Q3pIaENDMzhSU0Z0V2Z3dEw4SndMekp3UHZjLUc0eEROTFlLLUNBakJqQVQ1bEhDdnR2OU40UmlTQnR5dW0wSVZYY1U1LVl3ZllkckVRSG5aWjVrZE1LRnhuOWNjU1N6STBnemFfMkhFSFpYcC05S2laYzdjYlEtcllETXB2Zlp2ZWFDSWkzLTRCQkRUMmpOZmxFSXBHQmEzRG1fRmZoT3hlUFNUekhn?oc=5",
           "source": "5 Minuten",
-          "date": "28. Jul 2026"
-        },
-        {
-          "title": "Gehirninspirierte KI der TU Graz kann flexibel planen und Probleme lösen - openPR.de",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV3BrQUdXOF9yZTkxcnljbFJpUDF1NDk0U2UydlZRZ2FTR2ZrUVNfMUk2WXJ6V2d2aDU1N2JBZkxlakdYLVJPbl83TDhEanotOEQweHlGbktzMDB1RVNyanREQU4wcDZ3aEJoYzBDTUtoV2RqTG1RbEZRZGdEM01xX3dSOUFrWVRRN1djOHRJRlEtLUZ5b1NENkNCZ2lST2pXaWViSmFJM1piRGlRNXg2Q2RxWWY5RXFq?oc=5",
-          "source": "openPR.de",
-          "date": "28. Jul 2026"
-        },
-        {
-          "title": "TU Graz: Grazer Forscher entwickeln KI, die wie unser Gehirn funktioniert - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT1RNalNIYXdmN1ZuUVhLbHNfQllxY0xIZmoyc05WNS0xTThTUGc4Z08zWDlDOGE1MEp0cmk5UGlJOU00aHM0LTZfNmVJTldCUE5USVhmTXBTMVlqOGNkWjBfX0tXSjFYRG9pWXZRUnBXZ3pKcGNMd2UwNTZvTEdHNzNENVlHdjNrZmEtUlR0X0J2SWRrT1plQUF4T1preHdtQ00xcnk5RlF0c3NGa3lkNHFKaW5ER3c?oc=5",
-          "source": "MeinBezirk.at",
           "date": "28. Jul 2026"
         },
         {
@@ -163,10 +151,22 @@
           "date": "28. Jul 2026"
         },
         {
+          "title": "Laser und Gold - Grazer Forscher beleuchten Tumorzellanalyse neu - News.at",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRWlVVTlmdUFnNlZJaHhGbnF4R2FQMlVBdm1UVUNNdWxPTURPX0dKZFlVbmM2SFhJZ21aUkpTY1Z1YjBRQlh1TWczY0JDV2xOWmhnNnNSYWJSY2lmNnRIV1RKOTFyVmVwdDE2alRUY3ZOcFRYOGdRYlMtSXp3MF9qb0ZoUUJUMmdRakZxZEl5NVhLNEZH?oc=5",
+          "source": "News.at",
+          "date": "30. Jul 2026"
+        },
+        {
           "title": "Firmenjubiläum Gnas: Stiegenbau Müller feiert drei Jahrzehnte Handwerk und Innovation - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSnVydVphWUVIakVOSS1leTdsVVpzLVVXUGxFV2JLNUNET1FPTDhVdzZjbzVCT1RCc3p6dksyamJ6NTVzSTNwZjBtQTNjY2txUUFMUURpaVh6aUtZLTRmaUpURm9jWllKRjd1YTdlbDlXR0RFUXhVM25CYmFXNzBMaDFhanBwa3dpaTdjRnlSYTJvc3dQZTNJNnZpVHY3TFVEZ3FlUEVucFNwWVd2VUFZbkZmVmUzQWVTSGFDMzQ3bUtJbmVqRWlr?oc=5",
           "source": "MeinBezirk.at",
           "date": "3. Aug 2026"
+        },
+        {
+          "title": "Nachhaltigkeitstag 2026 - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPUFNEdklLQTVaaE9tbENKNFU1c1haallyU19pTDE1MVBMMV9RME9fU2Z5eFVUQTFLVHZ1dHN6Vi1RMzRPLTY5UFRqdGFtZ2tSNXRudDcyUWVjSmc?oc=5",
+          "source": "wko.at",
+          "date": "28. Jul 2026"
         }
       ]
     },
@@ -174,19 +174,19 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark profitiert von erheblichen EU-Mitteln mit Millionen-Rückflüssen aus Brüssel, wobei 2025 605 Millionen Euro für regionale Entwicklung zur Verfügung stehen. Der zweite Titel bezieht sich auf ein kulturelles Freizeitprojekt in Niederösterreich und ist nicht relevant für steirische Förderungen.",
+      "summary": "Die Steiermark profitiert 2025 von erheblichen EU-Mitteln mit über 605 Millionen Euro Rückflüssen aus Brüssel, die zur Finanzierung regionaler Entwicklungsprojekte zur Verfügung stehen. Diese Strukturfondsmittel ermöglichen Investitionen in Infrastruktur und Modernisierungsprojekte, wie sie beispielsweise auch in Nachbarregionen für Erweiterungen und Sanierungen genutzt werden.",
       "items": [
+        {
+          "title": "Niederösterreich: BÄRENWALD Arbesbach wird erweitert und modernisiert - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNmtBQVlpZDNHRk1FTmJnbWpOa0QwVm1ad0tBOFZSbmppNU1MQ0gwcE9ZQnFBeHBVdy03UjdzN3dqTkotbXdnd2d2MWNRblRNa2s3eFhtY0xWM1k0eVQ4a2UzSE9JLWVkenVjYnA3c0tkX0Ftb2hWY3Y2eGViUkNUdkhkTFUzQ0FDZnhYb2RGT0ZVS2VuTERhOVYzcWxKZjTSAZ8BQVVfeXFMTzZrQUFZaWQzR0ZNRU5iZ21qTmtEMFZtWndLQThWUm5qaTVNTENIMHBPWUJxQXhwVXctN1I3czd3ak5KLW13Z3dndjFjUW5UTWtrN3hYbWNMVjNZNHlUOGtlM0hPSS1lZHp1Y2JwN3NLZF9BbW9oVmN2NnhlYlJDVHZIZExVM0NBQ2Z4WG9kRk9GVUtlbkxEYTlWM3FsSmY0?oc=5",
+          "source": "Regionews.at",
+          "date": "4. Aug 2026"
+        },
         {
           "title": "EU-Bericht 2025 bestätigt Millionen-Rückflüsse aus Brüssel - 605 Millionen Euro flossen nach ... - Regionews.at",
           "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPS1g4TU02TEhqemVlSm9sZkVUS0haQ2R0aGd2RWtTN1hXTFNSUUFiS0pBOTQyYXlEOHViNWZPd0ZhMWdwdW81NDZ1aVYyWHJpQVZmank5S2RzQTBpTDJabXJtLWxIeVgxdlFyMVVFTU1jbFJHdjN6bUxYbmU3YmVmc1IyQmZsRjMwOXJCc3ZWSXFhRWxYYVdHQ29KNElyNFlObnJSZzBieDhhSnhGNzZwalBsODVnWjZhT3ozUEx3SWo0RUt0dDNTZ0h5c2E3NHpQc0tXTzh3dmtlXzRyb1VuUXJETkFfS3NYZFVJVGJQTdIB7wFBVV95cUxPS1g4TU02TEhqemVlSm9sZkVUS0haQ2R0aGd2RWtTN1hXTFNSUUFiS0pBOTQyYXlEOHViNWZPd0ZhMWdwdW81NDZ1aVYyWHJpQVZmank5S2RzQTBpTDJabXJtLWxIeVgxdlFyMVVFTU1jbFJHdjN6bUxYbmU3YmVmc1IyQmZsRjMwOXJCc3ZWSXFhRWxYYVdHQ29KNElyNFlObnJSZzBieDhhSnhGNzZwalBsODVnWjZhT3ozUEx3SWo0RUt0dDNTZ0h5c2E3NHpQc0tXTzh3dmtlXzRyb1VuUXJETkFfS3NYZFVJVGJQTQ?oc=5",
           "source": "Regionews.at",
           "date": "2. Aug 2026"
-        },
-        {
-          "title": "Niederösterreich: Schlosshofkino in Waidhofen an der Ybbs startet am 4. August - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNmEwNWtvWFdwU0c4cXFOS0MtcFRWSEhiZVNuUHEzNG9VQXJURWF4U0E1ZEJIdmpEUUZ5LVlKOHNhRlBOYVlGWlJVMWpacEZNOTB2b1Z6dnFFWTBQRGlURUc0MFNPMHBQb1AwampIcFRocVQxOEJsZVE4SFRNTEQyaWEtNDhyUS15aFpoNnpScnhnT290YmVfTHZtRjVOWS1mVmtyRmZmcHXSAagBQVVfeXFMTTZhMDVrb1hXcFNHOHFxTktDLXBUVkhIYmVTblBxMzRvVUFyVEVheFNBNWRCSHZqRFFGeS1ZSjhzYUZQTmFZRlpSVTFqWnBGTTkwdm9WenZxRVkwUERpVEVHNDBTTzBwUG9QMGpqSHBUaHFUMThCbGVROEhUTUxEMmlhLTQ4clEteWhaaDZ6UnJ4Z09vdGJlX0x2bUY1TlktZlZrckZmZnB1?oc=5",
-          "source": "Regionews.at",
-          "date": "31. Jul 2026"
         }
       ]
     },
@@ -194,8 +194,14 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark positioniert sich als führender Innovationsstandort durch bahnbrechende KI-Entwicklungen wie die hirngestützte KI-Forschung der TU Graz und praktische Anwendungen von ChatGPT im Kundenservice, die den Alltag österreichischer Konsumenten unmittelbar verändern. Parallel treibt das Land die Green-Tech-Transformation voran, wobei Grazer Unternehmen wie KS Engineers mit der Errichtung der größten Wasserstoffproduktionsanlage des Landes eine zentrale Rolle in der nachhaltigen Energiewende spielen.",
+      "summary": "Die Steiermark positioniert sich als innovativer Technologiestandort mit Forschungsschwerpunkten in künstlicher Intelligenz, wie die Entwicklungen an der TU Graz zeigen, während gleichzeitig Green-Tech-Unternehmen wie KS Engineers mit der Realisierung großer Wasserstoffproduktionsanlagen zur Dekarbonisierung beitragen. Allerdings entstehen durch die zunehmende Nutzung von KI auch neue Sicherheitsrisiken im Cyberbereich, die parallel zur technologischen Entwicklung adressiert werden müssen.",
       "items": [
+        {
+          "title": "Kriminelle nutzen künstliche Intelligenz immer öfter für Cyber-Attacken - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX1hoM1VNamdfSnF4S1Zma0xjcDh2a2lvcmRBdWZ5UmRnZ3piaWVudWVSN1l6U2NNVWZKR1k3dFRwalM2OFM4b3IwOVFKNXhESGJWWnhOclF2OVcwcnZxQzhMTk9HWkhCMHhNLVVseFYwWXR0SHZvWVE4UDVPNWFDTzB0YlFjal9aVVFnZUNNME1lSWlXQjhZSkY4TEZfd0JzTXZxTjNsc2RLSkFfWTU3V2tNaXp4azZnb1VnYnEwV0tDQl9RTV9Ia0VLbmpiemNHRGRvbVROOU9MOFlvS3F3?oc=5",
+          "source": "ORF ON",
+          "date": "3. Aug 2026"
+        },
         {
           "title": "Künstliche Intelligenz und Vertrieb: Was sich für Kundinnen und Kunden in Österreich gerade ändert - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORm96OHZScEZjS0djRFl4Z2Y2a3JhYlQzeHZWc3ZJVklWVmREejJxbWVSSVZ4NlJCT0J2cE90Z0wtdHBDYnNWNnhTRG9VWnF2bjlPdjVWeGNXem0yN0tsSGJTN1B0SGxBQ2dvNC1FT2lCTndtQ2dnRlhyUFpVdXJva2FSRXNETTI0YmVQQVdCd2VqVzZHUVc2b0tsdG03WnZOamZpSFJjalFqRzJKQnRub1pwem5zemtnTG9IQ0JMSUVlSHJVYjMzZ3o0aVpDUmM?oc=5",
@@ -203,16 +209,16 @@
           "date": "30. Jul 2026"
         },
         {
+          "title": "Am Puls der KI-Entwicklung - Raiffeisenzeitung",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52b2pGTXkyZTRVQ2NESHV1OUFBUDA4NFZJRHdyWm4wa092NlItMTNWTmNCcU5RNXI3eFlHU2lzVUhTeUdmNHZReC1PT1g5SzhJbExHSzk5NTVSc2xxTXNaMDVDQ25IUFFsUEtlTUJSLTBrUlNsNFE?oc=5",
+          "source": "Raiffeisenzeitung",
+          "date": "3. Aug 2026"
+        },
+        {
           "title": "Gehirn als Vorbild: TU Graz entwickelt KI - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EdGNlUXlIRUw4WmNCWVpnVlF1emNET0NVYWhaRC1KNW9YdmlOb3BINDNBS3J5ckwyZlpmNTZwS3Vqa3JxYmEzZVhWWWtVZFlKMzl6RA?oc=5",
           "source": "steiermark.ORF.at",
           "date": "28. Jul 2026"
-        },
-        {
-          "title": "ChatGPT im Alltag: ChatGPT übersetzt jetzt live mit, mitten im Gespräch - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSnZQRTk2bmFsM1FlVXZiSjR3dTRKZktpVEVCYWxWajFtSUNQVGxRbk1QTURjSjYyMmNONGtEZmNOSW1UeWJlX2pocWtfMGxEeXBjaFh4dEpldFA3RzZZbThjbFZpNEZoMW5Zd2k3c1llVFNUaDhpckpEcGxkQm02NWlibUtoRlJXb0FPMTNNRjlWR2JPdVlJOHhRSEMybU5XeFRkOGxWWm1mQkJ2WUlVRXo4UFpzN1ptOHRpbm1rWkI?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "27. Jul 2026"
         },
         {
           "title": "Die Kosten der Delegationsreise von Kunasek & Co. nach China - Kleine Zeitung",
