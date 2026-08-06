@@ -1,24 +1,18 @@
 {
-  "generated": "05. August 2026, 05:32 UTC",
+  "generated": "06. August 2026, 05:34 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Steiermark verzeichnet im ersten Halbjahr einen beispiellosen Gründerboom mit über 2.791 Neugründungen und einem Rekordhoch an Selbstständigen, während der Arbeitsmarkt gleichzeitig erste positive Erholungstendenzen zeigt. Parallel dazu investieren etablierte Unternehmen wie Versicherungs- und Industrieunternehmen in ihre Präsenz vor Ort, wobei allerdings die Infrastrukturanbindung zwischen Graz und Leoben bis 2026 weiter optimiert werden muss.",
+      "summary": "Die Steiermark verzeichnet einen Gründungsboom mit Rekordwerten bei Neugründungen im ersten Halbjahr, während der Arbeitsmarkt langsam stabilisiert wird, aber weiterhin fragile Tendenzen aufweist. Parallel dazu investieren Unternehmen wie KOBAN SÜDVERS in die Expansion ihrer Geschäftstätigkeit, während Infrastrukturverbesserungen wie die bessere Pendlerverbindung Graz-Leoben bis 2026 die wirtschaftliche Dynamik unterstützen sollen.",
       "items": [
         {
-          "title": "Fels in der Brandung: Warum der Versicherungs-Profi vor Ort unersetzlich ist - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVEdMdWlMM2Z1ekFPS2NqRlJVWTlucmQ5R3pBZHBzdVBXRm5fQlpjOG9tak9tZEpWZnB1eE9DNFp6MHdYaVRXcHpMN1Y2Q01wZGlKMFRKdEd5U2hzYjdKaHdKZy0zb19zQWFFdE5IbnF0NDhHUTkxenBzLWhfQXlfRlVuUTBNRkNJVHlaWWY4UTNUcS0wQXB3WkxPelVlZVI1c1picHo5T3V5dXY2TkZYaF9QQQ?oc=5",
+          "title": "AMS-Prognose Steiermark: Arbeitsmarkt stabilisiert sich langsam, doch Erholung ist fragil - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMUNQU0dIUkUtNlNfY3NDSVNwd3JHSnlESzJlbm1MNk12ZDczRlRkc0hyMy1UQ0ZIZU9RSlJhcE9SSkRIazd4b3UzN2M2dHpSeHFGUlZETkVSV1NqeGdXQl9NNDRxOVNDT2xlSy1vVTFjVGNycUFYb1FWaTRjaG9hMWN1MWdiU2VQV0ltaVBfN09odUdrTkpuVk12cnFPMy1kT2NZbkV4dlRTT1l0a1E0TEJTV056ZzJuRUdyODU0cw?oc=5",
           "source": "MeinBezirk.at",
-          "date": "5. Aug 2026"
-        },
-        {
-          "title": "Neuer Gründerrekord im ersten Halbjahr - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EcG5uNVBBYmNzR2NHOTRCc2ZnaERiSzc0OHRZTy1wWlBxakE0SXZRRlF5dUlwWWcyMzltZFI4eHEtMGJSNjdUNDJrcTlocTR0VmVyMA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "30. Jul 2026"
+          "date": "3. Aug 2026"
         },
         {
           "title": "Pendler Österreich: Graz-Leoben-Verbindung muss noch 2026 besser werden - wirtschafts-nachrichten.at",
@@ -27,22 +21,16 @@
           "date": "4. Aug 2026"
         },
         {
+          "title": "Neuer Gründerrekord im ersten Halbjahr - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EcG5uNVBBYmNzR2NHOTRCc2ZnaERiSzc0OHRZTy1wWlBxakE0SXZRRlF5dUlwWWcyMzltZFI4eHEtMGJSNjdUNDJrcTlocTR0VmVyMA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "30. Jul 2026"
+        },
+        {
           "title": "AMS macht Hoffnung: Steirischer Arbeitsmarkt zeigt erste Erholungstendenzen - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLVBNT0hYY3dsNFhSODhNNFhUNE8wTmcyUmM4LWtvWW1Gc3A1N2FQQVNiVGROSFpxMHZscGlUTUthbE5paWhlSVYzb0dYN2xWemxSbXJSaXc1WVpnV1dZbDJYS182c2pkM1BMRHIweDRqbEoyal81V0cxcDQ1NXVtNlluRGdDTGNpSUk5MVRzeHBqb3dzVHJjLWlRRnVNelhpdW5wMU0yUFRSS1d0V0Fnb0p5WFVwVUdnTFlpYQ?oc=5",
           "source": "5 Minuten",
           "date": "3. Aug 2026"
-        },
-        {
-          "title": "Einzigartig übernachten in der Steiermark - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KcWI1SWVPMUEtVGpicFQxZGg0a2p3Z0ZxTXFTQ2Q2OVZIZ0RfeVd5YW5KWTBlV3FQdS14ZEJiR2JKMlZwOHptY2U4NUwzMVRMUExqQmI1SmFHSGFDMEphWmg3ckp4ZW00WlJuUEMzNVRLWnVkTFZ0REdFYw?oc=5",
-          "source": "wko.at",
-          "date": "3. Aug 2026"
-        },
-        {
-          "title": "Rekord in der Steiermark: So viele Menschen machen sich selbstständig wie nie - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLWMxYTNJWVRBUDdLcXNXUUdsNXpYZDNrUFlSNDBBU1VPV25qemRwNDNKQlFtMjVBanZPVTkyWG9WNU84TVNzLURsRG9uLWhjMjhFUnBLVUlSVnBRTTN2M2VJcVlqYXV3c2F2V256a2hDaGpuZF9aWUFqandQRXZsTTlRVFJTbGNDQWdKU1pTRWVndE9Ta1U0cTVEb0lVOVBVWU1NVmF3U3lrVDU2TkVuWWFiSXVfU2xQTTdZa19CekI?oc=5",
-          "source": "5 Minuten",
-          "date": "30. Jul 2026"
         },
         {
           "title": "Neuer Rekord mit 2.791 Gründungen im ersten Halbjahr in der Steiermark - wko.at",
@@ -51,9 +39,21 @@
           "date": "30. Jul 2026"
         },
         {
+          "title": "Rekord in der Steiermark: So viele Menschen machen sich selbstständig wie nie - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLWMxYTNJWVRBUDdLcXNXUUdsNXpYZDNrUFlSNDBBU1VPV25qemRwNDNKQlFtMjVBanZPVTkyWG9WNU84TVNzLURsRG9uLWhjMjhFUnBLVUlSVnBRTTN2M2VJcVlqYXV3c2F2V256a2hDaGpuZF9aWUFqandQRXZsTTlRVFJTbGNDQWdKU1pTRWVndE9Ta1U0cTVEb0lVOVBVWU1NVmF3U3lrVDU2TkVuWWFiSXVfU2xQTTdZa19CekI?oc=5",
+          "source": "5 Minuten",
+          "date": "30. Jul 2026"
+        },
+        {
           "title": "KOBAN SÜDVERS baut Industrie- und Großkundengeschäft in der Steiermark aus - AssCompact Österreich",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVpVTHN3R2hyb1V5QjBkYURnNnNqUXpvd3NzLVFER2dHelFaM1pkUzNyQmNUa2RTOUxBU0oyS0QtRFUxVW8yb3MtUUZJQ0N0YzVkcUFsR3BkRWFQWHJSeVNNME42MTFhSzlMQ2hQeHZuRjRSOXlMdnYwaEtMX1F3bF9saVh6RUpfbkRkTmF4QTVUNnNZdnZ4Q2k4Nkp3dGQ4ZU1acXRMZEE2REtvbDdFVkpZeFo?oc=5",
           "source": "AssCompact Österreich",
+          "date": "3. Aug 2026"
+        },
+        {
+          "title": "AMS: Arbeitslosigkeit am Höhepunkt - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yUEhzdnlHSk55X3RlMjF5cTJvTzA0Q1BZQ0E2bXRUNVA0NEZ5T0hacnBwVk1jcTJVeEhrVHpOcHJ0UktEa3V3TkZOX0o5MzEtYWFUVw?oc=5",
+          "source": "steiermark.ORF.at",
           "date": "3. Aug 2026"
         }
       ]
@@ -62,7 +62,7 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark verzeichnet in ihren Tourismusregionen wie Erzberg-Leoben starkes Wachstum bei Gästezahlen und Nächtigungen, besonders durch Bayern-Urlauber am Wochenende, während gleichzeitig die Tourismusakademie ihr Weiterbildungsangebot ausbaut und innovative Angebote wie Rad-Touren die Tourismusförderung vorantreiben. Neben diesen positiven Entwicklungen müssen Urlauber jedoch mit Herausforderungen wie Verkehrsstaus auf den Autobahnen und Waldbrandwarnungen rechnen.",
+      "summary": "Die Steiermark verzeichnet starke Tourismusaktivitäten mit guten Nächtigungszahlen durch Bayern-Urlauber und profitiert von innovativen Übernachtungsangeboten, während gleichzeitig die Tourismusakademie ihr Weiterbildungsangebot ausbaut, um die Qualität der touristischen Dienstleistungen zu sichern. Allerdings stellen Infrastrukturherausforderungen wie Staus auf den Autobahnen sowie Umweltfaktoren wie Waldbrände und Hitze potenzielle Risiken für die Urlaubsplanung dar.",
       "items": [
         {
           "title": "Tourismusakademie erweitert Weiterbildungsangebot - gast.at",
@@ -83,12 +83,6 @@
           "date": "2. Aug 2026"
         },
         {
-          "title": "Wie die neue Top-10-Sightseeingtour von BikeGraz zur wachsenden Rad-Offensive im Land passt - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRXJDZnAzMFNVRnpXbzJhVDFXYXdXaUZ6RmlrVUZpNGl6VHpoQVMxcGJENmZRVzVNTVUyYnVrX3l6ZjlnTnA5c2pqTzUycDk0TmxoRWNIdXJTeFNWMzlGb3JqSGU2bngxeHlQTGYxUFk0TjV2eEFpXzVSbU9qYm5Yd1pRQWZLV2thdHBHRmh6a0R4QUs0Uk9yY2JFQjZjRVlZVXFkcGRyY1p4dUppMHBXQUg0MmpJVVlGZDRTOEJ4dmZjYkFCRUVQRm1CRVl1U0xpaUFzVzVvM1dVR2R4OUhOY0ZoSlIzTDFZbF8w?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "1. Aug 2026"
-        },
-        {
           "title": "A2 und A9: In der Steiermark drohen jetzt die längsten Staus des Sommer - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNE9fTTVPa0ZrbkJXdk1WRjlfREZvRXlHQjdWck9qRlhpdmY5S19TTXF0V1lhSktPUXZqUTlyQ2ZoVU8xZEoyaHl6T2Utak1Nb0cwX1lGYTJxX1RDYm82UFYyeGxIeElXTFRVOVBwaXBSaDFGU3BoNFQ4eEZjTVRmcTduWkJpR1lRUlU0MWRsbVhhek5aMVRCeUtSb3FyQ3I4cjljNTM0UXVQblpMbG9PeWo0aDNmdWxT?oc=5",
           "source": "5 Minuten",
@@ -101,16 +95,16 @@
           "date": "31. Jul 2026"
         },
         {
-          "title": "Tourismus-Boom: Die Region Erzberg-Leoben verzeichnet großes Gäste-Plus - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUjJDTGRKaTNmUHF5OXozMzlRdjZPUmFKQmwwUWhMUldHeVFmdmtKRkNiUng4aktoVTRuWDFaZ1Jva3NIZEJvMkYtOE9LejNjY2lEaThwck1wSmxVdjhNZVZic3cwcFU0NkJYLUZBdmhWRGZUc0lyQkdVRlJmSHA3TnR5VmVSU1Z5ajNxVXJ1MjVhZEFjYUVPN0V0d24xTklmdDR2WGdZT1BZbUlfUElNUE1R?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "29. Jul 2026"
-        },
-        {
           "title": "Einzigartig übernachten in der Steiermark - wko.at",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KcWI1SWVPMUEtVGpicFQxZGg0a2p3Z0ZxTXFTQ2Q2OVZIZ0RfeVd5YW5KWTBlV3FQdS14ZEJiR2JKMlZwOHptY2U4NUwzMVRMUExqQmI1SmFHSGFDMEphWmg3ckp4ZW00WlJuUEMzNVRLWnVkTFZ0REdFYw?oc=5",
           "source": "wko.at",
           "date": "3. Aug 2026"
+        },
+        {
+          "title": "Hitze: Rückkehr der Sommerfrische - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iWXVENVZONmd0cllHVlJDZVFOTVdhZDFFQkpkMi1GWUM2blBDT1ZrYkpCZEd3bWFMYlNYSWJWSFVIWEdOUm5tVGZJczdBa3FVdFhMZA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "2. Aug 2026"
         }
       ]
     },
@@ -118,7 +112,7 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Steiermark präsentiert sich als innovativer Forschungsstandort mit Schwerpunkten auf nachhaltigen Technologien wie keramikbasierten Kühlsystemen und energieeffizienten KI-Modellen, die urbane Herausforderungen wie Hitze und Stromverbrauch lösen. Parallel dazu stärken universitäre Einrichtungen wie die TU Graz und die Med Uni Graz ihre internationalen Kooperationen in Forschung und Lehre, während archäologische und handwerkliche Projekte das regionale Innovationsspektrum abrunden.",
+      "summary": "Die Technische Universität Graz entwickelt innovative Lösungen zur Bekämpfung urbaner Hitze durch eine neuartige Keramik-Kühlwand, die Temperaturen um bis zu sieben Grad senken kann, während die Medizinische Universität Graz ihre Forschung zu Hirnblutungen durch internationale EU-Projekte und Kooperationen verstärkt. Daneben prägen ethische Debatten über Rüstungsforschung an steirischen Universitäten sowie archäologische Grabungsergebnisse das aktuelle Forschungsgeschehen in der Steiermark.",
       "items": [
         {
           "title": "Tieschen: Forschungsfest am Hauptplatz zeigt aktuelle Grabungsergebnisse - MeinBezirk.at",
@@ -127,10 +121,22 @@
           "date": "30. Jul 2026"
         },
         {
+          "title": "Strenge Ethikregeln - Rüstungsforschung sorgt an den Unis für Zündstoff - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1KdEduY2RLYnB5UjBuOWt1VUdvZHZSbnNGcGhscVl3UFBEdk1rQWh1Z3pXeWpLTWo0R1RvNG5RUXlTdw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "4. Aug 2026"
+        },
+        {
           "title": "TU Graz entwickelt Kühlwand aus Keramikwürfeln gegen die urbane Hitze - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLV9vTy1UR1FYVldja1h2QlNhb2J1ZU54NldUMzNiYXVDYXFkSzNyUHRuN0pFRV9pUllBYXNkdnNRTzdCbnNGNVk4NjZjTk0tRlVVWkNHN0s2NFJFcVNfWkhiR0lPZ2hCcW1ZNld4WE1BNHBKbmR4aUt1T2pEemRocmZFMm5YczhENEQya2VsbFhQVjVyc1hwT2FrdEpFLTk5bU1ZM3gzclRfVlBIcjJrekR2QXIzUWVq?oc=5",
           "source": "Kleine Zeitung",
           "date": "4. Aug 2026"
+        },
+        {
+          "title": "Hitze um 7 Grad reduziert: Forscher entwickeln neue Kühltechnik aus Keramik - CHIP",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYVZTbGdxamRLR2FmTEllcEhCWXFXcDlNaWRYdkZVSmUwY1hjU2JMRl92V0ZJMmpLMElQTHAzSjJXVi1KOEhwRHpGbEJGeVB2b3BEYUk3eUJLY2Z2MnVrVGlZYzdjNEJqTkN5Tkc0V0tKaHFCLTBZRmw3eWpQT3h5c1p3ZmhtaVJMU19SSS0zRF9DYWhBU2RxWjVYSjg4RTRrUGRUcW1Ia1dkdGlEMEltUVc0Zmc2ZERVdnFIalJxRW1SVGRrOE9HV3VSZUJUalZhcmpoLUlMbnhWb1VQdWd5NDhTMDQ0QkozakpjSVlaaDA?oc=5",
+          "source": "CHIP",
+          "date": "5. Aug 2026"
         },
         {
           "title": "Sieben Grad weniger ohne Klimaanlage: Grazer Forscher entwickeln neue Kühltechnik - 5 Minuten",
@@ -139,10 +145,10 @@
           "date": "4. Aug 2026"
         },
         {
-          "title": "KI-Modell GCML: TU Graz senkt Energieverbrauch durch Gehirn-Nachahmung - AD HOC NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTkZWbjdjTk4tM0RuY3NwaWREclpMOUx5VnpJYnF3NEJZck5vdWR1Q2dBV2ZqQngtWGkzYzUzQTRFNE5qZ2hPTkF1LTE0OFJPMjcyMVNWdWNiM1dkazFBRVcxVkZYbjFGLWR6WnlJU3NyYjdOQk9HYlJvNkZTd1p6WlZXdFNudGNObXJkcHkyVVdmMl82RTlKZHhSbXZlN1NaRDFNQ2E4TzNnZUVkdmpHUk9XRERWNXM1ZUE?oc=5",
-          "source": "AD HOC NEWS",
-          "date": "29. Jul 2026"
+          "title": "EU-Projekt: Med Uni Graz stärkt Forschung zu Hirnblutungen - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcmxFOWNCUFBNcEdrRzhING0tTFVyY0Z0cHEzQ1c0M0dqRVZDbm5RQmhtM1RkWkZ5YmFLZlhoaV9UbTJNUXM1M0FmOHpBVmlkMVVvTWV6QW9NTmNfV1BiVU9xMWRmRUQxeVhSMnpoYWxCZjBhYWlQQ01OcktCRU9ZZTZObUxCa0w4ZEM0b0w0VHdUQ0VZMnJ1Q2lsTjZYMEU?oc=5",
+          "source": "5 Minuten",
+          "date": "5. Aug 2026"
         },
         {
           "title": "Med Uni Graz: Internationale Kooperation stärkt Forschung, Bildung und Versorgung bei Hirnblutungen - ARF – Ausseer Regionalfernsehen",
@@ -151,16 +157,10 @@
           "date": "30. Jul 2026"
         },
         {
-          "title": "Innovation aus der Steiermark – Grazer Solaranlage klappt bei Sturm ein - Heute",
+          "title": "Grazer Solaranlage klappt bei Sturm ein - Heute",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42R3pvc3N1dS1pdFhhbUdCVUxBYTI1ZmZ1WThCYk01OFZ2SGJkSUtfLVF1X3pjT1Y5VWJoSG5kX0pIcVc2ekl4VWtzUkNhdVRKRWNNT3g1UUk3cjNSRldVR2VHaHVnVTVNdlhwVXJuSjUwVFVVdXBUNEctUDA?oc=5",
           "source": "Heute",
           "date": "4. Aug 2026"
-        },
-        {
-          "title": "Firmenjubiläum Gnas: Stiegenbau Müller feiert drei Jahrzehnte Handwerk und Innovation - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSnVydVphWUVIakVOSS1leTdsVVpzLVVXUGxFV2JLNUNET1FPTDhVdzZjbzVCT1RCc3p6dksyamJ6NTVzSTNwZjBtQTNjY2txUUFMUURpaVh6aUtZLTRmaUpURm9jWllKRjd1YTdlbDlXR0RFUXhVM25CYmFXNzBMaDFhanBwa3dpaTdjRnlSYTJvc3dQZTNJNnZpVHY3TFVEZ3FlUEVucFNwWVd2VUFZbkZmVmUzQWVTSGFDMzQ3bUtJbmVqRWlr?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "3. Aug 2026"
         }
       ]
     },
@@ -168,19 +168,13 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark profitiert 2025 von erheblichen EU-Mitteln mit über 605 Millionen Euro Rückflüssen aus Brüssel, die zur Finanzierung von Infrastruktur- und Entwicklungsprojekten zur Verfügung stehen. Solche Strukturfondsmittel ermöglichen regionale Investitionen wie Modernisierungen und Erweiterungen von Einrichtungen, die zur wirtschaftlichen und sozialen Entwicklung der Region beitragen.",
+      "summary": "Der BÄRENWALD Arbesbach in Niederösterreich wird durch eine Erweiterung und Modernisierung ausgebaut, was zur Verbesserung der Infrastruktur und touristischen Attraktivität der Region beiträgt. Diese Investition unterstützt die wirtschaftliche Entwicklung und schafft neue Möglichkeiten für Beschäftigung und regionale Wertschöpfung.",
       "items": [
         {
           "title": "Niederösterreich: BÄRENWALD Arbesbach wird erweitert und modernisiert - Regionews.at",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNmtBQVlpZDNHRk1FTmJnbWpOa0QwVm1ad0tBOFZSbmppNU1MQ0gwcE9ZQnFBeHBVdy03UjdzN3dqTkotbXdnd2d2MWNRblRNa2s3eFhtY0xWM1k0eVQ4a2UzSE9JLWVkenVjYnA3c0tkX0Ftb2hWY3Y2eGViUkNUdkhkTFUzQ0FDZnhYb2RGT0ZVS2VuTERhOVYzcWxKZjTSAZ8BQVVfeXFMTzZrQUFZaWQzR0ZNRU5iZ21qTmtEMFZtWndLQThWUm5qaTVNTENIMHBPWUJxQXhwVXctN1I3czd3ak5KLW13Z3dndjFjUW5UTWtrN3hYbWNMVjNZNHlUOGtlM0hPSS1lZHp1Y2JwN3NLZF9BbW9oVmN2NnhlYlJDVHZIZExVM0NBQ2Z4WG9kRk9GVUtlbkxEYTlWM3FsSmY0?oc=5",
           "source": "Regionews.at",
           "date": "4. Aug 2026"
-        },
-        {
-          "title": "EU-Bericht 2025 bestätigt Millionen-Rückflüsse aus Brüssel - 605 Millionen Euro flossen nach ... - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPS1g4TU02TEhqemVlSm9sZkVUS0haQ2R0aGd2RWtTN1hXTFNSUUFiS0pBOTQyYXlEOHViNWZPd0ZhMWdwdW81NDZ1aVYyWHJpQVZmank5S2RzQTBpTDJabXJtLWxIeVgxdlFyMVVFTU1jbFJHdjN6bUxYbmU3YmVmc1IyQmZsRjMwOXJCc3ZWSXFhRWxYYVdHQ29KNElyNFlObnJSZzBieDhhSnhGNzZwalBsODVnWjZhT3ozUEx3SWo0RUt0dDNTZ0h5c2E3NHpQc0tXTzh3dmtlXzRyb1VuUXJETkFfS3NYZFVJVGJQTdIB7wFBVV95cUxPS1g4TU02TEhqemVlSm9sZkVUS0haQ2R0aGd2RWtTN1hXTFNSUUFiS0pBOTQyYXlEOHViNWZPd0ZhMWdwdW81NDZ1aVYyWHJpQVZmank5S2RzQTBpTDJabXJtLWxIeVgxdlFyMVVFTU1jbFJHdjN6bUxYbmU3YmVmc1IyQmZsRjMwOXJCc3ZWSXFhRWxYYVdHQ29KNElyNFlObnJSZzBieDhhSnhGNzZwalBsODVnWjZhT3ozUEx3SWo0RUt0dDNTZ0h5c2E3NHpQc0tXTzh3dmtlXzRyb1VuUXJETkFfS3NYZFVJVGJQTQ?oc=5",
-          "source": "Regionews.at",
-          "date": "2. Aug 2026"
         }
       ]
     },
@@ -188,7 +182,7 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Digitalisierung in der Steiermark schreitet voran, bringt aber auch Herausforderungen mit sich: Während künstliche Intelligenz zunehmend in Vertrieb und Geschäftsprozessen Einzug hält und Unternehmen an der Spitze der KI-Entwicklung positioniert, entstehen gleichzeitig neue Risiken durch cyberkriminelle Aktivitäten und digitale Ausgrenzung älterer Bevölkerungsgruppen. Die Region muss daher einen ausgewogenen Weg finden, um von technologischen Innovationen zu profitieren, ohne vulnerable Gruppen zu benachteiligen und Sicherheitsrisiken zu unterschätzen.",
+      "summary": "Die Digitalisierung in der Steiermark schreitet mit Investitionen in zukunftsweisende Technologien wie Wasserstoff-Anlagen voran, während gleichzeitig Herausforderungen wie die digitale Ausgrenzung älterer Menschen und die wachsende Bedrohung durch KI-gestützte Cyberangriffe bewältigt werden müssen. Künstliche Intelligenz transformiert dabei sowohl den Kundenservice und Vertrieb als auch die Sicherheitslandschaft, wobei die Steiermark als innovativer Wirtschaftsstandort an der Spitze dieser Entwicklungen positioniert ist.",
       "items": [
         {
           "title": "SB-Bankstellen als Hürde für ältere Menschen - steiermark.ORF.at",
@@ -215,12 +209,6 @@
           "date": "3. Aug 2026"
         },
         {
-          "title": "Steiermark heute vom 03.08.2026 - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mNi1QU1g2Z0dPMFNOblZVaFpGUWJZUHcyRVZ4LXZ2aFNxMURZRXpmU3pzSDg2NUlpNFQyV1ZYMkJrUUIxeHI3ZEg4em5LUkliMmxxejBnQ0ZsZXdoekJJWm9vaWoxN1ZIcHg1cVBEUQ?oc=5",
-          "source": "ORF ON",
-          "date": "3. Aug 2026"
-        },
-        {
           "title": "Neues ORF-Führungsteam: Sie soll Direktorin in der Steiermark werden - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNUlIcF9qRVZNMUp1eHVTbnZwZUdHS25lQmJ5M1k1RFFQUGtzQk9WU3dES1BNNk5YSFViRjVJbDFqZFAyWUpuQmVBeTdacExZaU9Reml1aXVyRkIxOFlUM2RjWUhSN3luN1A2aEVfdlJYMzBILWI3VlhKN01oUlpGY2Z3TUZWWjZBYzZuT1FVb0lzeVJBN2JkVlNaMk5LLUNLcThyNXJGckVVb3BnWEljOUZObEc?oc=5",
           "source": "5 Minuten",
@@ -237,6 +225,12 @@
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUUMxMzV2NDJrQ05zNWxaa0JDeVI2Uy1DT1JuRFNGaXUzNU9CSXpqaHNzYzRkTGFzeGVpeS1aQWJsRzF4VUVlSXYwOFl0MGhBeFVZNjdrQXA5WGdfTGpScGwyRWhaY3VJX3FsNkY3bEJiWl9sNHh1Yk5NdU9KMmJCNnJzUmNGVmd6bWU5dFF1eFJsLVpVS2psdUMtR2hLMTRWVkcyZWxfN3lNSGtMZzFZ?oc=5",
           "source": "Kleine Zeitung",
           "date": "2. Aug 2026"
+        },
+        {
+          "title": "Größte Wasserstoff-Anlage des Landes: Grazer Unternehmen startet durch - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmpPdV9SNnNlREFhaTdOU1piajZXenhtNmlFZzd2aEJJNnNiQnR6amRkRmlaR3hQcnM0dlVHX1ZJUW4tZDN1Yy1vbzN0OHZpWU53UnFCaTFScjVrU3N1NlJXcHltXzlZT2NsVkxUdmE1Y3BYZklrQjNXbDhBakdHaEtzeW02UVYwX21aYVVrSWJ5SUJPdEdaN2w1NlBkSE16by1fSkpNMThWNDhtdDFOeUFKbU1PRFlp?oc=5",
+          "source": "5 Minuten",
+          "date": "31. Jul 2026"
         }
       ]
     }
