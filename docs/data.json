@@ -1,12 +1,12 @@
 {
-  "generated": "06. August 2026, 05:34 UTC",
+  "generated": "07. August 2026, 04:37 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Steiermark verzeichnet einen Gründungsboom mit Rekordwerten bei Neugründungen im ersten Halbjahr, während der Arbeitsmarkt langsam stabilisiert wird, aber weiterhin fragile Tendenzen aufweist. Parallel dazu investieren Unternehmen wie KOBAN SÜDVERS in die Expansion ihrer Geschäftstätigkeit, während Infrastrukturverbesserungen wie die bessere Pendlerverbindung Graz-Leoben bis 2026 die wirtschaftliche Dynamik unterstützen sollen.",
+      "summary": "Der steirische Arbeitsmarkt befindet sich in einer fragilen Stabilisierungsphase mit widersprüchlichen Signalen zwischen anhaltender Arbeitslosigkeit und ersten Erholungstendenzen, während gleichzeitig einzelne Unternehmen wie Schaffer Holz trotz erheblicher Investitionen in ernsthafte wirtschaftliche Schwierigkeiten geraten. Die Infrastrukturprojekte wie die Koralmbahn zeigen positive Beschäftigungseffekte, und es gibt Anzeichen für gestiegenes Interesse an steirischen Bildungsangeboten sowie Unternehmensexpansionen in Bereichen wie dem Versicherungsgewerbe.",
       "items": [
         {
           "title": "AMS-Prognose Steiermark: Arbeitsmarkt stabilisiert sich langsam, doch Erholung ist fragil - MeinBezirk.at",
@@ -21,28 +21,10 @@
           "date": "4. Aug 2026"
         },
         {
-          "title": "Neuer Gründerrekord im ersten Halbjahr - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EcG5uNVBBYmNzR2NHOTRCc2ZnaERiSzc0OHRZTy1wWlBxakE0SXZRRlF5dUlwWWcyMzltZFI4eHEtMGJSNjdUNDJrcTlocTR0VmVyMA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "30. Jul 2026"
-        },
-        {
-          "title": "AMS macht Hoffnung: Steirischer Arbeitsmarkt zeigt erste Erholungstendenzen - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLVBNT0hYY3dsNFhSODhNNFhUNE8wTmcyUmM4LWtvWW1Gc3A1N2FQQVNiVGROSFpxMHZscGlUTUthbE5paWhlSVYzb0dYN2xWemxSbXJSaXc1WVpnV1dZbDJYS182c2pkM1BMRHIweDRqbEoyal81V0cxcDQ1NXVtNlluRGdDTGNpSUk5MVRzeHBqb3dzVHJjLWlRRnVNelhpdW5wMU0yUFRSS1d0V0Fnb0p5WFVwVUdnTFlpYQ?oc=5",
-          "source": "5 Minuten",
-          "date": "3. Aug 2026"
-        },
-        {
-          "title": "Neuer Rekord mit 2.791 Gründungen im ersten Halbjahr in der Steiermark - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSUpUUi1NSVRWQlNVVnVXT0tacXIwRDlkOHdSWDJwdFdBWGNLNXQxSnUzRGU4N3VOOXZwS3Z2bzZGQm9pcmg2QUc1Vnp4NS1vWDdOM1N1ZXl0QTktLTl2Z1RraUxXZUNLck9uSHUyR05TeFV5dE42eWlLMjlvTV9yeUQtdkdQNzJaT0RHUlFsOFRKQ3I2?oc=5",
-          "source": "wko.at",
-          "date": "30. Jul 2026"
-        },
-        {
-          "title": "Rekord in der Steiermark: So viele Menschen machen sich selbstständig wie nie - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLWMxYTNJWVRBUDdLcXNXUUdsNXpYZDNrUFlSNDBBU1VPV25qemRwNDNKQlFtMjVBanZPVTkyWG9WNU84TVNzLURsRG9uLWhjMjhFUnBLVUlSVnBRTTN2M2VJcVlqYXV3c2F2V256a2hDaGpuZF9aWUFqandQRXZsTTlRVFJTbGNDQWdKU1pTRWVndE9Ta1U0cTVEb0lVOVBVWU1NVmF3U3lrVDU2TkVuWWFiSXVfU2xQTTdZa19CekI?oc=5",
-          "source": "5 Minuten",
-          "date": "30. Jul 2026"
+          "title": "40 Prozent mehr steirische Bewerbungen an der CU Hochschule Kärnten - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUVAxTjBRSmc1MlFSQzBLN1RNMHVvRFRreU9YQTAycldZanJMVGtRMkZ2SFhQRkN0amktcVozcWpKa3hqdV9lb1RDb01zbi0wUkJTeXhXbGhrTzRialMyNTJwdE1ITEtTLVRwbi10UWlGYjdoWWItb0VsWklKa1kwYUw4b2FzWFlaa1hOeGlHWWJBek43b0FZZi1DaWwtRTg4Y2g4eHBRUnVZLUJxRlNndHp1RGM?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "5. Aug 2026"
         },
         {
           "title": "KOBAN SÜDVERS baut Industrie- und Großkundengeschäft in der Steiermark aus - AssCompact Österreich",
@@ -55,6 +37,24 @@
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yUEhzdnlHSk55X3RlMjF5cTJvTzA0Q1BZQ0E2bXRUNVA0NEZ5T0hacnBwVk1jcTJVeEhrVHpOcHJ0UktEa3V3TkZOX0o5MzEtYWFUVw?oc=5",
           "source": "steiermark.ORF.at",
           "date": "3. Aug 2026"
+        },
+        {
+          "title": "AMS macht Hoffnung: Steirischer Arbeitsmarkt zeigt erste Erholungstendenzen - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLVBNT0hYY3dsNFhSODhNNFhUNE8wTmcyUmM4LWtvWW1Gc3A1N2FQQVNiVGROSFpxMHZscGlUTUthbE5paWhlSVYzb0dYN2xWemxSbXJSaXc1WVpnV1dZbDJYS182c2pkM1BMRHIweDRqbEoyal81V0cxcDQ1NXVtNlluRGdDTGNpSUk5MVRzeHBqb3dzVHJjLWlRRnVNelhpdW5wMU0yUFRSS1d0V0Fnb0p5WFVwVUdnTFlpYQ?oc=5",
+          "source": "5 Minuten",
+          "date": "3. Aug 2026"
+        },
+        {
+          "title": "Bilanz nach 8 Monaten - Koralmbahn kurbelt den Arbeitsmarkt im Süden an - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1zalpZdXFUbVNJR0VEU1UweXJKcjUzVEpNVFVoV0thMXBQckYtRFhQY0JYMTUxYV9pY1F4TDJ2R3g5dw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "2. Aug 2026"
+        },
+        {
+          "title": "Schaffer Holz steht nach 27-Millionen-Investition vor Insolvenz - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeUJabFltQ3prTGdwS0dWTUsxTmdGdC1PWU1ka3pRdk1GNDRpZjd1MDV5cU9ETHEwemM0X013SjBZUlZqazF0VUJQOE5xVDRkQVhMYVpFVWM1M214aWVjNmtjb085WWpPZDFvejdnNUlXVVlsWEN5SndieDdFYXRNVFJkNi1IOGRwc0pLV3Babk5YaXNJSzRERmVCYlFjcmw0MzQyUm1USWR4ZzVrR1E?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "3. Aug 2026"
         }
       ]
     },
@@ -62,8 +62,14 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark verzeichnet starke Tourismusaktivitäten mit guten Nächtigungszahlen durch Bayern-Urlauber und profitiert von innovativen Übernachtungsangeboten, während gleichzeitig die Tourismusakademie ihr Weiterbildungsangebot ausbaut, um die Qualität der touristischen Dienstleistungen zu sichern. Allerdings stellen Infrastrukturherausforderungen wie Staus auf den Autobahnen sowie Umweltfaktoren wie Waldbrände und Hitze potenzielle Risiken für die Urlaubsplanung dar.",
+      "summary": "Die Steiermark verzeichnet starken Tourismusverkehr durch Bayern-Urlauber und profitiert von innovativen Übernachtungsangeboten, während gleichzeitig die Tourismusakademie ihr Weiterbildungsprogramm erweitert, um die Qualität der touristischen Dienstleistungen zu sichern. Trotz infrastruktureller Herausforderungen wie Staus auf den Hauptverkehrsrouten bleibt die Steiermark ein attraktives Reiseziel, das durch einzigartige Erlebnisse und professionelle Ausbildung im Tourismussektor punktet.",
       "items": [
+        {
+          "title": "Tourismusakademie startet mit neuem Weiterbildungsprogramm - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSm9HVy1yUl9VbEZQT2JWNXo1dFBiRmVnTWhrVElCSE5oRW54bzl5bWJDTU9RcDI4ZVp2UG8xVmwzemFORnduVFBqY0lHNUVqWkRJNUJRUHFRZFpKSGxmLWtmQVZydnN4QmRMN29FcnRkQ0E3dDNJbXRxNUd3ZnVCWjJvUU83S3NtOGxEWi11V2Zpd3k0N0ViS1VPZGIyTy1DV3p2VWhsdw?oc=5",
+          "source": "5 Minuten",
+          "date": "2. Aug 2026"
+        },
         {
           "title": "Tourismusakademie erweitert Weiterbildungsangebot - gast.at",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWlBvWU1IZEIzTXNxUkplZkgzeDhqdFNBZmd6NUlXd0JqQXlpRnhPSnBQY0lMV1FCSW1ZdzZweThsT1o3VXM2RjI0b25uVjc0eE1hQUYwd0cwQVItQTlPLVJidzJXbGdPYXYwWHhHZEU2RWFteWZfWk1tRUM4R2xUYWRTb1U0Y2hrRkRxbE4wYXRYdHdxb19GR2xR?oc=5",
@@ -77,21 +83,9 @@
           "date": "31. Jul 2026"
         },
         {
-          "title": "Tourismusakademie startet mit neuem Weiterbildungsprogramm - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSm9HVy1yUl9VbEZQT2JWNXo1dFBiRmVnTWhrVElCSE5oRW54bzl5bWJDTU9RcDI4ZVp2UG8xVmwzemFORnduVFBqY0lHNUVqWkRJNUJRUHFRZFpKSGxmLWtmQVZydnN4QmRMN29FcnRkQ0E3dDNJbXRxNUd3ZnVCWjJvUU83S3NtOGxEWi11V2Zpd3k0N0ViS1VPZGIyTy1DV3p2VWhsdw?oc=5",
-          "source": "5 Minuten",
-          "date": "2. Aug 2026"
-        },
-        {
           "title": "A2 und A9: In der Steiermark drohen jetzt die längsten Staus des Sommer - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNE9fTTVPa0ZrbkJXdk1WRjlfREZvRXlHQjdWck9qRlhpdmY5S19TTXF0V1lhSktPUXZqUTlyQ2ZoVU8xZEoyaHl6T2Utak1Nb0cwX1lGYTJxX1RDYm82UFYyeGxIeElXTFRVOVBwaXBSaDFGU3BoNFQ4eEZjTVRmcTduWkJpR1lRUlU0MWRsbVhhek5aMVRCeUtSb3FyQ3I4cjljNTM0UXVQblpMbG9PeWo0aDNmdWxT?oc=5",
           "source": "5 Minuten",
-          "date": "31. Jul 2026"
-        },
-        {
-          "title": "Waldbrände: Vorsicht bei der Urlaubsplanung - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oWGhkOVdfQ00xU1J2eWxKcV9yT3ZGSnNCNkVqYW1fVUpQQjBXbWJyWGR1U3RzbXBiVDhrTVN6b1hXWUhlVTVoYXlqai1VTmZuWEl4SQ?oc=5",
-          "source": "steiermark.ORF.at",
           "date": "31. Jul 2026"
         },
         {
@@ -112,14 +106,8 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Technische Universität Graz entwickelt innovative Lösungen zur Bekämpfung urbaner Hitze durch eine neuartige Keramik-Kühlwand, die Temperaturen um bis zu sieben Grad senken kann, während die Medizinische Universität Graz ihre Forschung zu Hirnblutungen durch internationale EU-Projekte und Kooperationen verstärkt. Daneben prägen ethische Debatten über Rüstungsforschung an steirischen Universitäten sowie archäologische Grabungsergebnisse das aktuelle Forschungsgeschehen in der Steiermark.",
+      "summary": "Die TU Graz entwickelt innovative Lösungen zur Bekämpfung urbaner Hitze durch Keramikwürfel-Kühlwände, die Temperaturen um bis zu 7 Grad senken können, während die Med Uni Graz ihre Forschung zu Hirnblutungen im Rahmen eines EU-Projekts ausbaut. Daneben entstehen an steirischen Hochschulen auch Diskussionen über ethische Standards bei Rüstungsforschung, und Studierende profitieren von internationalen Praktikumsmöglichkeiten sowie neuen Technologien wie intelligenten Solaranlagen.",
       "items": [
-        {
-          "title": "Tieschen: Forschungsfest am Hauptplatz zeigt aktuelle Grabungsergebnisse - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVENDc3RSby1fVlZtWmxYY1BPVmZ5LU5wYV92WG9Gb2EwcXdHc29odUVZYjRYbUpkQ3dpb3J1OXJRR2k2Wkh1UF9nTEh4X3J6OFY3bmhqZ2tKOUtIdTQ5a1UwS3lieG5hT0dxdDFiRktSb0pFUU9FTHQ5RV9odjlpY0tNU29Nc0lKc3g5T2ZwcFBSZGF3NEd6QlJtVG51Vl9DQlBscnhUM1gwdWtWb0dpYzJqWFRhMkRxb01NMXNETXhLbWc?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "30. Jul 2026"
-        },
         {
           "title": "Strenge Ethikregeln - Rüstungsforschung sorgt an den Unis für Zündstoff - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1KdEduY2RLYnB5UjBuOWt1VUdvZHZSbnNGcGhscVl3UFBEdk1rQWh1Z3pXeWpLTWo0R1RvNG5RUXlTdw?oc=5",
@@ -131,6 +119,12 @@
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLV9vTy1UR1FYVldja1h2QlNhb2J1ZU54NldUMzNiYXVDYXFkSzNyUHRuN0pFRV9pUllBYXNkdnNRTzdCbnNGNVk4NjZjTk0tRlVVWkNHN0s2NFJFcVNfWkhiR0lPZ2hCcW1ZNld4WE1BNHBKbmR4aUt1T2pEemRocmZFMm5YczhENEQya2VsbFhQVjVyc1hwT2FrdEpFLTk5bU1ZM3gzclRfVlBIcjJrekR2QXIzUWVq?oc=5",
           "source": "Kleine Zeitung",
           "date": "4. Aug 2026"
+        },
+        {
+          "title": "3D-Druck: TU Graz kühlt Städte mit Keramikwürfeln um 7 Grad - AD HOC NEWS",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUN6RUlRc0JST0FwZ2NOX3VtNzRqanNZUmg2TGE1V0pmeXRrTmE1eFlNMWhTYzZLczlseHZPTHpFNlFRdU5YYnlfWGdGaGhyZDhVQXdEQzVfYVBJYWNGOU5TNFRxMDRTbzlienhXYXZ6VEtMcVFselVrOURYdzNXLU9aczlKSFpMRjNPeXBWZnkzYzV5NmpGeTA2cEtVQi1Ja2tyQUEtM0stYWZPNDNB?oc=5",
+          "source": "AD HOC NEWS",
+          "date": "6. Aug 2026"
         },
         {
           "title": "Hitze um 7 Grad reduziert: Forscher entwickeln neue Kühltechnik aus Keramik - CHIP",
@@ -151,10 +145,10 @@
           "date": "5. Aug 2026"
         },
         {
-          "title": "Med Uni Graz: Internationale Kooperation stärkt Forschung, Bildung und Versorgung bei Hirnblutungen - ARF – Ausseer Regionalfernsehen",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS0JhdThUNGZFWlZRMmNpcFF1OVpHWkpEMjZyRVhDa3lsTVBwcGJsRkRTbjlKWjlya05YRmo0U1BUQk1ob3FaQ3VXS1RSckdwZ3Q2dzJYb0c0ajRLR2JFSnpmbDF1N1BNbGVPVnBDRVZ1a0hXRFBBd1NXWFI2b3JVNVlvQmdIMm00Njdkd1d0ckNiQWhuYTdVc0pHQU9WZTVnTTVOX0RxaW5CZnJ2T3Z2dGZZYktMTjFGU3lvY2xuak9CbXdZc3NaTg?oc=5",
-          "source": "ARF – Ausseer Regionalfernsehen",
-          "date": "30. Jul 2026"
+          "title": "Steirische E-Sport-Studierende ergattern exklusive Praktika in Südkorea - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaWpGZEJoUU1hS21iUU5ISjV6R1FpcjZSNDhHUmE3aUxSakhrWEJNUDZ6a1poM1kzdWJvTGt5bjNia1lReWRrT3hMMC1xYjhpSVowSmRnbVJjYm5WT3Q2eHlRZHNhZGVfbWlFVF9XbnhhN0NoMV9ONkY4ckVscHkya2NCY2tjcUlSbDFGOE5FdF82TTJDN1RhdkQyM2liN2dLVENQaUVrTWJWT2YwQmg0NA?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "5. Aug 2026"
         },
         {
           "title": "Grazer Solaranlage klappt bei Sturm ein - Heute",
@@ -168,7 +162,7 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Der BÄRENWALD Arbesbach in Niederösterreich wird durch eine Erweiterung und Modernisierung ausgebaut, was zur Verbesserung der Infrastruktur und touristischen Attraktivität der Region beiträgt. Diese Investition unterstützt die wirtschaftliche Entwicklung und schafft neue Möglichkeiten für Beschäftigung und regionale Wertschöpfung.",
+      "summary": "Der BÄRENWALD Arbesbach in Niederösterreich wird durch eine Erweiterung und Modernisierung aufgewertet, was zur touristischen Infrastrukturentwicklung in der Region beiträgt. Diese Investition stärkt die wirtschaftliche Entwicklung des ländlichen Raums durch die Schaffung von Attraktionen für Besucher und damit verbundene Wertschöpfung.",
       "items": [
         {
           "title": "Niederösterreich: BÄRENWALD Arbesbach wird erweitert und modernisiert - Regionews.at",
@@ -182,7 +176,7 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Digitalisierung in der Steiermark schreitet mit Investitionen in zukunftsweisende Technologien wie Wasserstoff-Anlagen voran, während gleichzeitig Herausforderungen wie die digitale Ausgrenzung älterer Menschen und die wachsende Bedrohung durch KI-gestützte Cyberangriffe bewältigt werden müssen. Künstliche Intelligenz transformiert dabei sowohl den Kundenservice und Vertrieb als auch die Sicherheitslandschaft, wobei die Steiermark als innovativer Wirtschaftsstandort an der Spitze dieser Entwicklungen positioniert ist.",
+      "summary": "Die Steiermark positioniert sich als innovativer Standort für zukunftsweisende Technologien wie Wasserstoff und KI-Entwicklung, während gleichzeitig die Herausforderungen der digitalen Transformation wie Cybersicherheit und die digitale Inklusion älterer Bevölkerungsgruppen an Bedeutung gewinnen. Die Region nutzt ihre technologische Expertise für Green-Tech-Lösungen, muss aber parallel die Risiken der KI-Nutzung durch Kriminelle ernst nehmen und die Gesellschaft bei der digitalen Teilhabe mitnehmen.",
       "items": [
         {
           "title": "SB-Bankstellen als Hürde für ältere Menschen - steiermark.ORF.at",
@@ -195,12 +189,6 @@
           "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX1hoM1VNamdfSnF4S1Zma0xjcDh2a2lvcmRBdWZ5UmRnZ3piaWVudWVSN1l6U2NNVWZKR1k3dFRwalM2OFM4b3IwOVFKNXhESGJWWnhOclF2OVcwcnZxQzhMTk9HWkhCMHhNLVVseFYwWXR0SHZvWVE4UDVPNWFDTzB0YlFjal9aVVFnZUNNME1lSWlXQjhZSkY4TEZfd0JzTXZxTjNsc2RLSkFfWTU3V2tNaXp4azZnb1VnYnEwV0tDQl9RTV9Ia0VLbmpiemNHRGRvbVROOU9MOFlvS3F3?oc=5",
           "source": "ORF ON",
           "date": "3. Aug 2026"
-        },
-        {
-          "title": "Künstliche Intelligenz und Vertrieb: Was sich für Kundinnen und Kunden in Österreich gerade ändert - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORm96OHZScEZjS0djRFl4Z2Y2a3JhYlQzeHZWc3ZJVklWVmREejJxbWVSSVZ4NlJCT0J2cE90Z0wtdHBDYnNWNnhTRG9VWnF2bjlPdjVWeGNXem0yN0tsSGJTN1B0SGxBQ2dvNC1FT2lCTndtQ2dnRlhyUFpVdXJva2FSRXNETTI0YmVQQVdCd2VqVzZHUVc2b0tsdG03WnZOamZpSFJjalFqRzJKQnRub1pwem5zemtnTG9IQ0JMSUVlSHJVYjMzZ3o0aVpDUmM?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "30. Jul 2026"
         },
         {
           "title": "Am Puls der KI-Entwicklung - Raiffeisenzeitung",
