@@ -1,24 +1,18 @@
 {
-  "generated": "07. August 2026, 04:37 UTC",
+  "generated": "08. August 2026, 03:55 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Der steirische Arbeitsmarkt befindet sich in einer fragilen Stabilisierungsphase mit widersprüchlichen Signalen zwischen anhaltender Arbeitslosigkeit und ersten Erholungstendenzen, während gleichzeitig einzelne Unternehmen wie Schaffer Holz trotz erheblicher Investitionen in ernsthafte wirtschaftliche Schwierigkeiten geraten. Die Infrastrukturprojekte wie die Koralmbahn zeigen positive Beschäftigungseffekte, und es gibt Anzeichen für gestiegenes Interesse an steirischen Bildungsangeboten sowie Unternehmensexpansionen in Bereichen wie dem Versicherungsgewerbe.",
+      "summary": "Der steirische Arbeitsmarkt zeigt nach einer Phase der Arbeitslosigkeitsspitzen erste vorsichtige Erholungstendenzen, wobei die Stabilisierung jedoch fragil bleibt und durch Infrastrukturprojekte wie die Koralmbahn sowie gestiegenes Interesse an akademischen Ausbildungen unterstützt wird. Parallel dazu entstehen neue Geschäftstätigkeiten durch Unternehmensexpansionen wie bei KOBAN SÜDVERS, während einzelne Großinvestitionen wie bei Schaffer Holz zeigen, dass wirtschaftliche Herausforderungen trotz Förderungen bestehen bleiben.",
       "items": [
         {
           "title": "AMS-Prognose Steiermark: Arbeitsmarkt stabilisiert sich langsam, doch Erholung ist fragil - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMUNQU0dIUkUtNlNfY3NDSVNwd3JHSnlESzJlbm1MNk12ZDczRlRkc0hyMy1UQ0ZIZU9RSlJhcE9SSkRIazd4b3UzN2M2dHpSeHFGUlZETkVSV1NqeGdXQl9NNDRxOVNDT2xlSy1vVTFjVGNycUFYb1FWaTRjaG9hMWN1MWdiU2VQV0ltaVBfN09odUdrTkpuVk12cnFPMy1kT2NZbkV4dlRTT1l0a1E0TEJTV056ZzJuRUdyODU0cw?oc=5",
           "source": "MeinBezirk.at",
           "date": "3. Aug 2026"
-        },
-        {
-          "title": "Pendler Österreich: Graz-Leoben-Verbindung muss noch 2026 besser werden - wirtschafts-nachrichten.at",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSkQ3NHFldzBVYzQtanV6enh1anc2OGxNR09HMnUxUTY2dFpZVmRReVdxOHVoV0JPN25Wd0E4d2FmTktKeHRLb2hkTzM4ejloWHJMcURBZk5zOEFyUlVCVWpSSFRLTFVwc2E5LTViQmxQVlg3U01wWTJVOE9BLWNCSHIxNnE2eDZqdTU4UEdPekZzY195UmdHdzI3d3NIZTNTVG9SSTNUOG5VYWdyeUxmallB?oc=5",
-          "source": "wirtschafts-nachrichten.at",
-          "date": "4. Aug 2026"
         },
         {
           "title": "40 Prozent mehr steirische Bewerbungen an der CU Hochschule Kärnten - Kleine Zeitung",
@@ -33,9 +27,9 @@
           "date": "3. Aug 2026"
         },
         {
-          "title": "AMS: Arbeitslosigkeit am Höhepunkt - steiermark.ORF.at",
+          "title": "AMS: Arbeitslosigkeit am Höhepunkt - steiermark.orf.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yUEhzdnlHSk55X3RlMjF5cTJvTzA0Q1BZQ0E2bXRUNVA0NEZ5T0hacnBwVk1jcTJVeEhrVHpOcHJ0UktEa3V3TkZOX0o5MzEtYWFUVw?oc=5",
-          "source": "steiermark.ORF.at",
+          "source": "steiermark.orf.at",
           "date": "3. Aug 2026"
         },
         {
@@ -55,6 +49,12 @@
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeUJabFltQ3prTGdwS0dWTUsxTmdGdC1PWU1ka3pRdk1GNDRpZjd1MDV5cU9ETHEwemM0X013SjBZUlZqazF0VUJQOE5xVDRkQVhMYVpFVWM1M214aWVjNmtjb085WWpPZDFvejdnNUlXVVlsWEN5SndieDdFYXRNVFJkNi1IOGRwc0pLV3Babk5YaXNJSzRERmVCYlFjcmw0MzQyUm1USWR4ZzVrR1E?oc=5",
           "source": "Kleine Zeitung",
           "date": "3. Aug 2026"
+        },
+        {
+          "title": "Akademische Ausbildungen: Investition in die Zukunft des Wirtschaftsstandorts - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObmJDVk5CT3E2aVlCb0lFSXluRnVES2JkR2NPZFE0X2xSQVRDX0E4aTAtcXltQlBaMk5QVGRJZHAxbWdZWFM5c0FkVkJTVDZseS11NTNuX3pDN2pGQ3d2OUtOMnN5Qm5fSEZGMWloTjZHTVhnYk1UblZWeFJ1Mkc4Zm0ybVFUV0VjOU42VDJMYXZqRFRhMEVPNDhoUQ?oc=5",
+          "source": "wko.at",
+          "date": "6. Aug 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark verzeichnet starken Tourismusverkehr durch Bayern-Urlauber und profitiert von innovativen Übernachtungsangeboten, während gleichzeitig die Tourismusakademie ihr Weiterbildungsprogramm erweitert, um die Qualität der touristischen Dienstleistungen zu sichern. Trotz infrastruktureller Herausforderungen wie Staus auf den Hauptverkehrsrouten bleibt die Steiermark ein attraktives Reiseziel, das durch einzigartige Erlebnisse und professionelle Ausbildung im Tourismussektor punktet.",
+      "summary": "Die Steiermark stärkt ihre Tourismusbranche durch ein neues Weiterbildungsprogramm der Tourismusakademie und setzt auf innovative Übernachtungsangebote, um Gäste anzulocken. Gleichzeitig profitiert der Sommertourismus von klimatischen Veränderungen, die die Region als Sommerfrische-Destination wieder attraktiver machen.",
       "items": [
         {
           "title": "Tourismusakademie startet mit neuem Weiterbildungsprogramm - 5 Minuten",
@@ -71,33 +71,15 @@
           "date": "2. Aug 2026"
         },
         {
-          "title": "Tourismusakademie erweitert Weiterbildungsangebot - gast.at",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWlBvWU1IZEIzTXNxUkplZkgzeDhqdFNBZmd6NUlXd0JqQXlpRnhPSnBQY0lMV1FCSW1ZdzZweThsT1o3VXM2RjI0b25uVjc0eE1hQUYwd0cwQVItQTlPLVJidzJXbGdPYXYwWHhHZEU2RWFteWZfWk1tRUM4R2xUYWRTb1U0Y2hrRkRxbE4wYXRYdHdxb19GR2xR?oc=5",
-          "source": "gast.at",
-          "date": "31. Jul 2026"
-        },
-        {
-          "title": "Starkes Reisewochenende durch Bayern-Urlauber - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1feU44RzBmX0ZaZHNMQzZ1RmtiY3BtelZoU0N2UkJsYVAxMm9QcXdaNlJ5ekYwVlF6TmVnLTF2SDhsX3VkWWdZOHMwNDR0blRBZ3h4Ng?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "31. Jul 2026"
-        },
-        {
-          "title": "A2 und A9: In der Steiermark drohen jetzt die längsten Staus des Sommer - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNE9fTTVPa0ZrbkJXdk1WRjlfREZvRXlHQjdWck9qRlhpdmY5S19TTXF0V1lhSktPUXZqUTlyQ2ZoVU8xZEoyaHl6T2Utak1Nb0cwX1lGYTJxX1RDYm82UFYyeGxIeElXTFRVOVBwaXBSaDFGU3BoNFQ4eEZjTVRmcTduWkJpR1lRUlU0MWRsbVhhek5aMVRCeUtSb3FyQ3I4cjljNTM0UXVQblpMbG9PeWo0aDNmdWxT?oc=5",
-          "source": "5 Minuten",
-          "date": "31. Jul 2026"
-        },
-        {
           "title": "Einzigartig übernachten in der Steiermark - wko.at",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KcWI1SWVPMUEtVGpicFQxZGg0a2p3Z0ZxTXFTQ2Q2OVZIZ0RfeVd5YW5KWTBlV3FQdS14ZEJiR2JKMlZwOHptY2U4NUwzMVRMUExqQmI1SmFHSGFDMEphWmg3ckp4ZW00WlJuUEMzNVRLWnVkTFZ0REdFYw?oc=5",
           "source": "wko.at",
           "date": "3. Aug 2026"
         },
         {
-          "title": "Hitze: Rückkehr der Sommerfrische - steiermark.ORF.at",
+          "title": "Hitze: Rückkehr der Sommerfrische - steiermark.orf.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iWXVENVZONmd0cllHVlJDZVFOTVdhZDFFQkpkMi1GWUM2blBDT1ZrYkpCZEd3bWFMYlNYSWJWSFVIWEdOUm5tVGZJczdBa3FVdFhMZA?oc=5",
-          "source": "steiermark.ORF.at",
+          "source": "steiermark.orf.at",
           "date": "2. Aug 2026"
         }
       ]
@@ -106,7 +88,7 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die TU Graz entwickelt innovative Lösungen zur Bekämpfung urbaner Hitze durch Keramikwürfel-Kühlwände, die Temperaturen um bis zu 7 Grad senken können, während die Med Uni Graz ihre Forschung zu Hirnblutungen im Rahmen eines EU-Projekts ausbaut. Daneben entstehen an steirischen Hochschulen auch Diskussionen über ethische Standards bei Rüstungsforschung, und Studierende profitieren von internationalen Praktikumsmöglichkeiten sowie neuen Technologien wie intelligenten Solaranlagen.",
+      "summary": "Die Technische Universität Graz entwickelt innovative Lösungungen zur Bekämpfung urbaner Hitze durch Keramikwürfel-Kühlwände, die Temperaturen um bis zu 7 Grad senken können, während die Medizinische Universität Graz ihre Forschung zu Hirnblutungen im Rahmen eines EU-Projekts verstärkt. Gleichzeitig entstehen an steirischen Hochschulen Diskussionen über ethische Standards bei Rüstungsforschung, während Studierende durch internationale Praktika und innovative Technologieprojekte neue Karrierechancen erschließen.",
       "items": [
         {
           "title": "Strenge Ethikregeln - Rüstungsforschung sorgt an den Unis für Zündstoff - Kronen Zeitung",
@@ -121,16 +103,16 @@
           "date": "4. Aug 2026"
         },
         {
-          "title": "3D-Druck: TU Graz kühlt Städte mit Keramikwürfeln um 7 Grad - AD HOC NEWS",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUN6RUlRc0JST0FwZ2NOX3VtNzRqanNZUmg2TGE1V0pmeXRrTmE1eFlNMWhTYzZLczlseHZPTHpFNlFRdU5YYnlfWGdGaGhyZDhVQXdEQzVfYVBJYWNGOU5TNFRxMDRTbzlienhXYXZ6VEtMcVFselVrOURYdzNXLU9aczlKSFpMRjNPeXBWZnkzYzV5NmpGeTA2cEtVQi1Ja2tyQUEtM0stYWZPNDNB?oc=5",
-          "source": "AD HOC NEWS",
-          "date": "6. Aug 2026"
-        },
-        {
           "title": "Hitze um 7 Grad reduziert: Forscher entwickeln neue Kühltechnik aus Keramik - CHIP",
           "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYVZTbGdxamRLR2FmTEllcEhCWXFXcDlNaWRYdkZVSmUwY1hjU2JMRl92V0ZJMmpLMElQTHAzSjJXVi1KOEhwRHpGbEJGeVB2b3BEYUk3eUJLY2Z2MnVrVGlZYzdjNEJqTkN5Tkc0V0tKaHFCLTBZRmw3eWpQT3h5c1p3ZmhtaVJMU19SSS0zRF9DYWhBU2RxWjVYSjg4RTRrUGRUcW1Ia1dkdGlEMEltUVc0Zmc2ZERVdnFIalJxRW1SVGRrOE9HV3VSZUJUalZhcmpoLUlMbnhWb1VQdWd5NDhTMDQ0QkozakpjSVlaaDA?oc=5",
           "source": "CHIP",
           "date": "5. Aug 2026"
+        },
+        {
+          "title": "3D-Druck: TU Graz kühlt Städte mit Keramikwürfeln um 7 Grad - AD HOC NEWS",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUN6RUlRc0JST0FwZ2NOX3VtNzRqanNZUmg2TGE1V0pmeXRrTmE1eFlNMWhTYzZLczlseHZPTHpFNlFRdU5YYnlfWGdGaGhyZDhVQXdEQzVfYVBJYWNGOU5TNFRxMDRTbzlienhXYXZ6VEtMcVFselVrOURYdzNXLU9aczlKSFpMRjNPeXBWZnkzYzV5NmpGeTA2cEtVQi1Ja2tyQUEtM0stYWZPNDNB?oc=5",
+          "source": "AD HOC NEWS",
+          "date": "6. Aug 2026"
         },
         {
           "title": "Sieben Grad weniger ohne Klimaanlage: Grazer Forscher entwickeln neue Kühltechnik - 5 Minuten",
@@ -162,26 +144,19 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Der BÄRENWALD Arbesbach in Niederösterreich wird durch eine Erweiterung und Modernisierung aufgewertet, was zur touristischen Infrastrukturentwicklung in der Region beiträgt. Diese Investition stärkt die wirtschaftliche Entwicklung des ländlichen Raums durch die Schaffung von Attraktionen für Besucher und damit verbundene Wertschöpfung.",
-      "items": [
-        {
-          "title": "Niederösterreich: BÄRENWALD Arbesbach wird erweitert und modernisiert - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNmtBQVlpZDNHRk1FTmJnbWpOa0QwVm1ad0tBOFZSbmppNU1MQ0gwcE9ZQnFBeHBVdy03UjdzN3dqTkotbXdnd2d2MWNRblRNa2s3eFhtY0xWM1k0eVQ4a2UzSE9JLWVkenVjYnA3c0tkX0Ftb2hWY3Y2eGViUkNUdkhkTFUzQ0FDZnhYb2RGT0ZVS2VuTERhOVYzcWxKZjTSAZ8BQVVfeXFMTzZrQUFZaWQzR0ZNRU5iZ21qTmtEMFZtWndLQThWUm5qaTVNTENIMHBPWUJxQXhwVXctN1I3czd3ak5KLW13Z3dndjFjUW5UTWtrN3hYbWNMVjNZNHlUOGtlM0hPSS1lZHp1Y2JwN3NLZF9BbW9oVmN2NnhlYlJDVHZIZExVM0NBQ2Z4WG9kRk9GVUtlbkxEYTlWM3FsSmY0?oc=5",
-          "source": "Regionews.at",
-          "date": "4. Aug 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "innovation": {
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark positioniert sich als innovativer Standort für zukunftsweisende Technologien wie Wasserstoff und KI-Entwicklung, während gleichzeitig die Herausforderungen der digitalen Transformation wie Cybersicherheit und die digitale Inklusion älterer Bevölkerungsgruppen an Bedeutung gewinnen. Die Region nutzt ihre technologische Expertise für Green-Tech-Lösungen, muss aber parallel die Risiken der KI-Nutzung durch Kriminelle ernst nehmen und die Gesellschaft bei der digitalen Teilhabe mitnehmen.",
+      "summary": "Die Steiermark steht vor der Herausforderung, digitale Transformationen wie automatisierte Bankstellen inklusiv zu gestalten und gleichzeitig die wachsenden Sicherheitsrisiken durch KI-gestützte Cyberangriffe zu bewältigen. Während die Region bei der KI-Entwicklung an vorderster Front aktiv ist, erfordert dies eine ausgewogene Strategie zwischen technologischem Fortschritt und dem Schutz aller Bevölkerungsgruppen sowie der Cybersicherheit.",
       "items": [
         {
-          "title": "SB-Bankstellen als Hürde für ältere Menschen - steiermark.ORF.at",
+          "title": "SB-Bankstellen als Hürde für ältere Menschen - steiermark.orf.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZN01odkpobVN3Z2ttNjZPcXZpcWhqbWRnYlB2NjYzb0k5QkNyel9PRjNPSGNxMVZxMDJfQnRlSTlya19pMG1TMzlfLWtxSF9VeHpNNw?oc=5",
-          "source": "steiermark.ORF.at",
+          "source": "steiermark.orf.at",
           "date": "3. Aug 2026"
         },
         {
@@ -213,12 +188,6 @@
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUUMxMzV2NDJrQ05zNWxaa0JDeVI2Uy1DT1JuRFNGaXUzNU9CSXpqaHNzYzRkTGFzeGVpeS1aQWJsRzF4VUVlSXYwOFl0MGhBeFVZNjdrQXA5WGdfTGpScGwyRWhaY3VJX3FsNkY3bEJiWl9sNHh1Yk5NdU9KMmJCNnJzUmNGVmd6bWU5dFF1eFJsLVpVS2psdUMtR2hLMTRWVkcyZWxfN3lNSGtMZzFZ?oc=5",
           "source": "Kleine Zeitung",
           "date": "2. Aug 2026"
-        },
-        {
-          "title": "Größte Wasserstoff-Anlage des Landes: Grazer Unternehmen startet durch - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmpPdV9SNnNlREFhaTdOU1piajZXenhtNmlFZzd2aEJJNnNiQnR6amRkRmlaR3hQcnM0dlVHX1ZJUW4tZDN1Yy1vbzN0OHZpWU53UnFCaTFScjVrU3N1NlJXcHltXzlZT2NsVkxUdmE1Y3BYZklrQjNXbDhBakdHaEtzeW02UVYwX21aYVVrSWJ5SUJPdEdaN2w1NlBkSE16by1fSkpNMThWNDhtdDFOeUFKbU1PRFlp?oc=5",
-          "source": "5 Minuten",
-          "date": "31. Jul 2026"
         }
       ]
     }
