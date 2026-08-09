@@ -1,17 +1,23 @@
 {
-  "generated": "08. August 2026, 03:55 UTC",
+  "generated": "09. August 2026, 04:02 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Der steirische Arbeitsmarkt zeigt nach einer Phase der Arbeitslosigkeitsspitzen erste vorsichtige Erholungstendenzen, wobei die Stabilisierung jedoch fragil bleibt und durch Infrastrukturprojekte wie die Koralmbahn sowie gestiegenes Interesse an akademischen Ausbildungen unterstützt wird. Parallel dazu entstehen neue Geschäftstätigkeiten durch Unternehmensexpansionen wie bei KOBAN SÜDVERS, während einzelne Großinvestitionen wie bei Schaffer Holz zeigen, dass wirtschaftliche Herausforderungen trotz Förderungen bestehen bleiben.",
+      "summary": "Der steirische Arbeitsmarkt zeigt nach einer Phase der Arbeitslosigkeitsspitzen erste vorsichtige Erholungstendenzen, wobei die Stabilisierung jedoch fragil bleibt und von wirtschaftlichen Unsicherheiten geprägt ist. Parallel dazu verzeichnet die Region positive Entwicklungen bei Unternehmensansiedlungen und Infrastrukturinvestitionen wie der Koralmbahn, die regionale Beschäftigungsperspektiven verbessern und das Vertrauen in den Wirtschaftsstandort Steiermark stärken.",
       "items": [
         {
-          "title": "AMS-Prognose Steiermark: Arbeitsmarkt stabilisiert sich langsam, doch Erholung ist fragil - MeinBezirk.at",
+          "title": "Fels in der Brandung: Warum der Versicherungs-Profi vor Ort unersetzlich ist - meinbezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVEdMdWlMM2Z1ekFPS2NqRlJVWTlucmQ5R3pBZHBzdVBXRm5fQlpjOG9tak9tZEpWZnB1eE9DNFp6MHdYaVRXcHpMN1Y2Q01wZGlKMFRKdEd5U2hzYjdKaHdKZy0zb19zQWFFdE5IbnF0NDhHUTkxenBzLWhfQXlfRlVuUTBNRkNJVHlaWWY4UTNUcS0wQXB3WkxPelVlZVI1c1picHo5T3V5dXY2TkZYaF9QQQ?oc=5",
+          "source": "meinbezirk.at",
+          "date": "5. Aug 2026"
+        },
+        {
+          "title": "AMS-Prognose Steiermark: Arbeitsmarkt stabilisiert sich langsam, doch Erholung ist fragil - meinbezirk.at",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMUNQU0dIUkUtNlNfY3NDSVNwd3JHSnlESzJlbm1MNk12ZDczRlRkc0hyMy1UQ0ZIZU9RSlJhcE9SSkRIazd4b3UzN2M2dHpSeHFGUlZETkVSV1NqeGdXQl9NNDRxOVNDT2xlSy1vVTFjVGNycUFYb1FWaTRjaG9hMWN1MWdiU2VQV0ltaVBfN09odUdrTkpuVk12cnFPMy1kT2NZbkV4dlRTT1l0a1E0TEJTV056ZzJuRUdyODU0cw?oc=5",
-          "source": "MeinBezirk.at",
+          "source": "meinbezirk.at",
           "date": "3. Aug 2026"
         },
         {
@@ -27,9 +33,9 @@
           "date": "3. Aug 2026"
         },
         {
-          "title": "AMS: Arbeitslosigkeit am Höhepunkt - steiermark.orf.at",
+          "title": "AMS: Arbeitslosigkeit am Höhepunkt - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yUEhzdnlHSk55X3RlMjF5cTJvTzA0Q1BZQ0E2bXRUNVA0NEZ5T0hacnBwVk1jcTJVeEhrVHpOcHJ0UktEa3V3TkZOX0o5MzEtYWFUVw?oc=5",
-          "source": "steiermark.orf.at",
+          "source": "steiermark.ORF.at",
           "date": "3. Aug 2026"
         },
         {
@@ -39,22 +45,16 @@
           "date": "3. Aug 2026"
         },
         {
-          "title": "Bilanz nach 8 Monaten - Koralmbahn kurbelt den Arbeitsmarkt im Süden an - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1zalpZdXFUbVNJR0VEU1UweXJKcjUzVEpNVFVoV0thMXBQckYtRFhQY0JYMTUxYV9pY1F4TDJ2R3g5dw?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "2. Aug 2026"
-        },
-        {
-          "title": "Schaffer Holz steht nach 27-Millionen-Investition vor Insolvenz - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeUJabFltQ3prTGdwS0dWTUsxTmdGdC1PWU1ka3pRdk1GNDRpZjd1MDV5cU9ETHEwemM0X013SjBZUlZqazF0VUJQOE5xVDRkQVhMYVpFVWM1M214aWVjNmtjb085WWpPZDFvejdnNUlXVVlsWEN5SndieDdFYXRNVFJkNi1IOGRwc0pLV3Babk5YaXNJSzRERmVCYlFjcmw0MzQyUm1USWR4ZzVrR1E?oc=5",
-          "source": "Kleine Zeitung",
+          "title": "Halbjahresbilanz des AMS Steiermark plus die aktuellen Arbeitslosenzahlen - Der Grazer",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQVdSVGI1aC1WSGxCX1ExY255ZjU0Mmo1Z2dZNklZd2k5ZzYwTnB0WFRUTkJsaHN6SlU2ZmE4OFVoXzVyZFhYVUdZSUczdHJURnQtc21DcV9kOEdkaEg5RERKOWpmd2NqS2w5NUVsdzZrakRtbjdjRllCRGVCRmg0ZUtXWlZQZ3Na?oc=5",
+          "source": "Der Grazer",
           "date": "3. Aug 2026"
         },
         {
-          "title": "Akademische Ausbildungen: Investition in die Zukunft des Wirtschaftsstandorts - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObmJDVk5CT3E2aVlCb0lFSXluRnVES2JkR2NPZFE0X2xSQVRDX0E4aTAtcXltQlBaMk5QVGRJZHAxbWdZWFM5c0FkVkJTVDZseS11NTNuX3pDN2pGQ3d2OUtOMnN5Qm5fSEZGMWloTjZHTVhnYk1UblZWeFJ1Mkc4Zm0ybVFUV0VjOU42VDJMYXZqRFRhMEVPNDhoUQ?oc=5",
-          "source": "wko.at",
-          "date": "6. Aug 2026"
+          "title": "Bilanz nach 8 Monaten - Koralmbahn kurbelt den Arbeitsmarkt im Süden an - krone.at",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1zalpZdXFUbVNJR0VEU1UweXJKcjUzVEpNVFVoV0thMXBQckYtRFhQY0JYMTUxYV9pY1F4TDJ2R3g5dw?oc=5",
+          "source": "krone.at",
+          "date": "2. Aug 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark stärkt ihre Tourismusbranche durch ein neues Weiterbildungsprogramm der Tourismusakademie und setzt auf innovative Übernachtungsangebote, um Gäste anzulocken. Gleichzeitig profitiert der Sommertourismus von klimatischen Veränderungen, die die Region als Sommerfrische-Destination wieder attraktiver machen.",
+      "summary": "Die Steiermark setzt auf Qualifizierung und innovative Übernachtungsangebote, um sein Tourismusangebot zu modernisieren und neue Zielgruppen wie Wellnessreisende und Arbeitsreisende anzusprechen. Gleichzeitig profitiert die Region von steigender Nachfrage nach alternativen Urlaubsformen und dem Trend der Sommerfrische, die durch klimatische Veränderungen an Attraktivität gewinnt.",
       "items": [
         {
           "title": "Tourismusakademie startet mit neuem Weiterbildungsprogramm - 5 Minuten",
@@ -71,15 +71,21 @@
           "date": "2. Aug 2026"
         },
         {
+          "title": "Arbeit und Urlaub - Steirische Ärztin tauschte LKH gegen „Traumschiff“ - krone.at",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE12N2lWbHpVTU4xTnVjTk1qbXY3alFtTTdJZmhnbWFxMGQ3ejZsZWNPYkd4V2hEeXBNVlhKS1lONUpYUQ?oc=5",
+          "source": "krone.at",
+          "date": "8. Aug 2026"
+        },
+        {
           "title": "Einzigartig übernachten in der Steiermark - wko.at",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KcWI1SWVPMUEtVGpicFQxZGg0a2p3Z0ZxTXFTQ2Q2OVZIZ0RfeVd5YW5KWTBlV3FQdS14ZEJiR2JKMlZwOHptY2U4NUwzMVRMUExqQmI1SmFHSGFDMEphWmg3ckp4ZW00WlJuUEMzNVRLWnVkTFZ0REdFYw?oc=5",
           "source": "wko.at",
           "date": "3. Aug 2026"
         },
         {
-          "title": "Hitze: Rückkehr der Sommerfrische - steiermark.orf.at",
+          "title": "Hitze: Rückkehr der Sommerfrische - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iWXVENVZONmd0cllHVlJDZVFOTVdhZDFFQkpkMi1GWUM2blBDT1ZrYkpCZEd3bWFMYlNYSWJWSFVIWEdOUm5tVGZJczdBa3FVdFhMZA?oc=5",
-          "source": "steiermark.orf.at",
+          "source": "steiermark.ORF.at",
           "date": "2. Aug 2026"
         }
       ]
@@ -88,13 +94,19 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Technische Universität Graz entwickelt innovative Lösungungen zur Bekämpfung urbaner Hitze durch Keramikwürfel-Kühlwände, die Temperaturen um bis zu 7 Grad senken können, während die Medizinische Universität Graz ihre Forschung zu Hirnblutungen im Rahmen eines EU-Projekts verstärkt. Gleichzeitig entstehen an steirischen Hochschulen Diskussionen über ethische Standards bei Rüstungsforschung, während Studierende durch internationale Praktika und innovative Technologieprojekte neue Karrierechancen erschließen.",
+      "summary": "An steirischen Universitäten entstehen innovative Lösungen für urbane Herausforderungen: Die TU Graz entwickelt eine Keramikwand-Technologie, die Städte um bis zu 7 Grad abkühlt, während die Med Uni Graz ihre Forschung zu Hirnblutungen im Rahmen eines EU-Projekts intensiviert. Parallel dazu diskutieren die Hochschulen strenge Ethikrichtlinien für Rüstungsforschung und fördern ihre Studierenden durch internationale Praktika wie das E-Sport-Programm in Südkorea.",
       "items": [
         {
-          "title": "Strenge Ethikregeln - Rüstungsforschung sorgt an den Unis für Zündstoff - Kronen Zeitung",
+          "title": "Strenge Ethikregeln - Rüstungsforschung sorgt an den Unis für Zündstoff - krone.at",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1KdEduY2RLYnB5UjBuOWt1VUdvZHZSbnNGcGhscVl3UFBEdk1rQWh1Z3pXeWpLTWo0R1RvNG5RUXlTdw?oc=5",
-          "source": "Kronen Zeitung",
+          "source": "krone.at",
           "date": "4. Aug 2026"
+        },
+        {
+          "title": "Keramikwand kühlt bei urbaner Hitze - Freiraum Gestalten",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ1B1ZERWME1MSG1ZRXUwbGwxX3EtX2pIMW5mekpPSTdwNDFjeENWX1BENkxtMll0VW9od3E3ZG82UkpQOHJDelVHNkNYdTRsaDZoUzFNOS1zQ2l6akJEd0R1TGNFQ3I0RGY0SWhNaW5laXFMdDBHUENvdlM2RnprWkQ5eUNJeWdkbWhkbk1hQWhMcDJXUnpxSk5wcGNLWFVsTTBTM0ZwcjFDdHpBQmMycEtsTnY4WDRQ?oc=5",
+          "source": "Freiraum Gestalten",
+          "date": "5. Aug 2026"
         },
         {
           "title": "TU Graz entwickelt Kühlwand aus Keramikwürfeln gegen die urbane Hitze - Kleine Zeitung",
@@ -131,12 +143,6 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaWpGZEJoUU1hS21iUU5ISjV6R1FpcjZSNDhHUmE3aUxSakhrWEJNUDZ6a1poM1kzdWJvTGt5bjNia1lReWRrT3hMMC1xYjhpSVowSmRnbVJjYm5WT3Q2eHlRZHNhZGVfbWlFVF9XbnhhN0NoMV9ONkY4ckVscHkya2NCY2tjcUlSbDFGOE5FdF82TTJDN1RhdkQyM2liN2dLVENQaUVrTWJWT2YwQmg0NA?oc=5",
           "source": "Kleine Zeitung",
           "date": "5. Aug 2026"
-        },
-        {
-          "title": "Grazer Solaranlage klappt bei Sturm ein - Heute",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42R3pvc3N1dS1pdFhhbUdCVUxBYTI1ZmZ1WThCYk01OFZ2SGJkSUtfLVF1X3pjT1Y5VWJoSG5kX0pIcVc2ekl4VWtzUkNhdVRKRWNNT3g1UUk3cjNSRldVR2VHaHVnVTVNdlhwVXJuSjUwVFVVdXBUNEctUDA?oc=5",
-          "source": "Heute",
-          "date": "4. Aug 2026"
         }
       ]
     },
@@ -151,12 +157,12 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark steht vor der Herausforderung, digitale Transformationen wie automatisierte Bankstellen inklusiv zu gestalten und gleichzeitig die wachsenden Sicherheitsrisiken durch KI-gestützte Cyberangriffe zu bewältigen. Während die Region bei der KI-Entwicklung an vorderster Front aktiv ist, erfordert dies eine ausgewogene Strategie zwischen technologischem Fortschritt und dem Schutz aller Bevölkerungsgruppen sowie der Cybersicherheit.",
+      "summary": "Die Steiermark steht vor der Herausforderung, digitale Transformationen wie den Ausbau von Selbstbedienungsbankstellen sozialverträglich zu gestalten und gleichzeitig die wachsenden Sicherheitsrisiken durch KI-gestützte Cyberangriffe zu bewältigen. Während die Region ihre Position in der KI-Entwicklung stärkt und neue Führungskräfte in Schlüsselinstitutionen einzieht, bleibt die Balance zwischen technologischem Fortschritt und gesellschaftlicher Inklusion ein zentrales Anliegen.",
       "items": [
         {
-          "title": "SB-Bankstellen als Hürde für ältere Menschen - steiermark.orf.at",
+          "title": "SB-Bankstellen als Hürde für ältere Menschen - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBZN01odkpobVN3Z2ttNjZPcXZpcWhqbWRnYlB2NjYzb0k5QkNyel9PRjNPSGNxMVZxMDJfQnRlSTlya19pMG1TMzlfLWtxSF9VeHpNNw?oc=5",
-          "source": "steiermark.orf.at",
+          "source": "steiermark.ORF.at",
           "date": "3. Aug 2026"
         },
         {
@@ -178,9 +184,9 @@
           "date": "4. Aug 2026"
         },
         {
-          "title": "Viele Überraschungen - Pigs Team fix: Das sind die neuen ORF-Direktoren - Kronen Zeitung",
+          "title": "Viele Überraschungen - Pigs Team fix: Das sind die neuen ORF-Direktoren - krone.at",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE41NjZXeTYzMWRxRDEzOFRRMGREdElEN0o4bHUzalk5X1ZjdnZhM0NkYkRuMGdJVmgzdW5qN0t3RDZ2QQ?oc=5",
-          "source": "Kronen Zeitung",
+          "source": "krone.at",
           "date": "4. Aug 2026"
         },
         {
