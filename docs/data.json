@@ -1,31 +1,13 @@
 {
-  "generated": "10. August 2026, 04:16 UTC",
+  "generated": "11. August 2026, 04:04 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Steiermark verzeichnet trotz angespannter Arbeitsmarktlage mit gestiegener Arbeitslosigkeit auch positive Signale durch Unternehmensexpansionen wie bei KOBAN SÜDVERS und erste Erholungstendenzen, während gleichzeitig die Bildungsnachfrage mit 40 Prozent mehr Bewerbungen an der CU Hochschule Kärnten steigt. Allerdings zeigen sich auch Schattenseiten wie die drohende Insolvenz von Schaffer Holz trotz erheblicher Investitionen, was die wirtschaftlichen Herausforderungen in der Region unterstreicht.",
+      "summary": "Die Steiermark zeigt gemischte Arbeitsmarkttrends, wobei die Region Hartberg-Fürstenfeld positiv aus dem Landestrend heraussticht, während gleichzeitig Fachkräfte wie Ärzte den Arbeitsmarkt verlassen. Akademische Ausbildungen werden als strategische Investition für die langfristige Wettbewerbsfähigkeit des Wirtschaftsstandorts erkannt.",
       "items": [
-        {
-          "title": "40 Prozent mehr steirische Bewerbungen an der CU Hochschule Kärnten - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUVAxTjBRSmc1MlFSQzBLN1RNMHVvRFRreU9YQTAycldZanJMVGtRMkZ2SFhQRkN0amktcVozcWpKa3hqdV9lb1RDb01zbi0wUkJTeXhXbGhrTzRialMyNTJwdE1ITEtTLVRwbi10UWlGYjdoWWItb0VsWklKa1kwYUw4b2FzWFlaa1hOeGlHWWJBek43b0FZZi1DaWwtRTg4Y2g4eHBRUnVZLUJxRlNndHp1RGM?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "5. Aug 2026"
-        },
-        {
-          "title": "KOBAN SÜDVERS baut Industrie- und Großkundengeschäft in der Steiermark aus - AssCompact Österreich",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVpVTHN3R2hyb1V5QjBkYURnNnNqUXpvd3NzLVFER2dHelFaM1pkUzNyQmNUa2RTOUxBU0oyS0QtRFUxVW8yb3MtUUZJQ0N0YzVkcUFsR3BkRWFQWHJSeVNNME42MTFhSzlMQ2hQeHZuRjRSOXlMdnYwaEtMX1F3bF9saVh6RUpfbkRkTmF4QTVUNnNZdnZ4Q2k4Nkp3dGQ4ZU1acXRMZEE2REtvbDdFVkpZeFo?oc=5",
-          "source": "AssCompact Österreich",
-          "date": "3. Aug 2026"
-        },
-        {
-          "title": "AMS: Arbeitslosigkeit am Höhepunkt - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yUEhzdnlHSk55X3RlMjF5cTJvTzA0Q1BZQ0E2bXRUNVA0NEZ5T0hacnBwVk1jcTJVeEhrVHpOcHJ0UktEa3V3TkZOX0o5MzEtYWFUVw?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "3. Aug 2026"
-        },
         {
           "title": "Halbjahresbilanz des AMS: Hartberg-Fürstenfeld trotzt dem Landestrend am Arbeitsmarkt - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOGlpQ2YzNnJoM3hzTzNVT3ppeklsRkpGMUhPcDJkM09OSXlKaVN0SWZKRmxveUV2SnJvb0FTOFdWTFhmbkRJUFFPZE80aXctUGFObW05d1FDaWdWNHFGcjRJWlZaV3BXd3lvR2VZalB2eFpzRmc0RVI3Z1Nzd0xITlJSekh2R0VLYk1KYl94czNGMWxDX3RjTGRXZ1hqN3d6ZjNUNUJONnZFX1NyOU1FU0dnakdGVnM5ZDVGY2NoUkxTc3NydERwR2x3?oc=5",
@@ -33,28 +15,16 @@
           "date": "5. Aug 2026"
         },
         {
-          "title": "AMS macht Hoffnung: Steirischer Arbeitsmarkt zeigt erste Erholungstendenzen - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLVBNT0hYY3dsNFhSODhNNFhUNE8wTmcyUmM4LWtvWW1Gc3A1N2FQQVNiVGROSFpxMHZscGlUTUthbE5paWhlSVYzb0dYN2xWemxSbXJSaXc1WVpnV1dZbDJYS182c2pkM1BMRHIweDRqbEoyal81V0cxcDQ1NXVtNlluRGdDTGNpSUk5MVRzeHBqb3dzVHJjLWlRRnVNelhpdW5wMU0yUFRSS1d0V0Fnb0p5WFVwVUdnTFlpYQ?oc=5",
-          "source": "5 Minuten",
-          "date": "3. Aug 2026"
-        },
-        {
-          "title": "Halbjahresbilanz des AMS Steiermark plus die aktuellen Arbeitslosenzahlen - grazer.at",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQVdSVGI1aC1WSGxCX1ExY255ZjU0Mmo1Z2dZNklZd2k5ZzYwTnB0WFRUTkJsaHN6SlU2ZmE4OFVoXzVyZFhYVUdZSUczdHJURnQtc21DcV9kOEdkaEg5RERKOWpmd2NqS2w5NUVsdzZrakRtbjdjRllCRGVCRmg0ZUtXWlZQZ3Na?oc=5",
-          "source": "grazer.at",
-          "date": "3. Aug 2026"
-        },
-        {
           "title": "Arbeit und Urlaub - Steirische Ärztin tauschte LKH gegen „Traumschiff“ - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE12N2lWbHpVTU4xTnVjTk1qbXY3alFtTTdJZmhnbWFxMGQ3ejZsZWNPYkd4V2hEeXBNVlhKS1lONUpYUQ?oc=5",
           "source": "Kronen Zeitung",
           "date": "8. Aug 2026"
         },
         {
-          "title": "Schaffer Holz steht nach 27-Millionen-Investition vor Insolvenz - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeUJabFltQ3prTGdwS0dWTUsxTmdGdC1PWU1ka3pRdk1GNDRpZjd1MDV5cU9ETHEwemM0X013SjBZUlZqazF0VUJQOE5xVDRkQVhMYVpFVWM1M214aWVjNmtjb085WWpPZDFvejdnNUlXVVlsWEN5SndieDdFYXRNVFJkNi1IOGRwc0pLV3Babk5YaXNJSzRERmVCYlFjcmw0MzQyUm1USWR4ZzVrR1E?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "3. Aug 2026"
+          "title": "Akademische Ausbildungen: Investition in die Zukunft des Wirtschaftsstandorts - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObmJDVk5CT3E2aVlCb0lFSXluRnVES2JkR2NPZFE0X2xSQVRDX0E4aTAtcXltQlBaMk5QVGRJZHAxbWdZWFM5c0FkVkJTVDZseS11NTNuX3pDN2pGQ3d2OUtOMnN5Qm5fSEZGMWloTjZHTVhnYk1UblZWeFJ1Mkc4Zm0ybVFUV0VjOU42VDJMYXZqRFRhMEVPNDhoUQ?oc=5",
+          "source": "wko.at",
+          "date": "6. Aug 2026"
         }
       ]
     },
@@ -62,19 +32,19 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark positioniert sich als attraktives Urlaubsziel, das sowohl unkonventionelle Lebensmodelle wie Arbeiten und Reisen kombiniert als auch durch einzigartige Übernachtungserlebnisse Touristen anzieht. Mit innovativen Unterkunftskonzepten und dem Fokus auf außergewöhnliche Erfahrungen stärkt die Region ihre Wettbewerbsfähigkeit im österreichischen Tourismusmarkt.",
+      "summary": "Die Steiermark präsentiert sich international als Kulinarik- und Tourismusdestination, wie die Teilnahme des Steierkochs Florian Wörgötter beim Het Bos-Festival in Amsterdam zeigt. Gleichzeitig wächst der Trend des Workations, bei dem Berufstätige wie eine steirische Ärztin Arbeit und Urlaub kombinieren, was neue Zielgruppen für den steirischen Tourismus erschließt.",
       "items": [
+        {
+          "title": "Het Bos-Festival: Sternekoch Florian Wörgötter präsentierte Steiermark in Amsterdam - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdXVmSE9fZDE5VkstYUdjMmN5di1zY0ZwckxpR2ZPWW1SNktuRWVzbVRQckwtbHdBNFpPb2xzRzdKcWVpNnNRLU5jWHlZSXRiNzZ6XzY4Q2JUbzYtMEN1QTRlQ3FvVi16RF91Tld4YnNuV0xFOWxSMTlwYTNNZ0dpd2hRM1FPV1k0NnNYelEwdUFCZExaR3JJbkZsY3BfZlBPMUwxbEZiMjBlcUl0QTJxc01fNjluZU8tcjZnVTNQNnByQQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "10. Aug 2026"
+        },
         {
           "title": "Arbeit und Urlaub - Steirische Ärztin tauschte LKH gegen „Traumschiff“ - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE12N2lWbHpVTU4xTnVjTk1qbXY3alFtTTdJZmhnbWFxMGQ3ejZsZWNPYkd4V2hEeXBNVlhKS1lONUpYUQ?oc=5",
           "source": "Kronen Zeitung",
           "date": "8. Aug 2026"
-        },
-        {
-          "title": "Einzigartig übernachten in der Steiermark - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KcWI1SWVPMUEtVGpicFQxZGg0a2p3Z0ZxTXFTQ2Q2OVZIZ0RfeVd5YW5KWTBlV3FQdS14ZEJiR2JKMlZwOHptY2U4NUwzMVRMUExqQmI1SmFHSGFDMEphWmg3ckp4ZW00WlJuUEMzNVRLWnVkTFZ0REdFYw?oc=5",
-          "source": "wko.at",
-          "date": "3. Aug 2026"
         }
       ]
     },
@@ -82,12 +52,24 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Forscher der TU Graz haben eine innovative Kühlwand aus 3D-gedruckten Keramikwürfeln entwickelt, die urbane Hitze um etwa 7 Grad reduziert und damit eine nachhaltige Alternative zu konventionellen Klimaanlagen bietet. Darüber hinaus stärkt die Med Uni Graz ihre Forschung zu Hirnblutungen durch ein EU-Projekt, während steirische Innovationen wie eine sturmsichere Solaranlage und internationale Praktika für E-Sport-Studierende in Südkorea das breite Spektrum der regionalen Forschungs- und Innovationslandschaft unterstreichen.",
+      "summary": "Die Steiermark treibt innovative Lösungen gegen urbane Hitze voran, wobei die TU Graz mit einer neuartigen Keramikwand aus 3D-gedruckten Keramikwürfeln eine passive Kühltechnik entwickelt hat, die Temperaturen um bis zu 7 Grad senken kann. Parallel wird mit einem neuen Forschungszentrum für den Baustoff Holz sowie EU-geförderten Projekten an der Med Uni Graz zur Hirnblutungsforschung die Forschungslandschaft in der Region gestärkt.",
       "items": [
         {
-          "title": "Keramikwand kühlt bei urbaner Hitze - Freiraum Gestalten",
+          "title": "Neues Forschungszentrum für Baustoff Holz - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aZEM1dTRFeWlqanJsbDdubm9zSm5hdURRdTBpMlJoZ3lWV2xhb1pDSVpxNkkzc0dnZlZseGdnSnpKODlRN18tYUhHM0oydG40N0FGUA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "10. Aug 2026"
+        },
+        {
+          "title": "Keramikwand kühlt bei urbaner Hitze - freiraum-gestalten.info",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ1B1ZERWME1MSG1ZRXUwbGwxX3EtX2pIMW5mekpPSTdwNDFjeENWX1BENkxtMll0VW9od3E3ZG82UkpQOHJDelVHNkNYdTRsaDZoUzFNOS1zQ2l6akJEd0R1TGNFQ3I0RGY0SWhNaW5laXFMdDBHUENvdlM2RnprWkQ5eUNJeWdkbWhkbk1hQWhMcDJXUnpxSk5wcGNLWFVsTTBTM0ZwcjFDdHpBQmMycEtsTnY4WDRQ?oc=5",
-          "source": "Freiraum Gestalten",
+          "source": "freiraum-gestalten.info",
+          "date": "5. Aug 2026"
+        },
+        {
+          "title": "Hitze um 7 Grad reduziert: Forscher entwickeln neue Kühltechnik aus Keramik - CHIP",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYVZTbGdxamRLR2FmTEllcEhCWXFXcDlNaWRYdkZVSmUwY1hjU2JMRl92V0ZJMmpLMElQTHAzSjJXVi1KOEhwRHpGbEJGeVB2b3BEYUk3eUJLY2Z2MnVrVGlZYzdjNEJqTkN5Tkc0V0tKaHFCLTBZRmw3eWpQT3h5c1p3ZmhtaVJMU19SSS0zRF9DYWhBU2RxWjVYSjg4RTRrUGRUcW1Ia1dkdGlEMEltUVc0Zmc2ZERVdnFIalJxRW1SVGRrOE9HV3VSZUJUalZhcmpoLUlMbnhWb1VQdWd5NDhTMDQ0QkozakpjSVlaaDA?oc=5",
+          "source": "CHIP",
           "date": "5. Aug 2026"
         },
         {
@@ -97,15 +79,15 @@
           "date": "4. Aug 2026"
         },
         {
-          "title": "Hitze um 7 Grad reduziert: Forscher entwickeln neue Kühltechnik aus Keramik - CHIP",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYVZTbGdxamRLR2FmTEllcEhCWXFXcDlNaWRYdkZVSmUwY1hjU2JMRl92V0ZJMmpLMElQTHAzSjJXVi1KOEhwRHpGbEJGeVB2b3BEYUk3eUJLY2Z2MnVrVGlZYzdjNEJqTkN5Tkc0V0tKaHFCLTBZRmw3eWpQT3h5c1p3ZmhtaVJMU19SSS0zRF9DYWhBU2RxWjVYSjg4RTRrUGRUcW1Ia1dkdGlEMEltUVc0Zmc2ZERVdnFIalJxRW1SVGRrOE9HV3VSZUJUalZhcmpoLUlMbnhWb1VQdWd5NDhTMDQ0QkozakpjSVlaaDA?oc=5",
-          "source": "CHIP",
-          "date": "5. Aug 2026"
+          "title": "3D-Druck: TU Graz kühlt Städte mit Keramikwürfeln um 7 Grad - AD HOC NEWS",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUN6RUlRc0JST0FwZ2NOX3VtNzRqanNZUmg2TGE1V0pmeXRrTmE1eFlNMWhTYzZLczlseHZPTHpFNlFRdU5YYnlfWGdGaGhyZDhVQXdEQzVfYVBJYWNGOU5TNFRxMDRTbzlienhXYXZ6VEtMcVFselVrOURYdzNXLU9aczlKSFpMRjNPeXBWZnkzYzV5NmpGeTA2cEtVQi1Ja2tyQUEtM0stYWZPNDNB?oc=5",
+          "source": "AD HOC NEWS",
+          "date": "6. Aug 2026"
         },
         {
-          "title": "3D-Druck: TU Graz kühlt Städte mit Keramikwürfeln um 7 Grad - ad-hoc-news.de",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUN6RUlRc0JST0FwZ2NOX3VtNzRqanNZUmg2TGE1V0pmeXRrTmE1eFlNMWhTYzZLczlseHZPTHpFNlFRdU5YYnlfWGdGaGhyZDhVQXdEQzVfYVBJYWNGOU5TNFRxMDRTbzlienhXYXZ6VEtMcVFselVrOURYdzNXLU9aczlKSFpMRjNPeXBWZnkzYzV5NmpGeTA2cEtVQi1Ja2tyQUEtM0stYWZPNDNB?oc=5",
-          "source": "ad-hoc-news.de",
+          "title": "3D-Druck für passive Kühlung und stabile Bauteile: neue TU-Graz-Ansätze - it boltwise",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaUludFdJdWpiQXo5enZhdWtlZktpclh2QTNNV1RKV0NXU1dHZHQyWFF2UFRBUWEzZ3RaNGFZZmdpc2NFY1dkQzFnOUtQTnFHRWt4dTBud2ZRTVNXRjk1eThFU0UwU0t3Tl9wbHlUWDc4Ul9tQ05VZ0dtYlZWajJ3NGpMWFhIaU5ZNWlNQjdSeUpzNi01ZjlSQVlCajBqbDVOX21fOWtfZmM?oc=5",
+          "source": "it boltwise",
           "date": "6. Aug 2026"
         },
         {
@@ -119,18 +101,6 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcmxFOWNCUFBNcEdrRzhING0tTFVyY0Z0cHEzQ1c0M0dqRVZDbm5RQmhtM1RkWkZ5YmFLZlhoaV9UbTJNUXM1M0FmOHpBVmlkMVVvTWV6QW9NTmNfV1BiVU9xMWRmRUQxeVhSMnpoYWxCZjBhYWlQQ01OcktCRU9ZZTZObUxCa0w4ZEM0b0w0VHdUQ0VZMnJ1Q2lsTjZYMEU?oc=5",
           "source": "5 Minuten",
           "date": "5. Aug 2026"
-        },
-        {
-          "title": "Steirische E-Sport-Studierende ergattern exklusive Praktika in Südkorea - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaWpGZEJoUU1hS21iUU5ISjV6R1FpcjZSNDhHUmE3aUxSakhrWEJNUDZ6a1poM1kzdWJvTGt5bjNia1lReWRrT3hMMC1xYjhpSVowSmRnbVJjYm5WT3Q2eHlRZHNhZGVfbWlFVF9XbnhhN0NoMV9ONkY4ckVscHkya2NCY2tjcUlSbDFGOE5FdF82TTJDN1RhdkQyM2liN2dLVENQaUVrTWJWT2YwQmg0NA?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "5. Aug 2026"
-        },
-        {
-          "title": "Innovation aus der Steiermark – Grazer Solaranlage klappt bei Sturm ein - Heute",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42R3pvc3N1dS1pdFhhbUdCVUxBYTI1ZmZ1WThCYk01OFZ2SGJkSUtfLVF1X3pjT1Y5VWJoSG5kX0pIcVc2ekl4VWtzUkNhdVRKRWNNT3g1UUk3cjNSRldVR2VHaHVnVTVNdlhwVXJuSjUwVFVVdXBUNEctUDA?oc=5",
-          "source": "Heute",
-          "date": "4. Aug 2026"
         }
       ]
     },
@@ -145,25 +115,19 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark positioniert sich zunehmend als aktiver Standort in der KI-Entwicklung, während gleichzeitig die Sicherheitsrisiken durch den kriminellen Missbrauch von künstlicher Intelligenz bei Cyber-Attacken wachsen. Organisatorische Veränderungen in regionalen Medienunternehmen prägen derzeit die Innovationslandschaft der Steiermark.",
+      "summary": "Künstliche Intelligenz transformiert das Bildungssystem in der Steiermark, insbesondere im Nachhilfebereich, wo sie sowohl innovative Chancen als auch neue Herausforderungen mit sich bringt. Die ORF-Führungsstruktur in der Region wird durch ein neues Direktorenteam neu gestaltet, das diese digitalen Veränderungen in der Medienlandschaft mitgestalten wird.",
       "items": [
         {
-          "title": "Kriminelle nutzen künstliche Intelligenz immer öfter für Cyber-Attacken - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX1hoM1VNamdfSnF4S1Zma0xjcDh2a2lvcmRBdWZ5UmRnZ3piaWVudWVSN1l6U2NNVWZKR1k3dFRwalM2OFM4b3IwOVFKNXhESGJWWnhOclF2OVcwcnZxQzhMTk9HWkhCMHhNLVVseFYwWXR0SHZvWVE4UDVPNWFDTzB0YlFjal9aVVFnZUNNME1lSWlXQjhZSkY4TEZfd0JzTXZxTjNsc2RLSkFfWTU3V2tNaXp4azZnb1VnYnEwV0tDQl9RTV9Ia0VLbmpiemNHRGRvbVROOU9MOFlvS3F3?oc=5",
+          "title": "Künstliche Intelligenz revolutioniert Lernverhalten auch bei Nachhilfe - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUE5WdXpfN3hEZjM2SmF3Qks5MlNXbXUyU2NIc0tadFVPNFZ0VDhzZFFQV1VPX2lNNlhIU0E0MThlUjdtZVA5dDFkWmdSNjJRTzhrRHNYdlpwSkhFeWwxMW10V3pTTWNVV0VuQldJSjA0OXdPMldpbE5fY29SNUEwSThwTmQ5Y0pNUWFnNXBtOVQ1bnBFOEZTSWxiQmNvVllLdUhzZzQ5dTlxdy04TFhIdWtiYzhGX1daaVdHS1N5Nm5XZnJxc1I2RGFyMkp1R3ExWXVNVmY1czRqeU0?oc=5",
           "source": "ORF ON",
-          "date": "3. Aug 2026"
+          "date": "10. Aug 2026"
         },
         {
-          "title": "Am Puls der KI-Entwicklung - Raiffeisenzeitung",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52b2pGTXkyZTRVQ2NESHV1OUFBUDA4NFZJRHdyWm4wa092NlItMTNWTmNCcU5RNXI3eFlHU2lzVUhTeUdmNHZReC1PT1g5SzhJbExHSzk5NTVSc2xxTXNaMDVDQ25IUFFsUEtlTUJSLTBrUlNsNFE?oc=5",
-          "source": "Raiffeisenzeitung",
-          "date": "3. Aug 2026"
-        },
-        {
-          "title": "Steiermark heute vom 03.08.2026 - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mNi1QU1g2Z0dPMFNOblZVaFpGUWJZUHcyRVZ4LXZ2aFNxMURZRXpmU3pzSDg2NUlpNFQyV1ZYMkJrUUIxeHI3ZEg4em5LUkliMmxxejBnQ0ZsZXdoekJJWm9vaWoxN1ZIcHg1cVBEUQ?oc=5",
-          "source": "ORF ON",
-          "date": "3. Aug 2026"
+          "title": "Nachhilfe: KI als Chance und Herausforderung - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WZXEwZk95MEoxQjJyOWxRZ1Q0TVQ4cUZod2Z2UFdQa0d1SVB0OXlweThBbjFVeHFfbi1yVUx6Vk1EeWc3czZ0X3R1RDliTlZ4WTFRSQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "10. Aug 2026"
         },
         {
           "title": "Neues ORF-Führungsteam: Sie soll Direktorin in der Steiermark werden - 5 Minuten",
