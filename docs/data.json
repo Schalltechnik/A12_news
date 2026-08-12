@@ -1,108 +1,27 @@
 {
-  "generated": "11. August 2026, 04:04 UTC",
+  "generated": "12. August 2026, 04:24 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Steiermark zeigt gemischte Arbeitsmarkttrends, wobei die Region Hartberg-Fürstenfeld positiv aus dem Landestrend heraussticht, während gleichzeitig Fachkräfte wie Ärzte den Arbeitsmarkt verlassen. Akademische Ausbildungen werden als strategische Investition für die langfristige Wettbewerbsfähigkeit des Wirtschaftsstandorts erkannt.",
-      "items": [
-        {
-          "title": "Halbjahresbilanz des AMS: Hartberg-Fürstenfeld trotzt dem Landestrend am Arbeitsmarkt - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOGlpQ2YzNnJoM3hzTzNVT3ppeklsRkpGMUhPcDJkM09OSXlKaVN0SWZKRmxveUV2SnJvb0FTOFdWTFhmbkRJUFFPZE80aXctUGFObW05d1FDaWdWNHFGcjRJWlZaV3BXd3lvR2VZalB2eFpzRmc0RVI3Z1Nzd0xITlJSekh2R0VLYk1KYl94czNGMWxDX3RjTGRXZ1hqN3d6ZjNUNUJONnZFX1NyOU1FU0dnakdGVnM5ZDVGY2NoUkxTc3NydERwR2x3?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "5. Aug 2026"
-        },
-        {
-          "title": "Arbeit und Urlaub - Steirische Ärztin tauschte LKH gegen „Traumschiff“ - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE12N2lWbHpVTU4xTnVjTk1qbXY3alFtTTdJZmhnbWFxMGQ3ejZsZWNPYkd4V2hEeXBNVlhKS1lONUpYUQ?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "8. Aug 2026"
-        },
-        {
-          "title": "Akademische Ausbildungen: Investition in die Zukunft des Wirtschaftsstandorts - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObmJDVk5CT3E2aVlCb0lFSXluRnVES2JkR2NPZFE0X2xSQVRDX0E4aTAtcXltQlBaMk5QVGRJZHAxbWdZWFM5c0FkVkJTVDZseS11NTNuX3pDN2pGQ3d2OUtOMnN5Qm5fSEZGMWloTjZHTVhnYk1UblZWeFJ1Mkc4Zm0ybVFUV0VjOU42VDJMYXZqRFRhMEVPNDhoUQ?oc=5",
-          "source": "wko.at",
-          "date": "6. Aug 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "tourismus": {
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark präsentiert sich international als Kulinarik- und Tourismusdestination, wie die Teilnahme des Steierkochs Florian Wörgötter beim Het Bos-Festival in Amsterdam zeigt. Gleichzeitig wächst der Trend des Workations, bei dem Berufstätige wie eine steirische Ärztin Arbeit und Urlaub kombinieren, was neue Zielgruppen für den steirischen Tourismus erschließt.",
-      "items": [
-        {
-          "title": "Het Bos-Festival: Sternekoch Florian Wörgötter präsentierte Steiermark in Amsterdam - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdXVmSE9fZDE5VkstYUdjMmN5di1zY0ZwckxpR2ZPWW1SNktuRWVzbVRQckwtbHdBNFpPb2xzRzdKcWVpNnNRLU5jWHlZSXRiNzZ6XzY4Q2JUbzYtMEN1QTRlQ3FvVi16RF91Tld4YnNuV0xFOWxSMTlwYTNNZ0dpd2hRM1FPV1k0NnNYelEwdUFCZExaR3JJbkZsY3BfZlBPMUwxbEZiMjBlcUl0QTJxc01fNjluZU8tcjZnVTNQNnByQQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "10. Aug 2026"
-        },
-        {
-          "title": "Arbeit und Urlaub - Steirische Ärztin tauschte LKH gegen „Traumschiff“ - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE12N2lWbHpVTU4xTnVjTk1qbXY3alFtTTdJZmhnbWFxMGQ3ejZsZWNPYkd4V2hEeXBNVlhKS1lONUpYUQ?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "8. Aug 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "wissenschaft": {
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Steiermark treibt innovative Lösungen gegen urbane Hitze voran, wobei die TU Graz mit einer neuartigen Keramikwand aus 3D-gedruckten Keramikwürfeln eine passive Kühltechnik entwickelt hat, die Temperaturen um bis zu 7 Grad senken kann. Parallel wird mit einem neuen Forschungszentrum für den Baustoff Holz sowie EU-geförderten Projekten an der Med Uni Graz zur Hirnblutungsforschung die Forschungslandschaft in der Region gestärkt.",
-      "items": [
-        {
-          "title": "Neues Forschungszentrum für Baustoff Holz - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aZEM1dTRFeWlqanJsbDdubm9zSm5hdURRdTBpMlJoZ3lWV2xhb1pDSVpxNkkzc0dnZlZseGdnSnpKODlRN18tYUhHM0oydG40N0FGUA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "10. Aug 2026"
-        },
-        {
-          "title": "Keramikwand kühlt bei urbaner Hitze - freiraum-gestalten.info",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ1B1ZERWME1MSG1ZRXUwbGwxX3EtX2pIMW5mekpPSTdwNDFjeENWX1BENkxtMll0VW9od3E3ZG82UkpQOHJDelVHNkNYdTRsaDZoUzFNOS1zQ2l6akJEd0R1TGNFQ3I0RGY0SWhNaW5laXFMdDBHUENvdlM2RnprWkQ5eUNJeWdkbWhkbk1hQWhMcDJXUnpxSk5wcGNLWFVsTTBTM0ZwcjFDdHpBQmMycEtsTnY4WDRQ?oc=5",
-          "source": "freiraum-gestalten.info",
-          "date": "5. Aug 2026"
-        },
-        {
-          "title": "Hitze um 7 Grad reduziert: Forscher entwickeln neue Kühltechnik aus Keramik - CHIP",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYVZTbGdxamRLR2FmTEllcEhCWXFXcDlNaWRYdkZVSmUwY1hjU2JMRl92V0ZJMmpLMElQTHAzSjJXVi1KOEhwRHpGbEJGeVB2b3BEYUk3eUJLY2Z2MnVrVGlZYzdjNEJqTkN5Tkc0V0tKaHFCLTBZRmw3eWpQT3h5c1p3ZmhtaVJMU19SSS0zRF9DYWhBU2RxWjVYSjg4RTRrUGRUcW1Ia1dkdGlEMEltUVc0Zmc2ZERVdnFIalJxRW1SVGRrOE9HV3VSZUJUalZhcmpoLUlMbnhWb1VQdWd5NDhTMDQ0QkozakpjSVlaaDA?oc=5",
-          "source": "CHIP",
-          "date": "5. Aug 2026"
-        },
-        {
-          "title": "TU Graz entwickelt Kühlwand aus Keramikwürfeln gegen die urbane Hitze - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLV9vTy1UR1FYVldja1h2QlNhb2J1ZU54NldUMzNiYXVDYXFkSzNyUHRuN0pFRV9pUllBYXNkdnNRTzdCbnNGNVk4NjZjTk0tRlVVWkNHN0s2NFJFcVNfWkhiR0lPZ2hCcW1ZNld4WE1BNHBKbmR4aUt1T2pEemRocmZFMm5YczhENEQya2VsbFhQVjVyc1hwT2FrdEpFLTk5bU1ZM3gzclRfVlBIcjJrekR2QXIzUWVq?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "4. Aug 2026"
-        },
-        {
-          "title": "3D-Druck: TU Graz kühlt Städte mit Keramikwürfeln um 7 Grad - AD HOC NEWS",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUN6RUlRc0JST0FwZ2NOX3VtNzRqanNZUmg2TGE1V0pmeXRrTmE1eFlNMWhTYzZLczlseHZPTHpFNlFRdU5YYnlfWGdGaGhyZDhVQXdEQzVfYVBJYWNGOU5TNFRxMDRTbzlienhXYXZ6VEtMcVFselVrOURYdzNXLU9aczlKSFpMRjNPeXBWZnkzYzV5NmpGeTA2cEtVQi1Ja2tyQUEtM0stYWZPNDNB?oc=5",
-          "source": "AD HOC NEWS",
-          "date": "6. Aug 2026"
-        },
-        {
-          "title": "3D-Druck für passive Kühlung und stabile Bauteile: neue TU-Graz-Ansätze - it boltwise",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaUludFdJdWpiQXo5enZhdWtlZktpclh2QTNNV1RKV0NXU1dHZHQyWFF2UFRBUWEzZ3RaNGFZZmdpc2NFY1dkQzFnOUtQTnFHRWt4dTBud2ZRTVNXRjk1eThFU0UwU0t3Tl9wbHlUWDc4Ul9tQ05VZ0dtYlZWajJ3NGpMWFhIaU5ZNWlNQjdSeUpzNi01ZjlSQVlCajBqbDVOX21fOWtfZmM?oc=5",
-          "source": "it boltwise",
-          "date": "6. Aug 2026"
-        },
-        {
-          "title": "Sieben Grad weniger ohne Klimaanlage: Grazer Forscher entwickeln neue Kühltechnik - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb2JoQUthNDFtdWpTZkxIazlLeENja2hJRjhKRG1fTDdGMUE0OW5FTnRDNHptaUpZSVJhUFVSX2tOMVFOWlk0ekdyY1JfRG53NC1nbFI1aTZqRTVEVVlkQ0lyZV8yUE81NnZmQ3FVdVRQdnB1WnRsS2x5MWREejFrckM3Y2xhcEloNm9Jc2c4d254SUdZYUNsLUZxTVBlaUF4ekJjLXVmNTZ3YTFGdkdCYjFzQ0JfTVZvVkFIVHlR?oc=5",
-          "source": "5 Minuten",
-          "date": "4. Aug 2026"
-        },
-        {
-          "title": "EU-Projekt: Med Uni Graz stärkt Forschung zu Hirnblutungen - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcmxFOWNCUFBNcEdrRzhING0tTFVyY0Z0cHEzQ1c0M0dqRVZDbm5RQmhtM1RkWkZ5YmFLZlhoaV9UbTJNUXM1M0FmOHpBVmlkMVVvTWV6QW9NTmNfV1BiVU9xMWRmRUQxeVhSMnpoYWxCZjBhYWlQQ01OcktCRU9ZZTZObUxCa0w4ZEM0b0w0VHdUQ0VZMnJ1Q2lsTjZYMEU?oc=5",
-          "source": "5 Minuten",
-          "date": "5. Aug 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "foerderungen": {
       "label": "Förderungen & EU-Programme",
@@ -115,33 +34,8 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Künstliche Intelligenz transformiert das Bildungssystem in der Steiermark, insbesondere im Nachhilfebereich, wo sie sowohl innovative Chancen als auch neue Herausforderungen mit sich bringt. Die ORF-Führungsstruktur in der Region wird durch ein neues Direktorenteam neu gestaltet, das diese digitalen Veränderungen in der Medienlandschaft mitgestalten wird.",
-      "items": [
-        {
-          "title": "Künstliche Intelligenz revolutioniert Lernverhalten auch bei Nachhilfe - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUE5WdXpfN3hEZjM2SmF3Qks5MlNXbXUyU2NIc0tadFVPNFZ0VDhzZFFQV1VPX2lNNlhIU0E0MThlUjdtZVA5dDFkWmdSNjJRTzhrRHNYdlpwSkhFeWwxMW10V3pTTWNVV0VuQldJSjA0OXdPMldpbE5fY29SNUEwSThwTmQ5Y0pNUWFnNXBtOVQ1bnBFOEZTSWxiQmNvVllLdUhzZzQ5dTlxdy04TFhIdWtiYzhGX1daaVdHS1N5Nm5XZnJxc1I2RGFyMkp1R3ExWXVNVmY1czRqeU0?oc=5",
-          "source": "ORF ON",
-          "date": "10. Aug 2026"
-        },
-        {
-          "title": "Nachhilfe: KI als Chance und Herausforderung - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WZXEwZk95MEoxQjJyOWxRZ1Q0TVQ4cUZod2Z2UFdQa0d1SVB0OXlweThBbjFVeHFfbi1yVUx6Vk1EeWc3czZ0X3R1RDliTlZ4WTFRSQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "10. Aug 2026"
-        },
-        {
-          "title": "Neues ORF-Führungsteam: Sie soll Direktorin in der Steiermark werden - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNUlIcF9qRVZNMUp1eHVTbnZwZUdHS25lQmJ5M1k1RFFQUGtzQk9WU3dES1BNNk5YSFViRjVJbDFqZFAyWUpuQmVBeTdacExZaU9Reml1aXVyRkIxOFlUM2RjWUhSN3luN1A2aEVfdlJYMzBILWI3VlhKN01oUlpGY2Z3TUZWWjZBYzZuT1FVb0lzeVJBN2JkVlNaMk5LLUNLcThyNXJGckVVb3BnWEljOUZObEc?oc=5",
-          "source": "5 Minuten",
-          "date": "4. Aug 2026"
-        },
-        {
-          "title": "Viele Überraschungen - Pigs Team fix: Das sind die neuen ORF-Direktoren - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE41NjZXeTYzMWRxRDEzOFRRMGREdElEN0o4bHUzalk5X1ZjdnZhM0NkYkRuMGdJVmgzdW5qN0t3RDZ2QQ?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "4. Aug 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     }
   }
 }
