@@ -1,27 +1,132 @@
 {
-  "generated": "12. August 2026, 04:24 UTC",
+  "generated": "13. August 2026, 04:27 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Die Steiermark verzeichnet positive Entwicklungen in traditionellen Branchen wie dem Brauereiwesen und investiert gleichzeitig massiv in zukunftsorientierte Forschungsinfrastruktur, wie das neue Holzforschungszentrum in Weiz mit einem Budget von knapp zehn Millionen Euro zeigt. Der Arbeitsmarkt in der Region bleibt insgesamt robust, wobei akademische Ausbildungen als Schlüsselfaktor für die langfristige Wettbewerbsfähigkeit des Wirtschaftsstandorts erkannt werden.",
+      "items": [
+        {
+          "title": "Neues von regionalen Brauereien und Feldbacherin vertritt Friseure - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa2hjT1E1T3dEUlJRLVEyZ0FsWWYxMmxheXVjSnBuRFpEQmc3R0NHZGdtLTVQQ2J4UTZ6Nng3ODJDUXoxNldYTThZR01IenRRTWl4QlBtTy03YllFZ000eE03YW5fVldGM2tPcnRSNEtVNGhmSlF4V3BDdXpRZ3Vwam8yNnVpM254UnIwZ2UtLWVNZXZ2blBCZDQ1djBQdy1zXzlScm84N3JzRnd2dE5VR0V3?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "12. Aug 2026"
+        },
+        {
+          "title": "Genussfest in der Steiermark: Beim Fest der Generationen am Hütterberg ging es heiß her - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOelA0b2VEd3l3cXJvRDlHWlpmOUNHSTNhbzdnVjNwLXczTzBFVlJwalVIdXdvbUh4TUNGUk5IaUxHNlptOWhyNi1XeEZvRDdXWDE4MHpfWnRhNFNwNWtHQ3ltQ0VsM3lFQk5NUm5GVzZPODdKajhLdWtoWkNYdmEzUmJHbWVHMHd0R014ZVdJcGZ3eW1fYXI0V0czNllqeHBXTDI1YThfWE8tS1VsTXJjb1FmR0haQXM?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "12. Aug 2026"
+        },
+        {
+          "title": "Mürztaler Kleinbrauerei unter die Top 5 der Steiermark gewählt - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNVpIMEVJemdsWmNINnVSaUZFMkRXdGQzcEZyQ096LTNLbnpnWElrQ2VmMFE3ZzZObllxemM0X05fQ2tGdU1uRVN5QmZqcmgzbHVwTjQ5N0N5bTVUYnJ5Z2FhZHFrSmZLLU5uOFA1bEExd1dtM213TjZCTjJ2NzJMM2RVS0kzMjZBWEYwa3NUdWtmYVE3TkxOdEtLUkVZbFV3djJYU0RxZm16d1g0WnV3?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "12. Aug 2026"
+        },
+        {
+          "title": "Spatenstich: Knapp zehn Millionen Euro für ein neues Holzforschungszentrum in Weiz - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVmZOMWtOOENfVzk0NTduUVRoc2RnMlBjOXNyS0pvY2x3V095aUFDVVlMVUtxZ0RCeVdhZ2tuQnlEdU16cko3ZUJpZDd2NkVqRkF4bV9WLTdtZnBmOU9wQURTYlkzZUdrbTd3aTJMS1FXdFk2VG9pMXdTbkphcFhzWmRXekVVLTBSd1VLSVBLajRmbXA1eW8yR1JvRUZYNGFEOGU5VEtFcnMxekE0clBfYjBnR2ZTUUk?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "10. Aug 2026"
+        },
+        {
+          "title": "Arbeitsmarkt aktuell: Südoststeiermark zeigt sich robust, doch es gibt auch Sorgen - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZzVHVm9MZmxyV1ozMXFlUFo0cnZJUHkxQ2JHdmRJaHBOLXc3N0d1VUhRZTA2MGc0aDF0Z1J4aTlkRC00MkllTTBlcmZrSVdZUEd4eWRKa2NCNFotcHh3MW5odHRYbWV5MmdZYVloVmZTR01jc1ROQ09IM0EydFM0OEozdGZzb3l2MXRVV3N3dWc4M2pIZGZPLWNCaElHT2d6aElxV3E5OE5idE9lTWFaekNQeU9DUFRGZUktV0o5VlpMNFVC?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "12. Aug 2026"
+        },
+        {
+          "title": "Arbeit und Urlaub - Steirische Ärztin tauschte LKH gegen „Traumschiff“ - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE12N2lWbHpVTU4xTnVjTk1qbXY3alFtTTdJZmhnbWFxMGQ3ejZsZWNPYkd4V2hEeXBNVlhKS1lONUpYUQ?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "8. Aug 2026"
+        },
+        {
+          "title": "Akademische Ausbildungen: Investition in die Zukunft des Wirtschaftsstandorts - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObmJDVk5CT3E2aVlCb0lFSXluRnVES2JkR2NPZFE0X2xSQVRDX0E4aTAtcXltQlBaMk5QVGRJZHAxbWdZWFM5c0FkVkJTVDZseS11NTNuX3pDN2pGQ3d2OUtOMnN5Qm5fSEZGMWloTjZHTVhnYk1UblZWeFJ1Mkc4Zm0ybVFUV0VjOU42VDJMYXZqRFRhMEVPNDhoUQ?oc=5",
+          "source": "wko.at",
+          "date": "6. Aug 2026"
+        }
+      ]
     },
     "tourismus": {
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Die Steiermark präsentiert sich durch hochwertige kulinarische Events wie das Het Bos-Festival mit Starkoch Florian Wörgötter international in Amsterdam und positioniert sich damit als Premium-Tourismusdestination. Gleichzeitig zeigt sich in Lifestyle-Trends wie dem Workation-Phänomen das wachsende Interesse an der Steiermark als Urlaubsziel für Fachkräfte, die Beruf und Erholung verbinden möchten.",
+      "items": [
+        {
+          "title": "Het Bos-Festival: Sternekoch Florian Wörgötter präsentierte Steiermark in Amsterdam - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdXVmSE9fZDE5VkstYUdjMmN5di1zY0ZwckxpR2ZPWW1SNktuRWVzbVRQckwtbHdBNFpPb2xzRzdKcWVpNnNRLU5jWHlZSXRiNzZ6XzY4Q2JUbzYtMEN1QTRlQ3FvVi16RF91Tld4YnNuV0xFOWxSMTlwYTNNZ0dpd2hRM1FPV1k0NnNYelEwdUFCZExaR3JJbkZsY3BfZlBPMUwxbEZiMjBlcUl0QTJxc01fNjluZU8tcjZnVTNQNnByQQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "10. Aug 2026"
+        },
+        {
+          "title": "Arbeit und Urlaub - Steirische Ärztin tauschte LKH gegen „Traumschiff“ - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE12N2lWbHpVTU4xTnVjTk1qbXY3alFtTTdJZmhnbWFxMGQ3ejZsZWNPYkd4V2hEeXBNVlhKS1lONUpYUQ?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "8. Aug 2026"
+        }
+      ]
     },
     "wissenschaft": {
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Grazer Forscher nutzen UV-Licht-Technologie, um verwitterte Römersteine lesbar zu machen und damit antike Inschriften zu rekonstruieren, während die Steiermark gleichzeitig neue Forschungszentren für zukunftsweisende Materialien wie Holz und 3D-Druck-Keramik etabliert. Die TU Graz entwickelt dabei innovative Anwendungen vom passiven Kühlsystem für Städte bis hin zu stabilen Bauteilen, die das Potenzial nachhaltiger Materialien in der modernen Architektur und Forschung demonstrieren.",
+      "items": [
+        {
+          "title": "Grazer Forscher machen Römersteine lesbar - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05cWR2MXRLSC14ay1tZWNQcS11czhhZkhOa05DM2s0QjBXNGdzbEF2YkpQT05OdEJtMnV2bTNweFVERmM3SE9xRWsxTEg4UC1DTEs5ZQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "11. Aug 2026"
+        },
+        {
+          "title": "Grazer Forscher machen Inschriften auf Römersteinen wieder lesbar - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaTR2QWhTTk5QemFzd0tHbG9qUFphbXB6d3d5QzdCYnhiRUtUYVQxOE1aVms4UXVtTmhpRzV6TThMRzVPeGNpakRoTzBadXRKeDcyaWtIOFFRY0ZtM2FrbzhpV1ZJak5aalo3bmhOVkt3NEowVFdWVEhSQndjelpvMWRSdlFES1FvSDNrcXhUNTdtUjFRWFZsZnlWdlRrS052ZEpQdXBicHFJTjladzNtOXdn?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "11. Aug 2026"
+        },
+        {
+          "title": "Neues Forschungszentrum für Baustoff Holz - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aZEM1dTRFeWlqanJsbDdubm9zSm5hdURRdTBpMlJoZ3lWV2xhb1pDSVpxNkkzc0dnZlZseGdnSnpKODlRN18tYUhHM0oydG40N0FGUA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "10. Aug 2026"
+        },
+        {
+          "title": "Die Zukunft von Holz: Weiz beflügelt Forschung mit dem Wood Vision Lab - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbUhObm1iSnRkdFJaZWRfWkU4NXk4YkZDLWoyUkpUQ19OTFNVbkFHY0ZGS3VmQ2JYejRyVmNjS0ZZb3BuZ1l6X2tZRVQ1NjJva09UdEVuMW82Vm16Mk1yd1VBbE12QldFVVJ6cmw1YnQ3T010M0FLT2VzWGMzRDhSbjBIbzhpU3RuSjJUVmxFbDJhWWVZZk9BcVd2R3JnZUFUbmJvSA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "11. Aug 2026"
+        },
+        {
+          "title": "Uni Graz Forschung: Verwitterte Römersteine enthüllen dank UV-Licht neue Geschichten - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOejUtR0tzRERaYnBzV3Ztbm1PajZWRXVfbW1CVkJzMk0tX2dJMGh0OEpRRWplNVY3M184NTI3cGNsREUyTXhyV3pWZENUTHZoNFExcjU3Q3ZVMXU3Ri1kS3lzM1VkdnBBMndtRUJ4TThZa2dwLUNpQkVjREdZaUZSSEhONWR4cTB2Zk11dmdWOFFFcnNoQmtRc0d2SFVPTHdEcUlPS3AxUllNQ0Vxb3l0QzRKd29OMG8?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "11. Aug 2026"
+        },
+        {
+          "title": "3D-Druck: TU Graz kühlt Städte mit Keramikwürfeln um 7 Grad - AD HOC NEWS",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUN6RUlRc0JST0FwZ2NOX3VtNzRqanNZUmg2TGE1V0pmeXRrTmE1eFlNMWhTYzZLczlseHZPTHpFNlFRdU5YYnlfWGdGaGhyZDhVQXdEQzVfYVBJYWNGOU5TNFRxMDRTbzlienhXYXZ6VEtMcVFselVrOURYdzNXLU9aczlKSFpMRjNPeXBWZnkzYzV5NmpGeTA2cEtVQi1Ja2tyQUEtM0stYWZPNDNB?oc=5",
+          "source": "AD HOC NEWS",
+          "date": "6. Aug 2026"
+        },
+        {
+          "title": "3D-Druck für passive Kühlung und stabile Bauteile: neue TU-Graz-Ansätze - it boltwise",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaUludFdJdWpiQXo5enZhdWtlZktpclh2QTNNV1RKV0NXU1dHZHQyWFF2UFRBUWEzZ3RaNGFZZmdpc2NFY1dkQzFnOUtQTnFHRWt4dTBud2ZRTVNXRjk1eThFU0UwU0t3Tl9wbHlUWDc4Ul9tQ05VZ0dtYlZWajJ3NGpMWFhIaU5ZNWlNQjdSeUpzNi01ZjlSQVlCajBqbDVOX21fOWtfZmM?oc=5",
+          "source": "it boltwise",
+          "date": "6. Aug 2026"
+        },
+        {
+          "title": "Neuzugänge im steirischen Hummelnest - Raiffeisenzeitung",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wUmU2anhMTG9jbHZNcm5MZE5SOS04bmlTWHdkRC1iNjlaQzg4RS1HS19IOXhETE8xS2VqUTFDc1hrb1hpTUJ6akptY1lyektIVFdybFBIa2NWalRPVUFaa2k0WVV4bHNEY09vei1KWUxtNDBwbFE?oc=5",
+          "source": "Raiffeisenzeitung",
+          "date": "12. Aug 2026"
+        }
+      ]
     },
     "foerderungen": {
       "label": "Förderungen & EU-Programme",
@@ -34,8 +139,15 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Künstliche Intelligenz transformiert zunehmend den Bildungssektor und ermöglicht personalisierte Lernansätze, die traditionelle Nachhilfemethoden ergänzen oder ersetzen. Diese technologische Entwicklung eröffnet neue Chancen für effizienteres und individualisiertes Lernen, stellt Bildungseinrichtungen aber auch vor die Herausforderung, sich an die digitale Transformation anzupassen.",
+      "items": [
+        {
+          "title": "Künstliche Intelligenz revolutioniert Lernverhalten auch bei Nachhilfe - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUE5WdXpfN3hEZjM2SmF3Qks5MlNXbXUyU2NIc0tadFVPNFZ0VDhzZFFQV1VPX2lNNlhIU0E0MThlUjdtZVA5dDFkWmdSNjJRTzhrRHNYdlpwSkhFeWwxMW10V3pTTWNVV0VuQldJSjA0OXdPMldpbE5fY29SNUEwSThwTmQ5Y0pNUWFnNXBtOVQ1bnBFOEZTSWxiQmNvVllLdUhzZzQ5dTlxdy04TFhIdWtiYzhGX1daaVdHS1N5Nm5XZnJxc1I2RGFyMkp1R3ExWXVNVmY1czRqeU0?oc=5",
+          "source": "ORF ON",
+          "date": "10. Aug 2026"
+        }
+      ]
     }
   }
 }
