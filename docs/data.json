@@ -1,16 +1,16 @@
 {
-  "generated": "15. August 2026, 03:20 UTC",
+  "generated": "16. August 2026, 03:30 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die steirische Wirtschaft zeigt gemischte Signale mit anhaltenden Belastungen durch Abgabendruck und Infrastrukturkosten, während gleichzeitig Investitionen in Zukunftstechnologien wie Holzforschung und innovative Materialwissenschaften vorangetrieben werden. Trotz wirtschaftlicher Herausforderungen durch Dürrefolgen und Insolvenzen entstehen neue Chancen durch Unternehmensübernahmen und die Stärkung von Forschungs- und Industriekooperationen im Land.",
+      "summary": "Die steirische Wirtschaft zeigt gemischte Signale: Während innovative Industrie- und Forschungsprojekte sowie erfolgreiche Unternehmensübernahmen und regionale Spezialitäten wie Kleinbrauereien das Potenzial der Region unterstreichen, bleibt die Steuerlastbelastung für Österreicher trotz marginaler Verbesserungen ein strukturelles Problem, das durch externe Herausforderungen wie Dürrefolgen zusätzlich verschärft wird. Die steirische Wirtschaftspolitik muss daher zwischen der Förderung zukunftsweisender Branchen und der Bewältigung von Krisensituationen sowie der Entlastung von Betrieben balancieren.",
       "items": [
         {
-          "title": "Tax Freedom Day 2026: Ein Tag früher, aber keine spürbare Entlastung - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM2huYkJXRG8wVUxPckhYWkZNOUo5VTNpLTY2b1N5MURXRDhpclpPN014ZE1VamhqelhiNXFjV1V5V21La1VzSGMxZ2pzLVZGM0s5YmZkbHdKb0JVdDJpV0pBNHFkcF9zcW9TSy1qNVl5LUJVVTVrdTJhRmZaOGE5RHpxY1BWVDYzUEhJNmM3aFV4c0Ju?oc=5",
+          "title": "Tax Freedom Day 2026 - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PNHpXZFZvYjB4RGY2enhjV21qNDFzenYyVjVoSzZ1N0hPdkNQN0tiRG9LSzRzMnJQNW1qTnZyWjI3SzRIX3NJZ09xMlYxbXZuWVpwOTNLWXJsQXY1d2NR?oc=5",
           "source": "wko.at",
           "date": "14. Aug 2026"
         },
@@ -21,16 +21,22 @@
           "date": "14. Aug 2026"
         },
         {
-          "title": "Steirische Politik: „Lkw-Maut kein Vorbild, sondern ein Alarmsignal“ - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObjVEcGtyZ05hcjJmbmV5Q2UxMG5SM3hfcFRTU1JncDN6TThiMFJXTlJfc0t6ZHlDWE1WZlZyZTc3QnY4Y0EwS2dFQm1jWmxVX0tRZ1F4SUNzQUNORHIwdlhpZmFPRzJieUZyYkxvUGloQVBpaXlMaE00clNWSlZPemk4TlRkYUlEUDBqc05BWndFbkFiUjNxY19qejBUNXlJWjlHVU5LdHFaeDlRZDFn?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "14. Aug 2026"
-        },
-        {
           "title": "Dürre in der Steiermark: Grüne fordern Maßnahmen, Raiffeisen bietet Soforthilfe - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUUY1c1JPdnY4ZGR0WnRDRlI2UmNRdVoyZnBXR0RUZnB6dWc0M0p6aFUzNHlaZVBxbVNPQkppQlhPak9GdUQ4VVFMS0tRdTBZYlFSaDZkdV9vRk95MFlxU2ZKdGZLZXZKelJLeENNSU5VbnU4VzRLdGRRTHFLUDFpNlhpMUk0UzBmTnlqR25iTFVaelhPNGNldlVVbUktRWhvTENTdFpXZnR4aG9CNkprNg?oc=5",
           "source": "MeinBezirk.at",
           "date": "13. Aug 2026"
+        },
+        {
+          "title": "SFG und Land Steiermark: Industrie und Forschung in einem Boot: Gesucht werden Stoffe der Zukunft - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRVl5QkFBUW9xR1ZoRTJINUVIbjFBT3RlUldMNlQ4LTRTY2txUW5KNy1XVDZHeXgyeXdGTHVxWjhUc3lLLTlvSGFUVkx6emo2dnpKZTMtR2JnSzhlM3BEUGI5VUxuckV4TjMzaHFvOGNKb0NxTzd6bzktN3poYjBTaW9TNHZobGlLOXktQS1tYVYtNlo3X25RQ2VKUnIweUdYX1VJVnVMbDhpeURrXzNXQS1lTHVmV3lf?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "13. Aug 2026"
+        },
+        {
+          "title": "Tax Freedom Day 2026: Ein Tag früher, aber keine spürbare Entlastung - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM2huYkJXRG8wVUxPckhYWkZNOUo5VTNpLTY2b1N5MURXRDhpclpPN014ZE1VamhqelhiNXFjV1V5V21La1VzSGMxZ2pzLVZGM0s5YmZkbHdKb0JVdDJpV0pBNHFkcF9zcW9TSy1qNVl5LUJVVTVrdTJhRmZaOGE5RHpxY1BWVDYzUEhJNmM3aFV4c0Ju?oc=5",
+          "source": "wko.at",
+          "date": "14. Aug 2026"
         },
         {
           "title": "Nach Insolvenz: Bärnbacher „Schlatzer Reisen“ übernimmt Reiseunternehmen Jöbstl - Kleine Zeitung",
@@ -45,16 +51,10 @@
           "date": "12. Aug 2026"
         },
         {
-          "title": "SFG und Land Steiermark: Industrie und Forschung in einem Boot: Gesucht werden Stoffe der Zukunft - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRVl5QkFBUW9xR1ZoRTJINUVIbjFBT3RlUldMNlQ4LTRTY2txUW5KNy1XVDZHeXgyeXdGTHVxWjhUc3lLLTlvSGFUVkx6emo2dnpKZTMtR2JnSzhlM3BEUGI5VUxuckV4TjMzaHFvOGNKb0NxTzd6bzktN3poYjBTaW9TNHZobGlLOXktQS1tYVYtNlo3X25RQ2VKUnIweUdYX1VJVnVMbDhpeURrXzNXQS1lTHVmV3lf?oc=5",
+          "title": "Steirische Politik: „Lkw-Maut kein Vorbild, sondern ein Alarmsignal“ - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObjVEcGtyZ05hcjJmbmV5Q2UxMG5SM3hfcFRTU1JncDN6TThiMFJXTlJfc0t6ZHlDWE1WZlZyZTc3QnY4Y0EwS2dFQm1jWmxVX0tRZ1F4SUNzQUNORHIwdlhpZmFPRzJieUZyYkxvUGloQVBpaXlMaE00clNWSlZPemk4TlRkYUlEUDBqc05BWndFbkFiUjNxY19qejBUNXlJWjlHVU5LdHFaeDlRZDFn?oc=5",
           "source": "Kleine Zeitung",
-          "date": "13. Aug 2026"
-        },
-        {
-          "title": "Spatenstich: Knapp zehn Millionen Euro für ein neues Holzforschungszentrum in Weiz - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVmZOMWtOOENfVzk0NTduUVRoc2RnMlBjOXNyS0pvY2x3V095aUFDVVlMVUtxZ0RCeVdhZ2tuQnlEdU16cko3ZUJpZDd2NkVqRkF4bV9WLTdtZnBmOU9wQURTYlkzZUdrbTd3aTJMS1FXdFk2VG9pMXdTbkphcFhzWmRXekVVLTBSd1VLSVBLajRmbXA1eW8yR1JvRUZYNGFEOGU5VEtFcnMxekE0clBfYjBnR2ZTUUk?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "10. Aug 2026"
+          "date": "14. Aug 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark setzt verstärkt auf kulinarische Positionierung und internationale Präsentation, wie die Teilnahme an Spitzenkulinarik-Festivals und Präsentationen durch Spitzenköche in europäischen Metropolen zeigen. Gleichzeitig profitiert der Tourismus von Trends wie Agritourismus und Work-Life-Balance-Angeboten, während es in der Tourismusausbildung zu Personalveränderungen kommt.",
+      "summary": "Die Steiermark setzt verstärkt auf kulinarische Exzellenz und regionale Erlebnisangebote, um sich als attraktives Tourismusdestination zu positionieren und neue Zielgruppen zu erschließen. Gleichzeitig zeigen sich Veränderungen in der touristischen Infrastruktur und Führungsebene, während nachhaltige und authentische Urlaubsformen wie Urlaub am Bauernhof an Bedeutung gewinnen.",
       "items": [
         {
           "title": "Steiermark präsentiert sich erstmals beim Spitzenkulinarik-Festival - gast.at",
@@ -71,27 +71,27 @@
           "date": "13. Aug 2026"
         },
         {
-          "title": "Het Bos-Festival: Sternekoch Florian Wörgötter präsentierte Steiermark in Amsterdam - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdXVmSE9fZDE5VkstYUdjMmN5di1zY0ZwckxpR2ZPWW1SNktuRWVzbVRQckwtbHdBNFpPb2xzRzdKcWVpNnNRLU5jWHlZSXRiNzZ6XzY4Q2JUbzYtMEN1QTRlQ3FvVi16RF91Tld4YnNuV0xFOWxSMTlwYTNNZ0dpd2hRM1FPV1k0NnNYelEwdUFCZExaR3JJbkZsY3BfZlBPMUwxbEZiMjBlcUl0QTJxc01fNjluZU8tcjZnVTNQNnByQQ?oc=5",
+          "title": "Daniel Neuhauser & Eva Pöttler: ORF Steiermark-„Heimatsommer“ zu Gast im Freibad Stainz - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS2dybTZXdklTczVxY05Fek1IeVlMY3ktZ1JmWElMODdnN3NCdjBCQXJwcDl0VEI0OHRUWW4wSHVOYzFDRWthMzYyaDczLWxjOGhORi1QTlkzeHFzNUJwbDFaWXVNU09fMTBFdEVEY2FHWU43dWJCc2pvQndCUmw3WVlkTlBBZHVsbmhjNkZPRUFWZU9MY2txRDZDajRxaWxfSjR6Y2t2Ml9IZUJMOWpaWWw1R3pPZw?oc=5",
           "source": "MeinBezirk.at",
-          "date": "10. Aug 2026"
+          "date": "15. Aug 2026"
         },
         {
-          "title": "Urlaub am Bauernhof in der Oststeiermark trifft den Zeitgeist - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQemtNVkNiOW1icnlvbWdVRHhQN2lkR1NYQ1ZzZkpvX2VrLWNBQVBiNDA4bVVXOVAwbGl6NlZUX2ZiRDhoY3kwY1BPQzRscllzRWZYRkpBczF5OXhtU2dyRzc1dlR1dFdIRzBWbC1MZ2lHUElfZ2NDSXlGb3FNblZFbzNzREktbUVacGhUOEZoWUphUl9BMzluQ2FlSG1OdUYweU9XTDd1aldvSmM?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "13. Aug 2026"
-        },
-        {
-          "title": "Arbeit und Urlaub - Steirische Ärztin tauschte LKH gegen „Traumschiff“ - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE12N2lWbHpVTU4xTnVjTk1qbXY3alFtTTdJZmhnbWFxMGQ3ejZsZWNPYkd4V2hEeXBNVlhKS1lONUpYUQ?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "8. Aug 2026"
+          "title": "Urlaub im Murtal: Wo die Steiermark ganz entspannt ist - Kurier",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdHFaSDNrNW1wanBzYXBES1pXenJsT1VQeVUtY01GTWctN0JsUGE0Q3dDSlFhUUk5Ry1wZG91RENtREE4dnNMV0JlZlZZN3B1Qy13R3REdFdoUldkVGFZRS1XRDd1ZHJJX01vdUhhNmNRTXRFMHZmTjNYZUhwTWJiTHhTaFRFMUpiUGVpQWxna3R0WUd2eEc4cF8tZ2wzdw?oc=5",
+          "source": "Kurier",
+          "date": "15. Aug 2026"
         },
         {
           "title": "Tourismusschulen: Alfred Tieber muss Posten in Bad Gleichenberg räumen - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZUY0elBQak5PVTVHM3o0Yzh3YlQ3VWhLdFBjMVN2NUYwQ1JMQmVEalNfUDVwOEd5azIzTmRoWjhPNHhfejBqUmc0dlNDN1J6V21VNGFRc3N0MHRuV2pLR1dmcWtfb0RKLTVSZHl4UmhnSVZjUVp2b0tyaFhVZFlOb1lGRXNHQnR0SjZRbzBSLVJiREVqeXRkbk1NSGtlTVN2QzhGcUJyb1I1RVpITXUxUFAyXzFJSWQ1cGJR?oc=5",
           "source": "MeinBezirk.at",
+          "date": "13. Aug 2026"
+        },
+        {
+          "title": "Urlaub am Bauernhof in der Oststeiermark trifft den Zeitgeist - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQemtNVkNiOW1icnlvbWdVRHhQN2lkR1NYQ1ZzZkpvX2VrLWNBQVBiNDA4bVVXOVAwbGl6NlZUX2ZiRDhoY3kwY1BPQzRscllzRWZYRkpBczF5OXhtU2dyRzc1dlR1dFdIRzBWbC1MZ2lHUElfZ2NDSXlGb3FNblZFbzNzREktbUVacGhUOEZoWUphUl9BMzluQ2FlSG1OdUYweU9XTDd1aldvSmM?oc=5",
+          "source": "Kleine Zeitung",
           "date": "13. Aug 2026"
         }
       ]
@@ -100,7 +100,7 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Grazer Forscher nutzen innovative UV-Lichttechnologie, um historische Römersteine lesbar zu machen und damit neue archäologische Erkenntnisse zu gewinnen. Die Steiermark investiert gezielt in Forschungsinfrastruktur wie das neue Holzforschungszentrum und fördert die Zusammenarbeit zwischen Industrie und Wissenschaft, um zukunftsweisende Materialien und Technologien zu entwickeln.",
+      "summary": "Grazer Forscher nutzen innovative Technologien wie UV-Licht, um historische Römersteine lesbar zu machen und damit neue archäologische Erkenntnisse zu gewinnen. Die Steiermark positioniert sich durch Forschungsförderung und Entwicklung zukunftsweisender Technologien wie reparaturfreundlicher Batterien sowie die Unterstützung junger Talente als führender Innovations- und Forschungsstandort.",
       "items": [
         {
           "title": "Grazer Forscher machen Römersteine lesbar - steiermark.ORF.at",
@@ -121,20 +121,14 @@
           "date": "12. Aug 2026"
         },
         {
-          "title": "Neues Forschungszentrum für Baustoff Holz - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aZEM1dTRFeWlqanJsbDdubm9zSm5hdURRdTBpMlJoZ3lWV2xhb1pDSVpxNkkzc0dnZlZseGdnSnpKODlRN18tYUhHM0oydG40N0FGUA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "10. Aug 2026"
+          "title": "TU Graz entwickelt Richtlinien für reparaturfreundliche Antriebsbatterien - electrive.net",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdXp0ZzkwNTlsTWhFbmx0bExORzhpNE11N2QyVUFTQkF4cS1qMVRNbTNwSDdWYW9Eem1LQ2s3b2tHeGRGSWhPT0hQSEM1cXRiVmNxUm5WSVVrUzA1NDJBN0ZieENDT0k2NmtPU3Y3SjZ6RUx0Z2psd3hoUDRtSWJBUkxHX3hGQldFTGNSUTlfUjBCX2NvQ3ZPRVR5ZzJNYXNYbFVYeWF2ZU1aVTRyeDBVWFdR?oc=5",
+          "source": "electrive.net",
+          "date": "15. Aug 2026"
         },
         {
           "title": "Uni Graz Forschung: Verwitterte Römersteine enthüllen dank UV-Licht neue Geschichten - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOejUtR0tzRERaYnBzV3Ztbm1PajZWRXVfbW1CVkJzMk0tX2dJMGh0OEpRRWplNVY3M184NTI3cGNsREUyTXhyV3pWZENUTHZoNFExcjU3Q3ZVMXU3Ri1kS3lzM1VkdnBBMndtRUJ4TThZa2dwLUNpQkVjREdZaUZSSEhONWR4cTB2Zk11dmdWOFFFcnNoQmtRc0d2SFVPTHdEcUlPS3AxUllNQ0Vxb3l0QzRKd29OMG8?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "11. Aug 2026"
-        },
-        {
-          "title": "Die Zukunft von Holz: Weiz beflügelt Forschung mit dem Wood Vision Lab - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbUhObm1iSnRkdFJaZWRfWkU4NXk4YkZDLWoyUkpUQ19OTFNVbkFHY0ZGS3VmQ2JYejRyVmNjS0ZZb3BuZ1l6X2tZRVQ1NjJva09UdEVuMW82Vm16Mk1yd1VBbE12QldFVVJ6cmw1YnQ3T010M0FLT2VzWGMzRDhSbjBIbzhpU3RuSjJUVmxFbDJhWWVZZk9BcVd2R3JnZUFUbmJvSA?oc=5",
           "source": "MeinBezirk.at",
           "date": "11. Aug 2026"
         },
@@ -150,7 +144,7 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Die Stadt Graz erhält aus EU-Fördertöpfen knapp vier Millionen Euro für die Begrünung und Entsiegelung von drei städtischen Projekten, die Betonflachen durch Grünflächen und Bäume ersetzen sollen. Diese Förderung unterstützt die Umsetzung von Klimaschutz- und Stadtentwicklungszielen durch die Schaffung von grünen Stadträumen.",
+      "summary": "Die Stadt Graz erhält aus EU-Fördertöpfen knapp vier Millionen Euro für drei Projekte zur Begrünung von Stadträumen und zur Reduktion von Betonflächenversiegelung. Diese Millionenförderung unterstützt die Schaffung von grünen Oasen an mehreren Standorten in der steirischen Landeshauptstadt.",
       "items": [
         {
           "title": "Hattrick! Millionen aus EU-Fördertopf für grüne Stadträume - Stadt Graz",
@@ -169,6 +163,12 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS190d0FMblFfT3A2c3JaV0NMWWNCVjg5a3RVbkxJQ2pLZHI5ZTVzdk1vMjJFQnRQNzBLMllyQk1iUjhGdW5KYzVrbUxaZDBncXpTRG04NGU4Nmg3UVVEMVF3MWNiREh6UlFiWUlGU2dWV1ZUaWt0dHFDVmJSeWpqQWpqckIxdHlfY1d2c2I1ZVpxeU03Q3V6YkR3TTBSaWVWdWZvclloeE4zT0lmdzFEMg?oc=5",
           "source": "5 Minuten",
           "date": "14. Aug 2026"
+        },
+        {
+          "title": "Für drei Projekte: Stadt Graz holt fast 3,9 Millionen Euro an Fördergeldern ab - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOWZhS29nUUQ3dmtyQlMzZ2RzcDlmdWxPSTdEN05IR1gzRnNQVmlmV2doSS1rNExQNnFYdmlKSjF2UE9MWUZXckhZSkV6WERMXzlJMEgzcml0NURPenJMMV9EQmdMZXhQSDFfazdmVjVOV3N2SFd6MHczMnZvWTY1RFdMSHA0SFdydlg4QW9tdWZoUDY4dnRCT1RwWjRBQ0YxdndzT1NQQmsyQQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "15. Aug 2026"
         }
       ]
     },
@@ -176,7 +176,7 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark investiert gezielt in die digitale Nachwuchsförderung, wie die Active Coding Week in Judenburg zeigt, wo über 20 junge Menschen erste Programmiererfahrungen sammeln. Künstliche Intelligenz transformiert gleichzeitig den Bildungssektor grundlegend und eröffnet neue Möglichkeiten im Bereich der personalisierten Lernunterstützung.",
+      "summary": "Die Steiermark treibt die digitale Bildung voran, indem Initiativen wie die Active Coding Week bereits junge Menschen in Programmierung ausbilden und KI-gestützte Lernmethoden das Nachhilfewesen transformieren. Diese Entwicklungen positionieren die Region als innovativen Technologiestandort, der Fachkräfte für die digitale Zukunft qualifiziert.",
       "items": [
         {
           "title": "Judenburg: 23 Kinder und Jugendliche bei der Active Coding Week der WKO Murau-Murtal - Kleine Zeitung",
@@ -187,6 +187,12 @@
         {
           "title": "Künstliche Intelligenz revolutioniert Lernverhalten auch bei Nachhilfe - ORF ON",
           "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUE5WdXpfN3hEZjM2SmF3Qks5MlNXbXUyU2NIc0tadFVPNFZ0VDhzZFFQV1VPX2lNNlhIU0E0MThlUjdtZVA5dDFkWmdSNjJRTzhrRHNYdlpwSkhFeWwxMW10V3pTTWNVV0VuQldJSjA0OXdPMldpbE5fY29SNUEwSThwTmQ5Y0pNUWFnNXBtOVQ1bnBFOEZTSWxiQmNvVllLdUhzZzQ5dTlxdy04TFhIdWtiYzhGX1daaVdHS1N5Nm5XZnJxc1I2RGFyMkp1R3ExWXVNVmY1czRqeU0?oc=5",
+          "source": "ORF ON",
+          "date": "10. Aug 2026"
+        },
+        {
+          "title": "Steiermark heute vom 10.08.2026 - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sTERaV0ZLRHlEeHBGOGdRQjdqNVhIcmpzb3RmbWhscGhaOXJ4ekd0V2dobE9SY2VKMW9LWU5DdGtjQzVmamFKOTlqN2hkLW9QV19fYW5JNDA4LTBweFd6OFJMem8tbDdCVmtseGJYYw?oc=5",
           "source": "ORF ON",
           "date": "10. Aug 2026"
         }
