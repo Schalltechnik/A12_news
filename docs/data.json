@@ -1,12 +1,12 @@
 {
-  "generated": "16. August 2026, 03:30 UTC",
+  "generated": "17. August 2026, 03:30 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die steirische Wirtschaft zeigt gemischte Signale: Während innovative Industrie- und Forschungsprojekte sowie erfolgreiche Unternehmensübernahmen und regionale Spezialitäten wie Kleinbrauereien das Potenzial der Region unterstreichen, bleibt die Steuerlastbelastung für Österreicher trotz marginaler Verbesserungen ein strukturelles Problem, das durch externe Herausforderungen wie Dürrefolgen zusätzlich verschärft wird. Die steirische Wirtschaftspolitik muss daher zwischen der Förderung zukunftsweisender Branchen und der Bewältigung von Krisensituationen sowie der Entlastung von Betrieben balancieren.",
+      "summary": "Die steirische Wirtschaft zeigt gemischte Signale: Während Steuererleichterungen und die verstärkte Zusammenarbeit zwischen Industrie und Forschung bei der Entwicklung zukunftsweisender Stoffe positive Impulse setzen, kämpfen Unternehmen mit Herausforderungen wie Dürrefolgen und Insolvenzen, die jedoch teilweise durch Übernahmen und Neugründungen kompensiert werden. Kleinere Betriebe wie Brauereien und Reiseunternehmen demonstrieren gleichzeitig die Widerstandskraft des steirischen Mittelstands durch Innovationen und Konsolidierungen.",
       "items": [
         {
           "title": "Tax Freedom Day 2026 - wko.at",
@@ -39,10 +39,10 @@
           "date": "14. Aug 2026"
         },
         {
-          "title": "Nach Insolvenz: Bärnbacher „Schlatzer Reisen“ übernimmt Reiseunternehmen Jöbstl - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMTFSWGhRZ1hpLWQwZEllV3BLOHBPeU03Y1Uwb0tTbGNpcl9wS2ZDRDV2WGVnOEwzSk1rZ1hiVjB0bzlabVdlYXpQWlNHTng0ZFRXb3k4RXBYcG1LRlhPU21uNW11UWtnOXBuZ1lYcmM3UHFXaGMzRmp1ZzhMOWFoczhhVlMyWDB3NEEtTXhYb241VTFyX2RESjM5WU5ZVWVLUGJ2NW14dngxSldjS1hoSXRaWFl4WTl5?oc=5",
+          "title": "TC Bad Aussee weihte neue Tennisanlage mit großem Danke-Fest ein - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQci1DSV9VRFlDMEpLTElKM2FsT1ZHbmEwOEs1ellpVnNsSldidjlDR3NRUHZGWWhFeWpFRG53aHkzNUI5dkFmaXRDNUw0WEJlcHRNeUtUYUVXSTB2Yll2anpaVmhKeWlPZGJZNzJxZmRVWGpjM0RCWmtxZ0Y3aGYyWDJQWms1Tl9YSVllZ0lBTi1XLUR2V3JseDVRSVA1b2g5bDh4dVJuY3pObVBUeFNnWQ?oc=5",
           "source": "Kleine Zeitung",
-          "date": "14. Aug 2026"
+          "date": "15. Aug 2026"
         },
         {
           "title": "Mürztaler Kleinbrauerei unter die Top 5 der Steiermark gewählt - Kleine Zeitung",
@@ -51,8 +51,8 @@
           "date": "12. Aug 2026"
         },
         {
-          "title": "Steirische Politik: „Lkw-Maut kein Vorbild, sondern ein Alarmsignal“ - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObjVEcGtyZ05hcjJmbmV5Q2UxMG5SM3hfcFRTU1JncDN6TThiMFJXTlJfc0t6ZHlDWE1WZlZyZTc3QnY4Y0EwS2dFQm1jWmxVX0tRZ1F4SUNzQUNORHIwdlhpZmFPRzJieUZyYkxvUGloQVBpaXlMaE00clNWSlZPemk4TlRkYUlEUDBqc05BWndFbkFiUjNxY19qejBUNXlJWjlHVU5LdHFaeDlRZDFn?oc=5",
+          "title": "Nach Insolvenz: Bärnbacher „Schlatzer Reisen“ übernimmt Reiseunternehmen Jöbstl - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMTFSWGhRZ1hpLWQwZEllV3BLOHBPeU03Y1Uwb0tTbGNpcl9wS2ZDRDV2WGVnOEwzSk1rZ1hiVjB0bzlabVdlYXpQWlNHTng0ZFRXb3k4RXBYcG1LRlhPU21uNW11UWtnOXBuZ1lYcmM3UHFXaGMzRmp1ZzhMOWFoczhhVlMyWDB3NEEtTXhYb241VTFyX2RESjM5WU5ZVWVLUGJ2NW14dngxSldjS1hoSXRaWFl4WTl5?oc=5",
           "source": "Kleine Zeitung",
           "date": "14. Aug 2026"
         }
@@ -62,7 +62,7 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark setzt verstärkt auf kulinarische Exzellenz und regionale Erlebnisangebote, um sich als attraktives Tourismusdestination zu positionieren und neue Zielgruppen zu erschließen. Gleichzeitig zeigen sich Veränderungen in der touristischen Infrastruktur und Führungsebene, während nachhaltige und authentische Urlaubsformen wie Urlaub am Bauernhof an Bedeutung gewinnen.",
+      "summary": "Die Steiermark setzt verstärkt auf kulinarischen Tourismus und Kulturvermarktung, indem sie sich bei internationalen Spitzenevent-Festivals präsentiert und lokale Sternekö­che als Botschafter einsetzt. Gleichzeitig fokussiert das Bundesland auf nachhaltige und authentische Urlaubserlebnisse wie Agritourismus und regionale Entspannungsangebote, um sich als vielfältige Destinationen zu positionieren.",
       "items": [
         {
           "title": "Steiermark präsentiert sich erstmals beim Spitzenkulinarik-Festival - gast.at",
@@ -71,10 +71,10 @@
           "date": "13. Aug 2026"
         },
         {
-          "title": "Daniel Neuhauser & Eva Pöttler: ORF Steiermark-„Heimatsommer“ zu Gast im Freibad Stainz - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS2dybTZXdklTczVxY05Fek1IeVlMY3ktZ1JmWElMODdnN3NCdjBCQXJwcDl0VEI0OHRUWW4wSHVOYzFDRWthMzYyaDczLWxjOGhORi1QTlkzeHFzNUJwbDFaWXVNU09fMTBFdEVEY2FHWU43dWJCc2pvQndCUmw3WVlkTlBBZHVsbmhjNkZPRUFWZU9MY2txRDZDajRxaWxfSjR6Y2t2Ml9IZUJMOWpaWWw1R3pPZw?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "15. Aug 2026"
+          "title": "Von Ligist nach Amsterdam: Sternekoch bringt die Steiermark auf den Teller - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaDhTNm1xcnFXWGxnaUVDeVY0aUFoU2sxd1llWFhkcWNjcDROZlFOM21WLWpaWkNobUotSFhTQjg4cFlKSkhGWnNDcjZTQVRkVmVuWURTVnB5YXd4aS0tdU9wdWlMckVrOW1DYkJyMDFKZVYxeW5mZTNpNUthY2J2dkttYllvTFpZMjJHMkhFb3hqS28zRk5nM2lLdHBmRUFoLVZzU09yWmtfZlhTTG5mVnhhODZJd05qUGtj?oc=5",
+          "source": "5 Minuten",
+          "date": "16. Aug 2026"
         },
         {
           "title": "Urlaub im Murtal: Wo die Steiermark ganz entspannt ist - Kurier",
@@ -83,10 +83,22 @@
           "date": "15. Aug 2026"
         },
         {
+          "title": "Daniel Neuhauser & Eva Pöttler: ORF Steiermark-„Heimatsommer“ zu Gast im Freibad Stainz - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS2dybTZXdklTczVxY05Fek1IeVlMY3ktZ1JmWElMODdnN3NCdjBCQXJwcDl0VEI0OHRUWW4wSHVOYzFDRWthMzYyaDczLWxjOGhORi1QTlkzeHFzNUJwbDFaWXVNU09fMTBFdEVEY2FHWU43dWJCc2pvQndCUmw3WVlkTlBBZHVsbmhjNkZPRUFWZU9MY2txRDZDajRxaWxfSjR6Y2t2Ml9IZUJMOWpaWWw1R3pPZw?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "15. Aug 2026"
+        },
+        {
           "title": "Tourismusschulen: Alfred Tieber muss Posten in Bad Gleichenberg räumen - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZUY0elBQak5PVTVHM3o0Yzh3YlQ3VWhLdFBjMVN2NUYwQ1JMQmVEalNfUDVwOEd5azIzTmRoWjhPNHhfejBqUmc0dlNDN1J6V21VNGFRc3N0MHRuV2pLR1dmcWtfb0RKLTVSZHl4UmhnSVZjUVp2b0tyaFhVZFlOb1lGRXNHQnR0SjZRbzBSLVJiREVqeXRkbk1NSGtlTVN2QzhGcUJyb1I1RVpITXUxUFAyXzFJSWQ1cGJR?oc=5",
           "source": "MeinBezirk.at",
           "date": "13. Aug 2026"
+        },
+        {
+          "title": "Nach Insolvenz: Bärnbacher „Schlatzer Reisen“ übernimmt Reiseunternehmen Jöbstl - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMTFSWGhRZ1hpLWQwZEllV3BLOHBPeU03Y1Uwb0tTbGNpcl9wS2ZDRDV2WGVnOEwzSk1rZ1hiVjB0bzlabVdlYXpQWlNHTng0ZFRXb3k4RXBYcG1LRlhPU21uNW11UWtnOXBuZ1lYcmM3UHFXaGMzRmp1ZzhMOWFoczhhVlMyWDB3NEEtTXhYb241VTFyX2RESjM5WU5ZVWVLUGJ2NW14dngxSldjS1hoSXRaWFl4WTl5?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "14. Aug 2026"
         },
         {
           "title": "Urlaub am Bauernhof in der Oststeiermark trifft den Zeitgeist - Kleine Zeitung",
@@ -100,14 +112,8 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Grazer Forscher nutzen innovative Technologien wie UV-Licht, um historische Römersteine lesbar zu machen und damit neue archäologische Erkenntnisse zu gewinnen. Die Steiermark positioniert sich durch Forschungsförderung und Entwicklung zukunftsweisender Technologien wie reparaturfreundlicher Batterien sowie die Unterstützung junger Talente als führender Innovations- und Forschungsstandort.",
+      "summary": "Die Steiermark intensiviert ihre Forschungsförderung durch Kooperationen zwischen Industrie und Wissenschaft, um innovative Materialien und Technologien der Zukunft zu entwickeln, während gleichzeitig Nachwuchstalente durch Workshops und Experimentierformate früh für Wissenschaft und Technik begeistert werden. Dabei erzielen steirische Forschungseinrichtungen wie die TU Graz und die Uni Graz international beachtliche Erfolge, etwa bei der Entwicklung nachhaltiger Batterietechnologien und archäologischer Forschungsmethoden.",
       "items": [
-        {
-          "title": "Grazer Forscher machen Römersteine lesbar - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE05cWR2MXRLSC14ay1tZWNQcS11czhhZkhOa05DM2s0QjBXNGdzbEF2YkpQT05OdEJtMnV2bTNweFVERmM3SE9xRWsxTEg4UC1DTEs5ZQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "11. Aug 2026"
-        },
         {
           "title": "SFG und Land Steiermark: Industrie und Forschung in einem Boot: Gesucht werden Stoffe der Zukunft - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRVl5QkFBUW9xR1ZoRTJINUVIbjFBT3RlUldMNlQ4LTRTY2txUW5KNy1XVDZHeXgyeXdGTHVxWjhUc3lLLTlvSGFUVkx6emo2dnpKZTMtR2JnSzhlM3BEUGI5VUxuckV4TjMzaHFvOGNKb0NxTzd6bzktN3poYjBTaW9TNHZobGlLOXktQS1tYVYtNlo3X25RQ2VKUnIweUdYX1VJVnVMbDhpeURrXzNXQS1lTHVmV3lf?oc=5",
@@ -119,6 +125,12 @@
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSC1udU01ajl4UmhKN3BmU2VZc0MySHZwMV80OUx0akZjWXRoMU1oV2N1TE5ScHdKTGlJRHAycGM3UDNWUWtmZTFnLXJrY094RDZBTTcxN01RTHVPS01Mck1heUNvd0wtVDY0MnVKMVlXSklza0M2TnBGNlZxTG5DMVNYUzlvdm81emVVVDBNS3hXRXNtNXA5YVhVMGRvNDdoRGVZRmpwWXpMSVlPVVpqR1lKZjZYc1k?oc=5",
           "source": "MeinBezirk.at",
           "date": "12. Aug 2026"
+        },
+        {
+          "title": "Forschungsworkshops für Kinder: Talente Samstage in der Obersteiermark - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTG5IcjN4UmRQVE9iS2paaFNIOE9iM1U0YWViZVNONmV6SjZQeVg4Vm5NdHFVUmpLTU5mc1hzOVo2V0EtdUNuWlVkY2xjZ0gtS2hucGNOeU82blFCOHMxTHdVOWdZc0dfUUJmeWlzM0liWGxBOU9Lcmh3YmhzcVRzcENlLWlHQ3FUV05weEE3NGl0VTdvcEZxWkQ2NUVlRXhBUDNF?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "14. Aug 2026"
         },
         {
           "title": "TU Graz entwickelt Richtlinien für reparaturfreundliche Antriebsbatterien - electrive.net",
@@ -144,7 +156,7 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Die Stadt Graz erhält aus EU-Fördertöpfen knapp vier Millionen Euro für drei Projekte zur Begrünung von Stadträumen und zur Reduktion von Betonflächenversiegelung. Diese Millionenförderung unterstützt die Schaffung von grünen Oasen an mehreren Standorten in der steirischen Landeshauptstadt.",
+      "summary": "Die Stadt Graz erhält aus EU-Fördertöpfen knapp vier Millionen Euro für drei Projekte zur Begrünung urbaner Räume und zur Reduktion von Betonflächenversiegelung. Diese Förderung unterstützt die Schaffung von grünen Stadträumen und trägt damit zu einer nachhaltigeren Stadtentwicklung bei.",
       "items": [
         {
           "title": "Hattrick! Millionen aus EU-Fördertopf für grüne Stadträume - Stadt Graz",
@@ -159,16 +171,16 @@
           "date": "14. Aug 2026"
         },
         {
-          "title": "Weniger Beton, mehr Bäume: Millionenförderung für drei Grazer Projekte - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS190d0FMblFfT3A2c3JaV0NMWWNCVjg5a3RVbkxJQ2pLZHI5ZTVzdk1vMjJFQnRQNzBLMllyQk1iUjhGdW5KYzVrbUxaZDBncXpTRG04NGU4Nmg3UVVEMVF3MWNiREh6UlFiWUlGU2dWV1ZUaWt0dHFDVmJSeWpqQWpqckIxdHlfY1d2c2I1ZVpxeU03Q3V6YkR3TTBSaWVWdWZvclloeE4zT0lmdzFEMg?oc=5",
-          "source": "5 Minuten",
-          "date": "14. Aug 2026"
-        },
-        {
           "title": "Für drei Projekte: Stadt Graz holt fast 3,9 Millionen Euro an Fördergeldern ab - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOWZhS29nUUQ3dmtyQlMzZ2RzcDlmdWxPSTdEN05IR1gzRnNQVmlmV2doSS1rNExQNnFYdmlKSjF2UE9MWUZXckhZSkV6WERMXzlJMEgzcml0NURPenJMMV9EQmdMZXhQSDFfazdmVjVOV3N2SFd6MHczMnZvWTY1RFdMSHA0SFdydlg4QW9tdWZoUDY4dnRCT1RwWjRBQ0YxdndzT1NQQmsyQQ?oc=5",
           "source": "Kleine Zeitung",
           "date": "15. Aug 2026"
+        },
+        {
+          "title": "Weniger Beton, mehr Bäume: Millionenförderung für drei Grazer Projekte - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS190d0FMblFfT3A2c3JaV0NMWWNCVjg5a3RVbkxJQ2pLZHI5ZTVzdk1vMjJFQnRQNzBLMllyQk1iUjhGdW5KYzVrbUxaZDBncXpTRG04NGU4Nmg3UVVEMVF3MWNiREh6UlFiWUlGU2dWV1ZUaWt0dHFDVmJSeWpqQWpqckIxdHlfY1d2c2I1ZVpxeU03Q3V6YkR3TTBSaWVWdWZvclloeE4zT0lmdzFEMg?oc=5",
+          "source": "5 Minuten",
+          "date": "14. Aug 2026"
         }
       ]
     },
@@ -176,7 +188,7 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark treibt die digitale Bildung voran, indem Initiativen wie die Active Coding Week bereits junge Menschen in Programmierung ausbilden und KI-gestützte Lernmethoden das Nachhilfewesen transformieren. Diese Entwicklungen positionieren die Region als innovativen Technologiestandort, der Fachkräfte für die digitale Zukunft qualifiziert.",
+      "summary": "Die Steiermark treibt die digitale Kompetenzentwicklung durch Nachwuchsförderung in Coding und KI-gestützte Lernmethoden voran, wobei Initiativen wie die Active Coding Week zeigen, dass Bildungsinnovation und technologische Transformation bereits in Schulen und Nachhilfeangeboten Einzug halten. Diese Entwicklungen unterstreichen das Engagement der Region, junge Menschen frühzeitig auf die Anforderungen einer digitalisierten Wirtschaft vorzubereiten.",
       "items": [
         {
           "title": "Judenburg: 23 Kinder und Jugendliche bei der Active Coding Week der WKO Murau-Murtal - Kleine Zeitung",
