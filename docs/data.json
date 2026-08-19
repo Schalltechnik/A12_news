@@ -1,18 +1,30 @@
 {
-  "generated": "18. August 2026, 03:25 UTC",
+  "generated": "19. August 2026, 03:26 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die steirische Wirtschaft zeigt gemischte Signale mit punktuellen Erfolgen wie dem weltmarktführenden Tech-Unternehmen und der Expansion regionaler Betriebe in Tourismus und Gastronomie, während die Steuerlastquoten für Arbeitnehmer trotz minimaler Verbesserungen weiterhin erheblich bleiben. Kleinere und mittlere Unternehmen sowie lokale Handwerksbetriebe prägen das Wirtschaftsbild der Steiermark durch regionale Spezialisierung und Unternehmertum, wobei die Infrastrukturinvestitionen in Freizeit- und Tourismuseinrichtungen die Standortattraktivität stärken.",
+      "summary": "Die Steiermark verzeichnet eine positive wirtschaftliche Entwicklung mit Rekordgründungen neuer Unternehmen und strategischen Beteiligungserweiterungen wie der Übernahme von Bajaj-Anteilen durch Pankl im Mobilitätscluster ACstyria, die das Innovationspotenzial der Region stärken. Gleichzeitig konzentrieren sich Land und SFG verstärkt auf die Förderung von Industrie und Forschung sowie die Entwicklung zukunftsweisender Materialien, um die Wettbewerbsfähigkeit des Standorts nachhaltig zu sichern.",
       "items": [
         {
-          "title": "Tax Freedom Day 2026: Ein Tag früher, aber keine spürbare Entlastung - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM2huYkJXRG8wVUxPckhYWkZNOUo5VTNpLTY2b1N5MURXRDhpclpPN014ZE1VamhqelhiNXFjV1V5V21La1VzSGMxZ2pzLVZGM0s5YmZkbHdKb0JVdDJpV0pBNHFkcF9zcW9TSy1qNVl5LUJVVTVrdTJhRmZaOGE5RHpxY1BWVDYzUEhJNmM3aFV4c0Ju?oc=5",
+          "title": "Neuer Rekord in der Region: So viele neue Unternehmen wie nie zuvor - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcXJNTGtRWnd2UzlBNnB4YVNQTTVpMVFsMk1BWEthLUx1allnWnlKS1c3NTdaY0hrNlZzVC0xOWV3Q01RejJLREdtSEk4UjlWbGFlSU11S2lKazFDckQ2RGtDMldrZ1JiMTVJSWhrRjFZRGVibjR3ZUpUNnRDQm4zT01hNmdpV1hzLXBWbkphZmxUMVRHYmZ0ekJNTlpRd3A4RDI4UDB5UEFqekVRbHc?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "18. Aug 2026"
+        },
+        {
+          "title": "Tax Freedom Day 2026 - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PNHpXZFZvYjB4RGY2enhjV21qNDFzenYyVjVoSzZ1N0hPdkNQN0tiRG9LSzRzMnJQNW1qTnZyWjI3SzRIX3NJZ09xMlYxbXZuWVpwOTNLWXJsQXY1d2NR?oc=5",
           "source": "wko.at",
           "date": "14. Aug 2026"
+        },
+        {
+          "title": "Anteile von Bajaj übernommen: ACstyria: Pankl wird Miteigentümer des Mobilitätsclusters - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeElXcU9MZnBBaUNCcks4dnpsSy1XbER6WWFUdVB2Q1hRR1BxbjBXZVZIWXNEcFk2YndQckVGOFhoanNpRTZzbG9jdzcwNy1XaWVLb0NnZ0QyZVNaQ2xsMkplQUZ1MEM3bWwxSnl3ODluekhjOG5NeS00cW9oRm9ydXZmUWdOamMtcjhSRDZneksxQXM1cnpCV1pMb3lhQ21UU0JXNC0wNA?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "18. Aug 2026"
         },
         {
           "title": "Tax Freedom Day 2026: Österreicher arbeiten bis 16. August für Abgaben - 5 Minuten",
@@ -33,28 +45,16 @@
           "date": "15. Aug 2026"
         },
         {
-          "title": "Nach Insolvenz: Bärnbacher „Schlatzer Reisen“ übernimmt Reiseunternehmen Jöbstl - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMTFSWGhRZ1hpLWQwZEllV3BLOHBPeU03Y1Uwb0tTbGNpcl9wS2ZDRDV2WGVnOEwzSk1rZ1hiVjB0bzlabVdlYXpQWlNHTng0ZFRXb3k4RXBYcG1LRlhPU21uNW11UWtnOXBuZ1lYcmM3UHFXaGMzRmp1ZzhMOWFoczhhVlMyWDB3NEEtTXhYb241VTFyX2RESjM5WU5ZVWVLUGJ2NW14dngxSldjS1hoSXRaWFl4WTl5?oc=5",
+          "title": "Dürre in der Steiermark: Grüne fordern Maßnahmen, Raiffeisen bietet Soforthilfe - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUUY1c1JPdnY4ZGR0WnRDRlI2UmNRdVoyZnBXR0RUZnB6dWc0M0p6aFUzNHlaZVBxbVNPQkppQlhPak9GdUQ4VVFMS0tRdTBZYlFSaDZkdV9vRk95MFlxU2ZKdGZLZXZKelJLeENNSU5VbnU4VzRLdGRRTHFLUDFpNlhpMUk0UzBmTnlqR25iTFVaelhPNGNldlVVbUktRWhvTENTdFpXZnR4aG9CNkprNg?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "13. Aug 2026"
+        },
+        {
+          "title": "SFG und Land Steiermark: Industrie und Forschung in einem Boot: Gesucht werden Stoffe der Zukunft - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRVl5QkFBUW9xR1ZoRTJINUVIbjFBT3RlUldMNlQ4LTRTY2txUW5KNy1XVDZHeXgyeXdGTHVxWjhUc3lLLTlvSGFUVkx6emo2dnpKZTMtR2JnSzhlM3BEUGI5VUxuckV4TjMzaHFvOGNKb0NxTzd6bzktN3poYjBTaW9TNHZobGlLOXktQS1tYVYtNlo3X25RQ2VKUnIweUdYX1VJVnVMbDhpeURrXzNXQS1lTHVmV3lf?oc=5",
           "source": "Kleine Zeitung",
-          "date": "14. Aug 2026"
-        },
-        {
-          "title": "Mürztaler Kleinbrauerei unter die Top 5 der Steiermark gewählt - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNVpIMEVJemdsWmNINnVSaUZFMkRXdGQzcEZyQ096LTNLbnpnWElrQ2VmMFE3ZzZObllxemM0X05fQ2tGdU1uRVN5QmZqcmgzbHVwTjQ5N0N5bTVUYnJ5Z2FhZHFrSmZLLU5uOFA1bEExd1dtM213TjZCTjJ2NzJMM2RVS0kzMjZBWEYwa3NUdWtmYVE3TkxOdEtLUkVZbFV3djJYU0RxZm16d1g0WnV3?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "12. Aug 2026"
-        },
-        {
-          "title": "Tax Freedom Day 2026 - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PNHpXZFZvYjB4RGY2enhjV21qNDFzenYyVjVoSzZ1N0hPdkNQN0tiRG9LSzRzMnJQNW1qTnZyWjI3SzRIX3NJZ09xMlYxbXZuWVpwOTNLWXJsQXY1d2NR?oc=5",
-          "source": "wko.at",
-          "date": "14. Aug 2026"
-        },
-        {
-          "title": "Steirisches Tech-Unternehmen weltweit auf Platz eins - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObUdPaWNXOVBkb3RmTWw2Z3JpUGpPSTNpeVZMNFJwaUM2TWZVcWdmekdmdEF1OFNIcU8zUkFxbC0zZlFXR0ZBYXNteFQzWmpZYzRGZk9haTFzdDBnOFY0aWotVlRjWHdGUU9YR3AydWpEX1FyRlhmUmhtNkJKc1RtSjQ3SEs0bW5lLUI4bmZHUDdjdXQ5WFJLSGpEWlFqcE0?oc=5",
-          "source": "5 Minuten",
-          "date": "12. Aug 2026"
+          "date": "13. Aug 2026"
         }
       ]
     },
@@ -62,25 +62,19 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark intensiviert ihre Tourismusförderung mit gezielten Marketingkampagnen, um ab Herbst mehr deutsche Urlauber anzulocken, wobei sie verstärkt auf Kooperationen mit der Deutschen Bahn und gemeinsame Werbeaktionen mit Kärnten setzt. Parallel dazu positioniert sich die Region durch kulinarische Highlights und Sternekoch-Initiativen als Premium-Destination und bewirbt sich als attraktiver „Süden Österreichs\" für Gäste aus Deutschland.",
+      "summary": "Die Steiermark intensiviert ihre Tourismusförderung durch innovative Schulungsangebote in digitalen Bereichen, prominente kulinarische Botschafter und verstärkte Präsenz bei internationalen Veranstaltungen, während gleichzeitig regionale Kooperationen wie die gemeinsame Werbekampagne mit Kärnten und strategische Partnerschaften mit der Deutschen Bahn gezielt deutsche Urlaubsgäste anlocken sollen. Besonders die Positionierung als Kulinarik- und Wellnessdestination sowie gezielte Herbst- und Ganzjahresmarketing-Kampagnen prägen die aktuelle Tourismusstrategie des Bundeslandes.",
       "items": [
         {
-          "title": "Wie ab Herbst mehr deutsche Urlauber in die Steiermark kommen sollen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQXzMxemFWQU5wTDhjQnZpbDJJanQwUnJRbHd3WmZCRGtQS0JYNFQ5SElHeUF5d3ktd24xb1pXQkpvejh2NG8xNExiSmpSaENYdjBsak0xTUFvV3Uxd2syenYwN1JiMHNDTVZFVWJWM1dqOTFRdGk0MzdRTC1aNmFhSTVkWTFEcnJkbVRUb2w0djJCWjJXcHY0Y3RQWVlxbE04UVhrQzVBV1F4SVBBc2hpbFdKdmk?oc=5",
+          "title": "Seminare zu KI und Online-Marketing: Steirische Tourismusakademie erweitert Angebot - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUGRuR01JaW9BbmJHYXF6aUxWclR3aUpjWW44VS0tUkdLa21iLVIybTI0UlV2cXRORHVzV3BTZTVwdHVoWHR0WkJMSWxVOHpfZExVbEtka1BaTnhwNlNfNGl2QWJZZHUzTG9ybi0xVG5oek1vbUdQWlRiRDlYOFZyTGRtbHFtWlNUNVlLYXhjWTc3cy04bDI2VVkzY3ctZHB0dGhnRWNSZTE0b1A2b2wwR3p4OA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "18. Aug 2026"
+        },
+        {
+          "title": "Johann Lafer rührt seit 30 Jahren die steirische Werbetrommel - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZTJyR0RHdWw2eWotdUc1Qktlb2lUMDZnTktvT2RGRTEyck5MZy02dkJwN0xBeXpmdFJWZ3g0di1SaHVybVZ0WFNWemJEd1hKMVl0SGYxb1BxR19MYjdGSFhEMVhfQW1MRTVFVUEyWDlvQ2xsZXctUnF3MkRIMkNCWFpOcU82MnVoQUZZVWZiWElPbzd0YkMwaHk0dWZnOHpEMUFSTEpYOGlGZklPVFlqZnZn?oc=5",
           "source": "Kleine Zeitung",
-          "date": "17. Aug 2026"
-        },
-        {
-          "title": "Kärnten & Steiermark: Werbe-Kooperation: Weshalb die Deutsche Bahn den Süden Österreichs anvisiert - Horizont",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUjctb3J0bjVaVW5YdFprN25uTjR0MVFoLUtiOWV6VHU4UG5kRkM0ZFVvRm96c0JMaTZ4WldHOHFWRDFhY05jNUJuNjhLUlIteEZDU2FYTmx2eVkwUjhWUDZpQ0JWWElld3lUQmJVZmFfZUtGcjFsV0pGQzRseGxTOUFQTnRiTFc4blRfaExQbkZhLUVoRHpNbGhiQ21mRXBxS19mWURoeTg5RlAwdmRicHZRMjMwWUxGVFpGMTRCZU5rQWlkLVBFNHhGS0t2ZmVVbnY3dEJPVmY1ZXJJ?oc=5",
-          "source": "Horizont",
-          "date": "17. Aug 2026"
-        },
-        {
-          "title": "Neue Werbekampagne – Auch im Herbst - Steiermark will mehr deutsche Urlauber - Heute",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbjFPS3htUDN4X3JiQ3FOdTlVcUtxMllYMS04U0t2ZHJjUHFzeXQ2cWRkeWp2TFJVX2k5RjVTUm9FcE5BOG9PRkJnZzBrY3drRWpxUTh5VnVsNXNINzBIQm16OW5sWUMyQkxCZ0hLNHhFeDd6VmtVQmZzUXIwa2o1cFlTVy1KNWo4b3hlZ0g2RjZWQQ?oc=5",
-          "source": "Heute",
-          "date": "17. Aug 2026"
+          "date": "18. Aug 2026"
         },
         {
           "title": "Steiermark präsentiert sich erstmals beim Spitzenkulinarik-Festival - gast.at",
@@ -89,9 +83,9 @@
           "date": "13. Aug 2026"
         },
         {
-          "title": "Steirischer Tourismus rückt mit neuer Kampagne den Süden in den Fokus - Der Grazer",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObV8wRnBwbHRFT1czdkhmUzNXTXpBSUp4SkFEeTVMbmt5ZkZrMXJPYlRiUnFwdlJ2MmtQWFB5YWthbjExZkNFbXROcEQxdWJZWnpSSWxJakNkQ2R3bjY3Yy0yaEVhQThXUTdhMzlHaUN6eUFrTjlvVmdRZmM3N3dQb0lxVDFWa0pRRm10Wk4zY2o?oc=5",
-          "source": "Der Grazer",
+          "title": "Kärnten & Steiermark: Werbe-Kooperation: Weshalb die Deutsche Bahn den Süden Österreichs anvisiert - Horizont",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUjctb3J0bjVaVW5YdFprN25uTjR0MVFoLUtiOWV6VHU4UG5kRkM0ZFVvRm96c0JMaTZ4WldHOHFWRDFhY05jNUJuNjhLUlIteEZDU2FYTmx2eVkwUjhWUDZpQ0JWWElld3lUQmJVZmFfZUtGcjFsV0pGQzRseGxTOUFQTnRiTFc4blRfaExQbkZhLUVoRHpNbGhiQ21mRXBxS19mWURoeTg5RlAwdmRicHZRMjMwWUxGVFpGMTRCZU5rQWlkLVBFNHhGS0t2ZmVVbnY3dEJPVmY1ZXJJ?oc=5",
+          "source": "Horizont",
           "date": "17. Aug 2026"
         },
         {
@@ -101,9 +95,15 @@
           "date": "16. Aug 2026"
         },
         {
-          "title": "Urlaub im Murtal: Wo die Steiermark ganz entspannt ist - Kurier",
+          "title": "Neue Werbekampagne – Auch im Herbst - Steiermark will mehr deutsche Urlauber - Heute",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbjFPS3htUDN4X3JiQ3FOdTlVcUtxMllYMS04U0t2ZHJjUHFzeXQ2cWRkeWp2TFJVX2k5RjVTUm9FcE5BOG9PRkJnZzBrY3drRWpxUTh5VnVsNXNINzBIQm16OW5sWUMyQkxCZ0hLNHhFeDd6VmtVQmZzUXIwa2o1cFlTVy1KNWo4b3hlZ0g2RjZWQQ?oc=5",
+          "source": "Heute",
+          "date": "17. Aug 2026"
+        },
+        {
+          "title": "Urlaub im Murtal: Wo die Steiermark ganz entspannt ist - kurier.at",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdHFaSDNrNW1wanBzYXBES1pXenJsT1VQeVUtY01GTWctN0JsUGE0Q3dDSlFhUUk5Ry1wZG91RENtREE4dnNMV0JlZlZZN3B1Qy13R3REdFdoUldkVGFZRS1XRDd1ZHJJX01vdUhhNmNRTXRFMHZmTjNYZUhwTWJiTHhTaFRFMUpiUGVpQWxna3R0WUd2eEc4cF8tZ2wzdw?oc=5",
-          "source": "Kurier",
+          "source": "kurier.at",
           "date": "15. Aug 2026"
         },
         {
@@ -118,7 +118,7 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Steiermark intensiviert die Zusammenarbeit zwischen Industrie und Forschung zur Entwicklung zukunftsweisender Materialien und Technologien, während gleichzeitig durch Workshops und Nachwuchsprogramme junge Talente in Wissenschaft und Technik gefördert werden. Besondere Schwerpunkte liegen dabei auf innovativen Projekten wie reparaturfreundlichen Batteriedesigns an der TU Graz, Holzforschung im Wood Vision Lab und archäologischen Forschungsmethoden an der Universität Graz.",
+      "summary": "Die Steiermark fördert durch Initiativen der SFG und des Landes gezielt die Zusammenarbeit zwischen Industrie und Forschung zur Entwicklung zukunftsweisender Materialien, während gleichzeitig junge Talente durch Workshops und Experimentierformate für Wissenschaft und Technik begeistert werden. Die TU Graz treibt mit innovativen Projekten wie hocheffizienten Solaranlagen und reparaturfreundlichen Batterie-Designs die technologische Transformation voran, wodurch steirische Unternehmen auch international Spitzenpositionen erreichen.",
       "items": [
         {
           "title": "SFG und Land Steiermark: Industrie und Forschung in einem Boot: Gesucht werden Stoffe der Zukunft - Kleine Zeitung",
@@ -139,10 +139,10 @@
           "date": "14. Aug 2026"
         },
         {
-          "title": "Die Zukunft von Holz: Weiz beflügelt Forschung mit dem Wood Vision Lab - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbUhObm1iSnRkdFJaZWRfWkU4NXk4YkZDLWoyUkpUQ19OTFNVbkFHY0ZGS3VmQ2JYejRyVmNjS0ZZb3BuZ1l6X2tZRVQ1NjJva09UdEVuMW82Vm16Mk1yd1VBbE12QldFVVJ6cmw1YnQ3T010M0FLT2VzWGMzRDhSbjBIbzhpU3RuSjJUVmxFbDJhWWVZZk9BcVd2R3JnZUFUbmJvSA?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "11. Aug 2026"
+          "title": "40 % mehr Strom: Geniale Solaranlage der TU Graz - CHIP",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLTd5bDJ1NHBGSUsyYVhrSjlWTWRkeWJiLUNUUnJQOWliOUliV3VVNDNvSHM4WWVBeHAxblV3Y0luRGVhRWNORU5PNzRVUnpMcWxJVVdtUlY5YW9sMjYzUDNEZld2Zncxa2pSN3Jtc280N29QZENrVS0yRng5TEtIVnAtdU1LS282VVNEM0R5M25jRWhFSlIzX0VGNWwzNXM5N1dNUk9KWk5YQzA2UE9OYmJ4V1hKNkpfVHhsT0IwRHBqSERLazc3ZVpvRUc?oc=5",
+          "source": "CHIP",
+          "date": "18. Aug 2026"
         },
         {
           "title": "TU Graz: Neue Batterie-Designs sollen Reparaturen erleichtern - VISION mobility",
@@ -157,10 +157,10 @@
           "date": "15. Aug 2026"
         },
         {
-          "title": "Uni Graz Forschung: Verwitterte Römersteine enthüllen dank UV-Licht neue Geschichten - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOejUtR0tzRERaYnBzV3Ztbm1PajZWRXVfbW1CVkJzMk0tX2dJMGh0OEpRRWplNVY3M184NTI3cGNsREUyTXhyV3pWZENUTHZoNFExcjU3Q3ZVMXU3Ri1kS3lzM1VkdnBBMndtRUJ4TThZa2dwLUNpQkVjREdZaUZSSEhONWR4cTB2Zk11dmdWOFFFcnNoQmtRc0d2SFVPTHdEcUlPS3AxUllNQ0Vxb3l0QzRKd29OMG8?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "11. Aug 2026"
+          "title": "TU Graz: New battery designs aim to simplify repairs. - VISION mobility",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkctRmNGZnJ0cTFEem9wVjU3LVNkVmhWcVhFVGU0Ry1FWU5QU1BtbjJURnhLUEVHTVp2cnlzb0YwWl9rMFI0ZEhLWWlVaHZvRVlDcTlTa2xpN1Q3SnJhbHBNOF9Iek1maE54c0FJNVdoLXBRQnEyNXlKY2txdi1GSmhsOGI4d19zOHBhU0d5QldaUXZrSE9iNzZtb0dFeUU?oc=5",
+          "source": "VISION mobility",
+          "date": "17. Aug 2026"
         },
         {
           "title": "Steirisches Tech-Unternehmen weltweit auf Platz eins - 5 Minuten",
@@ -174,7 +174,7 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Die Stadt Graz erhält knapp vier Millionen Euro aus EU-Fördertöpfen für drei Projekte zur Begrünung urbaner Räume und Reduktion von Betonflächenversiegelung. Zusätzlich entsteht in Weiz ein europaweit einzigartiges Holz-Innovationszentrum, das die Region als Hightech-Standort positioniert.",
+      "summary": "Die Stadt Graz erhält knapp vier Millionen Euro aus EU-Fördertöpfen für drei Projekte zur Begrünung von Stadträumen und zur Reduktion von Betonflächenversiegelung. Damit werden grüne Oasen an drei verschiedenen Standorten in Graz realisiert, um das Stadtklima und die Lebensqualität zu verbessern.",
       "items": [
         {
           "title": "Hattrick! Millionen aus EU-Fördertopf für grüne Stadträume - Stadt Graz",
@@ -201,10 +201,10 @@
           "date": "14. Aug 2026"
         },
         {
-          "title": "Holz wird Hightech: In Weiz entsteht ein europaweit einzigartiges Innovationszentrum - wirtschafts-nachrichten.at",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR1lLOVFBWF9JcjFhbTBVQnZ4MnZhclJmWVBLdVBTQmhWSFdHQXQ2Vmo5U0M0aWVyQ24zMkpvNTk1NHdMTGRWSDItdE1xdFp5bTM3SS1wUE9qdVVKSC1uVmhLcWdsTzRaSE52ZFFZUF92blRMdUlQQk9xYkJhcEhmY21oX2p5SkFLcHJoOWRoTmFIR0NKQ0ZScFFzVm1kSVNfUzIyVjNDa1J5N3FieDdhOTB3?oc=5",
-          "source": "wirtschafts-nachrichten.at",
-          "date": "11. Aug 2026"
+          "title": "Niederösterreich: Kurtheater Reichenau stärkt Kulturangebot in der Region - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQenlKSU5WbzhWbUNmenFSel80MUhLR0J3YVlKUEt2RjNRVjdqa08ydnJDNmZCajAxTlNwWUtTQkdWTU5DblR4dmlaOEpOanUyUWZXMjBZVUVnU2lOY2lhOERTdWllWThtNXZmeGpjcUdoNl9lOHlNekY0LS04Q01RN0U0WFJXd0hsbW1NYlFubmtZN3NQOUxzdG9Ud0VuaHctMWdQbtIBpAFBVV95cUxQenlKSU5WbzhWbUNmenFSel80MUhLR0J3YVlKUEt2RjNRVjdqa08ydnJDNmZCajAxTlNwWUtTQkdWTU5DblR4dmlaOEpOanUyUWZXMjBZVUVnU2lOY2lhOERTdWllWThtNXZmeGpjcUdoNl9lOHlNekY0LS04Q01RN0U0WFJXd0hsbW1NYlFubmtZN3NQOUxzdG9Ud0VuaHctMWdQbg?oc=5",
+          "source": "Regionews.at",
+          "date": "18. Aug 2026"
         }
       ]
     },
@@ -212,8 +212,15 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Die Steirische Tourismusakademie baut ihr Bildungsangebot durch neue Seminare zu Künstlicher Intelligenz und Online-Marketing aus, um die Tourismusbranche fit für die digitale Zukunft zu machen. Damit reagiert die Steiermark auf die wachsende Nachfrage nach digitalen Kompetenzen in einem traditionellen Wirtschaftssektor.",
+      "items": [
+        {
+          "title": "Seminare zu KI und Online-Marketing: Steirische Tourismusakademie erweitert Angebot - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUGRuR01JaW9BbmJHYXF6aUxWclR3aUpjWW44VS0tUkdLa21iLVIybTI0UlV2cXRORHVzV3BTZTVwdHVoWHR0WkJMSWxVOHpfZExVbEtka1BaTnhwNlNfNGl2QWJZZHUzTG9ybi0xVG5oek1vbUdQWlRiRDlYOFZyTGRtbHFtWlNUNVlLYXhjWTc3cy04bDI2VVkzY3ctZHB0dGhnRWNSZTE0b1A2b2wwR3p4OA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "18. Aug 2026"
+        }
+      ]
     }
   }
 }
