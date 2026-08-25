@@ -1,12 +1,12 @@
 {
-  "generated": "24. August 2026, 03:34 UTC",
+  "generated": "25. August 2026, 03:28 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die steirische Wirtschaft befindet sich in einer angespannten Situation, da der Handel trotz nominaler Umsätze von 18,2 Milliarden Euro real schrumpft und die Industrie durch steigende Gaspreise zusätzlich belastet wird. Gleichzeitig entstehen neue Chancen durch Infrastrukturprojekte wie die Koralmbahn und das Cargo Terminal Graz, die das Wachstumspotenzial der Region, insbesondere der Südweststeiermark, stärken sollen.",
+      "summary": "Der steirische Handel verzeichnet zwar nominale Umsatzsteigerungen, verbucht aber real erhebliche Rückgänge durch Inflation und schwache Nachfrage, während die Industrie zusätzlich durch explodierende Energiekosten unter Druck gerät. Infrastrukturprojekte wie die Koralmbahn und Maßnahmen zur Bewältigung von Klimafolgen sollen neue wirtschaftliche Perspektiven für die Region schaffen, können aber die aktuellen Belastungen nicht unmittelbar kompensieren.",
       "items": [
         {
           "title": "Steirischer Handel steht unter Druck - steiermark.ORF.at",
@@ -27,18 +27,6 @@
           "date": "19. Aug 2026"
         },
         {
-          "title": "Wirtschaftsgipfel Südweststeiermark - Leibnitz Aktuell",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeUF3YjN5bC1BX1BRUjJsanFtOEZ0SDNhS2I2WGktaDRwMXhHM25xY09tN2wxdTI4U0xMMzRwcHFrdWxvTmc2eURSSnBvVjZ4Z1JaUUMzdEx5MWNiMVMxVkNjZ1ViTURpc3dhSGd6aDFpbUZCVlRZU3ViN1FnTUhnZTdB?oc=5",
-          "source": "Leibnitz Aktuell",
-          "date": "21. Aug 2026"
-        },
-        {
-          "title": "Cargo Terminal Graz - Neuer Kran soll steirische Wirtschaft anheben - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9xdVhSQ0hBbTFwWXhEUTdXazByTUg5VEx1NnBfXzVnelZSTjJEVWh5OGw4bmlONUVCNzJrQy0xMXF3QQ?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "20. Aug 2026"
-        },
-        {
           "title": "18,2 Milliarden Euro Umsatz: Steirischer Handel rutscht real ins Minus - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMzAxWUZ2NEdqclBDOGNFSXNTdmQ2UEdDYUdiS3NqaTVETFdKX0V2cndvdlFjdFBkbTV0WktvRjBuVDlRWHFack0wN3ZDLXNYa2I3NUZ5Zl9IVmE0UGcycC0zczAyTWNDVUNmM2sxQ29UUGdXRnRLRGV6ZFJ6QnRaNy1SdEFkTGhySUdmQ2YwY0RoTlI1OUgwU1JTSmZmSlZOQkFneGJRaUMwdUx0NjZVRzVBVHg?oc=5",
           "source": "5 Minuten",
@@ -51,10 +39,22 @@
           "date": "21. Aug 2026"
         },
         {
+          "title": "WKO Steiermark bilanziert: Inflation bremst Handel aus, reales Minus trotz Umsatzplus - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQncxNkJmUGxRQmRPdENCYUlKdDNZY1hoQ3gyN2NXRVhWYmc4WG0wZU5CUG5NN3lOdmVQaW9lNHhkTVhtSDRFVE1EMlB1OWprS2RiS2hvSjh2bS1wb0NmS0J2NUhsOHdfbkhFVGxzMU1DZFUzSTcyS0tsSmlDSjNMaEdOdDZLNTZ3MmhEd1pwVkZndG05dXlxMkszOHRISi1BV2FoQUFJRXJfeHNHaGxuZEtfanVvQlk?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "20. Aug 2026"
+        },
+        {
           "title": "Tax Freedom Day 2026: Die Junge Wirtschaft Südoststeiermark kritisiert die Entwicklung - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaThfaWpudndDU25IY09KSkN4aHRacmw0V3dfRW1CSzNRQnA0c2tnUVd1NEdTclZobnR5ckNhM0l0TmlGV1VuVVNmZ1NGWEt6N1N2VjRyWGQtczktWlhGdHBEblZ1NXBHS2ZHZHVieGtOVjRQWXJ5ZXVmVUtqRzlYa2VnbERlUFlUbDlMbFI1cXlIUlBVbmJFaDZWR2xjS2RpUzhkNkVqOHRGdjdqdGVQUm9kUU1wX0ZxUzBiSzRZYkNIaFZsN3hNWDZ5QQ?oc=5",
           "source": "MeinBezirk.at",
           "date": "19. Aug 2026"
+        },
+        {
+          "title": "Hitze, Dürre: Was das Land Steiermark tut und noch unternehmen will - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ2gxdE5reUU3c2N0SDBqWl91djZPLUV1N2tIVEJCN2hBcDNZRDRocUpPSFoyRUFaOFFaOWp0SlJJdF84RWpsZmowMXZEclhqQWQwaHE5aXZPWnBmS3U4V08wdHl3MjVlUndxLU42bWp3dFZOTktXR05VQnhQLThVMUl1UjBtdHFwMjlCTTRNdFpXWEo3MGhpSjNDSXQ1SnZIYnMtcjBhZ2trWnU4aDJ4TkNxdw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "20. Aug 2026"
         }
       ]
     },
@@ -62,37 +62,13 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark intensiviert ihre Tourismusförderung durch eine Großkampagne mit Kärnten zur Gewinnung deutscher Urlauber, gestützt auf digitale Innovationen und prominente Botschafter wie Johann Lafer. Parallel investiert die Region in die Weiterbildung ihrer Tourismusbranche mit Seminaren zu modernen Themen wie KI und Online-Marketing, um die Wettbewerbsfähigkeit zu stärken.",
+      "summary": "Die Steiermark investiert in die Modernisierung ihrer Tourismusbranche durch erweiterte Schulungsangebote in digitalen Technologien und Online-Marketing, während gleichzeitig die Gastro- und Hotelleriebeschäftigten durch neue Kollektivvertragsabschlüsse gestärkt werden. Mit prominenten Botschaftern wie Johann Lafer wird die steirische Tourismusmarke seit Jahrzehnten erfolgreich nach außen kommuniziert und positioniert.",
       "items": [
         {
           "title": "Seminare zu KI und Online-Marketing: Steirische Tourismusakademie erweitert Angebot - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX2tQUms0V2VaUUNFS2g5U1Z5RGZ5X0dXV2RobGM4YkZvaFM1MVpMV3ZZWWNBOU9zNi1uQzhHem9DVTdzZzVTT1VLeXpUUG9PS2lZTUp6R010RzNaN05hVW9rcEREZ1BLb3RJTUIzdzJUOGh6dndTRzlxN0FSM1ZwTjdZOU5lZGJ2QTdaTV81d3BaNURYSnVxcC1yS0V5UDk0UElJSQ?oc=5",
           "source": "MeinBezirk.at",
           "date": "18. Aug 2026"
-        },
-        {
-          "title": "Kärnten und Steiermark werben gemeinsam als „Süden Österreichs“ - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEVtcEpfeUZZOUVGclZyaGpXZ1MyUnhuZzdhb3NkNDdrQ2lhTHpWaTJ3T1VUVzFxMHBBQWJndTUtT2hJcTUxdlVTcXJpZ3Rpc015M3NyQkwxb1E1Y2VfYmxVdnNNVEQwXzNaVkloU1liNl9DbFVpUXJjejVKWXFfVHVoU3BwaVpheXJwN2lrdG9qYkQ5WHBGRlBxdFlIRHMwSHpvV2V1aWpVYzludmlZ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "17. Aug 2026"
-        },
-        {
-          "title": "Kärnten & Steiermark: Werbe-Kooperation: Weshalb die Deutsche Bahn den Süden Österreichs anvisiert - Horizont",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUjctb3J0bjVaVW5YdFprN25uTjR0MVFoLUtiOWV6VHU4UG5kRkM0ZFVvRm96c0JMaTZ4WldHOHFWRDFhY05jNUJuNjhLUlIteEZDU2FYTmx2eVkwUjhWUDZpQ0JWWElld3lUQmJVZmFfZUtGcjFsV0pGQzRseGxTOUFQTnRiTFc4blRfaExQbkZhLUVoRHpNbGhiQ21mRXBxS19mWURoeTg5RlAwdmRicHZRMjMwWUxGVFpGMTRCZU5rQWlkLVBFNHhGS0t2ZmVVbnY3dEJPVmY1ZXJJ?oc=5",
-          "source": "Horizont",
-          "date": "17. Aug 2026"
-        },
-        {
-          "title": "Neue Werbekampagne – Auch im Herbst - Steiermark will mehr deutsche Urlauber - Heute",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbjFPS3htUDN4X3JiQ3FOdTlVcUtxMllYMS04U0t2ZHJjUHFzeXQ2cWRkeWp2TFJVX2k5RjVTUm9FcE5BOG9PRkJnZzBrY3drRWpxUTh5VnVsNXNINzBIQm16OW5sWUMyQkxCZ0hLNHhFeDd6VmtVQmZzUXIwa2o1cFlTVy1KNWo4b3hlZ0g2RjZWQQ?oc=5",
-          "source": "Heute",
-          "date": "17. Aug 2026"
-        },
-        {
-          "title": "Wie ab Herbst mehr deutsche Urlauber in die Steiermark kommen sollen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQXzMxemFWQU5wTDhjQnZpbDJJanQwUnJRbHd3WmZCRGtQS0JYNFQ5SElHeUF5d3ktd24xb1pXQkpvejh2NG8xNExiSmpSaENYdjBsak0xTUFvV3Uxd2syenYwN1JiMHNDTVZFVWJWM1dqOTFRdGk0MzdRTC1aNmFhSTVkWTFEcnJkbVRUb2w0djJCWjJXcHY0Y3RQWVlxbE04UVhrQzVBV1F4SVBBc2hpbFdKdmk?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "17. Aug 2026"
         },
         {
           "title": "Gastro und Hotellerie: Was der KV-Abschluss für 50.000 steirische Beschäftigte bedeutet - Kleine Zeitung",
@@ -105,12 +81,6 @@
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZTJyR0RHdWw2eWotdUc1Qktlb2lUMDZnTktvT2RGRTEyck5MZy02dkJwN0xBeXpmdFJWZ3g0di1SaHVybVZ0WFNWemJEd1hKMVl0SGYxb1BxR19MYjdGSFhEMVhfQW1MRTVFVUEyWDlvQ2xsZXctUnF3MkRIMkNCWFpOcU82MnVoQUZZVWZiWElPbzd0YkMwaHk0dWZnOHpEMUFSTEpYOGlGZklPVFlqZnZn?oc=5",
           "source": "Kleine Zeitung",
           "date": "18. Aug 2026"
-        },
-        {
-          "title": "Gemeinsam in Deutschland: Kärnten und Steiermark starten Großkampagne - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWXVYbHFSZFNWdXhzUnc4VTF5enVwRXZINnF0a1N6T0R2WDNQcnN1MHhGbkwyUHZxYkFKMWJjRHM0WXktQzNsWjR6ZUxudE9UaVZMLXFmcWpsWHFWRFdIT0xJZ3FIa3RaYmRQVC1vRjFFdkJxRDE2OVJzT056SFJLb3I1Y3VkN3JDMlpteTA3R3VhWnNaM2htcmVrM0t6M1lkeGNpS0dyYzJHSkNlVHE5SWw1Qnc?oc=5",
-          "source": "5 Minuten",
-          "date": "17. Aug 2026"
         }
       ]
     },
@@ -118,7 +88,7 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Forscher der TU Graz arbeiten an innovativen Batterietechnologien, indem sie Kristallgitter von Lithium-Titanat optimieren und neue Designs entwickeln, die Reparaturen vereinfachen und die Effizienz erhöhen. Die Steiermark positioniert sich damit als führender Standort für saubere Technologien und zieht internationale Talente an, die zur Entwicklung eines Weltklasse-Clusters im Bereich der Energietechnologie beitragen.",
+      "summary": "Forscher der Technischen Universität Graz erzielen bedeutende Durchbrüche in der Batterietechnologie und Solarenergie, indem sie innovative Verfahren zur Optimierung von Lithium-Titanat-Kristallstrukturen und zur Steigerung der Solarstromeffizienz um 40 Prozent entwickeln. Parallel dazu trägt die Universität Graz mit medizinischen Forschungsergebnissen gegen chronische Entzündungen bei, während die Steiermark durch europäische Förderung ein Weltklasse-Cluster für saubere Technologien aufbaut und internationale Talente wie Juristinnen aus der Ukraine anzieht.",
       "items": [
         {
           "title": "Forscher der TU Graz \"durchlöchern\" das Kristallgitter von Lithium-Titanat - electrive.net",
@@ -127,22 +97,16 @@
           "date": "21. Aug 2026"
         },
         {
-          "title": "TU Graz: Neue Batterie-Designs sollen Reparaturen erleichtern - VISION mobility",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYzU1Zk9Ga0FCMnhwenA3eWhIaEl6cjkyR0hnZldXanBwbDVVLVFyWHZoc3ZOMGlQMGxGck9LdmZ4M2dMd3Y4MU1kVU0ydzVJV0pLdThLaExLc0hsTmVHT0h4c3RRWHdicFlRWGpGalVQdFdYUzNDMmp3cUVhMFozRjY0NW1RWVA3RnBuN0phNjZ2bFdqN0Q5OWJmSTdWdGswR0xBVFllUQ?oc=5",
-          "source": "VISION mobility",
-          "date": "17. Aug 2026"
-        },
-        {
           "title": "40 % mehr Strom: Geniale Solaranlage der TU Graz - CHIP",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLTd5bDJ1NHBGSUsyYVhrSjlWTWRkeWJiLUNUUnJQOWliOUliV3VVNDNvSHM4WWVBeHAxblV3Y0luRGVhRWNORU5PNzRVUnpMcWxJVVdtUlY5YW9sMjYzUDNEZld2Zncxa2pSN3Jtc280N29QZENrVS0yRng5TEtIVnAtdU1LS282VVNEM0R5M25jRWhFSlIzX0VGNWwzNXM5N1dNUk9KWk5YQzA2UE9OYmJ4V1hKNkpfVHhsT0IwRHBqSERLazc3ZVpvRUc?oc=5",
           "source": "CHIP",
           "date": "18. Aug 2026"
         },
         {
-          "title": "TU Graz: New battery designs aim to simplify repairs. - VISION mobility",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRXUyZ0o0LVY2akgzdjU0b2VYRTgxTzdJUW52OHZLMHo5VVp6b2VXcHVZQ1k2X2I0cFNTOEg2U0ZMX2Z3VnR5Z2RqU3ZBallDTS12b1E2WGhZcHRSTi1UcHBQVGtyYS1NVlVROTVkcTNzdWJsMjZGOXRHcTZwajFrWmVCR25oejFOaE1sOEl2S1NEOGpvSFFUc25PU3c3dXFsdlZTdUt6cU5zTjdGZGpLMzFQQXhvZw?oc=5",
-          "source": "VISION mobility",
-          "date": "17. Aug 2026"
+          "title": "Uni-Graz-Forscher entdeckt Mittel gegen chronische Entzündungen - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVXpDc1JlNG9ZNTFXdVh2UTBmaDZZQkh4cHFNa3lJWmJOQWdfSDM1Sk83Y1BzVVQ5U0poWGIxWWtDNVQ0bUFlV2o2SEJtbk9XWTlHQU9IR1dvZ21Sc3locFBfVFY4bl9LUEllYzZRZllHX05IeEo5SzR6UU5EN1FoUFcyc004VmJGVWs1WDVmYTdiVlFiclpTZXhJZm4tazA3NnAzOENpMA?oc=5",
+          "source": "5 Minuten",
+          "date": "24. Aug 2026"
         },
         {
           "title": "Inforegio - Schaffung eines Unternehmensclusters von Weltklasse im Bereich saubere Technologie - European Commission",
@@ -162,8 +126,14 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Ich kann diese Aufgabe nicht wie angefordert erfüllen, da der angegebene Nachrichtentitel sich auf eine politische Koalitionsfrage bezieht und nicht auf Förderungen, EU-Programme, Strukturfonds oder Wirtschaftsförderungen in der Steiermark. Der Titel enthält keine relevanten Informationen zu meinem Fachgebiet als Förderungsexperte.",
+      "summary": "Die Koralmbahn als Infrastrukturprojekt bringt bedeutende wirtschaftliche Impulse für die Südweststeiermark und trägt damit zu regionaler Entwicklung bei. Die politischen Rahmenbedingungen in der Steiermark könnten sich durch mögliche Koalitionskonstellationen verändern, was Auswirkungen auf die Umsetzung von Förder- und Entwicklungsprogrammen haben könnte.",
       "items": [
+        {
+          "title": "Koralmbahn-Projekt steigert wirtschaftliche Impulse in der Südweststeiermark - Welt Stimme",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT1A5b09kQVFJdElTYnBtLWZZbm53WldyU250NEM0Qjd5cnpDeTNycTdDOWZhcE5ydzNQXzlWbjZVQ2w3NjVvdVJwbWVteWFaZHpVZ0Iyc1ExSVJlVlFIWEdDTkJKWkw2UU5BMUF0aG1DcWU2OFlseUFaZUh1THV1RHdxYmxCcHdmRWtaU0RVZkgwR2xFMEN4bzhrRlFnd01MVldZOXdybzBzNTZJdVNuVWZB?oc=5",
+          "source": "Welt Stimme",
+          "date": "21. Aug 2026"
+        },
         {
           "title": "SPÖ-Chef Max Lercher offen für Koalition mit der FPÖ - asatunews.co.id",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52MFBUckpWSy1Zbzd6aTQxbjZ1YmFaSHkwaUJsRmp1ZTIyQWhlSEdqMlFHZExhcFFoMXpMcnltUGs4RVBYUVptNWs5Uk5tMm4zVXhiN0RZNG5HMmNZell0a2M4YmhzeWwtVTF0dzhRV3JqY3ZtRWktQ0lnVU5tQQ?oc=5",
@@ -176,13 +146,13 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark positioniert sich aktiv als KI-Standort durch Kongresse und strategische Ermittlungen zur Infrastruktur-Readiness für Mega-Rechenzentren. Parallel wird der Aufbau eines weltklasse-Unternehmenclusters im Bereich saubere Technologien vorangetrieben, um Innovation und Digitalisierung nachhaltig zu verankern.",
+      "summary": "Die Steiermark positioniert sich als bedeutender KI- und Technologiestandort mit Mega-Rechenzentren und internationalen Kongressen, muss aber gleichzeitig die wachsenden Herausforderungen der Digitalisierung und Automatisierung für Wirtschaft und Gesellschaft bewältigen. Der Fokus auf Clean-Tech-Cluster und innovative Unternehmensstrukturen soll die Region als Vorreiter in nachhaltigen Technologien etablieren.",
       "items": [
         {
-          "title": "Steirischer KI-Kongress in Graz - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5idGFaRWx2SDBXTV9ncHBiOFRQdWhSV050YmdlTDQ5NlFaTktYOWduRmNuZUY2ZjFVR2FNZzhSbnExcUlucHVvb0kxalBnTWJMSUdmcmV4dTZMOG4zZDJpalcxT1pjMjhudC01dg?oc=5",
-          "source": "wko.at",
-          "date": "20. Aug 2026"
+          "title": "Automaten, KI und Co. - Digitalisierung wird für immer mehr zum Problem - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1BaUo3VVZCYXZxUG85OXJhblhSMENYVXFMYVQtckFnZnJ2aWNub250U29OeDk2WFRwV0xrZURxaFJ6dw?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "25. Aug 2026"
         },
         {
           "title": "Künstliche Intelligenz: Wie gut ist die Steiermark auf Mega-Rechenzentren vorbereitet? - MeinBezirk.at",
@@ -191,10 +161,10 @@
           "date": "19. Aug 2026"
         },
         {
-          "title": "Valensky ermittelt in Sachen KI - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBya0FOdXduQ0ZDYUJXU3N4cnhFZ2p6a0hGYloycHp3ODJqczBLOWZuejZna1ZBRThvc2d1NTlGQlQ3Y2dFYW1UMWdQd1lTSEhwc1hlYndpRDU1el83aEZJ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "22. Aug 2026"
+          "title": "Steirischer KI-Kongress in Graz - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5idGFaRWx2SDBXTV9ncHBiOFRQdWhSV050YmdlTDQ5NlFaTktYOWduRmNuZUY2ZjFVR2FNZzhSbnExcUlucHVvb0kxalBnTWJMSUdmcmV4dTZMOG4zZDJpalcxT1pjMjhudC01dg?oc=5",
+          "source": "wko.at",
+          "date": "20. Aug 2026"
         },
         {
           "title": "Inforegio - Schaffung eines Unternehmensclusters von Weltklasse im Bereich saubere Technologie - European Commission",
