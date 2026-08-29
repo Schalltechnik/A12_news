@@ -1,16 +1,22 @@
 {
-  "generated": "28. August 2026, 14:34 UTC",
+  "generated": "29. August 2026, 09:21 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Steiermark verzeichnet derzeit bedeutende Investitionen in zukunftsträchtige Branchen wie Datenverarbeitung, Biotechnologie und erneuerbare Energien, wobei Unternehmen wie NovaLabs und neue Datacenter-Projekte in Graz das Wirtschaftswachstum vorantreiben. Gleichzeitig zeigen etablierte Unternehmen wie Niceshops starke Umsatzsteigerungen, während traditionelle Sektoren wie die Landwirtschaft mit Herausforderungen wie Dürreperioden kämpfen und durch innovative Lösungen wie Futtermittelbörsen stabilisiert werden.",
+      "summary": "Die Steiermark verzeichnet derzeit eine positive wirtschaftliche Entwicklung mit bedeutenden Unternehmensansiedlungen und Expansionen wie NovaLabs und dem neuen Datacenter in Graz, während etablierte Unternehmen wie Niceshops mit zweistelligen Umsatzsteigerungen überzeugen und die Networking-Aktivitäten zunehmen. Gleichzeitig prägen Herausforderungen wie Dürrefolgen in der Landwirtschaft und notwendige Anpassungen an den Klimawandel die wirtschaftliche Agenda, wobei Investitionen in erneuerbare Energien wie Photovoltaikanlagen an Bedeutung gewinnen.",
       "items": [
         {
-          "title": "Spatenstich für neues Datacenter in Graz - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JZTlNcjJyZmFzc1lMeDE3Wk1QcE96dE4yVXFNejQzbmtseVNUV3ZOZDBGUzhUeC14WlFyY3RyQ2pMd3F5TDVuckhGMmllWERhRnl3SQ?oc=5",
+          "title": "Premiere in Graz: 400 Teilnehmer bei der „Networking Night“ - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZHdDWE5XQy1TZ0Z5VzVheDI1LXVCTi1SRXVPSlN6NVIzY2FOM0N3enlxd1JDMldLTEQybGFTOXppSXBEcU1iZl84TXNsTG0tSHhOa0ZDNUEwMDUybkpHNTJhTk5kN01IeXFWdEQ2WkZCbUFuX0hnZlpKbDROWlI1U2NHZlJ6Z0EtdVdPSFVobGJZWEpmTFhmREVOcG8?oc=5",
+          "source": "5 Minuten",
+          "date": "29. Aug 2026"
+        },
+        {
+          "title": "Niceshops mit positiver Halbjahresbilanz - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UM0ZFNXhwbkJacjBhYUtsLTBNRUVsMm5nOTg5RDdqY2tEcHppZER6MHVoUEd4SjVkZC11X3l1YVhyVUgyTFpjX3lfQTJBSm9lMkt2Vg?oc=5",
           "source": "steiermark.ORF.at",
           "date": "26. Aug 2026"
         },
@@ -33,27 +39,21 @@
           "date": "27. Aug 2026"
         },
         {
-          "title": "Niceshops mit positiver Halbjahresbilanz - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UM0ZFNXhwbkJacjBhYUtsLTBNRUVsMm5nOTg5RDdqY2tEcHppZER6MHVoUEd4SjVkZC11X3l1YVhyVUgyTFpjX3lfQTJBSm9lMkt2Vg?oc=5",
+          "title": "Spatenstich für neues Datacenter in Graz - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JZTlNcjJyZmFzc1lMeDE3Wk1QcE96dE4yVXFNejQzbmtseVNUV3ZOZDBGUzhUeC14WlFyY3RyQ2pMd3F5TDVuckhGMmllWERhRnl3SQ?oc=5",
           "source": "steiermark.ORF.at",
+          "date": "26. Aug 2026"
+        },
+        {
+          "title": "Hitzeschutz Steiermark: GBH: Arbeitswelt an Klimawandel anpassen – Gesundheit muss Vorrang haben - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN0VvS2pjWEhJYlAycThUMk40N1c3SVZQWk4wYklOdFp2ZWdDdm9sR0Jkd2VEaWlqQUJGQlpDM0gxaUltbnhTOVRHNElzLXJFZGNySnZsWlNjeEZEVzBNNTdLcU1UUGpTUTlIRXZCa0lhdGNsTS11ZVg0d2U1Z1AxMFpiczY3dnVwZzBuNHZyWHpqUjVZY1p3cUh0VVBGNVNKTWJZa0ZPM0FEb2RxdnoyaGhFVkpmcG9KWXdnUk5tdkdoWTBU?oc=5",
+          "source": "MeinBezirk.at",
           "date": "26. Aug 2026"
         },
         {
           "title": "Riesiger Photovoltaikpark wird errichtet - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XVFJPMkdTaVZNb3hqSG1qVzZ0SGhaZkg3NlpSOEtic2pPMTFaR0ZkcjVhU1AzOFpReHVGSWVkZWhMRzFCWUpNZGx1d2owQy1ScnRkeQ?oc=5",
           "source": "steiermark.ORF.at",
-          "date": "25. Aug 2026"
-        },
-        {
-          "title": "Bildergalerie/Teil 4: Das war der Tag der Wirtschaft auf der 56. Steirischen Weinwoche - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ3FLZEx1RW00Y2dJOFRLSkl4eGFyLWwzMnZlV3pLYnE3SEdMSGN4RDhKUDBIc1l5ektlT0dlTVctWUZKM2dHUTN4QkU4cFg2THdwR25xMHFCNjZIYnpvUk15eTE5OW1PTkQxQ043MGpvSVQ4X05DVThPMlpxZ3Bpdk1pemxLOG9Ka3RURnlJcXo1RHhCSkZxcmhIWmhvb3FXUjhrdEp6WTVTMHpvLWo5VjFaUE50b2ZU?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "25. Aug 2026"
-        },
-        {
-          "title": "Fachgruppentagung der Metalltechnischen Industrie 2026 - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYko3MmNWMEppN0tsTmMwaThBemNSbTdDWW9ia0tnc0s3QkMxa3h6bTBqSGJQeHA2NndzYmROeE1lS2pZRWUzdTE5eGR5UTgwLUxzVjA1eHFCTUg2LW1iWWVzMFpnMWUzem1vMlhNNk43VTVKdklLZmRiWmNMeHdwMTJ4aVdVb0NDT0VUSlF5Q0JGS2hlZUVVTHRYVEJVWTRlRjRpUjQtSHU3TnZCQ2Jsdkp5UC1KNGxXRWMw?oc=5",
-          "source": "wko.at",
           "date": "25. Aug 2026"
         }
       ]
@@ -62,7 +62,7 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Der steirische Tourismus verzeichnet in der Sommersaison ein deutliches Plus bei den Nächtigungszahlen, das vor allem auf die gestiegene Nachfrage internationaler Gäste und die Attraktivität von Bergdestinationen während des Hitzesommers zurückzuführen ist. Mit dieser positiven Entwicklung geht die Steiermark mit Rückenwind in die zweite Saisonhälfte, wobei neben klassischen Tourismusangeboten wie Kulinarik und Camping auch prominente Botschafter wie Johann Lafer zur Förderung des Landes beitragen.",
+      "summary": "Der steirische Tourismus verzeichnet in der Sommersaison 2024 ein deutliches Wachstum, das insbesondere durch internationale Gäste und die starke Nachfrage nach Bergurlaub und Camping angetrieben wird. Mit positiven Nächtigungszahlen und gestiegener Attraktivität geht die Steiermark mit Rückenwind in die zweite Saisonhälfte.",
       "items": [
         {
           "title": "Halbzeitbilanz: Internationale Gäste sichern steirischem Tourismus ein Sommer-Plus - MeinBezirk.at",
@@ -71,10 +71,10 @@
           "date": "25. Aug 2026"
         },
         {
-          "title": "Steiermark: Hitzesommer sorgt für Rekorde in den Bergen - Kurier",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSlBzdmRCS0Viem5nYVRvVGg3WC1lZFMxMDdqNXI3XzNJTGNGbmtDaEdkNURjR1BtUERYOGRjRW8tb3RhS0EzY195RHBNcmxZTk1wNDFfSXZNTHJTbGtsNFgzYjNubUxwM2FGU1FRcHRWamR3aHlYTzFhRFRnMXZyc3pKTkRQamc2YTJKLVRMcEZJMmlvdi1oRDBhUTJKM0h5cnM0WXpn?oc=5",
-          "source": "Kurier",
-          "date": "25. Aug 2026"
+          "title": "Ski-Ort trauert - Kult-Wirt und Freundin bei Motorradunfall getötet - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE52eFowel9rWHJkWHRiZkNoUF9WalJXYUFEeU5TMnpTTGJPNXlfSnlPOGltY1hQTl8yRE4tTHc5UUhPN09mOTA4?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "29. Aug 2026"
         },
         {
           "title": "Steiermark boomt: Internationale Gäste sorgen für Nächtigungsplus - 5 Minuten",
@@ -83,15 +83,15 @@
           "date": "26. Aug 2026"
         },
         {
-          "title": "Bier, Burg und Schokolade: Was Touristen nach Graz zieht - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNkxFeW5WeEZDQy1aQXNILWthakFQUF9sY3d6Vml3UTBhbXhiYWVqUWRxTDh5MkxTd2NsUnJSOG12U3JLVnc5cHFla01HZnhjb1R5cTZ5ZUhQUFRFVlNPQW5NX2dLVXdMWFdvem9GdThwV2NvOGxyVGNfbGluYVZGVWlOWHBEU0Z5R1MycnlUNi1MZEJGMk1ZNG1CX0c0bWVmZ3c?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "28. Aug 2026"
+          "title": "Steiermark: Hitzesommer sorgt für Rekorde in den Bergen - Kurier",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSlBzdmRCS0Viem5nYVRvVGg3WC1lZFMxMDdqNXI3XzNJTGNGbmtDaEdkNURjR1BtUERYOGRjRW8tb3RhS0EzY195RHBNcmxZTk1wNDFfSXZNTHJTbGtsNFgzYjNubUxwM2FGU1FRcHRWamR3aHlYTzFhRFRnMXZyc3pKTkRQamc2YTJKLVRMcEZJMmlvdi1oRDBhUTJKM0h5cnM0WXpn?oc=5",
+          "source": "Kurier",
+          "date": "25. Aug 2026"
         },
         {
-          "title": "Zahlen sehen gut aus - Steirer-Tourismus: Mit Rückenwind Richtung Herbst - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5hV0ZxZ0Fjd0syUUFGVmNmeExzdmJReHBnbVlMMFRwd09ndkpLT3Jqcm1fSFo2NHFPWkx1RHZmcnd6QQ?oc=5",
-          "source": "Kronen Zeitung",
+          "title": "Campingurlaub: So gefragt sind Kärnten und die Steiermark - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc29EWFgtU0ZjTVN3V2dCa2VfRG96TmgtWnhORHBjVzBXYVpEcDNPbFgxanZ3QlFrRjJoUXBsODlSRVJsejAzS2FjM0tVYmV1SnI3NHNHcmNjbUlpZVNUVjN1cHBqZEY2T1dUTzFzWFY2UmdSN25HSTdZQjdZOHA2dDIxMnR1S0piSkQxeTZvemtCdGc0N3pGUHJfazhlUlA4RkJfWXpn?oc=5",
+          "source": "Kleine Zeitung",
           "date": "25. Aug 2026"
         },
         {
@@ -107,9 +107,9 @@
           "date": "25. Aug 2026"
         },
         {
-          "title": "Campingurlaub: So gefragt sind Kärnten und die Steiermark - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc29EWFgtU0ZjTVN3V2dCa2VfRG96TmgtWnhORHBjVzBXYVpEcDNPbFgxanZ3QlFrRjJoUXBsODlSRVJsejAzS2FjM0tVYmV1SnI3NHNHcmNjbUlpZVNUVjN1cHBqZEY2T1dUTzFzWFY2UmdSN25HSTdZQjdZOHA2dDIxMnR1S0piSkQxeTZvemtCdGc0N3pGUHJfazhlUlA4RkJfWXpn?oc=5",
-          "source": "Kleine Zeitung",
+          "title": "Zahlen sehen gut aus - Steirer-Tourismus: Mit Rückenwind Richtung Herbst - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5hV0ZxZ0Fjd0syUUFGVmNmeExzdmJReHBnbVlMMFRwd09ndkpLT3Jqcm1fSFo2NHFPWkx1RHZmcnd6QQ?oc=5",
+          "source": "Kronen Zeitung",
           "date": "25. Aug 2026"
         }
       ]
@@ -118,7 +118,7 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Technische Universität Graz hat ein europaweit einzigartiges Bahnlabor eröffnet, das die Belastbarkeit von Gleisen unter realistischen Bedingungen testet und damit die Eisenbahnforschung vorantreibt. Parallel dazu entwickeln Grazer Forscher innovative Krebstherapien, bei denen Licht Chemotherapien aktiviert und damit schonendere Behandlungsmethoden ermöglicht, während gleichzeitig die Kommunikation von Urzeitinsekten wissenschaftlich untersucht wird.",
+      "summary": "Die Technische Universität Graz hat ein europaweit einzigartiges Bahnlabor eröffnet, das die Belastung von Eisenbahngleisen simuliert und prüft. Parallel dazu entwickeln Grazer Forscher eine innovative Krebstherapie, die Licht nutzt, um Chemotherapie zu aktivieren und damit schonendere Behandlungen zu ermöglichen.",
       "items": [
         {
           "title": "„Sprache“ der Urzeitinsekten erforscht - steiermark.ORF.at",
@@ -174,7 +174,7 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Die Grünen streben EU-Förderungen für ein grenzüberschreitendes Klimaticket zwischen Graz, Klagenfurt und Maribor an, um nachhaltige Mobilität in der Region zu stärken. Die TU Graz eröffnet parallel ein europaweit einzigartiges Bahnlabor, das angewandte Forschung in der Steiermark vorantreibt und Innovationen im Verkehrssektor fördert.",
+      "summary": "Die Grünen streben EU-Förderungen für ein grenzüberschreitendes Klimaticket zwischen Graz, Klagenfurt und Maribor an, um nachhaltige Mobilität in der Region zu stärken. Die TU Graz investiert parallel in angewandte Bahnforschung mit einem europaweit einzigartigen Labor, das die Innovationskraft der Steiermark in Verkehrstechnologie unterstreicht.",
       "items": [
         {
           "title": "Grüne wollen EU-Geld für Klimaticket zwischen Graz, Klagenfurt und Maribor - 5 Minuten",
@@ -194,7 +194,7 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die steirische und österreichische Gesellschaft ringt mit den Herausforderungen der KI-Durchdringung, insbesondere im Bereich Sicherheit und Datenschutz, während regulatorische Bedenken der EU-Ebene in der Bevölkerung bislang wenig Resonanz finden. Gleichzeitig intensivieren sich die Ermittlungen und Diskurse zu KI-Risiken, was auf einen wachsenden Bedarf nach Aufklärung und Governance-Strukturen in der Region hindeutet.",
+      "summary": "Die Digitalisierung und künstliche Intelligenz stellen die Steiermark vor wachsende Herausforderungen, insbesondere bei Sicherheitsrisiken und der Regulierung von KI-Systemen, während die Bevölkerung diese Entwicklungen deutlich weniger kritisch sieht als europäische Institutionen. Die steirischen Behörden und Verantwortliche wie Valensky setzen sich intensiv mit den Implikationen dieser Technologien auseinander, um sowohl Chancen zu nutzen als auch Risiken zu minimieren.",
       "items": [
         {
           "title": "Automaten, KI und Co. - Digitalisierung wird für immer mehr zum Problem - Kronen Zeitung",
