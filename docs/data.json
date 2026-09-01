@@ -1,18 +1,36 @@
 {
-  "generated": "31. August 2026, 08:53 UTC",
+  "generated": "01. September 2026, 07:57 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die steirische Wirtschaft zeigt sich mit positiven Unternehmensbilanzen, Infrastrukturinvestitionen in zukunftsweisende Bereiche wie Datencenter und Photovoltaik sowie aktiver Netzwerkbildung robust und zukunftsorientiert. Gleichzeitig entstehen Herausforderungen durch externe Faktoren wie Dürrefolgen in der Landwirtschaft und politische Maßnahmen wie die Lkw-Maut, die den Wirtschaftsstandort unter Druck setzen.",
+      "summary": "Die Steiermark stärkt ihre Wirtschaftskraft durch verstärkte Netzwerkaktivitäten und Investitionen in erneuerbare Energien, während gleichzeitig erhebliche Sorgen um die Finanzierungssicherheit der Universitäten ab 2028 und die Belastung des Standorts durch geplante Lkw-Mautregelungen bestehen. Die Region positioniert sich als Wissensstandort, muss aber strukturelle Herausforderungen in der Hochschulfinanzierung und Infrastrukturpolitik bewältigen, um ihre Wettbewerbsfähigkeit langfristig zu sichern.",
       "items": [
         {
-          "title": "Niceshops mit positiver Halbjahresbilanz - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UM0ZFNXhwbkJacjBhYUtsLTBNRUVsMm5nOTg5RDdqY2tEcHppZER6MHVoUEd4SjVkZC11X3l1YVhyVUgyTFpjX3lfQTJBSm9lMkt2Vg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "26. Aug 2026"
+          "title": "400 Teilnehmer:innen bei unserer Premiere der Networkingnight - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZTdsOGJBRkxvX1psOTFoSVlzU01uRXkteFI0NUZuekw0REEwUENKQlVrRUF1VUVwRkwxeEFCeEVJWS1pWWlnOWdBbU9WbUVGeUFZMmY4VWR3QmFSVVRHWXVDMnJNZ094THYyck9nLUlDa0VmUHdaSkxIblFMMEVQNDJGeFFFcUtWcllUcVBvODQ3ajJYS3c?oc=5",
+          "source": "wko.at",
+          "date": "31. Aug 2026"
+        },
+        {
+          "title": "Gemeinsam für einen zukunftsfähigen Wissensstandort Steiermark - Stadt Graz",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNczhvSC00RUNhbXFwTWpaQ1FJRGZ2TS16T3hPZkVpeGdZSm9nNm1yLWppbXotMUwtMmVuRGtBemNza2hULWV6a1o0ME5BeElybVRiTFAycUw2NmIwTllQdDU0SXllbUZGS1JJMkxTWmM5UTdyQVFWOWhxMm5UY0JkTXV1T0VtOGM3emxJb1hGOVQ4NEYxX0E?oc=5",
+          "source": "Stadt Graz",
+          "date": "31. Aug 2026"
+        },
+        {
+          "title": "Runder Tisch in Graz: Steiermark warnt vor Uni-Sparkurs mit Folgen für den Standort - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN0loOV9oT3IwVE1QN1pQVzJGMEpFTVd6SWUtRmJyQVNLUmNESlN4UHdBNlJadDd6RUN5bTFlNVg5OWRmTmN6eVhFT3lGVElkWnB5UTF2YlNXa0VPb2kyQ080SThPeDBVQXZaZjFTRk5GbVE2Q3FLNXNWZDdsLW9VVFFPVUQ2S3F3cGFtWVVOVGEzYlRkUjAwaWdZaTVBT1hnNGthb0pkT0QteV9kNzBtakVmbk9DNFpDWV9icmpB?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "31. Aug 2026"
+        },
+        {
+          "title": "Steirische Unis sorgen sich um Finanzierung ab 2028 - News.at",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFc3gwZ0FQbGhPVWdxLWc2UlF4VVF1bzYtM191ai1mUTEtQTBKUHBNSGMxUXZoVGZPMWpVUEdNa0Z6ZHg1bHhVWVZaRm1qOFYzam15UWtRSkRlLXNlSmhkR0VXVW52Y0djbjlEbXBuMHNPbDBDbE9WcnBNZ2hrNm8?oc=5",
+          "source": "News.at",
+          "date": "31. Aug 2026"
         },
         {
           "title": "Premiere in Graz: 400 Teilnehmer bei der „Networking Night“ - 5 Minuten",
@@ -21,16 +39,10 @@
           "date": "29. Aug 2026"
         },
         {
-          "title": "Dürre setzt Bauern zu: Futtermittelbörse läuft in der Steiermark weiter auf Hochtouren - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc09mbjlSMjF3RFp4MFAyOE95aEhqMnpialR6YXYwRkdwM0JaWlFkMXRDR1UyX0JSUjdWLUFYQXcxTm9aRlZhei1mZ0FIQ2tuamVObVR3MF9TTWl3YU9OcWpzdWNKTHQtNW4tdzBvTFp3dWNqTmU1RGxlc0ZaQkIxNzA2WjJzcjZyRFBMNEM3N1Y1MVZzZEVqaEdWTTZ4UjdFZGRKTmxHMy1oVzdCTnhOZFg1cDhNQjVGVGl2c0FGczZuUQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "26. Aug 2026"
-        },
-        {
-          "title": "Spatenstich für neues Datacenter in Graz - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JZTlNcjJyZmFzc1lMeDE3Wk1QcE96dE4yVXFNejQzbmtseVNUV3ZOZDBGUzhUeC14WlFyY3RyQ2pMd3F5TDVuckhGMmllWERhRnl3SQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "26. Aug 2026"
+          "title": "Unis wehren sich mit Rundem Tisch gegen Budgetkürzungen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVG1SZ21vVWJOLURfOXozRkZMTjBkZ0x0RFpManRWNnQ3bW1ULUt2MEVFYmFSZjJiR2NYR2g3SnZ5SVYyNnJrc3ZnaDZIOTdvRzQ5MENWeXV6UDdscENuS3h1WWFKTGRFbHlDZDFqVHNrbG1UcGVSMUFVUHNmN1lmMlQ0ZnpVYWNhTzkyejFCOFVSWlVzYjZNdGlPVHN6d2RfNG1TVC1SU3BnOFMwU0R1UA?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "31. Aug 2026"
         },
         {
           "title": "Riesiger Photovoltaikpark wird errichtet - steiermark.ORF.at",
@@ -43,18 +55,6 @@
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMVFyQjl3VlpiSktUUTBXVjBqZXBsdUY4SFJrdTQ4b292TUZpUjdNYlM0bDZncDJ5NndlZXpoNGNkN2o5ZUdsOXA1UHNveFNsRnpLRE9NVFpMZFV2U0ROMFZ3VGhhaTE0cE00UEZlaURQOUt2SHNDMjk3dTVmaFhRMGE5VFNSOWJqLUhnY2FoRXdZakgtM2k3OUNmbHhMR0JWLV9DbnNSLTd6YWgyTW5MZTBaZEk1WnFHcHRhYQ?oc=5",
           "source": "5 Minuten",
           "date": "30. Aug 2026"
-        },
-        {
-          "title": "Fachgruppentagung der Metalltechnischen Industrie 2026 - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYko3MmNWMEppN0tsTmMwaThBemNSbTdDWW9ia0tnc0s3QkMxa3h6bTBqSGJQeHA2NndzYmROeE1lS2pZRWUzdTE5eGR5UTgwLUxzVjA1eHFCTUg2LW1iWWVzMFpnMWUzem1vMlhNNk43VTVKdklLZmRiWmNMeHdwMTJ4aVdVb0NDT0VUSlF5Q0JGS2hlZUVVTHRYVEJVWTRlRjRpUjQtSHU3TnZCQ2Jsdkp5UC1KNGxXRWMw?oc=5",
-          "source": "wko.at",
-          "date": "25. Aug 2026"
-        },
-        {
-          "title": "Nach 15 Jahren gekündigt: Steirer (56) erkämpft sich seinen Job zurück - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSkxBdVh3MUhKRXBBNHBqbkI1bGZDeHd5UnJSS1U4MFRWQTlQWHc3OFZvRXZiMWxWWlNySzhSRUYtUHZySFNtbGlFTkxWd1c0RFUybm5kTnZuQkduMk5yMzB4d2ItNF90V3JLQzhVWlNiNVlCaTM4dG1JOUJBeFB5c0J2TlFILUg4UENSYnRxVUtfOXBmQVA0WTB1dVJyQWZURlB1R3NwODRENU05cDNfUzhhSDQzaC0xS0Jr?oc=5",
-          "source": "5 Minuten",
-          "date": "29. Aug 2026"
         }
       ]
     },
@@ -62,13 +62,19 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Der steirische Tourismus verzeichnet in der Sommersaison ein deutliches Wachstum bei den Nächtigungszahlen, das vor allem durch internationale Gäste und die gestiegene Nachfrage nach Bergurlaub und Campingurlaub getrieben wird. Die Region profitiert von ihrer Attraktivität als Destination mit vielfältigen Angeboten wie Kulinarik, Kultur und Natur, wobei prominente Botschafter wie Johann Lafer die Steiermark zusätzlich als Reiseziel fördern.",
+      "summary": "Die Steiermark verzeichnet in der laufenden Saison ein deutliches Nächtigungsplus, getrieben durch steigende Zahlen internationaler Gäste insbesondere aus Italien sowie eine wachsende Nachfrage nach Campingurlauben und Städtetourismus. Gleichzeitig entstehen Spannungen zwischen dem Tourismusboom und Umweltschutzanliegen, während etablierte Botschafter wie Johann Lafer und attraktive Destinationen wie Graz mit ihren kulturellen und kulinarischen Angeboten die positive Entwicklung des steirischen Tourismus weiter vorantreiben.",
       "items": [
         {
-          "title": "Halbzeitbilanz: Internationale Gäste sichern steirischem Tourismus ein Sommer-Plus - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZWpHdGZNNWVhdXlQYkl0MU1aT3hIRHpQaUIxUHhROFFGUjVjcnNtUnZGOVcyVE10SnpPN0ZIam9CQmNyOE5aczB4eFN5dnlCQ2dGSC0tbXpEOVQzNm4xdm00TkYxWFEybmc3WjBjd1JwMkhlQ2M4WnA1RDB6R0YyUm4tTFBrZW84UzRnZC1lRUJMMUhMOHV1aXpFMmRuamVJOGFNTXlfaWxmbVlIUEtrNG9ZU1hvcDh6dFd4SFZJX0w?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "25. Aug 2026"
+          "title": "Sattes Plus an italienischen Urlaubern - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11cnhRWnlSWFdkUmtNWmFVR012c1dPRGJFN2RiSUs0S0djaEpIdjVqS01VOXpJdzF0TEdkbG1UTXdhWkZoOE9HR1hTOFFVV3hsYl9PQw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "1. Sep 2026"
+        },
+        {
+          "title": "Umweltschutz gegen Tourismus – ist das Brutalität? - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT2ZYVWttWU0zSmxFbGQ2Z1VrT2pDeV9lYWtpZDQ1cU80WUdyUWxzSlJwel9Ia2duX0l6T2ZVZUhRMTU0MTNaU0RYQWJIOWIxRkE4QTFpYUNTNTdKN0oyc3hiRk9yLWZFVUNMMGdUemZsMmZNRkNLZHpxdlFFSzM3Z2FPYlp5Z3IzSjFRTFN5TzhPYS1MZHpiMUVxNGEtU0lHS05YdkR3?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "31. Aug 2026"
         },
         {
           "title": "Steiermark boomt: Internationale Gäste sorgen für Nächtigungsplus - 5 Minuten",
@@ -77,21 +83,15 @@
           "date": "26. Aug 2026"
         },
         {
-          "title": "Steiermark: Hitzesommer sorgt für Rekorde in den Bergen - Kurier",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSlBzdmRCS0Viem5nYVRvVGg3WC1lZFMxMDdqNXI3XzNJTGNGbmtDaEdkNURjR1BtUERYOGRjRW8tb3RhS0EzY195RHBNcmxZTk1wNDFfSXZNTHJTbGtsNFgzYjNubUxwM2FGU1FRcHRWamR3aHlYTzFhRFRnMXZyc3pKTkRQamc2YTJKLVRMcEZJMmlvdi1oRDBhUTJKM0h5cnM0WXpn?oc=5",
-          "source": "Kurier",
-          "date": "25. Aug 2026"
-        },
-        {
           "title": "Zahlen sehen gut aus - Steirer-Tourismus: Mit Rückenwind Richtung Herbst - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5hV0ZxZ0Fjd0syUUFGVmNmeExzdmJReHBnbVlMMFRwd09ndkpLT3Jqcm1fSFo2NHFPWkx1RHZmcnd6QQ?oc=5",
           "source": "Kronen Zeitung",
           "date": "25. Aug 2026"
         },
         {
-          "title": "Campingurlaub: So gefragt sind Kärnten und die Steiermark - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc29EWFgtU0ZjTVN3V2dCa2VfRG96TmgtWnhORHBjVzBXYVpEcDNPbFgxanZ3QlFrRjJoUXBsODlSRVJsejAzS2FjM0tVYmV1SnI3NHNHcmNjbUlpZVNUVjN1cHBqZEY2T1dUTzFzWFY2UmdSN25HSTdZQjdZOHA2dDIxMnR1S0piSkQxeTZvemtCdGc0N3pGUHJfazhlUlA4RkJfWXpn?oc=5",
-          "source": "Kleine Zeitung",
+          "title": "Sommerhalbzeit: Steiermark mit Rückenwind in die zweite Hälfte der Saison - salzTV",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRG5Td2ZNdXRwYWJqV2VNczFYMGFvSVpiZ0lVZm1JT3RzV2hhT2Y4LXhFS3k0ZWx4SDFvZ2xSMm9jeTBXTmdZYmp3OUxaeHZPRmJKVl9CNFppTmw3Q01udWwxUW1iOGloMEVLR3FOQ3d6dlcySTFiU0tYOENMeURuNkMtdjlneWlBMUowU3VTT3FNU09pTkhHR0hCUlA5Tk5Ia0ptSG01TmkwRUhoMkE?oc=5",
+          "source": "salzTV",
           "date": "25. Aug 2026"
         },
         {
@@ -101,10 +101,10 @@
           "date": "25. Aug 2026"
         },
         {
-          "title": "Steirischer Tourismus ist mit dem Sommer bisher zufrieden - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTUo1RWM5NHkySzFad0pYaVVYS28zSWVNSGNwaGM0QmJZamYxSWRFcXhhT21Vd0RRcjhCcmNMWmpYT0Rqa2NSRDA0WmFYSkJGbmcwUWQ2Ti1MbGFHWkZnU240R0hEaW54cGU2ZmYwZGM4LTc0SjVHbTJqblRCNURXSEVIMTJHYVVaamNhQTBkSmY2WUJULUZ3T0hkUGZYbS0yeVA0UE53?oc=5",
+          "title": "Campingurlaub: So gefragt sind Kärnten und die Steiermark - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc29EWFgtU0ZjTVN3V2dCa2VfRG96TmgtWnhORHBjVzBXYVpEcDNPbFgxanZ3QlFrRjJoUXBsODlSRVJsejAzS2FjM0tVYmV1SnI3NHNHcmNjbUlpZVNUVjN1cHBqZEY2T1dUTzFzWFY2UmdSN25HSTdZQjdZOHA2dDIxMnR1S0piSkQxeTZvemtCdGc0N3pGUHJfazhlUlA4RkJfWXpn?oc=5",
           "source": "Kleine Zeitung",
-          "date": "24. Aug 2026"
+          "date": "25. Aug 2026"
         },
         {
           "title": "Bier, Burg und Schokolade: Was Touristen nach Graz zieht - Kleine Zeitung",
@@ -118,8 +118,14 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Technische Universität Graz hat ein europaweit einzigartiges Prüflabor für Eisenbahnen eröffnet, das die Belastbarkeit von Gleisen simuliert und die Innovationskraft der Bahnindustrie stärken soll. Parallel dazu forschen steirische Wissenschaftler an innovativen Themen wie der Kommunikation von Urzeitinsekten und an lichtkaktivierter Chemotherapie, die Krebsbehandlungen schonender gestalten könnte.",
+      "summary": "Die Steiermark positioniert sich als innovativer Wissensstandort mit wegweisenden Forschungsprojekten wie dem europaweit einzigartigen Bahnlabor der TU Graz, bahnbrechenden Erkenntnissen in der Krebsforschung und der Erforschung von Urzeitinsekten. Allerdings gefährden drohende Budgetkürzungen ab 2028 die Zukunftsfähigkeit der steirischen Universitäten, weshalb diese sich verstärkt gegen die Finanzierungslücken wehren.",
       "items": [
+        {
+          "title": "Gemeinsam für einen zukunftsfähigen Wissensstandort Steiermark - Stadt Graz",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSmtHRFl2TGZMTGlzeFNLM0dTejgxenYzR0d4Z1o5MnpJelI5OE9ZTTBwVER2VU9nUi0ycERJaHBld0c1NEhBVnBNN2wtWFpnQkRlVDFmd25JVzNtUkQyQlhTLUZ4ek43XzJYOTFCVVhyRlBlaDdaUE9KMjVSbkN6SXNHSl8tdlg2VGt5eWJsci1reGlTSUE?oc=5",
+          "source": "Stadt Graz",
+          "date": "31. Aug 2026"
+        },
         {
           "title": "„Sprache“ der Urzeitinsekten erforscht - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uYjdER1F2OHBjZFdKSF82c1lpaWRSQXVfd3pwT211bE9CLTlpUldhb2RINnc3Qk1LWXNvWlB1dGUtZFdLd25MOWFRYUNpc3JhV2hqXw?oc=5",
@@ -131,6 +137,12 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPalVfcW1pSk5jRl9nLTFkeE1iWlVnaEtXbHYwdXc0ZV9fSURnY2lzQXczcUFxNmJyU1JWeEZuNWEtRzg4dDZoSjJVQ1lscGR3OGd6MmtIeFB3TDZVUFgzNTRTNF9Jbk5JbkVWa0JXbUt2Vmc0bldzMzAwY3F4LVc2OVlhWENWczJTNEJqUHFBQ1pqYVQ2azloVDl6amZ0UWREZEFNTThpYmFvV3JIQXNhbw?oc=5",
           "source": "MeinBezirk.at",
           "date": "27. Aug 2026"
+        },
+        {
+          "title": "Unis wehren sich mit Rundem Tisch gegen Budgetkürzungen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVG1SZ21vVWJOLURfOXozRkZMTjBkZ0x0RFpManRWNnQ3bW1ULUt2MEVFYmFSZjJiR2NYR2g3SnZ5SVYyNnJrc3ZnaDZIOTdvRzQ5MENWeXV6UDdscENuS3h1WWFKTGRFbHlDZDFqVHNrbG1UcGVSMUFVUHNmN1lmMlQ0ZnpVYWNhTzkyejFCOFVSWlVzYjZNdGlPVHN6d2RfNG1TVC1SU3BnOFMwU0R1UA?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "31. Aug 2026"
         },
         {
           "title": "Krebsforschung aus Graz: Licht aktiviert Chemotherapie, Hoffnung auf schonendere Behandlung - MeinBezirk.at",
@@ -145,27 +157,15 @@
           "date": "28. Aug 2026"
         },
         {
+          "title": "Steirische Unis sorgen sich um Finanzierung ab 2028 - News.at",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFc3gwZ0FQbGhPVWdxLWc2UlF4VVF1bzYtM191ai1mUTEtQTBKUHBNSGMxUXZoVGZPMWpVUEdNa0Z6ZHg1bHhVWVZaRm1qOFYzam15UWtRSkRlLXNlSmhkR0VXVW52Y0djbjlEbXBuMHNPbDBDbE9WcnBNZ2hrNm8?oc=5",
+          "source": "News.at",
+          "date": "31. Aug 2026"
+        },
+        {
           "title": "TU Graz: Neues Labor simuliert Belastung von Gleisen - Kurier",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY2d2THpWaVNMQVFaYWp5QmlHa3laTmlvZmhoSFNXN2FnYWVfejV1eEZDLUN6RHVXRDVobS1FRUdFODFjcGdBeDRYbFdaYUZVT1p3NHV5OWNfd2hFOEhWRnA3djhlUWs1LWRwUU9temNRTXM2UUY5aFppdkx1V2lYWEpxWXdLNHJYY1NNVlJ3?oc=5",
           "source": "Kurier",
-          "date": "27. Aug 2026"
-        },
-        {
-          "title": "Hightech-Labor in Graz: So werden Gleise auf ihre Belastbarkeit getestet - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUHJtdUlxWHlKVjgtcHExX0VtMGNzZm9RV0RrSWpDeFl1SlZBLUZMdl9heUpGU3pMaVFSbjM2NHp6bWVVNDJZSl9CV3VRd3dXSktQeVZtT3V2Y1NHdS1jYTV3QVVhYXRQM3V3NU93WklpYlEyMUxPSjd0NUl0NjFPOUVuRGtrZVpCM3VWUTQzbTIzX2VxR05FUlJjSWJtaFRiTnFRU3JnN2ptanVUODV5Yw?oc=5",
-          "source": "5 Minuten",
-          "date": "27. Aug 2026"
-        },
-        {
-          "title": "TU Graz eröffnet europaweit einzigartigen Eisenbahnprüfstand - openPR.de",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQzlUdmZIamVqR05icTdScDRvMXBwd3ZOaGtvNEFZN2NYcW0yRVVFSGp1TFdCMDgzVlhRWHp3LUxKdEVYRWNPbEtCbWpMOEtMZDh1X0w0ZnJXcVhZUlZaRWFwRkdBdmk2NGFPLTVLMEdJMWl6X2Q4MkFVa1dzMFhNSS05dnR1REdqSGhQWVpfemV5R3I4X2JPSGRGdk5iWHFOOVpNTnZTalhrZw?oc=5",
-          "source": "openPR.de",
-          "date": "27. Aug 2026"
-        },
-        {
-          "title": "Dieses Grazer Labor soll Schubkraft der Bahnindustrie erhöhen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOUhnNE1IbTVCZEk1eW8zeVNGYVhjQ2FYX2NiS0FkNU1lRzl1MVhwSE8xR3dxR2VoOExveDRVT0M2SVJ1MEZubmxmQlVTOFdxN2dxSHlaYk05bEJyTGQ0ZU5MMmN5c3hNak1HNktWcFcxQTY2b1NFNEZwQWlHM3BDU3dwNUN2Qi1EaDFiaGFudU1tRHpPVE9PUFF0UHpQcE5hUjRnUkwxNFg2RnZI?oc=5",
-          "source": "Kleine Zeitung",
           "date": "27. Aug 2026"
         }
       ]
@@ -174,7 +174,7 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Die Grünen streben EU-Förderungen für ein grenzüberschreitendes Klimaticket zwischen Graz, Klagenfurt und Maribor an, während die TU Graz mit einem europaweit einzigartigen Bahnlabor ein Forschungs- und Innovationszentrum in der Steiermark etabliert. Beide Initiativen nutzen EU-Programme zur Stärkung nachhaltiger Mobilität und angewandter Forschung in der Region.",
+      "summary": "Die Grünen streben EU-Förderungen für ein grenzüberschreitendes Klimaticket zwischen Graz, Klagenfurt und Maribor an, während die TU Graz mit einem europaweit einzigartigen Bahnlabor ihre Position als Forschungsstandort in der Steiermark stärkt. Beide Initiativen zeigen das Potenzial von EU-Mitteln zur Unterstützung von Klimatransformation und Innovationsförderung in der Region.",
       "items": [
         {
           "title": "Grüne wollen EU-Geld für Klimaticket zwischen Graz, Klagenfurt und Maribor - 5 Minuten",
@@ -200,13 +200,13 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Digitalisierung und KI-Entwicklung in Österreich und der Steiermark werden zunehmend als problematisch wahrgenommen, da Sicherheitsrisiken wie Datenmissbrauch durch intelligente Geräte wachsen, während die Bevölkerung regulatorische Bedenken der EU-Politik weniger teilt. Trotz dieser Herausforderungen zeigt sich eine Diskrepanz zwischen der kritischen Wahrnehmung von KI-Risiken und der tatsächlichen Akzeptanz dieser Technologien in der Gesellschaft.",
+      "summary": "Die Steiermark investiert aktiv in KI-Kompetenzaufbau durch Bildungsinitiativen wie den KI-Führerschein des WIFI Feldbach, während gleichzeitig Sicherheitsbedenken bei KI-Anwendungen wachsen und die österreichische Bevölkerung europäische Regulierungsmaßnahmen gelassener sieht als andere Länder. Diese Entwicklung zeigt die Balance zwischen Innovationsförderung und notwendiger Risikokommunikation in der digitalen Transformation der Region.",
       "items": [
         {
-          "title": "Automaten, KI und Co. - Digitalisierung wird für immer mehr zum Problem - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1BaUo3VVZCYXZxUG85OXJhblhSMENYVXFMYVQtckFnZnJ2aWNub250U29OeDk2WFRwV0xrZURxaFJ6dw?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "25. Aug 2026"
+          "title": "WKO Südoststeiermark: WIFI Feldbach startet Kursprogramm mit KI-Führerschein und Sprachen - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWjc5WXFCYjVRVW44S01yVlRPXzRwOGRoNnZhbTJnRVU5Smh6bFdiaV9hekVIQlJoZGNuU1JpdVVWVnZ3Y2o2MDg4RHczdlZtVXpSek40c1Q0ZlM5dzl3bjY4dlZvZmg0QnBQYTAzQWdzbm1LV3FfQkdGejdQZXh2ZHhDQUpsQzZaN0Z6YkRDMFZKcVlIamtBck90ekJmVUxIRjNreVd2eEYtenpTQUR3ckVpTExXSUJBNUNubGFic0FjQndmb2k1cmdTYzdGb1U?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "1. Sep 2026"
         },
         {
           "title": "KI-Sicherheit: Wenn das Kuscheltier nach der Kreditkarte fragt - MeinBezirk.at",
