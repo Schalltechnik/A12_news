@@ -1,13 +1,37 @@
 {
-  "generated": "08. September 2026, 07:24 UTC",
+  "generated": "09. September 2026, 07:32 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Steiermark stärkt ihre wirtschaftliche Widerstandskraft durch Infrastrukturinvestitionen wie die 50-Millionen-Euro-Gasleitung, verbesserte Kreditwürdigkeit und wachsende Finanzinstitutionen, während gleichzeitig Bildungs- und Beschäftigungsinitiativen sowie politische Fokussierung auf Gesundheit und Wirtschaft die Standortentwicklung vorantreiben. Allerdings warnen Vertreter vor regulatorischen Belastungen, die Betriebe unter Druck setzen könnten.",
+      "summary": "Die steirische Wirtschaft zeigt sich mit bedeutenden Investitionen in Infrastruktur und Tourismus aktiv, wie die 76 Millionen Euro Investitionen der Seilbahnbranche und das neue 13-Millionen-Euro-Umspannwerk in Murau demonstrieren, während gleichzeitig etablierte Unternehmen durch Filialneueröffnungen und Firmenjubiläen ihre Marktpräsenz stärken. Parallel dazu wird die Berufsorientierung als Teamarbeit neu gestaltet und wirtschaftspolitische Schwerpunkte auf Gesundheit und nachhaltige Entwicklung gelegt.",
       "items": [
+        {
+          "title": "Branchentagung in Obdach: Steirische Seilbahnen investieren 76 Millionen Euro - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeGw1cG9qd3dDbGpKVnFtVUk1MUtEYklQQzJmdlNTTmVpSnFNcS15eU1PRzhtTHlIUnBBbjlKaTM4VHdyc2dMNEhWTHFpQzFYSzhYNXlYcnViX3l3SXh2UFVpUEVHLV9xdi1DajR6TEhkcjk2YVl1QkVIUms2aVIwUTVjb05sN3loNnRqaDdXWmxMMF9oSnFiQ19CVmpqY3FCSVc5akJicWYyeERsZUlB?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "9. Sep 2026"
+        },
+        {
+          "title": "Berufsorientierung wird nun zur Teamarbeit - steiermark.orf.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvenZNbTlrcExxcFMwLTlCSGFMOGF5NkVBSFdLTmNLX3NpQmlSUFJ0dWJLZWRlMkxmSGFTQUJjRVZwdWZjXzJEUjQxVjVCRl9vREVXUw?oc=5",
+          "source": "steiermark.orf.at",
+          "date": "7. Sep 2026"
+        },
+        {
+          "title": "Energie Steiermark zieht bei Lade-App „elinx“ den Stecker - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeUtsYVZoWlFTR05sNGdSMl9ZRVpvZ2hXazdLNXJjaGk0cHlvd1FOa0tKSkpFaHZpLVM1RkJsdFJaLXhwUzRKeEFjQWdwT3RBcHNIc1doRDF5S2FYUGVDMFFZSF9ORDEyZlo5MVhIMVhsMkdJaHZseVZabDJrdUpBMzF4T053QnVrLVpSaHhTRFlKSFRHNmNZY1ZmRFk0TlB4VWp3?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "8. Sep 2026"
+        },
+        {
+          "title": "Steirische Seilbahntagung: 76 Millionen Euro Investitionen in Saisonstart - Seilbahn.net",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSGtwT0xaUlZSREFSU25jTGg2QVkyTFpVSXN0eC1fRXA2cUthRU8xOWhBT3piQndsTkRZSHBNY244blU2V1I3YWJlWDZ4ZVM4cVZQcVJWaVBQSy1MdkdiSlJXQTkxc3VQZnd5TzBWMHlUT2gzZFNCN2xsRUJWeFRReTNRdWVZNFFrSHRfZXZ1OFM?oc=5",
+          "source": "Seilbahn.net",
+          "date": "8. Sep 2026"
+        },
         {
           "title": "Steirische Sozialdemokratie: SPÖ startet Kampagne mit Fokus auf Gesundheit und Wirtschaft - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdmxtRjl1ZDhTcXhGWDlfR3FoTnN4emV4MWRUQlp2dzJ2THBWeVlEcFZ6d1dBczFWcncxWDA2Q1AySlZXY2lFR3h5MVctYVlPVDNVWmhHemhTTzJfY2JxVzBlRElHRHZrV1htLUpXODlWUTR1UFk1Z3l1VXB2NVhUUW5JNEhzZW1GUldMUTMwam9uTE1HRXZISmN0d2xxSG51dmRwTUhGYzQzS240ZEExQ1hyaktkdFVQU3Z3SzVzUUhMZVQ3ZC1V?oc=5",
@@ -15,46 +39,22 @@
           "date": "7. Sep 2026"
         },
         {
-          "title": "50 Millionen Euro für neue Gasleitung durch die Obersteiermark - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWVZtYjBpdmUteFc5UUpJN0RCU2FnU0tiWGg5NEdQS0otTWo4OURYMzM1QllrUzRzS2VpZmtkQlZON2pQSjhzVHJfV0FNNGlGaGloajhZaWxuamJ3WFIyR2wyWWRyNWxsRS15OTlMN2hZdWNNNzhqSFUyLWZNUHE4UnVKY3FMZk1zaDlZeWdRbXpRMlJ1S1hwUHBWYTFyLTFuTzBibUpxRGpKampTN1E?oc=5",
+          "title": "NKD eröffnet neue Filiale in Bad Radkersburg und Jubiläum bei Roth in Gnas - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZTFQZ194eWFCQmZJXzVOeU5UMWgzN1JkT1F5TS1qemtjOXRFblk3WHkyWU91SGlGVVd2YzktQ2VQOTFjbWEtM3VyZVVBOXJLSnI5dkVpVXhhNXFPb3BGN2hDQ0pNOTk0UlEzSGJlZjJHOWxDUGcxQ2FMZllBbU5DaldMR2JQQ2FBQlI5Rm1HMVBGc3htUjJBWW9aTjVoNGVTQy11VmRmSGp5b19oSFZmajZBT0oyNVJR?oc=5",
           "source": "Kleine Zeitung",
-          "date": "7. Sep 2026"
+          "date": "8. Sep 2026"
         },
         {
-          "title": "Ökosoziales Forum: LR Ehrenhöfer präsidiert - steiermark.orf.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE02QTY4dWUzNDFSY0s5c1FQMHBiUVUwTXd6M0VWekYzS2R4TmMzMXpXNUNCSXExNDd3akN2dTFYTFZ3V0RTblZwbjc5Q1FDaUtNaUFOdQ?oc=5",
-          "source": "steiermark.orf.at",
-          "date": "5. Sep 2026"
+          "title": "Malerbetrieb Galler und Autohaus Sternad feiern Firmenjubiläen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRTF3a2xjUUZBT1dtLWVGU0IxRjRtT3F6dzMyLWhVMUFNMUVhR0tMRGlNQnJmc0NoSkxaNC1hNW0tQUZwOWdTbHM1UjR4dUdjMl9xZ1l1S3FLSlNqMWgwVUctczNCMUtrY2JIUnk1QmtOejUzR3dyRkpreTc1RjVBZk9DWUlnckNTelV2N1JTZTNaU2FfdFY0Q0czWHhUbU13MDYtR29ZVWdpZEdjYXc?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "8. Sep 2026"
         },
         {
-          "title": "Steirischer Schulterschluss in der Berufsorientierung - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSmlObm5INzkyOG0yN3QydUFzSzNXUk5FRkRpNzVPM2tPazBJUkZKWVZHcUlQNWJfQ0N2M2pXOElLNHdCRWVfdkhBZUVvekZZRUFldFJ1T3FvUDVJVml2Znl3M0k1Q19ZWkVMR0c2b0lFa0R6eFBNVEh4QkZpaXY5cGNLNHlfRUZIU0diT3RUV3VsRmZUTkRfYnBrMWtrVU5h?oc=5",
+          "title": "13 Millionen Euro fließen in neues Umspannwerk für Region Murau - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOazJucXlBZ1cxZ095MjdmYy1qckJ1MEdrM2h5NE5tNVpMRS1JTEFKa1lrYm1DTG5qV01SMHoxZlE5eFRhYmNwdFkxSDBfMS1IQ0pVWVBiZnV5d2IyMTFBNVQzM0hWd3BoT0FpWm1OTFJVczBxd3hjS01EMlZvajhBN2YweV9pRl80YllxQlRLV0FlUnphTGM4UkZmOFdyMlhqa0xJRENDZGdwYUlHa2xsMA?oc=5",
           "source": "Kleine Zeitung",
-          "date": "7. Sep 2026"
-        },
-        {
-          "title": "Kreditwürdigkeit der Steiermark: Ratingagentur S&P hebt Ausblick an - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUUQwaVdvVUYwaGlPOGpYbDZPZl83aDVSUjd3YUR3TDkzM0RvT25ObE1XQ09qQzAwTW15VGtONkVzYlUzMWNQNlg0NWlnQzR6M0xOdjlUZFN3Rl81UVY1MzZWRFFMeFdEQXBrZjd3QW1RNXdTWXhzTE45RXZ6YWxqZGJ0N3JMc2IySXNaYTFIZjh5VjByRERCM1YwdmxGT0VacjVRdG0wRE4yb2dnSXlTbjhYRThDbi1P?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "5. Sep 2026"
-        },
-        {
-          "title": "Raiffeisen Landesbank Steiermark legt im ersten Halbjahr zu - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeFc5V1dJcm5QY0VWX09lTjBRVnU0MlNRb3NEMFNpM296eEhUamFtQUVwSGJUaldvRzB0UjVFX1Y5MVV3dGN1NERENWxCQlJTM01UWW1TWWNsb2hVQ1BUU2k1ZVVmckdmbUZnUzZBNHh3U3I0NV9UQ01MOW5VcVdTVUZkZ2dTNUF4dWlSTm5jR085ODlEcGcxVEdR?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "4. Sep 2026"
-        },
-        {
-          "title": "Ehrenhöfer warnt: „Das bringt Betriebe massiv unter Druck“ - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQUNqQVFXSmRhRHY4S3hJZWVyQUhwUlBqa2owMHNLaUNBSlptLVR0WWl3WUE3NGtaUEczMVB3ZzVxOWZlMXBCMExUMkdTN3VqTWZjMm9WUzBuMms4MlJoSTQweDVqUjAtaXZnVzJTT0hLNHZmUlFoMW91UzZrRDE0MDZPaG1vNWsxYWgwNnVmVE9mT0VpTDV6YnJ0SDdKXy1KSWF2cQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "5. Sep 2026"
-        },
-        {
-          "title": "Business traf Bergluft: Eine Almpartie mit bekannten Gesichtern - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc1I4Yl9GTzhpWE5uWXJZT2tITnlYQ1k3OXVwMzF4N3hKa3R2M0RTVXpiT01XcGZVRnhRaG1ZM3pfOUg3RDlVQ2JIVlRjd3VsUHpzUXp4am9EbzNiZnAxU1lkUVJYakFtQTdHNXZjSHllMDRWRDBrcU02cE1sOVZweUktd1JMdUdqZlUzcWhvWUZnUWtmMHMta2pNUXlqcjFpQnBEb1lYZ05BbmR5?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "4. Sep 2026"
+          "date": "8. Sep 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark profitiert von einem starken Tourismusboom mit deutlich gestiegenen Besucherzahlen, insbesondere aus Italien, und positioniert sich erfolgreich als kulinarische Destination und attraktiver Filmschauplatz. Die Region nutzt ihre natürlichen Ressourcen, kulturellen Highlights und gastronomischen Besonderheiten gezielt zur Tourismusförderung und Steigerung ihrer internationalen Attraktivität.",
+      "summary": "Die Steiermark positioniert sich als kulinarisches Reiseziel mit innovativen Marketingstrategien wie kreativen Cocktail-Kampagnen und erlebnisorientierter Werbung, während gleichzeitig in die Ausbildung von Tourismusfachkräften investiert wird. Das Bundesland nutzt dabei sowohl seine natürlichen Ressourcen wie Weinregionen und Wintersportmöglichkeiten als auch gastronomische Besonderheiten, um Touristen anzuziehen und die Branche nachhaltig zu entwickeln.",
       "items": [
         {
           "title": "Schon jetzt Sturm und Kastanien in Weinregion - steiermark.orf.at",
@@ -77,21 +77,15 @@
           "date": "5. Sep 2026"
         },
         {
-          "title": "36 Prozent mehr Italiener: Steiermark erlebt Urlauber-Boom - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ2xsLTJXNWlXbXRQS2F4bGE1THJRblZTYnhEX1lPZmZUaVptcFlaVm9HQ3FDU0FQVG9SNVMzdmQtNlRBOFR0MGxrbjdLMzBLYlRLN1hjak15OGU1US1lVFM1d3BKdU8zYzZ3UjNGLUJFWThpb2hINHVMeHdIT0Z1enJaMGpZSzVZVXlpd25DVDRiS0RwUzJxTkdISGN6QjN5clZISmhR?oc=5",
-          "source": "5 Minuten",
-          "date": "1. Sep 2026"
+          "title": "Kinder Programmierten in Weiz Tourismus Lehrlinge Werden Geschult - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSXB3djA5bFp0Rm1nZjllVDZ3NFFVTzd2RkNvSjFIcGRFc1o4RnM3V2JYUlBBVnJuOHJaWi1iZTNuRk56bFRGV05mMzRBRUR5NzE3cWxhVlh1TU1rWHRlRnhjczk0NHU4X0xkSXFoOWRfd1pWUWlROFhtWE5oOUtjRHh0MXZfVXM2SDFtN3RTM0x5U0QyeTBSMy1qRmktNHFHaW5IVzdQZHVPY1B6TDIwQw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "7. Sep 2026"
         },
         {
-          "title": "Sattes Plus an italienischen Urlaubern - steiermark.orf.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11cnhRWnlSWFdkUmtNWmFVR012c1dPRGJFN2RiSUs0S0djaEpIdjVqS01VOXpJdzF0TEdkbG1UTXdhWkZoOE9HR1hTOFFVV3hsYl9PQw?oc=5",
-          "source": "steiermark.orf.at",
-          "date": "1. Sep 2026"
-        },
-        {
-          "title": "Beliebte Drehorte - Steiermark ist auf der großen Leinwand zu Hause - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1uSDFxcTZRNnFLVFctbDRIeGdVQlYxMTNpNVdoMWJuYjdVcDRLOHRSWm9Ib1BaZktZaU5fY01uU3J4Zw?oc=5",
-          "source": "Kronen Zeitung",
+          "title": "G’schmackige Tourismus-Werbung: Die Oststeiermark in drei Cocktails - Falstaff",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbVVQT0pPX3o2YkZWYUFpVmU1T3lSbmdyZVpCdnlNOTZSU1FVVS11bzZiV2pxeEF6d0RnZkc1RTVOamczY3ZlcVFROU9ubkZHWkRIUlByelVUSl9BeVdPYXM1aU1ESTBlZGtMTmV6NG5tWXZaRGFQa2F2dUhBb2dPUENWTmZscWVwR2ZfblRSVGZMRDY5UUg4WGRiRVFZcnM?oc=5",
+          "source": "Falstaff",
           "date": "2. Sep 2026"
         },
         {
@@ -99,6 +93,24 @@
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPelc3UnlQWjAwRTVwbzg1UVg4bWNoTm5sQzZVVFZKcTcyU3R6c1NxZktxQUh3bV9hLTQ0MzlvcmZSejVlTlpqZTlfX1pZVlJ4NXdpbHFfYTg0R1ZadTZxQmJXbVpUeDJqTlB5LThSa2phVWdtQTh2eXA2WlJ1dTd5T3p2R1FBWEY1YjUzdTB0Z0Rna0gyakw5SzhaRVZpOGFqck8yaFV4ZTFqU0tySDVOcThnZw?oc=5",
           "source": "ORF ON",
           "date": "7. Sep 2026"
+        },
+        {
+          "title": "Drei Jahre Suche: Urlauber fand seinen steirischen Lebensretter - Kurier",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNUxLVUEzVjYwWDRiZU9YLWZoSUltMjhBQ1VNcmRVWnRqZDV5cDliMks1RVpoTURFUGNOOHloNlBiY1ZfSU43MkdfcFZfenNBb3NlZmxZRDRPZDF4QXlmUnhjWFdTdndNcHcxb0lNWUtacGFQNE10TWV2WE1OWUw4WGRwb19MVHlzMGFBRGcxdzd0aEU4bU9tYQ?oc=5",
+          "source": "Kurier",
+          "date": "8. Sep 2026"
+        },
+        {
+          "title": "Wintersport-Elite im Grazer Sommertraining - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0N1REc1ZxR0VrNi1KV3c5X0tVVzFseU4wUl9xamhZdEdHSmE4RXlRcWY5Z3VobV8zWEN5OTB6OE9kVVlDajNUNVNjMHFrc202UVRmRg?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "8. Sep 2026"
+        },
+        {
+          "title": "Wintersport-Elite trainiert für die kommende Saison - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWEzWmZDb25Oam10OW14eTFMRjd4NGdtMHp0ZFA5ODVTTDRMOENoVGFDQ25CN1NNMjZzRk1FNHhtMHBucE9Mai03a0EwNjlVX1B6MkNaVlRuT09Jb1YwdWFjd2Y5UzRqNEFkZzdTVjRYSU1VRnpxUlh2RVE2V2J4MFEzdWtjVzVWRHNZQTlBZndfN3QxZEUwVU9R?oc=5",
+          "source": "ORF ON",
+          "date": "8. Sep 2026"
         }
       ]
     },
@@ -106,19 +118,13 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Steiermark etabliert sich als führender Forschungsstandort mit Durchbrüchen in zukunftsweisenden Technologien wie Wasserstoffenergie, Quantenlicht und Nanotechnologie, die von der TU Graz und anderen Institutionen vorangetrieben werden. Gleichzeitig zeigen steirische Forschungsprojekte praktische Anwendungen in Bereichen wie Weltraumforschung, Landwirtschaft, Medizin und Verkehr, die gesellschaftliche Herausforderungen konkret adressieren.",
+      "summary": "Die Steiermark etabliert sich als führender Forschungsstandort mit bahnbrechenden Innovationen: Die TU Graz erzielte Durchbrüche in der Lichttechnologie und Mikrorotorik, eröffnete einen europaweit einzigartigen Eisenbahnprüfstand und entwickelt gemeinsam mit HyCentA ein neues Flüssigwasserstoff-Labor, während die Medizinische Universität Graz innovative Krebstherapien erforscht. Gleichzeitig fördern die Universitäten Graz durch EU-Mittel und eigene Projekte sowohl die Karrieremobilität von Berufserfahrenen in die Lehre als auch grundlegende physikalische Erkenntnisse, die das Forschungsprofil der Region nachhaltig stärken.",
       "items": [
         {
-          "title": "Mit steirischer Technik den Merkur erforschen - steiermark.orf.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10OG9SY3FOa0ZWcDY2WERhQlphMXJ0Z3ZPZmk3NzYyQ1ktdkZNcGJoc1Rpdk9vN1hvNGc4cUlhb0ZIejQzOWdZZ2ZHbElZZndicVZ3LQ?oc=5",
-          "source": "steiermark.orf.at",
-          "date": "3. Sep 2026"
-        },
-        {
-          "title": "Mit Drohne und KI gegen Weinkrankheiten - steiermark.orf.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPeElYWTY5YXgzSFlxcDBRY2FSU1lmcDNrVkVQT1BTMWZSS1lrREN1WkV2Sk9oV2MybGhkWnRPbkpDVDlGMVlaWVlHY1B6RnZSWGo2Ug?oc=5",
-          "source": "steiermark.orf.at",
-          "date": "3. Sep 2026"
+          "title": "Forschung der Uni Graz: Warum Berufserfahrene ins Klassenzimmer wechseln - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMHB6NXNmMGhacVRmMlFEZjdrY3JDMm5aalo3Nm1sRDVHX3lDbjlJeWJDbUJGT1NiS3lCa3JEanJVTndLTTBJbEpQQmJ1TVZKS01VcjhkMnd3eWhEUkJtM1FjU0ZYQVhKbHg2S2VkQmtsNW9SaHdmY2NlVEI3RERRNWM4VFh0aklvTk5WYW9tN09TdU5BMzFINDYzT05pLVJKVEtkRVRVVnlzTnUzdXo0bmhsLUVtUQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "8. Sep 2026"
         },
         {
           "title": "TU Graz eröffnet europaweit einzigartigen Eisenbahnprüfstand - BMIMI INFOTHEK",
@@ -127,21 +133,9 @@
           "date": "3. Sep 2026"
         },
         {
-          "title": "Großer Wasserstoffmotor versorgt TU Graz mit Strom - Der Standard",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTHY2N0V2U2hwMFdVQjJlcGNvenZrdHAwNWFkQm5pbFl5SFlxMC1WaUtzWGZoMnZ3UDA2XzFsYkx6em5vWGF3eFhHZEVJRmJtV0RoWDB1cFZPNUY3TlJacllHUWcydjFrLXUwV2FySzVRanFjeG9BZjI3SGZHMkJBQ2EyOHBreW5EeUVXUnVQV25pNm1uWEVUSndDWmlKTGs?oc=5",
-          "source": "Der Standard",
-          "date": "1. Sep 2026"
-        },
-        {
-          "title": "72.000-mal effizienter: TU Graz gelingt Licht-Durchbruch - 5 Minuten",
+          "title": "72.000-mal effizienter: TU Graz gelingt Licht-Durchbruch - 5min.at",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS213bGtLTzFjSGdDOVpXNlNqNXp3dUhVeUl1UVV3ckRLek1XTEpOd1pVWThkTndsel9vbjhNM29tQVQ2UUI1VzBieThVdUUxS1ZHNi11eXB3UEpTSll0WktfbW5UZHZELVVTclFtQ2NhcV8xbmI4Si1sYXZSdHc4UVczUTFxNUE2dXM4cG50aUt3SVBYTWVDc3hVdw?oc=5",
-          "source": "5 Minuten",
-          "date": "2. Sep 2026"
-        },
-        {
-          "title": "TU Graz: Microbots aus dem Nanodrucker entwickelt - austria.com",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRzdHU2dSSnBuZzBtV3hlcnpfZFd4MkNGcEd2d29kalIwZFE3Y3FLWUZQZFloNVB3SlZ5UEQ3ZGVEUV9iNlJicEJlUzZYdTQzQjlmYi1rd1JGM2NuUjl0TlFQWjhfT1JEM1J5VkRBQlJWSktwQ3ZUUmt4aWszeGtlUjR2ZmhVWWRBXzFpYndlVHRFTk1f?oc=5",
-          "source": "austria.com",
+          "source": "5min.at",
           "date": "2. Sep 2026"
         },
         {
@@ -151,10 +145,28 @@
           "date": "4. Sep 2026"
         },
         {
-          "title": "Licht gegen Krebs: Med Uni Graz entwickelt neue Therapie-Methode - 5 Minuten",
+          "title": "TU Graz: Microbots aus dem Nanodrucker entwickelt - austria.com",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRzdHU2dSSnBuZzBtV3hlcnpfZFd4MkNGcEd2d29kalIwZFE3Y3FLWUZQZFloNVB3SlZ5UEQ3ZGVEUV9iNlJicEJlUzZYdTQzQjlmYi1rd1JGM2NuUjl0TlFQWjhfT1JEM1J5VkRBQlJWSktwQ3ZUUmt4aWszeGtlUjR2ZmhVWWRBXzFpYndlVHRFTk1f?oc=5",
+          "source": "austria.com",
+          "date": "2. Sep 2026"
+        },
+        {
+          "title": "Licht gegen Krebs: Med Uni Graz entwickelt neue Therapie-Methode - 5min.at",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM3F0X21od01BVW82MXJMSFZCRHJ5eDB6dzJpUjBHN3lVdS1jbWxhbUN0dHZSTUZPNHFQaDF1UDRCV1d2Q281Wnk0eG4zbmFveGktQ3dpVHdwaHhLNGs4T3hYeVZ5X1V3MGk5MWRVMm5DWVdsV3NucFVocE1xdTZTeGVxTWtJZnMzNHEyYmVmOUtYOGFNaEgzeGVZMEFCMEUzcVFkOUdB?oc=5",
-          "source": "5 Minuten",
+          "source": "5min.at",
           "date": "6. Sep 2026"
+        },
+        {
+          "title": "Uni Graz: 3 Mio. Euro EU-Förderung für zwei Forscherinnen - austria.com",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPME4wY29TYnM0RmNFTkpERE52UXJnMFNJbXpzSE9iVThYNEY1UGxvYlQ2Y0kxc0Y3UzVhaU5CRlFuMzV6ZFFwY08xZFdYcnhGU3ZLZjRYb3ZBM3JseXk2dXNHSVluQkNhVTk0aDhUR185a1k5SUNxTEluOG9SVnBWM2piVU9PZ0x6Q0ZVbE9LQUQwUQ?oc=5",
+          "source": "austria.com",
+          "date": "3. Sep 2026"
+        },
+        {
+          "title": "Grazer Physiker machen elektrisierende Erkenntnisse - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaUx3NTJTLWE0TUJZWW5TV1BGS3VZc0JzbVlta1lFbndCOWNYOHlTYmR0TUpjN25jdFBHTkRjdkRDX2o3QklWZk5FVnVsZmNyWjBUUjc4R0FET01WdjdUVWRDS1VuenNRSWRicFhrV3Uxd2xKcXhNZnZuZGk0RTl5eFUxYUpzWUFQaHZoUmR4MnZjXy1BNkEwRGxXZXhRdw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "4. Sep 2026"
         }
       ]
     },
@@ -162,12 +174,12 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Das Land Steiermark unterstützt Schulreisen zu EU-Institutionen mit 80.000 Euro, um jungen Menschen die europäischen Strukturen näher zu bringen. Parallel investiert die Forschungseinrichtung HyCentA 6,6 Millionen Euro in ein neues Liquid Hydrogen Lab in Enns, um die Wasserstofftechnologie als zukunftsweisende Energielösung voranzutreiben.",
+      "summary": "Das Land Steiermark stellt 80.000 Euro zur Förderung von Schulreisen zu EU-Institutionen bereit, um Schülern einen direkten Einblick in europäische Strukturen zu ermöglichen. Parallel investiert HyCentA 6,6 Millionen Euro in ein neues Liquid Hydrogen Lab in Enns, das die Forschung im Bereich Flüssigwasserstoff vorantreiben soll.",
       "items": [
         {
-          "title": "Land Steiermark fördert Schulreisen zu EU-Institutionen - 5 Minuten",
+          "title": "Land Steiermark fördert Schulreisen zu EU-Institutionen - 5min.at",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTjFGSnhPd1MxdTlpTWt6bThlZGlkaVZwR3ZPWVI4MzhEVjRHM1JSdmRnSnBPU2FSTlpxY0VfZi1YMVlhQWVrN2kwNWhpU3FQcC1sRTFGV3ljTGFuc3JkdXBmQWpER01fbWljczdMS0hQZlFIT0lEMzgtTjVfNjdsWlNhaUQwVDhpX3RBTm1mNUZvQ2hPZnVOcVNxTDJIbnNpZUVaTw?oc=5",
-          "source": "5 Minuten",
+          "source": "5min.at",
           "date": "4. Sep 2026"
         },
         {
@@ -177,10 +189,10 @@
           "date": "4. Sep 2026"
         },
         {
-          "title": "EU-Jugendschachturnier zieht nach fast 25 Jahren von Mureck nach Graz - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcWt1OUU1aHJCRUVZT2J4VEtKY2dTSk1wb1dnVUwyeW9IVl9VcHNfZzZuNVlrYW85YU9TN1p2QmxjbEEwTFAzWXZMdFRVYzRTaDUtSzJRWVh2cHZEWllRMll3Vmx5dFFCYnBsdFFnZ2JqN0g2WmFyOTk0Y2ZVRGVzZHA0M1FQTy1GcWs2NFI5MTBRZHZIX2FWLWN4SmlmZ0Y5Q0hUb0hiMjFweFB4TjZBbHlTNHdNNWRG?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "4. Sep 2026"
+          "title": "Steiermark: Mit dem Land Steiermark auf Schulreise zu den EU-Institutionen - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdTVZcEo1X0N2VUtaaXQ3eVo2UXFRazY3Ym93V2hHeF95SmxfajdHUUV6TzNHUFBueDJxcjA5X0dqMnZGZWlIWW5UdnB6eWJxeWpxNUJMcERXSGNOLU9WZ2tQZmYxbzg2ay10WmRjVGVPQlBCRjE0ZVBwcDNpamQ3aklmRGltc2FRZFdmT0ZKc1pwLXRIdXlBUjVyRGRjc2ROT04xa0ViNGvSAawBQVVfeXFMTlRyS2hoeGhTdmRydHl0RVFaQzA3MW5STW1fcmFGUXNQYzVoSFlDaWhnUVRoZ3JaOWpFVlItWlBwMGxSMTRaeG90Z1J1aTJoUHhLcXdFclBVdC1MVkFiaEJJZXpfREYtMVFwRDhIX0FPd05LOC16LVA2Y2ZsdVo5U2ZrcUw5ZDJuWHVHa3hGLXhIWWp6TUxNMURvZnZ1czE0MVdFOWRsTlFnWWxnVw?oc=5",
+          "source": "Regionews.at",
+          "date": "5. Sep 2026"
         },
         {
           "title": "HyCentA investiert 6,6 Millionen Euro: Neues Liquid Hydrogen Lab für Flüssigwasserstoff-Forschung entsteht in Enns - MeinBezirk.at",
@@ -194,14 +206,8 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die steirische Wirtschaft setzt verstärkt auf künstliche Intelligenz und digitale Technologien, um Betriebe zu modernisieren und neue Geschäftsfelder wie die intelligente Landwirtschaft zu erschließen, wobei über 400 Unternehmer bereits KI-gestützte Vertriebslösungen nutzen. Gleichzeitig wird betont, dass menschliche Qualitäten durch Digitalisierung nicht ersetzbar sind und die Bevölkerung durch Weiterbildungsangebote wie VHS-Kurse auf die technologischen Veränderungen vorbereitet wird.",
+      "summary": "Die steirische Wirtschaft setzt verstärkt auf künstliche Intelligenz als Modernisierungstreiber, wobei über 400 Unternehmer in Graz bereits KI-Lösungen für Vertrieb und Geschäftsprozesse nutzen und innovative Anwendungen wie KI-gestützte Drohnen auch in der Landwirtschaft Einzug halten. Parallel dazu etabliert sich die heimische Kreativwirtschaft als wichtiger Innovationsmotor, während Bildungsangebote wie VHS-Kurse die digitale Kompetenzentwicklung in der Bevölkerung vorantreiben.",
       "items": [
-        {
-          "title": "Bernd Kreis: »Menschliche Qualitä­ten können nicht durch Digitalisierung er­setzt werden« - Falstaff",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWGdkd2k5WXZ4UFYzZXRYcWhnNEpqeldVRG82d053alJsbUVpSEVLMTlINFJYOURWMDAtdkRRTUE4LW5QcUVNVkpybHJrYVY4T1U0a2FFLXcyQjhzNGhZSVhBcFRnVGZBMl95SzNkOUxzSVhscGhDY2d4Y1RvYmRYbFN5QUxMb0V1bS1ERE1RVWtlelh0S25vcEJRcGhhNUxTM2Z2dzJRVjFFSVpDVkRKd25uX0VUQlN3cUZZ?oc=5",
-          "source": "Falstaff",
-          "date": "1. Sep 2026"
-        },
         {
           "title": "Künstliche Intelligenz: Wenn die KI Ihren Betrieb noch so beschreibt wie vor fünf Jahren - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVDh1SEh1TWQtc0QzOVhYQVFEWUh6ZWRVbTFpeUVuT1FoRERFTXRoM3ZXUjJyRWVyb09JWHF3Ti1hYl9ZQzFOYm9YRWtURVFTa2FhYjJ2WFJzYU1IY0ZKbThtZ3Z0anQtSDdWc0FxOVBISFZsb0hwbjIyekFWd1Btbks2X2pCWE12MVp4Z0VPY2R1Z25WWHNVd0paSlhjWGEwWld2RDVJWXZwdmZZclc0cG9BbGhWZ2xvWi16RTNycTM2QTZuZUdvcA?oc=5",
@@ -209,15 +215,9 @@
           "date": "8. Sep 2026"
         },
         {
-          "title": "Mit Drohne und KI gegen Weinkrankheiten - steiermark.orf.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPeElYWTY5YXgzSFlxcDBRY2FSU1lmcDNrVkVQT1BTMWZSS1lrREN1WkV2Sk9oV2MybGhkWnRPbkpDVDlGMVlaWVlHY1B6RnZSWGo2Ug?oc=5",
-          "source": "steiermark.orf.at",
-          "date": "3. Sep 2026"
-        },
-        {
-          "title": "EPU-Tag in Graz: Mehr als 400 Unternehmer setzen auf Vertrieb, KI und Social Media - 5 Minuten",
+          "title": "EPU-Tag in Graz: Mehr als 400 Unternehmer setzen auf Vertrieb, KI und Social Media - 5min.at",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeGRJc1dfcy1XcXRHVmN6U05KZnQyNWxTV0ZWLXNRdWNGZTlKQy0yenh6emQyZW5JZ0MyRXRTeGFPdFoxb3Iwak52NmJxVDJ4bk1rcEI5WjVYMDVKNFRTMWJmNGdLSjdGQy1pSU9WQVBtYXB2UkpmRlBRcUJnSHNNY1M4S0d4RGdDMlZ4Yl9ZOG9oX2FEUjdlNl9yQXVoQ2VxUGs1NTZyblBHblpTSXhxTXluMWNwRDZ2T1BZbTE2U2Z3c1lU?oc=5",
-          "source": "5 Minuten",
+          "source": "5min.at",
           "date": "4. Sep 2026"
         },
         {
@@ -227,10 +227,16 @@
           "date": "5. Sep 2026"
         },
         {
-          "title": "Von „Nonnamaxxing“ bis KI: Jetzt neue VHS-Kurse buchen! - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTUNweF81WWRaMU9JeE9CY3NoZEtrMVc3WW0taGdQdVhab2g3NEc0SW5mOU51SmN2emxvc1BoWWpFNjJEQkZER21LWjJSSk9HaXNHN3B1d1BFZV9kYlJETjNmWU9rVjZpdWVoZFZvZnVMM2dEY0pJYVVLS21VQTRhUzRYVnBZUUJ4?oc=5",
-          "source": "5 Minuten",
-          "date": "1. Sep 2026"
+          "title": "Mit Drohne und KI gegen Weinkrankheiten - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPeElYWTY5YXgzSFlxcDBRY2FSU1lmcDNrVkVQT1BTMWZSS1lrREN1WkV2Sk9oV2MybGhkWnRPbkpDVDlGMVlaWVlHY1B6RnZSWGo2Ug?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "3. Sep 2026"
+        },
+        {
+          "title": "Heimische Kreativwirtschaft zeigt in Graz, was sie kann - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMFZGNzR1TVlSQnBHcnhodkN1WDNJRGZLTW1hbVZlMVdmX2R4SG1mcHpHMUdTY0o2dFRDc2M2VUlRbVU4bUo3YzVFMEJZNVB5WC16TmtaNmZFaHFGM1RtLXo4REZlbEN3N2lqQzZNRVByclFQUWc5SGF1WkNtc1haUVcxU2ZTcHlYS2Jn?oc=5",
+          "source": "wko.at",
+          "date": "8. Sep 2026"
         }
       ]
     }
