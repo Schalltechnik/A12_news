@@ -1,12 +1,12 @@
 {
-  "generated": "11. September 2026, 07:27 UTC",
+  "generated": "12. September 2026, 07:19 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Steiermark investiert massiv in ihre Infrastruktur mit über 50 Millionen Euro für Gasleitungen und 13 Millionen Euro für ein neues Umspannwerk, um die Versorgungssicherheit der Industrie zu gewährleisten und damit die wirtschaftliche Wettbewerbsfähigkeit zu stärken. Parallel dazu fördern Initiativen wie die Kreativwirtschaftskampagne und die verbesserte Kreditwürdigkeit (S&P-Ratingerhöhung) neue Wirtschaftszweige und schaffen ein positives Investitionsklima für Unternehmensansiedlungen in der Region.",
+      "summary": "Die steirische Wirtschaft konzentriert sich auf Infrastrukturinvestitionen im Energie- und Gasbereich mit 63 Millionen Euro für Leitungsprojekte in der Obersteiermark und Murau, während gleichzeitig Kreativwirtschaft, Handwerk und Berufsorientierung als Zukunftsschwerpunkte gestärkt werden. Trotz Herausforderungen wie Trockenheit in der Landwirtschaft und Rückzügen aus einzelnen Geschäftsfeldern zeigt sich die steirische Wirtschaft durch Vernetzung von Wirtschaft und Kultur sowie Neubesetzungen in Handwerksinnung aktiv in der Standortentwicklung.",
       "items": [
         {
           "title": "Kreativwirtschaft Steiermark - Gemeinsam Zukunft gestalten - wko.at",
@@ -15,10 +15,22 @@
           "date": "9. Sep 2026"
         },
         {
-          "title": "Steirische Sozialdemokratie: SPÖ startet Kampagne mit Fokus auf Gesundheit und Wirtschaft - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbjZKWEs1QWhqdGV2S01EcjJCZlZlUHFubjRjUlBOX2tvNkF2ZTVlRXA5LW94QUllNXBPc01Vcl9yZmlMRDhuOC1LWkdsdWYyc2xYU215cnNyanI4c2JuMUhFVDR1eUZhbHJkNUFkMEd5dkxZaFBwNzlxenZSRVFsd0dvWHpHN3hHSTBwQXZILUVNcmVrM2V6WkVMYjVabm5QVUhJOGZWT0pBcWVYdzczUjlpVGdqY1FL?oc=5",
-          "source": "MeinBezirk.at",
+          "title": "Innung der Maler: Franz Konrad übernimmt die Landesinnung in der Steiermark - MeinBezirk",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM3RHWnVxeHpQZHEyLU16YXdVTFZwTGdSMFF6UzlKcUo4bUV0U2U5cFJQeFdkNmNBb2VpcXV2aUlKdkxFVnROd1F4R2ZzSmM5MjIyS3BBcWlaa1pwNFJ1QUZYTVpLSDg3Vi1BVXRmM1p6dWE2R3I2V2cxM0hiNENKZjJ6cEdGcXh4anJEc2Y1eEpIUmFiMldaNkJCdEJia010NG1jZkdITWFDRFVTalZacU85THo3Zw?oc=5",
+          "source": "MeinBezirk",
+          "date": "11. Sep 2026"
+        },
+        {
+          "title": "Berufsorientierung wird nun zur Teamarbeit - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvenZNbTlrcExxcFMwLTlCSGFMOGF5NkVBSFdLTmNLX3NpQmlSUFJ0dWJLZWRlMkxmSGFTQUJjRVZwdWZjXzJEUjQxVjVCRl9vREVXUw?oc=5",
+          "source": "steiermark.ORF.at",
           "date": "7. Sep 2026"
+        },
+        {
+          "title": "Frisch, trocken, steirisch: Wenn Äpfeln das Wasser fehlt - Der Standard",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeURteGRUeW5LZEtQMHd5alZkMDAxZF93eFNneDBERVlKaGluQVB0V2RsVm1fVGFxMEd3TFVuc29DM2stRC1PaFpHUmxCY2puM3RzR0dFQjBCbkFXd21Ra3lqQWFRc3h3dS1zaTdhcXlsOWVObU15SlBRTlFXREFjd0lSSUlFZ1NVVTR2dU9jOFMtTV9QVjJpa3NpcGlwbl9rQlZj?oc=5",
+          "source": "Der Standard",
+          "date": "11. Sep 2026"
         },
         {
           "title": "Sinabelkirchen wurde Treffpunkt für Wirtschaft und Kultur - Kleine Zeitung",
@@ -33,12 +45,6 @@
           "date": "8. Sep 2026"
         },
         {
-          "title": "Projekt Südschiene: 50 Millionen Euro-Leitung sichert Versorgung der steirischen Industrie - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdWpEV1k4VGZkdVdQTkhMRjY3TF9IME9yOWNVRWxxb3B6VWVCSXlpUWk5a1JVN2MyQ1E2YzgyYjZiWXB3NXFsaUd1Q2N0UE1LeThDdU5DdUtJRk90RmowRGZTMndiSElwMDZrV1FaTDB4d1NkeGJSYWJtc1IzTTFJLU40MDVIbUJHYTd5N1k3blg3eTJlZTdqaXREUmlGOGc4U19ZZWJpS2wtOHc1dzZzRURBRWZtSldLZ1JkRW4yeUZqeGYyMjJRZXhuWjdqNTR5?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "9. Sep 2026"
-        },
-        {
           "title": "50 Millionen Euro für neue Gasleitung durch die Obersteiermark - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWVZtYjBpdmUteFc5UUpJN0RCU2FnU0tiWGg5NEdQS0otTWo4OURYMzM1QllrUzRzS2VpZmtkQlZON2pQSjhzVHJfV0FNNGlGaGloajhZaWxuamJ3WFIyR2wyWWRyNWxsRS15OTlMN2hZdWNNNzhqSFUyLWZNUHE4UnVKY3FMZk1zaDlZeWdRbXpRMlJ1S1hwUHBWYTFyLTFuTzBibUpxRGpKampTN1E?oc=5",
           "source": "Kleine Zeitung",
@@ -49,12 +55,6 @@
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOazJucXlBZ1cxZ095MjdmYy1qckJ1MEdrM2h5NE5tNVpMRS1JTEFKa1lrYm1DTG5qV01SMHoxZlE5eFRhYmNwdFkxSDBfMS1IQ0pVWVBiZnV5d2IyMTFBNVQzM0hWd3BoT0FpWm1OTFJVczBxd3hjS01EMlZvajhBN2YweV9pRl80YllxQlRLV0FlUnphTGM4UkZmOFdyMlhqa0xJRENDZGdwYUlHa2xsMA?oc=5",
           "source": "Kleine Zeitung",
           "date": "8. Sep 2026"
-        },
-        {
-          "title": "Kreditwürdigkeit der Steiermark: Ratingagentur S&P hebt Ausblick an - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUUQwaVdvVUYwaGlPOGpYbDZPZl83aDVSUjd3YUR3TDkzM0RvT25ObE1XQ09qQzAwTW15VGtONkVzYlUzMWNQNlg0NWlnQzR6M0xOdjlUZFN3Rl81UVY1MzZWRFFMeFdEQXBrZjd3QW1RNXdTWXhzTE45RXZ6YWxqZGJ0N3JMc2IySXNaYTFIZjh5VjByRERCM1YwdmxGT0VacjVRdG0wRE4yb2dnSXlTbjhYRThDbi1P?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "5. Sep 2026"
         }
       ]
     },
@@ -62,8 +62,20 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die steirische Tourismusbranche konzentriert sich auf die Vermarktung ihrer Weinregionen und Wintersportangebote, während die Führungsebene des oststeirischen Tourismus neu besetzt wurde. Abseits der touristischen Kernthemen zeigen die Meldungen, dass Urlaubserlebnisse auch gesellschaftliche Auswirkungen haben und regionale Tourismusgeschichten wie Rettungserlebnisse zur Imagebildung beitragen.",
+      "summary": "Die Steiermark verzeichnet aufgrund von Hitzeperioden verstärkte Nachfrage nach kühleren Ausflugszielen, wobei einzelne Attraktionen wie der höchste Wasserfall durch Unwetterschäden temporär gesperrt sind. Die Tourismusbranche setzt gleichzeitig auf Wintersportförderung und kontinuierliche Managemententwicklung, um die Wettbewerbsfähigkeit der Region zu sichern.",
       "items": [
+        {
+          "title": "Kühlere Ausflugsziele durch Hitze gefragter - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiUlpiU0pjdUs5V1RzN3NHbU9PVHM4SmFzZ3puTTJ5amdZLXUtSDlKS0EtTE1OTVNaWlBKaGVGdnFEWHpXMEM5XzlNeUdYWDhvMFVSZw?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "11. Sep 2026"
+        },
+        {
+          "title": "Höchster Wasserfall der Steiermark bleibt nach Unwettern gesperrt - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTVRvLWt4blRYY1h5Um5xcTc0Vmh3UVhtWjBjUEJOcTBlQTBfVjlrREVYODh6VnByVms5VTFwV0paVkpHV1U4OUo0NGRGWXBEU2hnc2VCbUQ4bnVtMVBNbWVsMy1VZ3pFSkl0cjhXRjlVUWpVOGR5NEtrR0REQmtOcWgxVUtCbjdILWdaaDRHTFJFRkVGb001S09XZk14UVE1ZHAtNTgyeVV4Q1VVYjFOWXp3?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "11. Sep 2026"
+        },
         {
           "title": "Schon jetzt Sturm und Kastanien in Weinregion - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GMnlIdEJTaDdES2VDcERWa2RMVlBVOERWZDNBa3I4aHJaOFZoUTZrOXM5R0FfR19kQmlkbmFLREFka0lILTV2ZzI4WUpIZzlPUHNXVw?oc=5",
@@ -83,22 +95,10 @@
           "date": "7. Sep 2026"
         },
         {
-          "title": "AK-SERVICE-TIPP - 6. Urlaubswoche: Wann habe ich Anspruch? - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE55VzBIVEVVZTQ1NXh1d1Z6bERKVkh3c0JiNWJvWVJ3TDl2UjNMRGNoYjZLblFEYW5qX1FLRTloLXlDZw?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "9. Sep 2026"
-        },
-        {
           "title": "Kinderbetreuung: Rund 2.000 Familien warten - ORF ON",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjV2c3I1X3o4blBFcUJVMHQ4UjZoSlBsclM0SFljYVpyckZHM3VSMTRyZ3pKM3NhRk40S1ZnampzSWFtNEVaVVh0d2lYS2NQczdMNlRsR0RKVzhsOFM4a01NcWc2UU01S2UzcmUwLWxEQ1FVZC11NjM5MzN0SG5ZSWNuRWlQaGVLSndNQkFwRU9meVZNSkpCYjBVNExHV1g5S2dKXzFKRGNqUm1tVDZlUWl0cw?oc=5",
           "source": "ORF ON",
           "date": "7. Sep 2026"
-        },
-        {
-          "title": "Drei Jahre Suche: Urlauber fand seinen steirischen Lebensretter - Kurier",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNUxLVUEzVjYwWDRiZU9YLWZoSUltMjhBQ1VNcmRVWnRqZDV5cDliMks1RVpoTURFUGNOOHloNlBiY1ZfSU43MkdfcFZfenNBb3NlZmxZRDRPZDF4QXlmUnhjWFdTdndNcHcxb0lNWUtacGFQNE10TWV2WE1OWUw4WGRwb19MVHlzMGFBRGcxdzd0aEU4bU9tYQ?oc=5",
-          "source": "Kurier",
-          "date": "8. Sep 2026"
         },
         {
           "title": "Wintersport-Elite im Grazer Sommertraining - steiermark.ORF.at",
@@ -108,7 +108,7 @@
         },
         {
           "title": "Wintersport-Elite trainiert für die kommende Saison - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWEzWmZDb25Oam10OW14eTFMRjd4NGdtMHp0ZFA5ODVTTDRMOENoVGFDQ25CN1NNMjZzRk1FNHhtMHBucE9Mai03a0EwNjlVX1B6MkNaVlRuT09Jb1YwdWFjd2Y5UzRqNEFkZzdTVjRYSU1VRnpxUlh2RVE2V2J4MFEzdWtjVzVWRHNZQTlBZndfN3QxZEUwVU9R?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQmlROVJTaVY4T3NON0lWY3Nwb1QxYTFXRVVQVGZLaHdXb1FHb3NibEw4N2ZhZHVhaWNfd3BUajd1MUNOdURSNmkxVUlENHhjN09JbVlVRlEzQjBnVUNVc2Zxa3IyWkNJcWFDbVM3cEFIOHd3ZWRQYVJUZjN4QVdoZFdLNkpXcHZyY0Y2WkRjQ3BvbVZ2VnAyNzVwTzZ1THhIYmpiOEVhcU1TaVQ0bGFGNnJpeUZuN09JTzk2aXRqY0lqZw?oc=5",
           "source": "ORF ON",
           "date": "8. Sep 2026"
         }
@@ -118,43 +118,19 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Steiermark etabliert sich als führender Forschungsstandort mit innovativen Projekten wie dem neuen Liquid Hydrogen Lab der HyCentA in Enns und bahnbrechenden medizinischen Entwicklungen gegen Krebs an der Med Uni Graz, während gleichzeitig die Universitäten und Fachhochschulen durch Veranstaltungen wie die Lange Nacht der Forschung und das Europäische Bildungsforum in Graz das Interesse an wissenschaftlicher Karriere und zukunftsorientierter Bildung fördern.",
+      "summary": "Die Universität Graz erforscht die Karrierewechsel von Berufserfahrenen in den Lehrberuf, während die Medizinische Universität Graz innovative Lichttherapien gegen Krebs entwickelt. Die FH Joanneum und weitere steirische Institutionen positionieren sich als Zentren für zukunftsorientierte Bildung und Kreativwirtschaft, indem sie europäische Foren mit Hunderten von Experten ausrichten.",
       "items": [
         {
-          "title": "Forschung der Uni Graz: Warum Berufserfahrene ins Klassenzimmer wechseln - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMHB6NXNmMGhacVRmMlFEZjdrY3JDMm5aalo3Nm1sRDVHX3lDbjlJeWJDbUJGT1NiS3lCa3JEanJVTndLTTBJbEpQQmJ1TVZKS01VcjhkMnd3eWhEUkJtM1FjU0ZYQVhKbHg2S2VkQmtsNW9SaHdmY2NlVEI3RERRNWM4VFh0aklvTk5WYW9tN09TdU5BMzFINDYzT05pLVJKVEtkRVRVVnlzTnUzdXo0bmhsLUVtUQ?oc=5",
-          "source": "MeinBezirk.at",
+          "title": "Forschung der Uni Graz: Warum Berufserfahrene ins Klassenzimmer wechseln - MeinBezirk",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ0twUjZvZzRJaFV5TlhUb1F5cGJjNGZNN2FfTUh5TmVkaTJ1eUp6bmRkU29WQ0daUklzZkk4cHlvb09hTXRLWDhxdXdIQTktZ2RCVlRIV2JiZml2em4yUlQxbnU3NjctczFGMmt4UzlOVDVnMjRlSE92dnd6bmwwSHNaTmQ0VFdDVk9PWnM1N1V0WGpDNDVPVE1nOTJuZ2RfODNkWnp3Yw?oc=5",
+          "source": "MeinBezirk",
           "date": "8. Sep 2026"
-        },
-        {
-          "title": "HyCentA investiert 6,6 Millionen Euro: Neues Liquid Hydrogen Lab für Flüssigwasserstoff-Forschung entsteht in Enns - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMnNCUHVHYUdUNTJ0TFhXMy1iTXFBSWs2Ym0xdlEzcWtPMkZmVHNib1hSM014SVdFX0xvUTZqZ1hocHB5SFN0Y3pkbDhJVjVpUFk3NUFLV05IaGlHS3pSN0xoWkREWlF5Y0RWNmVuOGN0WF9sd1VDbERVS21FdkpKMWt6T3hDbU1VSzNWbUNmcERjVE1lZ005SkZReVNKSDBxeEhqYVFCVWpta0huMS0xTkJmNWh2UVNVU2lISHNFLUcxd0JxSzQtVXhB?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "4. Sep 2026"
-        },
-        {
-          "title": "Med Uni Graz | Lange Nacht der Forschung - Medizinische Universität Graz",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YRmEyNW5waWVTYTBpVlJMRE1EcnFFNDJ3R0xNM1ZJbmlPNGNLeko5cjg2S3pmN0IzcHJtdGpEa2JzVG5nYUVlV3liOW1tazlfOVNwSC1IY2pNR1JpQ2I3c1FieGpGVmxuODdtX1hB?oc=5",
-          "source": "Medizinische Universität Graz",
-          "date": "10. Sep 2026"
         },
         {
           "title": "Licht gegen Krebs: Med Uni Graz entwickelt neue Therapie-Methode - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM3F0X21od01BVW82MXJMSFZCRHJ5eDB6dzJpUjBHN3lVdS1jbWxhbUN0dHZSTUZPNHFQaDF1UDRCV1d2Q281Wnk0eG4zbmFveGktQ3dpVHdwaHhLNGs4T3hYeVZ5X1V3MGk5MWRVMm5DWVdsV3NucFVocE1xdTZTeGVxTWtJZnMzNHEyYmVmOUtYOGFNaEgzeGVZMEFCMEUzcVFkOUdB?oc=5",
           "source": "5 Minuten",
           "date": "6. Sep 2026"
-        },
-        {
-          "title": "Grazer Physiker machen elektrisierende Erkenntnisse - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaUx3NTJTLWE0TUJZWW5TV1BGS3VZc0JzbVlta1lFbndCOWNYOHlTYmR0TUpjN25jdFBHTkRjdkRDX2o3QklWZk5FVnVsZmNyWjBUUjc4R0FET01WdjdUVWRDS1VuenNRSWRicFhrV3Uxd2xKcXhNZnZuZGk0RTl5eFUxYUpzWUFQaHZoUmR4MnZjXy1BNkEwRGxXZXhRdw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "4. Sep 2026"
-        },
-        {
-          "title": "Pflege: Studienplätze stark nachgefragt - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MMzA5bXFORk5xUWRXMDJzckVRN1pFQkNsWDVFNVZ2N1JOeGlSMThyczJzSTNCQldNYTVka2lyRlp6a3M3OW5FQXVoLVRfYXpQUlE2Sg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "7. Sep 2026"
         },
         {
           "title": "FH Joanneum: Europäisches Bildungsforum in Graz - austria.com",
@@ -167,6 +143,12 @@
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMmRmU1JCRVhOUk5nQzVTNy1WODhzMUZCckR2LWwxVWJfRG9LSnZmWVozMzRuX29qOHJKS1Q5Q2Q5TDU4UWpYanpERnBlNVpyRWIzWHl6Q3BRTzFRLXhKZmNOQTlzWEJOaC1Oam5FaHlWREhOZjh4U1lfdHBfdVI4c1dUSEEzNTBYS3U0Ui01bExXZl9DaG1pdHFZclF5dDJzOUJJ?oc=5",
           "source": "5 Minuten",
           "date": "9. Sep 2026"
+        },
+        {
+          "title": "Kreativwirtschaft Steiermark - Gemeinsam Zukunft gestalten - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5STmVRYV9KeTBZY3dBS2JoZDE0VU45bnVuTFlFTGlPWDlGaXc5eHg3bWh1LTJEVE01MnpEZjVhS3IzZDBzc3hRTGZPbktHeWszclh2U05SMzZCZDQzUnRSS3M3V1NPOUtl?oc=5",
+          "source": "wko.at",
+          "date": "9. Sep 2026"
         }
       ]
     },
@@ -174,43 +156,13 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark investiert gezielt in Bildungsförderung und EU-Bewusstsein durch die Bereitstellung von 80.000 Euro für Schulreisen zu europäischen Institutionen, während gleichzeitig bedeutende Forschungs- und Innovationsprojekte wie das neue Liquid Hydrogen Lab in Enns mit 6,6 Millionen Euro vorangetrieben werden. Diese Maßnahmen unterstreichen das Engagement des Landes für nachhaltige Entwicklung, Nachwuchsförderung und zukunftsorientierte Technologieforschung im Bereich der erneuerbaren Energien.",
+      "summary": "Die Steiermark intensiviert ihre Zusammenarbeit mit EU-Institutionen durch Schulreisen und Bildungsinitiativen, während aws und FFG mit ihrem Leitbild 2030 die österreichische Förderlandschaft strategisch neu ausrichten. Die Technology Talks Austria 2026 markieren den Startschuss für eine verstärkte Fokussierung auf Technologie- und Innovationsförderung in Österreich.",
       "items": [
-        {
-          "title": "Waldbrände des Hitzesommers 2026 rücken Holzwirtschaft in neues Licht - Belgieninfo",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcDd1U1NHc1FQOGdDRW9KQUxBU0FFM19JTFdPMXJtWHFWWmVqV3JNeXBTcUYyb1JfZXB1RktlUzFDemxhQlhhM2piVUFUd2tONThnRzQ1ZEN3djh1THIwdzFuZUptbm1IZ3JvMzZ1SFVGNHAtdzNHSzJpUVViUmpkOEhRNnFvNlZWbU9iMDFZdFJJeDF2ZDZNemJXb3U?oc=5",
-          "source": "Belgieninfo",
-          "date": "10. Sep 2026"
-        },
-        {
-          "title": "Steiermark stellt 80.000 Euro für EU-Schulreisen bereit - nachrichten.jetzt",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOckd3RjBSSE42VHllNHhkcDZGVXQyMGlTU0Y2bFFRUFpEX0djOXktUVU5NU54bjlNeGpuX2JPd25kNXlZdDZzckxDelNZTUlRRG40bXhiSU9sMmpwLWg5Z0tvMlF6b3JLajctWDBKZmRHdUxBS2FxT091S05KVXlnbjV5UFBuTjNKNGkxNzRKOEplanVYSGc?oc=5",
-          "source": "nachrichten.jetzt",
-          "date": "4. Sep 2026"
-        },
-        {
-          "title": "Land Steiermark fördert Schulreisen zu EU-Institutionen - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTjFGSnhPd1MxdTlpTWt6bThlZGlkaVZwR3ZPWVI4MzhEVjRHM1JSdmRnSnBPU2FSTlpxY0VfZi1YMVlhQWVrN2kwNWhpU3FQcC1sRTFGV3ljTGFuc3JkdXBmQWpER01fbWljczdMS0hQZlFIT0lEMzgtTjVfNjdsWlNhaUQwVDhpX3RBTm1mNUZvQ2hPZnVOcVNxTDJIbnNpZUVaTw?oc=5",
-          "source": "5 Minuten",
-          "date": "4. Sep 2026"
-        },
-        {
-          "title": "EU-Jugendschachturnier zieht nach fast 25 Jahren von Mureck nach Graz - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcWt1OUU1aHJCRUVZT2J4VEtKY2dTSk1wb1dnVUwyeW9IVl9VcHNfZzZuNVlrYW85YU9TN1p2QmxjbEEwTFAzWXZMdFRVYzRTaDUtSzJRWVh2cHZEWllRMll3Vmx5dFFCYnBsdFFnZ2JqN0g2WmFyOTk0Y2ZVRGVzZHA0M1FQTy1GcWs2NFI5MTBRZHZIX2FWLWN4SmlmZ0Y5Q0hUb0hiMjFweFB4TjZBbHlTNHdNNWRG?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "4. Sep 2026"
-        },
         {
           "title": "Steiermark: Mit dem Land Steiermark auf Schulreise zu den EU-Institutionen - Regionews.at",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdTVZcEo1X0N2VUtaaXQ3eVo2UXFRazY3Ym93V2hHeF95SmxfajdHUUV6TzNHUFBueDJxcjA5X0dqMnZGZWlIWW5UdnB6eWJxeWpxNUJMcERXSGNOLU9WZ2tQZmYxbzg2ay10WmRjVGVPQlBCRjE0ZVBwcDNpamQ3aklmRGltc2FRZFdmT0ZKc1pwLXRIdXlBUjVyRGRjc2ROT04xa0ViNGvSAawBQVVfeXFMTlRyS2hoeGhTdmRydHl0RVFaQzA3MW5STW1fcmFGUXNQYzVoSFlDaWhnUVRoZ3JaOWpFVlItWlBwMGxSMTRaeG90Z1J1aTJoUHhLcXdFclBVdC1MVkFiaEJJZXpfREYtMVFwRDhIX0FPd05LOC16LVA2Y2ZsdVo5U2ZrcUw5ZDJuWHVHa3hGLXhIWWp6TUxNMURvZnZ1czE0MVdFOWRsTlFnWWxnVw?oc=5",
           "source": "Regionews.at",
           "date": "5. Sep 2026"
-        },
-        {
-          "title": "HyCentA investiert 6,6 Millionen Euro: Neues Liquid Hydrogen Lab für Flüssigwasserstoff-Forschung entsteht in Enns - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMnNCUHVHYUdUNTJ0TFhXMy1iTXFBSWs2Ym0xdlEzcWtPMkZmVHNib1hSM014SVdFX0xvUTZqZ1hocHB5SFN0Y3pkbDhJVjVpUFk3NUFLV05IaGlHS3pSN0xoWkREWlF5Y0RWNmVuOGN0WF9sd1VDbERVS21FdkpKMWt6T3hDbU1VSzNWbUNmcERjVE1lZ005SkZReVNKSDBxeEhqYVFCVWpta0huMS0xTkJmNWh2UVNVU2lISHNFLUcxd0JxSzQtVXhB?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "4. Sep 2026"
         },
         {
           "title": "Förderagenturen: Leitbild 2030 für aws und FFG - austria.com",
@@ -230,25 +182,25 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die steirische Wirtschaft setzt verstärkt auf künstliche Intelligenz und digitale Transformation, wobei Bildungsangebote und Unternehmerveranstaltungen wie der EPU-Tag in Graz zeigen, dass KI, Social Media und moderne Vertriebsstrategien zunehmend in den Fokus rücken. Die Kreativwirtschaft etabliert sich dabei als innovativer Wirtschaftszweig, der durch Zusammenarbeit und digitale Kompetenzen die zukünftige Entwicklung der Steiermark prägt.",
+      "summary": "Die steirische Wirtschaft setzt verstärkt auf künstliche Intelligenz, wie das Beispiel der Grazer Ultraschall-Firma zeigt, während gleichzeitig Bildungsangebote und die Kreativwirtschaft die digitale Transformation vorantreiben. Damit positioniert sich die Steiermark als innovativer Technologiestandort, der traditionelle Industrie mit modernen KI-Lösungen und kreativen Ansätzen verbindet.",
       "items": [
         {
-          "title": "Künstliche Intelligenz: Wenn die KI Ihren Betrieb noch so beschreibt wie vor fünf Jahren - MeinBezirk.at",
+          "title": "Grazer Ultraschall-Firma setzt auf künstliche Intelligenz - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM013UzRaNl9UMmg1QzJZYmFuVVA1VjdlSS1TNTA0OWYzbGE3ekJiNmJZd1dTRGFZUTdoUTRwWXEwTFNJU0F6bmpYdjJvYWM2VDhicXJuU3FKa1FkWnBnMlBVTGFnWFZvOGxqNDlGT2pPeV94V0xxcUg3eUo2cEhGZGdCWVVuMmQ2ZFNmMWE1ZEhZVFU3NG8xU2lSR19wd3lBaEE?oc=5",
+          "source": "ORF ON",
+          "date": "11. Sep 2026"
+        },
+        {
+          "title": "Künstliche Intelligenz: Wenn die KI Ihren Betrieb noch so beschreibt wie vor fünf Jahren - MeinBezirk",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVDh1SEh1TWQtc0QzOVhYQVFEWUh6ZWRVbTFpeUVuT1FoRERFTXRoM3ZXUjJyRWVyb09JWHF3Ti1hYl9ZQzFOYm9YRWtURVFTa2FhYjJ2WFJzYU1IY0ZKbThtZ3Z0anQtSDdWc0FxOVBISFZsb0hwbjIyekFWd1Btbks2X2pCWE12MVp4Z0VPY2R1Z25WWHNVd0paSlhjWGEwWld2RDVJWXZwdmZZclc0cG9BbGhWZ2xvWi16RTNycTM2QTZuZUdvcA?oc=5",
-          "source": "MeinBezirk.at",
+          "source": "MeinBezirk",
           "date": "8. Sep 2026"
         },
         {
-          "title": "Von „Nonnamaxxing“ bis KI: Anmeldung für VHS-Kurse in der Steiermark startet - MeinBezirk.at",
+          "title": "Von „Nonnamaxxing“ bis KI: Anmeldung für VHS-Kurse in der Steiermark startet - MeinBezirk",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlNraTlqSzgzTVYwSDdGUGZTX3pJQ1J2YnVRNmUyUVRQbzdmZDZiUy1xbXd4SXppM2Qycy16Q04xTE1JTzBkc1A4akM0RHhVQTN1TGxtNmVDa1pvT3hCaktQYTRDVFlLMFJSbHdDV20xVWU4RG5xT2N1QS10QTVTV0xpcGxxT0FHT2dkTGxBY1B6bUF2QWV5QzhDWmdnTDVMWnVHVWRLS0xuUQ?oc=5",
-          "source": "MeinBezirk.at",
+          "source": "MeinBezirk",
           "date": "7. Sep 2026"
-        },
-        {
-          "title": "EPU-Tag in Graz: Mehr als 400 Unternehmer setzen auf Vertrieb, KI und Social Media - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeGRJc1dfcy1XcXRHVmN6U05KZnQyNWxTV0ZWLXNRdWNGZTlKQy0yenh6emQyZW5JZ0MyRXRTeGFPdFoxb3Iwak52NmJxVDJ4bk1rcEI5WjVYMDVKNFRTMWJmNGdLSjdGQy1pSU9WQVBtYXB2UkpmRlBRcUJnSHNNY1M4S0d4RGdDMlZ4Yl9ZOG9oX2FEUjdlNl9yQXVoQ2VxUGs1NTZyblBHblpTSXhxTXluMWNwRDZ2T1BZbTE2U2Z3c1lU?oc=5",
-          "source": "5 Minuten",
-          "date": "4. Sep 2026"
         },
         {
           "title": "Kreativwirtschaft Steiermark - Gemeinsam Zukunft gestalten - wko.at",
