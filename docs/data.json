@@ -1,12 +1,12 @@
 {
-  "generated": "13. September 2026, 07:38 UTC",
+  "generated": "14. September 2026, 08:05 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Steiermark setzt verstärkt auf Forschung, Innovation und Kreativwirtschaft als Säulen der wirtschaftlichen Zukunftsentwicklung, während gleichzeitig Herausforderungen wie Klimawandel in der Landwirtschaft und die Transformation der Energiewirtschaft bewältigt werden müssen. Berufsorientierung und Teamarbeit gewinnen an Bedeutung, um Fachkräfte für den Arbeitsmarkt zu qualifizieren und wirtschaftliche Stabilität in Regionen wie Sinabelkirchen zu fördern.",
+      "summary": "Die Steiermark setzt auf eine verstärkte Zusammenarbeit zwischen Wirtschaft, Kultur und Bildung, um ihre Wettbewerbsfähigkeit zu stärken, wie die Aktivitäten in der Kreativwirtschaft und der Berufsorientierung zeigen. Gleichzeitig bündeln etablierte Betriebe und Handwerksbranchen ihre Kräfte regional und überregional, etwa durch Branchenverbände und Kooperationen mit Kärnten im Bereich Mobilität und Verkehr.",
       "items": [
         {
           "title": "Wirtschaft und Standort - wko.at",
@@ -15,10 +15,10 @@
           "date": "12. Sep 2026"
         },
         {
-          "title": "Forschung, Technologie und Innovation - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oUzdQT1I0dW0tX0JWZFlCUXZxaTBuQTFhZWZtQjc0UW9ycUpRbmJNNk5nRlhhd1pGWEFGUkZJbTFET3JPenNCVGRZZ0dSNHhqemY3blZLZDVTalVYdkdkcnJORGdqTzlLVTRnc3NR?oc=5",
-          "source": "wko.at",
-          "date": "12. Sep 2026"
+          "title": "Innung der Maler: Franz Konrad übernimmt die Landesinnung in der Steiermark - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM3RHWnVxeHpQZHEyLU16YXdVTFZwTGdSMFF6UzlKcUo4bUV0U2U5cFJQeFdkNmNBb2VpcXV2aUlKdkxFVnROd1F4R2ZzSmM5MjIyS3BBcWlaa1pwNFJ1QUZYTVpLSDg3Vi1BVXRmM1p6dWE2R3I2V2cxM0hiNENKZjJ6cEdGcXh4anJEc2Y1eEpIUmFiMldaNkJCdEJia010NG1jZkdITWFDRFVTalZacU85THo3Zw?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "11. Sep 2026"
         },
         {
           "title": "Berufsorientierung wird nun zur Teamarbeit - steiermark.ORF.at",
@@ -27,16 +27,10 @@
           "date": "7. Sep 2026"
         },
         {
-          "title": "Steirische Sozialdemokratie: SPÖ startet Kampagne mit Fokus auf Gesundheit und Wirtschaft - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbjZKWEs1QWhqdGV2S01EcjJCZlZlUHFubjRjUlBOX2tvNkF2ZTVlRXA5LW94QUllNXBPc01Vcl9yZmlMRDhuOC1LWkdsdWYyc2xYU215cnNyanI4c2JuMUhFVDR1eUZhbHJkNUFkMEd5dkxZaFBwNzlxenZSRVFsd0dvWHpHN3hHSTBwQXZILUVNcmVrM2V6WkVMYjVabm5QVUhJOGZWT0pBcWVYdzczUjlpVGdqY1FL?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "7. Sep 2026"
-        },
-        {
-          "title": "Frisch, trocken, steirisch: Wenn Äpfeln das Wasser fehlt - Der Standard",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeURteGRUeW5LZEtQMHd5alZkMDAxZF93eFNneDBERVlKaGluQVB0V2RsVm1fVGFxMEd3TFVuc29DM2stRC1PaFpHUmxCY2puM3RzR0dFQjBCbkFXd21Ra3lqQWFRc3h3dS1zaTdhcXlsOWVObU15SlBRTlFXREFjd0lSSUlFZ1NVVTR2dU9jOFMtTV9QVjJpa3NpcGlwbl9rQlZj?oc=5",
-          "source": "Der Standard",
-          "date": "11. Sep 2026"
+          "title": "Kreativwirtschaft Steiermark - Gemeinsam Zukunft gestalten - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5STmVRYV9KeTBZY3dBS2JoZDE0VU45bnVuTFlFTGlPWDlGaXc5eHg3bWh1LTJEVE01MnpEZjVhS3IzZDBzc3hRTGZPbktHeWszclh2U05SMzZCZDQzUnRSS3M3V1NPOUtl?oc=5",
+          "source": "wko.at",
+          "date": "9. Sep 2026"
         },
         {
           "title": "Sinabelkirchen wurde Treffpunkt für Wirtschaft und Kultur - Kleine Zeitung",
@@ -45,16 +39,22 @@
           "date": "9. Sep 2026"
         },
         {
-          "title": "Kreativwirtschaft Steiermark - Gemeinsam Zukunft gestalten - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5STmVRYV9KeTBZY3dBS2JoZDE0VU45bnVuTFlFTGlPWDlGaXc5eHg3bWh1LTJEVE01MnpEZjVhS3IzZDBzc3hRTGZPbktHeWszclh2U05SMzZCZDQzUnRSS3M3V1NPOUtl?oc=5",
+          "title": "Wirtschaftspolitischer Beirat - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYS3MwRlZvUUVRM3dOZnNhMkZHaDhiOFlWQVFrbFdmXzdFQ0lveFZJY3JiZnJydFI5cHlzbUFOS3NSdWRuOHJMWmxxakFIS1NnSmJjMkVFRTJ6WVBoMml0RF9ZRUNFbnk3Y3c?oc=5",
           "source": "wko.at",
-          "date": "9. Sep 2026"
+          "date": "12. Sep 2026"
         },
         {
-          "title": "Energie Steiermark zieht bei Lade-App „elinx“ den Stecker - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeUtsYVZoWlFTR05sNGdSMl9ZRVpvZ2hXazdLNXJjaGk0cHlvd1FOa0tKSkpFaHZpLVM1RkJsdFJaLXhwUzRKeEFjQWdwT3RBcHNIc1doRDF5S2FYUGVDMFFZSF9ORDEyZlo5MVhIMVhsMkdJaHZseVZabDJrdUpBMzF4T053QnVrLVpSaHhTRFlKSFRHNmNZY1ZmRFk0TlB4VWp3?oc=5",
+          "title": "Malerbetrieb Galler und Autohaus Sternad feiern Firmenjubiläen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRTF3a2xjUUZBT1dtLWVGU0IxRjRtT3F6dzMyLWhVMUFNMUVhR0tMRGlNQnJmc0NoSkxaNC1hNW0tQUZwOWdTbHM1UjR4dUdjMl9xZ1l1S3FLSlNqMWgwVUctczNCMUtrY2JIUnk1QmtOejUzR3dyRkpreTc1RjVBZk9DWUlnckNTelV2N1JTZTNaU2FfdFY0Q0czWHhUbU13MDYtR29ZVWdpZEdjYXc?oc=5",
           "source": "Kleine Zeitung",
           "date": "8. Sep 2026"
+        },
+        {
+          "title": "Steiermark und Kärnten bündeln Kräfte bei Mobilität und Verkehr - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdWFFZEV3N0U4YW5UaHRFM0dOTDFYMmNrVFRhYlBxOUFwbnFxWE9IU2szYlB3b08wYW9DeXpIa2kxdFMwNGRRRWxvLVk0SFgtUFVoR05aVmtPS1F3Q1R0T05uVlFEd0VMVHZYYkpTbXlWVzhqbkVPTjJKREp6UG9vOWZQOHNYTWgzcTNRVGk5QnRUVTA1?oc=5",
+          "source": "wko.at",
+          "date": "11. Sep 2026"
         }
       ]
     },
@@ -62,25 +62,13 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark reagiert auf klimatische Veränderungen, indem kühlere Ausflugsziele an Attraktivität gewinnen und Seilbahnen kleinere Skigebiete gezielt stärken wollen, um die Wettbewerbsfähigkeit im Wintertourismus zu sichern. Gleichzeitig zeigen sich regionale Tourismusverantwortliche engagiert in der Weiterentwicklung der Tourismusstrategie, während Besonderheiten wie Weinregionen und Wintersportevents weiterhin wichtige Säulen der steirischen Tourismusförderung darstellen.",
+      "summary": "Die Steiermark verzeichnet durch klimatische Veränderungen eine verstärkte Nachfrage nach kühleren Ausflugszielen, während die Tourismusbranche mit etablierten Führungspersonen und Wintersportangeboten ihre Wettbewerbsfähigkeit ausbaut. Die touristischen Destinationen positionieren sich damit sowohl als Sommerziel für hitzegeplagte Besucher als auch als attraktiver Standort für Wintersportler und deren Trainingsaktivitäten.",
       "items": [
         {
           "title": "Kühlere Ausflugsziele durch Hitze gefragter - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiUlpiU0pjdUs5V1RzN3NHbU9PVHM4SmFzZ3puTTJ5amdZLXUtSDlKS0EtTE1OTVNaWlBKaGVGdnFEWHpXMEM5XzlNeUdYWDhvMFVSZw?oc=5",
           "source": "steiermark.ORF.at",
           "date": "11. Sep 2026"
-        },
-        {
-          "title": "Seilbahnen wollen kleinere Skigebiete stärken - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5VkVmc3FBamRQdjl1QzlfYjdTRHhGRGVzWXExMU1nT2xmWEdfS053UmZKS1dxcHA1UU9sUXBqN3hJaWdrRFBGcmlFN0ZjcV9ydTNsWA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "8. Sep 2026"
-        },
-        {
-          "title": "Schon jetzt Sturm und Kastanien in Weinregion - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GMnlIdEJTaDdES2VDcERWa2RMVlBVOERWZDNBa3I4aHJaOFZoUTZrOXM5R0FfR19kQmlkbmFLREFka0lILTV2ZzI4WUpIZzlPUHNXVw?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "6. Sep 2026"
         },
         {
           "title": "Er wurde wieder zum Geschäftsführer des oststeirischen Tourismus bestellt - Kleine Zeitung",
@@ -111,6 +99,12 @@
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0N1REc1ZxR0VrNi1KV3c5X0tVVzFseU4wUl9xamhZdEdHSmE4RXlRcWY5Z3VobV8zWEN5OTB6OE9kVVlDajNUNVNjMHFrc202UVRmRg?oc=5",
           "source": "steiermark.ORF.at",
           "date": "8. Sep 2026"
+        },
+        {
+          "title": "Wintersport-Elite trainiert für die kommende Saison - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQmlROVJTaVY4T3NON0lWY3Nwb1QxYTFXRVVQVGZLaHdXb1FHb3NibEw4N2ZhZHVhaWNfd3BUajd1MUNOdURSNmkxVUlENHhjN09JbVlVRlEzQjBnVUNVc2Zxa3IyWkNJcWFDbVM3cEFIOHd3ZWRQYVJUZjN4QVdoZFdLNkpXcHZyY0Y2WkRjQ3BvbVZ2VnAyNzVwTzZ1THhIYmpiOEVhcU1TaVQ0bGFGNnJpeUZuN09JTzk2aXRqY0lqZw?oc=5",
+          "source": "ORF ON",
+          "date": "8. Sep 2026"
         }
       ]
     },
@@ -118,7 +112,7 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Steiermark etabliert sich als innovativer Forschungsstandort mit Schwerpunkten in medizinischen Durchbrüchen wie der Lichttherapie gegen Krebs an der Med Uni Graz sowie in der Förderung von Forschung, Technologie und Kreativwirtschaft. Gleichzeitig positionieren sich steirische Hochschulen wie die Uni Graz und FH Joanneum als Zentren für zukunftsorientierte Bildung, wo internationale Experten über innovative Lehr- und Lernkonzepte diskutieren.",
+      "summary": "Die Steiermark positioniert sich als innovativer Forschungsstandort mit Schwerpunkten auf Technologie, Kreativwirtschaft und zukunftsorientierter Bildung, wie die Aktivitäten der Universität Graz und FH Joanneum zeigen. Durch internationale Foren und den Austausch von Experten werden neue Perspektiven auf Bildung und berufliche Übergänge entwickelt, um die wirtschaftliche und gesellschaftliche Zukunft der Region zu gestalten.",
       "items": [
         {
           "title": "Forschung, Technologie und Innovation - wko.at",
@@ -131,12 +125,6 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ0twUjZvZzRJaFV5TlhUb1F5cGJjNGZNN2FfTUh5TmVkaTJ1eUp6bmRkU29WQ0daUklzZkk4cHlvb09hTXRLWDhxdXdIQTktZ2RCVlRIV2JiZml2em4yUlQxbnU3NjctczFGMmt4UzlOVDVnMjRlSE92dnd6bmwwSHNaTmQ0VFdDVk9PWnM1N1V0WGpDNDVPVE1nOTJuZ2RfODNkWnp3Yw?oc=5",
           "source": "MeinBezirk.at",
           "date": "8. Sep 2026"
-        },
-        {
-          "title": "Licht gegen Krebs: Med Uni Graz entwickelt neue Therapie-Methode - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM3F0X21od01BVW82MXJMSFZCRHJ5eDB6dzJpUjBHN3lVdS1jbWxhbUN0dHZSTUZPNHFQaDF1UDRCV1d2Q281Wnk0eG4zbmFveGktQ3dpVHdwaHhLNGs4T3hYeVZ5X1V3MGk5MWRVMm5DWVdsV3NucFVocE1xdTZTeGVxTWtJZnMzNHEyYmVmOUtYOGFNaEgzeGVZMEFCMEUzcVFkOUdB?oc=5",
-          "source": "5 Minuten",
-          "date": "6. Sep 2026"
         },
         {
           "title": "FH Joanneum: Europäisches Bildungsforum in Graz - austria.com",
@@ -162,8 +150,14 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Die Förderagenturen aws und FFG haben ein gemeinsames Leitbild 2030 entwickelt, das ihre strategische Ausrichtung für die kommende Dekade definiert. Dieses Leitbild soll die österreichische Wirtschaftsförderung und Innovationsunterstützung stärker koordinieren und auf zukünftige Herausforderungen ausrichten.",
+      "summary": "Die Steiermark hinkt bei der Kinderbetreuungsinfrastruktur hinterher und wird diese Rückstände mittelfristig nicht aufholen können. Die österreichischen Förderagenturen aws und FFG haben sich mit ihrem Leitbild 2030 neue strategische Ziele für ihre Unterstützung von Unternehmen und Forschung gesetzt.",
       "items": [
+        {
+          "title": "Wieso die Steiermark Schlusslicht bei Kinderbetreuung bleiben wird - profil.at",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbV9WRVhuUkFRR0pYZ0NubVBJZndPTUF0SUR1QXpXUTBEZEpnMUotWlZlUjctbFNjeVVoc0xxZVZ4Uk1fbmJRWmduNlZ1R1dQN1R0TGJMaW5fbmpzeWE1TWROMDJZWVB2ejB1em9QcHRQdG5xR01EVGE0UTBlWUV5VFhMamVkT0V3aWVWbXdtS0p0N2RrbnNlb2lqQ3F0TlBJX0VCVkRWMXdKNTk5MVBR?oc=5",
+          "source": "profil.at",
+          "date": "12. Sep 2026"
+        },
         {
           "title": "Förderagenturen: Leitbild 2030 für aws und FFG - austria.com",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS3VCWDNheDRaVFQ1MVFZSTE4MmRlR0kwdWt1MjVEcXBOaE1fQW1tOWZIZ2tDUnc1QlNJOG9MNkxTRmZjQzU2TEIzRUJmY1VKWXVHb3N4U05CRjh4elZRN1BMbW9HZi1QY3FqSE9ERFJwWG1mUld2cWVOMThDSnByZnMxZXVubHJX?oc=5",
@@ -176,7 +170,7 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die steirische Wirtschaft und Gesellschaft setzen verstärkt auf künstliche Intelligenz als Transformationstreiber, wobei Unternehmen wie Grazer Ultraschall-Firmen innovative KI-Lösungen implementieren und gleichzeitig die Bevölkerung durch Bildungsangebote auf diese technologischen Veränderungen vorbereitet wird. Die heimische Kreativwirtschaft und der Forschungssektor positionieren sich dabei als zentrale Akteure, um durch Technologie und Innovation die wirtschaftliche Zukunft der Steiermark nachhaltig zu gestalten.",
+      "summary": "Die Steiermark positioniert sich als innovativer Technologiestandort, in dem künstliche Intelligenz zunehmend in etablierten Branchen wie der Medizintechnik Einzug hält und Unternehmen zur digitalen Transformation zwingt. Parallel dazu entwickelt sich die heimische Kreativwirtschaft als wichtiger Innovationstreiber, der gemeinsam mit Forschung und Technologie die wirtschaftliche Zukunft der Region gestaltet.",
       "items": [
         {
           "title": "Wie viel KI verträgt der Mensch? - steiermark.ORF.at",
@@ -195,12 +189,6 @@
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORko1SjJ2RlFoemdsekpzRVhjQWtSVFZ3WnpEaVVWRWJmOF91bjBVRkRHZ1NOS0RsbnRpNUZQVE1iRTJheGw4WFBTMVdkM3pHNlJkc1lqOUlMV0VxQnRORzd3eVhnOTZuM2NreXJZWlBQb1pPb041ZFAxVVRyX3FfeUwxTnBEVlBPckZMOVlnUUhYR3p6ZnJmNXo1WVNVaWtLQVJHV0tNTktMYUxjbTBEMjNiUm5RTEtDN2hnQ0x5c2lkN0FnV0hDM0hR?oc=5",
           "source": "ORF ON",
           "date": "11. Sep 2026"
-        },
-        {
-          "title": "Von „Nonnamaxxing“ bis KI: Anmeldung für VHS-Kurse in der Steiermark startet - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlNraTlqSzgzTVYwSDdGUGZTX3pJQ1J2YnVRNmUyUVRQbzdmZDZiUy1xbXd4SXppM2Qycy16Q04xTE1JTzBkc1A4akM0RHhVQTN1TGxtNmVDa1pvT3hCaktQYTRDVFlLMFJSbHdDV20xVWU4RG5xT2N1QS10QTVTV0xpcGxxT0FHT2dkTGxBY1B6bUF2QWV5QzhDWmdnTDVMWnVHVWRLS0xuUQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "7. Sep 2026"
         },
         {
           "title": "Forschung, Technologie und Innovation - wko.at",
