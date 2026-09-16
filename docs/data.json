@@ -1,24 +1,18 @@
 {
-  "generated": "15. September 2026, 08:00 UTC",
+  "generated": "16. September 2026, 07:53 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die steirische Wirtschaft konzentriert sich derzeit auf die strategische Neuausrichtung des Tourismussektors, wobei Landeshauptmann Kunasek einen Tourismusgipfel zur gemeinsamen Gestaltung der Zukunft initiiert hat, während gleichzeitig etablierte Unternehmen wie Energie Steiermark durch Kapitalerhöhungen ihr Wachstum vorantreiben. Daneben finden bedeutende Veränderungen in traditionellen Branchen statt, etwa bei der Berglandmilch mit einer anstehenden Fusion und in handwerklichen Bereichen wie der Malerbranche mit Führungswechseln.",
+      "summary": "Die steirische Wirtschaftspolitik konzentriert sich derzeit stark auf die Zukunftssicherung des Tourismussektors, wobei Landeshauptmann Kunasek einen Tourismusgipfel initiiert hat und Politik sowie Wirtschaftsverbände an gemeinsamen Strategien arbeiten. Parallel dazu werden infrastrukturelle Investitionen wie die Kapitalerhöhung der Energie Steiermark vorangetrieben und regionale Potenziale wie das Murtal als Tourismusdestination erschlossen.",
       "items": [
         {
           "title": "Politik und Wirtschaft berieten über die Zukunft des Tourismus - kommunal.at",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSTl6SEdGRm9kVXhuUGlTV2hkOG04Rk5Hb3JTSnRSV1BJaFM5SVZod0VnejJ4aEw3Q2lFTmZmeXNubFlwam01TGFWLWtaOGd3SWoySFo1RFN6SFZFalI0MVhJUVBseUJ4T0hoakllb3oyaDBNVWg3aXBONWtxM1prUG9XRWd3RlR4eHNz?oc=5",
           "source": "kommunal.at",
           "date": "15. Sep 2026"
-        },
-        {
-          "title": "LH Kunasek lud zum Tourismusgipfel: Gemeinsam die Zukunft des steirischen Tourismus gestalten - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwMklPZ0ktRWI0YXhpQzNNdVoxbDlnOGxYcldNMk1YZmMxQmgyQ3NQSUc3SXNIcWNPVW0xZ3VreDM1cnE5VXNFZUhzd2ZqSEU0QWpsZEJfSnFrcTZBeDlhaXNkRUdjbzZCSU1qQlhDRGFmOVVVRmM4NA?oc=5",
-          "source": "Kommunikation - Land Steiermark",
-          "date": "14. Sep 2026"
         },
         {
           "title": "Wirtschaft und Standort - wko.at",
@@ -27,34 +21,40 @@
           "date": "12. Sep 2026"
         },
         {
-          "title": "Berglandmilch: Unruhe vor Fusion in der Steiermark - Oberösterreichische Nachrichten",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVEpxYUlCd3RuVUZxVDdHWWlZb1RqUGtsaE9LOW95VFA4OENTMFNYUU9xOUJfOFlldjdjRHZ6RnJYRkl1RXRvRXFZN0RHX01jM2JNWUNhTmllckJxemtWZWo3aXlKRWZOaWdvanBaaVhweTQtcV8zdm9jVnk1NFdXLU51aUhKMHhtemRkRlVzNVhmaUUtYVBoQkJxQmlTXzQ5UUZV?oc=5",
-          "source": "Oberösterreichische Nachrichten",
+          "title": "LH Kunasek lud zum Tourismusgipfel: Gemeinsam die Zukunft des steirischen Tourismus gestalten - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KWVBXWmdFSkdhTTBCYWhadTlXSlJuSy1HR3FjWUVEMXhPV2lnb0JPbVVOZTVPWmxKMWJtc0VxSV90blgwLVhNcWN5Q0prSUJ0NzJkbFM3TUppZm5wSExRQWdKbHhrQXlxbnlibGNYOA?oc=5",
+          "source": "Land Steiermark News Portal",
+          "date": "14. Sep 2026"
+        },
+        {
+          "title": "Steiermark und Kärnten beraten in Graz über gemeinsame politische Vorhaben - Mein Klagenfurt",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaDlRb19VT3A0dHhtbWFQdXVGck5pRlhsUW9Ud1RnbHVxR0J5NHZQSGRVbkVjYWxhZVh4ZTIzWFpZU090R1E1Sm9ZcUhJWFpUR1ozcldmZElqek1TcTFxbHhlaWlWUzFpWHhNaWtRdjI2eTBnTlFYT2lkT041WVVhZnBMUGs2ckVJMVNPczU4NUJOT3prdzhxbjA0RjdVM3lYWDlwaGZGU1lhN3NMUkZoOE9JaWszWDJUb3VneTNRSkJXUm5HM19nYlZQaDBMODVKTFc4aXpscE82bDF6aGN0TS0tYmFKY3ctWDZacDR1TWgzLVhGR0E?oc=5",
+          "source": "Mein Klagenfurt",
           "date": "15. Sep 2026"
         },
         {
-          "title": "Vor 40 Jahren war sie die jüngste Unternehmerin der Steiermark - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXQ1UlRKbUJxd0xUdnJiSTd4YzdQbGhTM2x2NnJyVjRDeFUxQmNLZDdfRnludU11VWtpTllkc0l5cjlidElsU1RSMVQ0VXJQdU9ZNkZwY2xsUmtIMmxtMVRMaGx2Y2diZEdWaGJVa0QzbzZDVkRSOWdKRlZZc2NLdmFtamdFelByX0RVQXR5eWhOMGFDb2V2WDRESkhYRHNpY2Y1UXROUXlQLWhsRkE?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "14. Sep 2026"
-        },
-        {
-          "title": "Aktien: Energie Steiermark will mehr Kapital - steiermark.ORF.at",
+          "title": "Aktien: Energie Steiermark will mehr Kapital - steiermark.orf.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoREdKNEdFbmFRQW5pLTl0enh6aWhPSWFqMHVhbERkNjVPZjRqVzNrcV9na3Z2d0NxeDZqWWg5dVc1N2kwcy1kZFRGMXVpV3Z0bkhONQ?oc=5",
-          "source": "steiermark.ORF.at",
+          "source": "steiermark.orf.at",
           "date": "14. Sep 2026"
         },
         {
-          "title": "Energie Steiermark plant Kapitalerhöhung mit Wachstumspartner - nachrichten.jetzt",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTXU1VGhUYmtPNkY0TkhSRExIeFRBLWJDNzVvd1FGN29WRDVKTFNxWVFLYTNxLXhWeTdBV2QxbHBrS08yYkJ0cWJXdmd2Y0ZXcEJIMXpWUGdpcE5kb0FGOEpKUWJVMmduMmZJT2Z0OUJBWEtCLVM0ZVlqRVhFYnhRTTVzS19pN2JfQkR1VGpDY181Z08wSWotdEZwWnU2Zw?oc=5",
-          "source": "nachrichten.jetzt",
-          "date": "14. Sep 2026"
+          "title": "Tourismus abseits des Rings: „Das Murtal ist ein Geheimtipp mit Wow-Effekt“ - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNUlDdWtUcy16ak1UTHBpaW5LRXdFZ0RzQ0F5UzZKX2Jaa1VCTGhkS3ByWFBZclI3VmRWMTctdEtjN0ZBNXZxMkNnQWYtNDQxdkdZVERUYjJVWGZ0Y1NvZ0hiRUl3TUtzY1AzTG1LT0dwS2hfUTF4alJMeEU4TnBSUktBX0hXaWMwZzVXQUlsVlhCbkN0Z0N5YmpPdFhEWGwwSXlHOVNHdFFqU1phSUxjMw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "15. Sep 2026"
         },
         {
-          "title": "Innung der Maler: Franz Konrad übernimmt die Landesinnung in der Steiermark - meinbezirk.at",
+          "title": "Innung der Maler: Franz Konrad übernimmt die Landesinnung in der Steiermark - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM3RHWnVxeHpQZHEyLU16YXdVTFZwTGdSMFF6UzlKcUo4bUV0U2U5cFJQeFdkNmNBb2VpcXV2aUlKdkxFVnROd1F4R2ZzSmM5MjIyS3BBcWlaa1pwNFJ1QUZYTVpLSDg3Vi1BVXRmM1p6dWE2R3I2V2cxM0hiNENKZjJ6cEdGcXh4anJEc2Y1eEpIUmFiMldaNkJCdEJia010NG1jZkdITWFDRFVTalZacU85THo3Zw?oc=5",
-          "source": "meinbezirk.at",
+          "source": "MeinBezirk.at",
           "date": "11. Sep 2026"
+        },
+        {
+          "title": "Wirtschaftspolitischer Beirat - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYS3MwRlZvUUVRM3dOZnNhMkZHaDhiOFlWQVFrbFdmXzdFQ0lveFZJY3JiZnJydFI5cHlzbUFOS3NSdWRuOHJMWmxxakFIS1NnSmJjMkVFRTJ6WVBoMml0RF9ZRUNFbnk3Y3c?oc=5",
+          "source": "wko.at",
+          "date": "12. Sep 2026"
         }
       ]
     },
@@ -62,12 +62,18 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark hat auf einem Tourismus-Gipfel neue Strategien zur Qualitätsoffensive und Erschließung neuer Märkte entwickelt, wobei Politik und Wirtschaft gemeinsam an der Zukunft des Tourismus arbeiten. Mit einer Investition von 5,5 Millionen Euro in die steirische Hotellerie wird die Qualitätsverbesserung des Tourismusangebots vorangetrieben.",
+      "summary": "Die Steiermark hat unter Führung von Landeshauptmann Kunasek einen Tourismusgipfel einberufen, auf dem Politik und Wirtschaft gemeinsam neue Strategien zur Neuausrichtung des Tourismus nach Rekordjahren entwickelt haben. Dabei stehen neben der Förderung von Fachkräften in der Hotellerie und Gastronomie auch Investitionen von 5,5 Millionen Euro zur Stärkung des steirischen Tourismussektors im Fokus.",
       "items": [
         {
-          "title": "Tourismus-Gipfel: Neue Strategien geplant - steiermark.ORF.at",
+          "title": "Tourismus-Gipfel: Neue Strategien geplant - steiermark.orf.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yQjlCWnVWYTJkbXI4MjkxRFBjUHNsRzNDUGVyM25ZTzJ1bHd2eHRSdFRUOHpISEpJMFJUbDFGYkZKYVZXZDA5eS1GSFJvOUFTV3NwMg?oc=5",
-          "source": "steiermark.ORF.at",
+          "source": "steiermark.orf.at",
+          "date": "14. Sep 2026"
+        },
+        {
+          "title": "LH Kunasek lud zum Tourismusgipfel: Gemeinsam die Zukunft des steirischen Tourismus gestalten - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KWVBXWmdFSkdhTTBCYWhadTlXSlJuSy1HR3FjWUVEMXhPV2lnb0JPbVVOZTVPWmxKMWJtc0VxSV90blgwLVhNcWN5Q0prSUJ0NzJkbFM3TUppZm5wSExRQWdKbHhrQXlxbnlibGNYOA?oc=5",
+          "source": "Land Steiermark News Portal",
           "date": "14. Sep 2026"
         },
         {
@@ -77,15 +83,9 @@
           "date": "15. Sep 2026"
         },
         {
-          "title": "Tourismusgipfel: Steiermark setzt auf Qualitätsoffensive und neue Märkte - meinbezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDhaSHZUU1JBQkFrczJEWHp6ZUIyQWVvRFB2R2JDU3I2T2tpRzRmQmZ0V3R6TmVPUFRudEgwUVJBLUJfMVBaTTdnZGgwSEphNmZYY1piMXJ0SGhWeUxpQWJ6SldPRk53dS1PblIyY0JyM2xGR0V4cDZINUNWTktTdkFHM2MwX0pyYWh6M1hRMi1QUjlsSTNFaEExX3B6RXF6RHNCR2xyM3M1UG9DaEttRHhKRQ?oc=5",
-          "source": "meinbezirk.at",
-          "date": "15. Sep 2026"
-        },
-        {
-          "title": "5,5 Millionen Euro für die steirische Hotellerie - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWEpiWWFrLW1CdUcxWkxZdDg5ZjMxcWZxLWJBbkNrR2lvSlQzRDFxUy03QTJ3bGRuQV9Xb29WMThnaU00Rmkxd2ltZlVraDN5Yk1kdWVGbEljWG80Y3hwNU9mU2ZsZi1SSlNReGFkZlVBUHRTaC1RNlgyYWw2amVlR1FxWWk3VFQtc1dZRS1DYkxFQTRZNXNTQXN3?oc=5",
-          "source": "5 Minuten",
+          "title": "Lehre neu gedacht: So fördern Top-Betriebe junge Talente im Tourismus - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbFNsZmR2ckFvOXNiR2czRFBhX2xNclNNNUtPcHZXMXhKVmgzVjVCeFRjUFNXSHVLOVUtTXM4eXNLdnJ0bGpiRFYwWDdzWGpCODI2Tm5NencxS041QWxiRTV2ZTAtaXlqbE5sQXB6SGV0eFBXWFFJRElCVV9nTTB2RGgzUUpEeDJDMng5R2UyZlc2U2FsNUtLekVSUUduRzhVNFFITkd3UQ?oc=5",
+          "source": "MeinBezirk.at",
           "date": "15. Sep 2026"
         },
         {
@@ -95,22 +95,22 @@
           "date": "14. Sep 2026"
         },
         {
-          "title": "Steiermark heute vom 14.09.2026 - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KS2JZUFNvRi1kZnVOMzBPT0dfR2IwUW53YmIxN010QTQwbnJqV2o1M3UyZDFQS2JGclMtaHI4U3ZvRWJFSy0zLWVNVUxGVHY2TjRGOFZYY3pZZDhrMFJqWnR0eWlxclAzZzRoSmU4dw?oc=5",
+          "title": "5,5 Millionen Euro für die steirische Hotellerie - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWEpiWWFrLW1CdUcxWkxZdDg5ZjMxcWZxLWJBbkNrR2lvSlQzRDFxUy03QTJ3bGRuQV9Xb29WMThnaU00Rmkxd2ltZlVraDN5Yk1kdWVGbEljWG80Y3hwNU9mU2ZsZi1SSlNReGFkZlVBUHRTaC1RNlgyYWw2amVlR1FxWWk3VFQtc1dZRS1DYkxFQTRZNXNTQXN3?oc=5",
+          "source": "5 Minuten",
+          "date": "15. Sep 2026"
+        },
+        {
+          "title": "Nach Rekordjahren: Steiermark richtet Tourismus neu aus - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObVNHV05PbFhIYjBOUy03YU9lRVVfRUFQZmxSblVMRjRDUmxVeExFTGlqa3FQZmlWdmR3U2dhN1l6aWpzSG9qdUNVOGZwWmpIaDVxM0ZrRXVVUFBQY0xxNjFCTW40bDlOX1IzNjdhcUF6MERmX1Q5YngwbjRncWhQXzhlQUZjSVRIS0V2NVl0M1pjbDFpcXRzMmlnUUw?oc=5",
           "source": "ORF ON",
           "date": "14. Sep 2026"
         },
         {
-          "title": "»Allianz der 10«-Treffen: Führende Köpfe der österreichischen Tourismusbranche diskutierten in Schladming - Falstaff",
+          "title": "»Allianz der 10«-Treffen: Führende Köpfe der österreichischen Tourismusbranche diskutierten in Schladming - falstaff.com",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQWdEcDRaQ3kzWGMxa2ozOEhIRFNGc0pKZWdZdDRPRGdUczJpeWFSRmhDdGh2N2FMS053YW9lQ1F6LVo1UmQwNnJPdDdUTm1jMnplMVV3cGp2MTdNUXpRY2U2UmNINU1FTTFzLTlodTh0YjdyNTNVNlJueWJ2bURRdlRSdTU4X2tSSGdWaDROanI2T21YNzVJUEdoS0RrQ2pESkVmdHp6dVJxWnRaZHBLUE1PaVo5ZjhmWkNDUkl1Y1dCbHVBSXdqOGhKcnk1UW5aa05pdw?oc=5",
-          "source": "Falstaff",
+          "source": "falstaff.com",
           "date": "15. Sep 2026"
-        },
-        {
-          "title": "Graz: 5,5 Millionen Euro für Qualität in der Hotellerie - nachrichten.jetzt",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVTRsOURKemwtSEZxOV93dXpjVnFZSkF2TEZwTFhNRUt2bEVYMWxTdWFDdkVsUEg3QjdkRkhaRGd6WVhQNXUxUmpkVzBPM1FMZmlQUFpWSFN0blVMU1RTdVRsQVBkWWxDcVpXVVlIeVJDZldud2xrSEVsLWl2aHZFQkNMcmRocUNpUDBnNzB5Sl90WDQx?oc=5",
-          "source": "nachrichten.jetzt",
-          "date": "14. Sep 2026"
         }
       ]
     },
@@ -118,19 +118,13 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Steiermark positioniert sich als innovativer Forschungsstandort, wobei Universitäten wie die Uni Graz und die FH Joanneum durch Projekte zur Berufsbildung und internationale Foren zur Zukunftsgestaltung beitragen. Die Kreativwirtschaft und Forschungsförderung bilden dabei zentrale Säulen für die nachhaltige Entwicklung der Region.",
+      "summary": "Die Steiermark positioniert sich als innovativer Forschungs- und Bildungsstandort, wie das Europäische Bildungsforum an der FH Joanneum mit 400 Experten zur Zukunftsgestaltung zeigt. Dabei spielen Forschung, Technologie und die kreative Wirtschaft zentrale Rollen für die regionale Innovationsförderung und Wertschöpfung.",
       "items": [
         {
           "title": "Forschung, Technologie und Innovation - wko.at",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oUzdQT1I0dW0tX0JWZFlCUXZxaTBuQTFhZWZtQjc0UW9ycUpRbmJNNk5nRlhhd1pGWEFGUkZJbTFET3JPenNCVGRZZ0dSNHhqemY3blZLZDVTalVYdkdkcnJORGdqTzlLVTRnc3NR?oc=5",
           "source": "wko.at",
           "date": "12. Sep 2026"
-        },
-        {
-          "title": "Forschung der Uni Graz: Warum Berufserfahrene ins Klassenzimmer wechseln - meinbezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ0twUjZvZzRJaFV5TlhUb1F5cGJjNGZNN2FfTUh5TmVkaTJ1eUp6bmRkU29WQ0daUklzZkk4cHlvb09hTXRLWDhxdXdIQTktZ2RCVlRIV2JiZml2em4yUlQxbnU3NjctczFGMmt4UzlOVDVnMjRlSE92dnd6bmwwSHNaTmQ0VFdDVk9PWnM1N1V0WGpDNDVPVE1nOTJuZ2RfODNkWnp3Yw?oc=5",
-          "source": "meinbezirk.at",
-          "date": "8. Sep 2026"
         },
         {
           "title": "FH Joanneum: Europäisches Bildungsforum in Graz - austria.com",
@@ -156,19 +150,19 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark hinkt bei der Kinderbetreuungsinfrastruktur hinterher und wird diese Rückstände mittelfristig nicht aufholen können. Die österreichischen Förderagenturen aws und FFG haben sich mit ihrem Leitbild 2030 neue strategische Ziele für die Wirtschafts- und Forschungsförderung gesetzt.",
+      "summary": "Die Waldbrände des Hitzesommers 2026 haben die Bedeutung der steirischen Holzwirtschaft neu bewertet und eröffnen möglicherweise neue Förderungsperspektiven für nachhaltige Forstwirtschaft und Holzverarbeitung. Die mangelnde Investition in Kinderbetreuungsinfrastruktur in der Steiermark deutet auf Defizite bei der Nutzung von EU-Fördermitteln und regionalen Wirtschaftsförderungsprogrammen hin.",
       "items": [
+        {
+          "title": "Waldbrände des Hitzesommers 2026 rücken Holzwirtschaft in neues Licht - Belgieninfo",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcDd1U1NHc1FQOGdDRW9KQUxBU0FFM19JTFdPMXJtWHFWWmVqV3JNeXBTcUYyb1JfZXB1RktlUzFDemxhQlhhM2piVUFUd2tONThnRzQ1ZEN3djh1THIwdzFuZUptbm1IZ3JvMzZ1SFVGNHAtdzNHSzJpUVViUmpkOEhRNnFvNlZWbU9iMDFZdFJJeDF2ZDZNemJXb3U?oc=5",
+          "source": "Belgieninfo",
+          "date": "10. Sep 2026"
+        },
         {
           "title": "Wieso die Steiermark Schlusslicht bei Kinderbetreuung bleiben wird - profil.at",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbV9WRVhuUkFRR0pYZ0NubVBJZndPTUF0SUR1QXpXUTBEZEpnMUotWlZlUjctbFNjeVVoc0xxZVZ4Uk1fbmJRWmduNlZ1R1dQN1R0TGJMaW5fbmpzeWE1TWROMDJZWVB2ejB1em9QcHRQdG5xR01EVGE0UTBlWUV5VFhMamVkT0V3aWVWbXdtS0p0N2RrbnNlb2lqQ3F0TlBJX0VCVkRWMXdKNTk5MVBR?oc=5",
           "source": "profil.at",
           "date": "12. Sep 2026"
-        },
-        {
-          "title": "Förderagenturen: Leitbild 2030 für aws und FFG - austria.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS3VCWDNheDRaVFQ1MVFZSTE4MmRlR0kwdWt1MjVEcXBOaE1fQW1tOWZIZ2tDUnc1QlNJOG9MNkxTRmZjQzU2TEIzRUJmY1VKWXVHb3N4U05CRjh4elZRN1BMbW9HZi1QY3FqSE9ERFJwWG1mUld2cWVOMThDSnByZnMxZXVubHJX?oc=5",
-          "source": "austria.com",
-          "date": "8. Sep 2026"
         }
       ]
     },
@@ -176,17 +170,17 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark positioniert sich durch einen Tourismusgipfel zur Qualitätsoffensive und Erschließung neuer Märkte neu, während gleichzeitig Forschung, Technologie und Innovation sowie die Kreativwirtschaft als Zukunftstreiber gestärkt werden. Dabei spielen künstliche Intelligenz und deren verantwortungsvoller Einsatz – wie bei der Grazer Ultraschall-Firma – eine zentrale Rolle für die digitale Transformation der Region.",
+      "summary": "Die Steiermark treibt ihre digitale Transformation durch gezielt eingesetzte künstliche Intelligenz in Schlüsselbranchen wie dem Tourismus und der Medizintechnik voran, während gleichzeitig Fragen zur ethischen Verträglichkeit von KI-Systemen in der Gesellschaft diskutiert werden. Durch Tourismusgipfel, Forschungskooperationen und technologische Innovationen positioniert sich die Region als moderner Wirtschaftsstandort, der Qualität und zukunftsorientierte Lösungen in den Fokus rückt.",
       "items": [
         {
-          "title": "Tourismusgipfel: Steiermark setzt auf Qualitätsoffensive und neue Märkte - meinbezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDhaSHZUU1JBQkFrczJEWHp6ZUIyQWVvRFB2R2JDU3I2T2tpRzRmQmZ0V3R6TmVPUFRudEgwUVJBLUJfMVBaTTdnZGgwSEphNmZYY1piMXJ0SGhWeUxpQWJ6SldPRk53dS1PblIyY0JyM2xGR0V4cDZINUNWTktTdkFHM2MwX0pyYWh6M1hRMi1QUjlsSTNFaEExX3B6RXF6RHNCR2xyM3M1UG9DaEttRHhKRQ?oc=5",
-          "source": "meinbezirk.at",
+          "title": "Tourismusgipfel: Steiermark setzt auf Qualitätsoffensive und neue Märkte - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUXl1b0xKelBqUWl6LXNpc1dMZWRRVlFUeGRKaDl0RDNrQkc0a2tyMlc2cjJrVk9zclltREZ4Q09oVkx2dTZEMmRIbDU4VWNmZ2dpODJ2VEhJRWx0OXBrMjRaS0d2aWpVWDd1MDExcjduVFloWFVWY2owVDcxamQxRmV1WlU1dHFxVHBJZHVkVzRmeWNzM29BNEI2b3FaTzJKckNRSDZJc2hMUEVnaTRNaGItQTkxVlNPWFBmaHBwVkZhZw?oc=5",
+          "source": "MeinBezirk.at",
           "date": "15. Sep 2026"
         },
         {
           "title": "LH Kunasek lud zum Tourismusgipfel: Gemeinsam die Zukunft des steirischen Tourismus gestalten - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BUk4tYklvUy03ZDdwODEwUHdtdER6NEk3SVZ2cEFaM1prVUhXR0ZzR3NvRnAwcnVsSHJudWZibDhzUmg2cjhXVmN3bWY3VWxySzJLamVVS0JEVXIzVjZkYXJIZXM3dGstN3NLbWZXMA?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KWVBXWmdFSkdhTTBCYWhadTlXSlJuSy1HR3FjWUVEMXhPV2lnb0JPbVVOZTVPWmxKMWJtc0VxSV90blgwLVhNcWN5Q0prSUJ0NzJkbFM3TUppZm5wSExRQWdKbHhrQXlxbnlibGNYOA?oc=5",
           "source": "Land Steiermark News Portal",
           "date": "14. Sep 2026"
         },
@@ -203,9 +197,9 @@
           "date": "15. Sep 2026"
         },
         {
-          "title": "Wie viel KI verträgt der Mensch? - steiermark.ORF.at",
+          "title": "Wie viel KI verträgt der Mensch? - steiermark.orf.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iZHQwS1ptOWszaVRQS3o4MVNDQ1hmSzVZOWhITnpBWjBOX0tZSTVqS1QtYWR0ODBBcGNHTk44cUNRRFRtX0lidF94N1QxdTBlUG5MUw?oc=5",
-          "source": "steiermark.ORF.at",
+          "source": "steiermark.orf.at",
           "date": "12. Sep 2026"
         },
         {
@@ -215,16 +209,16 @@
           "date": "11. Sep 2026"
         },
         {
+          "title": "Erstmals Alarmsystem und Berufsvorbereitung an Grazer Schulen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSGk5al90dkVtNmRvdDRZTW5hRDVNYnQzRXdZX0pCTnpiRkgwb0FHek5ib0ViTXVVTUZRYnd3WVBUQmhTSVJTcGhLQ1B3U2FhWWJtenFYajdnOVFxVVJteVhqWG8weDFkZVJOVUFDcl90NU1hWGhoWE9mQmItbmNLc0pBU1BsQng1UHFsWGpJR1JlQWx1d0kteVlEcGJWN2NHYWF0Xzdpb3hFelE?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "14. Sep 2026"
+        },
+        {
           "title": "Forschung, Technologie und Innovation - wko.at",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oUzdQT1I0dW0tX0JWZFlCUXZxaTBuQTFhZWZtQjc0UW9ycUpRbmJNNk5nRlhhd1pGWEFGUkZJbTFET3JPenNCVGRZZ0dSNHhqemY3blZLZDVTalVYdkdkcnJORGdqTzlLVTRnc3NR?oc=5",
           "source": "wko.at",
           "date": "12. Sep 2026"
-        },
-        {
-          "title": "Kreativwirtschaft Steiermark - Gemeinsam Zukunft gestalten - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5STmVRYV9KeTBZY3dBS2JoZDE0VU45bnVuTFlFTGlPWDlGaXc5eHg3bWh1LTJEVE01MnpEZjVhS3IzZDBzc3hRTGZPbktHeWszclh2U05SMzZCZDQzUnRSS3M3V1NPOUtl?oc=5",
-          "source": "wko.at",
-          "date": "9. Sep 2026"
         }
       ]
     }
