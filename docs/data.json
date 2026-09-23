@@ -1,24 +1,30 @@
 {
-  "generated": "22. September 2026, 07:55 UTC",
+  "generated": "23. September 2026, 07:56 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Steiermark verzeichnet positive Entwicklungen in der Wirtschaftspolitik mit der Umsetzung der AREA Süd-Initiative zur grenzüberschreitenden Zusammenarbeit mit Kärnten sowie der Anerkennung weiblicher Unternehmertätigkeit, während gleichzeitig Herausforderungen wie Personalwechsel bei großen Konzernen und Forderungen nach staatlichen Unterstützungsmaßnahmen für Unternehmen die aktuelle Lage prägen. Lokale Wirtschaftsfaktoren wie der Maxlaunmarkt zeigen das Potenzial regionaler Initiativen, während strategische Energiepartnerschaften und Treibstoffkostenentlastungen zentrale Themen der wirtschaftspolitischen Debatte darstellen.",
+      "summary": "Die Steiermark zeigt Stärke in Unternehmertum und Fachkräfteentwicklung, wie die Auszeichnung von Unternehmerinnen und der Staatsmeistertitel eines Lehrlings im Straßenerhaltungsdienst belegen, während gleichzeitig Infrastrukturprojekte wie die Koralmbahn und die geplante AREA Süd die wirtschaftliche Standortentwicklung vorantreiben. Die Wirtschaftskammer fordert allerdings verstärkte Unterstützungsmaßnahmen wie eine Treibstoff-Rückerstattung, um die Wettbewerbsfähigkeit der steirischen Betriebe angesichts energiewirtschaftlicher Veränderungen zu sichern.",
       "items": [
         {
-          "title": "Neue Studie belegt: Der Maxlaunmarkt ist ein echter Wirtschaftsfaktor - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSHpIZGN0NC1VT3hSWTF1aVBHMjFiYkNhZ3RjLWxLTlNFZlJHR2l3QlJHNTBtZWpCUFF6Y1F6UVdCTDhQRVd2VEpuZVc1S1NYVjNYbllTbzg1ZDk0azNwY0tubHVqSTVsa2lpb2U5QUQ5dTVsOGlaNHVfQmtWV05OUlRkTk5zRnNZcWVtOC13MWktV1dfaXMwWGozWjF3ZzN0dE5LaTZB?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "22. Sep 2026"
+          "title": "Das sind die steirischen „Unternehmerinnen des Jahres“ - Wirtschaftszeit",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc0U3R1liWU1XcHZvWjdpVWgwQzY1eXM4cFhuVkk5S1hIVG1mcjd6LWFZZEM1R1BfUU95WFMyeTF0OXpRM3FlV0NvRFBsaThlMU5OQXRKa2RzY0E5NXJIVFpoT1dKRU1oM2FKcEFQcV9Fc1EzMnhlYnpOY2JQLW1oZmVLb1NsYmQxODFPZkZjVVp5aGpIVmc?oc=5",
+          "source": "Wirtschaftszeit",
+          "date": "23. Sep 2026"
         },
         {
-          "title": "Die Partnersuche der Energie Steiermark wirft Fragen auf - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeXZ6QVlVcVBDVWpOZFFuTUxlMFpxODZCWmc1MkpFc0FlVVVCQzludFdSbFRSNTlyaUF5VzZMRWNHVm1qS29QSmVkWHNWSjdEZUZEUXlTZTdXQ2FtZEwwVEdKNnFPdk5WeF9vT005NEFkWXgyZU5DUUZnM3JQMlA2ckVXb29mWUViYWtKdVBWbmtycm5PTGNyTUwybVdVaEdpZnpOSQ?oc=5",
+          "title": "Straßenerhaltungsdienst: Lehrling Julian Grein holt Staatsmeistertitel für die Steiermark - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdHBZYjJHZk5PMnlpdVdtTnBMYUFLSjhqS1JDRXFfTjF4X0plREVab3BXSWliLXNoYUJOeFYxNk5GVlNvNnRqTkptNGYzU09NeUxwMmRnbnlUS0ZXTVBDT0R3c1VobEpiYUNXc051ZjR1a3BlVzVKaTRBZUJHWU1ONUlRTWdORnFjcFlMamZxVTYwMnhNNkIxUGZMY0VJZFdhdmxkZzZ5c1VpeDczRDBPOEpEamc4R19NZ0g2ZFVwWnBRMkpldGN3MnlXVQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "23. Sep 2026"
+        },
+        {
+          "title": "Bilanz einer neuen Ära: Wie erfolgreich ist die Koralmbahn? - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQXR2WVpjblB1WnI0STJLanVTWFVOdXFQeGR5MndtVXhzemtIQ2NURFhVQVlweWJHVnFpYzZjQTIxLVpxRnFEdGVCX3lZeHd6VkhqaFpybWowQURqLXlOcGZuQUtyeTg0ajBfRDBoZ3NBMVhZblJ6T3FtRFg3NHNsNW5LcXpMTFBTVnVZUUd6MnRWMEN4R3hhLTI0LThpMXFCZE9lN0hibw?oc=5",
           "source": "Kleine Zeitung",
-          "date": "21. Sep 2026"
+          "date": "22. Sep 2026"
         },
         {
           "title": "AREA Süd: Aus einer Idee der Wirtschaft wird politische Realität - wko.at",
@@ -27,28 +33,22 @@
           "date": "17. Sep 2026"
         },
         {
-          "title": "Das sind die steirischen „Unternehmerinnen des Jahres“ - Wirtschaftszeit",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc0U3R1liWU1XcHZvWjdpVWgwQzY1eXM4cFhuVkk5S1hIVG1mcjd6LWFZZEM1R1BfUU95WFMyeTF0OXpRM3FlV0NvRFBsaThlMU5OQXRKa2RzY0E5NXJIVFpoT1dKRU1oM2FKcEFQcV9Fc1EzMnhlYnpOY2JQLW1oZmVLb1NsYmQxODFPZkZjVVp5aGpIVmc?oc=5",
-          "source": "Wirtschaftszeit",
-          "date": "17. Sep 2026"
-        },
-        {
-          "title": "„Persönliche Gründe“: Andritz-Vorstand zurückgetreten - kurier.at",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNclpBVkRiSUhjdW5Nb1YtWTVwVzEtdmkwdi1XdnR5eGpqSFE0Ny1EQjBwUGlsS1NDaE5fSEo1Q0VHTWdTdVl3dDZ5bTR5T1FkUG5yd3JudV9IVTJneUNWZWNXb1ZtTWpad0lzVW9WZEcxSW1fcDhPSVBCY094bWcybVRiRW01VXBzaUtLZVpjeUk5QnBXeTFDSFJ2cGM2S0Vjcmc?oc=5",
-          "source": "kurier.at",
-          "date": "22. Sep 2026"
-        },
-        {
-          "title": "AREA Süd: 24 Beschlüsse bringen Steiermark und Kärnten näher zusammen - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaXc3NHBxSE9DUW42ajZ2Zm9LMVpCTXM2cmU4anNRcEtPQUEtQUlZU1dnLVkwLTMyTE5fbnVjclFoOHNCSlpVLWhXMzRhb3hiRzg2ZVJsczAtSGtlOHVhcm82WHhlOXJINFU2cUkwLUVfVV80ZDNEUFMyVThfbTNhUjhFdTczbldTM3NZS1IwRVcwb2l6MUJMZFlERlZIWW94X1VaVDlKM2xqZl9GY2hrWTljWDJlb0QyWkE?oc=5",
-          "source": "5 Minuten",
-          "date": "16. Sep 2026"
-        },
-        {
           "title": "Steiermark: WKO fordert 25 Cent Treibstoff-Rückerstattung - austria.com",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSG5kVjNleXBLUS0wQzVNNzgtYktndjlFTElKTjRsN05xM1ZueURvM3dxREVnYTB1c2w3LXZ3ZDFuZmF2UGppOWF1X0dkUzA1TDdYNW5iUzNwTFJ5MTl1bkdMNkxIV3AxekR6UWtBb09oV3l4aGxXUkRPdzBfWUpjQ1c5UzJFRTVHZkVwUTk2VjRQckJvYlFIQjR1S3I?oc=5",
           "source": "austria.com",
           "date": "17. Sep 2026"
+        },
+        {
+          "title": "Die Partnersuche der Energie Steiermark wirft Fragen auf - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeXZ6QVlVcVBDVWpOZFFuTUxlMFpxODZCWmc1MkpFc0FlVVVCQzludFdSbFRSNTlyaUF5VzZMRWNHVm1qS29QSmVkWHNWSjdEZUZEUXlTZTdXQ2FtZEwwVEdKNnFPdk5WeF9vT005NEFkWXgyZU5DUUZnM3JQMlA2ckVXb29mWUViYWtKdVBWbmtycm5PTGNyTUwybVdVaEdpZnpOSQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "21. Sep 2026"
+        },
+        {
+          "title": "Bezirk Bruck-Mürzzuschlag: Die meisten Jugendlichen arbeiten im Gewerbe und Handwerk - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNVJNX2xDOFZEZmp0RFdsYlpldUZyZDVzUzNtdXpleEZWV2t2ZmFWNzZ1UURuN2RvT3RKem1SMWRjLW1DTVdEbHdEdU5OelRna1JoN08yS3BJR3VUZHN4akJHanRZWTlxWklxNEM1OVpVb3VGWF9WQXNTWXFpN2UtWWVyZ0c1ZFBXRjY0VkJCdHZLWldJYnJoMlBhZVItdVVrZXFMN21SVDZyNV9lLXRhTENpb0E?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "20. Sep 2026"
         },
         {
           "title": "Energie-Deal: Das sagen die Vorstände Graf und Ressi zu den Plänen - Kleine Zeitung",
@@ -62,13 +62,25 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark investiert gezielt in die Nachwuchsförderung des Tourismussektors und unterstützt Wintersportangebote mit erheblichen Mitteln, während gleichzeitig neue Märkte wie Ungarn erschlossen und regionale Kooperationen mit Kärnten sowie die Vermarktung von Geheimtipps wie dem Murtal intensiviert werden. Diese Maßnahmen zeigen eine umfassende Strategie zur Stärkung des steirischen Tourismus sowohl durch Fachkräfteentwicklung als auch durch Diversifizierung und Internationalisierung des Angebots.",
+      "summary": "Die Steiermark verzeichnet im Sommerhalbjahr positive Wachstumstrends im Tourismus, während gleichzeitig das erste Halbjahr insgesamt rückläufige Urlaubszahlen zeigte, weshalb die Region durch gezielte Fördermaßnahmen wie Wintersportwochen-Subventionen und internationale MICE-Offensive sowie verstärkte regionale Kooperationen gegensteuert. Parallel dazu investiert die Steiermark in die Nachwuchsförderung und Fachkräfteentwicklung im Tourismussektor, um langfristig wettbewerbsfähig zu bleiben und ihre Attraktivität als Ganzjahres-Destination auszubauen.",
       "items": [
+        {
+          "title": "Steirer-Tourismus jubelt über Wachstum im Sommerhalbjahr - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMEx2VmNCU19PbldueUZldUJvLWhoNVhnUS15X1BjMXBSNjdtYVNDekJBSkhTdjctZzFFN1NFUWhseVpKelVOdFAwRWdzaXczUkMwdWdySUpLbTNCNTU5R2g0RXphOU9xQkJCbUF1TE8xS0ZISmFUY2JNckRJS3NqRjJXZnJfRmtuRHFZUDF3WHFDMDVmMXoybjU3TVMzYXNPUm9kcDlB?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "23. Sep 2026"
+        },
         {
           "title": "Karriere im Tourismus: Welcome Days begeistern 42 Lehrlinge aus zwei Bundesländern - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMjc1aHBzM2Nzc0VqcnlfdWk5dWFOMTk1SXlOVkRFYVYyc1B4aUl1OE9HeVFJWGloeFk5bmpvSk5HLWVXcWhNamROR0lpOEFJUVotNzRuR3lZS01mdHk2dDBTWkJSc3R1TnpfSU5kMEx2LWI0Q19aYkItaUlOSmRnN2ZlOVZoeDJtMWRzQVRiaF9RMkVXU0gwc2ZoZ29Bd1BEbU5jdkNTQ002UlNjczB3UERFbjNVMXdDdjZXUjljOEtONGpO?oc=5",
           "source": "MeinBezirk.at",
           "date": "21. Sep 2026"
+        },
+        {
+          "title": "Weniger Urlaubsreisen in der Steiermark im ersten Halbjahr - VOL.AT",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSWdoOE5UT1hnM09jRkdBcmVxV2M4bTk4NE5kdUphYURxWlFVbFdsRmREZzI4bVVua2RHVlFuOFIzTXdBc2VwS25XTWpISTlhWGZ3cC11YU1oMGxjV0VQUjQyM2F0a08xS01NT3hYNW1BcmRPU29Sc09QcEhYRWs3akNWM1FzUFlN?oc=5",
+          "source": "VOL.AT",
+          "date": "22. Sep 2026"
         },
         {
           "title": "200.000 Euro: Steiermark fördert Wintersportwochen erneut - 5 Minuten",
@@ -77,22 +89,22 @@
           "date": "18. Sep 2026"
         },
         {
+          "title": "Steiermark Convention setzt auf internationale MICE-Offensive in Ungarn » news - travel management austria",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYmxTRTVtVThoUnpkOVkteWYyZDY0dE9mOTNDUzJKRTJ4VFNYaUhDc0J4dDJEVkY2WTdtNElyVW5oUVdsTnBzd21qaURWVEFablBFVmtabmtUczRoRG82dHpMRTlQMUpybGJXSUt6NW1JTzFrdzA3aWdQZUxmbkhqNDNLWXNRYlhhUE5XSjFUd2JBZV9Bc3ozXzhZSFNQM3llVDdEQ0lubmlBQk0?oc=5",
+          "source": "travel management austria",
+          "date": "17. Sep 2026"
+        },
+        {
           "title": "AREA Süd: Kärnten und Steiermark intensivieren Kooperation - austria.com",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMDNsX2llT1I3MHNfWjRxLXJJeFVHck4wVExaclc1LURZSnNNblU2d25QM21kZHR0dDViVmtzbmFZbzduVXdNMUlhZVoyNkpLRDR4VHplcWN4TFZ0cnRnLVdFYlg3aVBRWEdoZ3JrNlBuMFZYeG5NYXdEQ05WLWI2WUp4MkZPNHY5T2xoMGRaeHY?oc=5",
           "source": "austria.com",
           "date": "16. Sep 2026"
         },
         {
-          "title": "Steiermark Convention setzt auf internationale MICE-Offensive in Ungarn » news - tma-online.at",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYmxTRTVtVThoUnpkOVkteWYyZDY0dE9mOTNDUzJKRTJ4VFNYaUhDc0J4dDJEVkY2WTdtNElyVW5oUVdsTnBzd21qaURWVEFablBFVmtabmtUczRoRG82dHpMRTlQMUpybGJXSUt6NW1JTzFrdzA3aWdQZUxmbkhqNDNLWXNRYlhhUE5XSjFUd2JBZV9Bc3ozXzhZSFNQM3llVDdEQ0lubmlBQk0?oc=5",
-          "source": "tma-online.at",
-          "date": "17. Sep 2026"
-        },
-        {
-          "title": "Tourismus abseits des Rings: „Das Murtal ist ein Geheimtipp mit Wow-Effekt“ - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNUlDdWtUcy16ak1UTHBpaW5LRXdFZ0RzQ0F5UzZKX2Jaa1VCTGhkS3ByWFBZclI3VmRWMTctdEtjN0ZBNXZxMkNnQWYtNDQxdkdZVERUYjJVWGZ0Y1NvZ0hiRUl3TUtzY1AzTG1LT0dwS2hfUTF4alJMeEU4TnBSUktBX0hXaWMwZzVXQUlsVlhCbkN0Z0N5YmpPdFhEWGwwSXlHOVNHdFFqU1phSUxjMw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "15. Sep 2026"
+          "title": "Urlaub wie früher: Diese steirische Gemeinde verzaubert im Herbst - Kurier",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUEFBT1pLVllQNkJ2cVkyeWxuWC10a011NHFYeTU2aEpsaV9fdmVCZzY3V1l5VGNmNlBjX3BwZXBOdERxZ0Vja054WmVaOWxzYXd4NjB3RUlUd0otaVVtZExMUUxuNEdmRHFHRGFGNXUya1NjOE5TSVpuM1dlQWFCTzVTY0t1bWdNUWN4a3N5OGNTd0w0cnlDdU1UV3V1NzFRb3R6QTZrZjNSQnFUV0xsRUhVWE1FWDhhREdaSnVTVXc4RnZ0cmc?oc=5",
+          "source": "Kurier",
+          "date": "23. Sep 2026"
         }
       ]
     },
@@ -100,8 +112,44 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die FH JOANNEUM gewinnt mit ihrer innovativen „Musikmaschine\" einen internationalen Hauptpreis, während gleichzeitig kreative Köpfe zur Teilnahme am 23. Innovationspreis aufgefordert werden. Eine Grazer Technologie zur Blackout-Prävention zeigt das Potenzial steirischer Forschung, doch wirtschaftspolitische Herausforderungen gefährden die weitere Innovationskraft der Region.",
+      "summary": "Die Steiermark investiert massiv in ihre Forschungsinfrastruktur, insbesondere mit einem 75-Millionen-Euro-Projekt für ein neues Akustik- und Lehrzentrum an der TU Graz, während gleichzeitig Grazer Forscher mit bahnbrechenden Erkenntnissen zur Batten-Krankheit und anderen neurodegenerativen Erkrankungen internationale Anerkennung erlangen. Absolventen steirischer Hochschulen wie der FH JOANNEUM erzielen zudem mit innovativen Projekten wie einer Musikmaschine internationale Auszeichnungen, was die starke Innovationskraft der Region unterstreicht.",
       "items": [
+        {
+          "title": "TU Graz baut ein Akustik- und Lehrzentrum - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IVkV6Y2V0Ujg0TnBHTFNNR3U5QUdYcVpOVXBhSUZTTHNIT3dIRjVHYVBad2NrNWQyM0hVNGJVcDl3Z0cwY1NsZzY2U29HdUNUdFBKNg?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "22. Sep 2026"
+        },
+        {
+          "title": "Investition in Akustikforschung - Grünes Licht für Zentrum an TU Graz - News.at",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMW50VVM3NUpxMkp3RU0zb0s4c0JPUVpSZFlWS3Vzd281cFFXWmdIQnIzdXVVNnVpUnhQOEM4ZkRUN0daRV9LTEVNTXV3eFJ5WlpPalZxVDQxYkp4cVlQVHZyZ0owRU82Zzdiel9WbGF4YVQwUjMxbXN3UzIya0Jqa1k2eDJ6VUhZUEhJd19xbVBTRFUwdE9pOThmTQ?oc=5",
+          "source": "News.at",
+          "date": "22. Sep 2026"
+        },
+        {
+          "title": "Campus Inffeldgasse wächst: Das steckt hinter dem 75-Millionen-Projekt - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ1JlZTVoc0xhd08xcm1fY0dCNzNya21YZThjUnc4c3pZYUxla3NWV1VPbU1ybzJYWm1FZ19RZy12ZzV0SnhQdzlFQVpUcDJ0Q1NtdWN6SVZ4ZENjQW9Xc1Bfcy1aOEstUm1vblIwQWtsUmI1am9HMEF6LUpSNFd4eXEyd3RNR1RMN3RCZkFZd1NqaDA4eHFtdG4wUWg1SDZ4SEZ4ZHpjQklQaTVMNjlj?oc=5",
+          "source": "5 Minuten",
+          "date": "22. Sep 2026"
+        },
+        {
+          "title": "Demenz im Kindesalter: Grazer Forschung liefert neue Erkenntnisse - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRkRJa01HY0ZMcUJGTnlmVXY0em16OG9nb29jMXF3QnZscjNHTk0yUndXdTdvcDVPODdTeEVlZ0NxR1drUTZMbHNxckNpbWY0MlBDbWFzTFhTOEpzcVRiOS1PX3J4bkMzcXNJZlVCWVdDQ0NaV05zaEtBZG0wSXc2eldHRkpySFdxZEdtcTlxZi1JQU5CdXU1eFo5WHA3RlMwRXZ2ZTFmQQ?oc=5",
+          "source": "5 Minuten",
+          "date": "22. Sep 2026"
+        },
+        {
+          "title": "Batten-Krankheit: Grazer Forscher entschlüsseln Ursache des kognitiven Verfalls - AD HOC NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNXlReFg5WEZScjJibDluZlRmVEJmaHM2cW5McjFidUdxaHluMm52TFBiYlR1MGNzX0QxMHlQVDgtU0dUdEw3QlMtWW1wbGp4a2EyM3Zpb0REa1hzYUZEODMxUzR3QzdxVmxqMTV6MEtqUm1KVXhQbmZTOHRaV0oyWFZVRVg3Q2lJUnlJdGxvV2FDRjdfaUI4ZTVRRndOUHpsUTVZMi16c0V3aUNVNkNvYXljY1BtYlJISFFN?oc=5",
+          "source": "AD HOC NEWS",
+          "date": "22. Sep 2026"
+        },
+        {
+          "title": "Zwei Dyson Awards für Absolventen der FH JOANNEUM - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM0Fyc1JHNkRZczRUcUEtZ1RXc0tfSHg5M1RLRlVOSFFnRWlySndGNEVBT0pvU1RNSXhhU3Nib0o4QzYtZ3lDaDZXY0ZHRkJ4ZkhybWhBajFYSUV4U3JSWEl4ME9YYXlKQktqMmhGRDFMb1h5MzZtakt4S0R0RFg2QVkxRDhsc0lHYkdlMlEwekx2dW93?oc=5",
+          "source": "5 Minuten",
+          "date": "20. Sep 2026"
+        },
         {
           "title": "FH JOANNEUM holt mit „Musikmaschine“ internationalen Hauptpreis - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT0t4SGJvZGNBdlNvRG1lSllYTV9uQ29VZTZhM1hQMmQ1OE50YUFxNmhxMlUycEt2X3F0a1BMUE9QOVA4MkdSQ2l5a1Zkc1FacnJ0WVdZTm9MRkFRNDM5eWRFc1dCWFZpUDBYVlhUT1lZaWY3eEthNUdrcmR3ZUo2dmcxZHVzS1ZFc2dHZ2dUTU5CeVdQbUkwd2RJLUxfYldaTkU0?oc=5",
@@ -110,21 +158,9 @@
         },
         {
           "title": "Jetzt einreichen: Kreative Köpfe gesucht - Innovationspreis geht in die 23. Runde - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSHBEWFo0WkNlNEliMjFmTjF3NVQwSHBSbE5fVXVUbXBlT0pDVHJBY3V5TXBWVFliVnlqdmt5Xy04ZU03aVUwTVVzNG9BeXBvNTFuR2dOYzF1NDRhb3pLeDhLeDVYRjZlYTIwY2RXcWltaHZ6bXppYmN4YkJzWmtHaUY5cVBKSFRPWmR2MlNuWnFJRi1TV0hxTFVrNUI2YTZfQUMtcGZwSDJsdDZDQ2l0UUpxU09TN1ZiSG44bWhmdnNGU2tTWmc?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVWlNM1VqcU40MEs2VzZVcFBINi1UOXFRaFBvQzc0WkswUVBDaTRmdzg4VC1JNGcxUUN0b20xUjBINHp5eGFnN2pQNHpIYjk0MlhlZ1FrREFCdlpuYllGdjRvN2MweWhaNUIxWVJ6Qi1nSlp2MFZZV3ViN2xxLXgwQ2NtbkJWbnF0MWtiYjNjdHBWUEFyNUtNZmxKNktnLUlUOW5KTVN4RzBLazhnRkZyVFVqYkI0eTBwdU9ZN0o2dlI5UDB5NVFCUW5US3dYSUszYkd0Rg?oc=5",
           "source": "MeinBezirk.at",
           "date": "21. Sep 2026"
-        },
-        {
-          "title": "Grazer Technologie soll vor Blackouts schützen - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSRWVqWWxVVUNkOWhnanlLdmxweTNNdURyS25LbTBRckREUUpNWHdPcFItUzNldGhJdGpEcVd4QVV1ZWgtVUxmeU1Vbk1NQ01zS3kwbQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "17. Sep 2026"
-        },
-        {
-          "title": "„Es ist ein wirtschaftspolitisches Drama“ - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tUGZ3aFBCYjdhd3dJdlRkdUUtTWFzQnVEQnpnaHBPSDA3QUcwZzNRejVvZmUyclU3S1NSQWUzblhkWVJsSUp4UkhqUExaWkNNSjNYdXk3ajZjSDREQWV2d3hvTWNLMzdmbDlIV1RKX19FNFg2SmJn?oc=5",
-          "source": "wko.at",
-          "date": "16. Sep 2026"
         }
       ]
     },
@@ -132,7 +168,7 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Das ZAM Leibnitz schafft mit neuen Räumlichkeiten verbesserte Chancen auf dem Arbeitsmarkt, während eine 80-Millionen-Euro-Förderung die Halbleiter-Technologien vorantreiben soll. Niederösterreich verzeichnet mit der Neueröffnung einer Einrichtung bereits 100.000 Besucherinnen und Besucher.",
+      "summary": "Das Zentrum für Arbeitsmarktintegration (ZAM) in Leibnitz schafft mit neuen Räumlichkeiten verbesserte Bedingungen für die Arbeitsmarktintegration und Chancengleichheit. Österreich investiert 80 Millionen Euro in die Förderung von Halbleiter-Technologien, um die Wettbewerbsfähigkeit in diesem zukunftsträchtigen Sektor zu stärken.",
       "items": [
         {
           "title": "ZAM Leibnitz: Neuer Raum für neue Chancen am Arbeitsmarkt - Kleine Zeitung",
@@ -145,12 +181,6 @@
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdzlhdlU0cUprNWVmaHhmcllteTc2YnVKVEUybWFOdmlNaFBqUDd1bWttQTREVjR3cmQ5eFloS1V4enJlVkkyX1FON1VJSS13MFRKOG1BNElBaDBTTVY3aGZFdG1RWDZGbzJJLVRycnhQWVJSOEhWRjdoNGo2aDV1ZlNpTlkyYTB6c3VVRzlUNzdxVEhKT1EwR3lmTHZXTUJxS0Z2YjVHRWFiNjdJ?oc=5",
           "source": "Kleine Zeitung",
           "date": "17. Sep 2026"
-        },
-        {
-          "title": "Niederösterreich: Seit der Neueröffnung - 100.000 Besucherinnen und Besucher in der ... - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMW5DOVRHQ3JDYl9rODFyZ3BQX1ZDU2s0YWE3VEx4VnpsNExPeTdicXpiLTRpMUhjVnYwQ0F0ZEQxQ2N5RndCbmZ2UW9NOFBwdFlaT2RES1RuZTY2bnlhWDRtTTB2bXBwVkNwZ2RJYmhSMzRhOXl1QmJycUUtR3lnOG1tbEhrcFUxbWxjX1JBZjdWX2FFLTVQRUpfTFVoZU9vQzc2NTF0N1ZJa2RMM3B3VnBHX2tqZll4OTZuVDh4TVpIR0c2eVNRbFdmNDBXX1hfN1HSAdIBQVVfeXFMTTFuQzlUR0NyQ2JfazgxcmdwUF9WQ1NrNGFhN1RMeFZ6bDRMT3k3YnF6Yi00aTFIY1Z2MENBdGREMUNjeUZ3Qm5mdlFvTThQcHRZWk9kREtUbmU2Nm55YVg0bU0wdm1wcFZDcGdkSWJoUjM0YTl5dUJicnFFLUd5ZzhtbWxIa3BVMW1sY19SQWY3Vl9hRS01UEVKX0xVaGVPb0M3NjUxdDdWSWtkTDNwd1ZwR19ramZZeDk2blQ4eE1aSEdHNnlTUWxXZjQwV19YXzdR?oc=5",
-          "source": "Regionews.at",
-          "date": "20. Sep 2026"
         }
       ]
     },
@@ -158,8 +188,14 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark vorantreibt durch praktische Digitalisierungsprojekte wie digitale Bildverwaltung in Krankenhäusern und KI-Einsätze im Ehrenamt, während gleichzeitig der Fokus auf die Bewahrung menschlicher Qualitäten und die Stärkung regionaler Hochschulkooperationen mit Kärnten bleibt. Diese Entwicklungen zeigen einen ausgewogenen Weg zwischen technologischem Fortschritt und humanem Mehrwert in der innovativen Südostregion.",
+      "summary": "Die Steiermark vorantreiben durch digitale Infrastruktur und KI-Anwendungen in Bereichen wie Gesundheitswesen und Ehrenamt, während gleichzeitig die Bedeutung menschlicher Qualitäten bewahrt bleibt und regionale Innovationsprojekte sowie Hochschulkooperationen gestärkt werden. Digitalisierungsinitiativen in der West- und Südsteiermark sowie in Graz fördern praktische Lösungen und schaffen neue Chancen für Studierende und Unternehmen im Technologiesektor.",
       "items": [
+        {
+          "title": "Website-Erhebung in der Region: Ergebnis des ersten „Digital-Report Weststeiermark“ - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUDBZcHduNW1JbThPMnJzY3A0UUpnbTJoUUJmS0RZRzlCRno2YktmbTlOSl9qOFpFdElDSC1QOFFmTkRHWnRVM2U4OE5uLVQ4Z3VDVHhIWFRVeWVYbkhySXUzU2dYZkNEQVIxejBVZ21USFIwS21CRVdQc29ibFE4c01fdngtWW8td2hHZjRFc1V5UExCdEp3cEpTVDFRMkNlTXVyenE5bzRIcUNwQ3Z5aTFDcC0?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "22. Sep 2026"
+        },
         {
           "title": "Bernd Kreis: »Menschliche Qualitä­ten können nicht durch Digitalisierung er­setzt werden« - Falstaff",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaFFhdDBIczluMzI4Z2Q3dDJUcVpWV0tha2FyaVVSUFZDVUJEb2p2T0NqakNPUEo0RlB0QWdpOGs1STdDZFAwN1pLQW1XX2xZSE1hUUhlTWNTYTRBMEVqS3pqR1NuTjhEY25KcnpuMy1ILU1vQVJYTHN4X1BOSGRKdVZ2ZkF6c3dDU0tsdVhpQVVQYV9Vc21ZZmY2VkdjTTN2blY3N2NQdnZPSE9xOWppT3ZPcjJIMEgwbWhz?oc=5",
@@ -179,9 +215,15 @@
           "date": "17. Sep 2026"
         },
         {
-          "title": "Kärntner und steirische Hochschulen bauen Zusammenarbeit weiter aus - Mein Klagenfurt",
+          "title": "Büchercafé bis Mittags-App: Diese Projekte fördert die Stadt Graz - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVFluS2NldDNfdjdyQ0h0Vjc2Q0RTak1zNm0yelVUdDkya0xNZnNFNFV4UlZWZ1ExekI3dDlwTlAtSWg0bDFEQk5vSTVwc0JWOFhmblB0Qnl1RXZ2N2xLS1NZd3VFSkk2VEtNSjh0TW9PLVVIVEpHOGdSU2I1YnRlcG5wTVUwUHlVbTFaQmRiSGpMOGx1T0RRSnYtNmQ2bXRnYzdudjRSZHBPcW5zdEhwZVRB?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "16. Sep 2026"
+        },
+        {
+          "title": "Kärntner und steirische Hochschulen bauen Zusammenarbeit weiter aus - mein-klagenfurt.at",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYlcxQ1lSbjRGUGtfMTlYd0UtUVZBQ0dldEZtWUlfX0t0Mzg1Y3EzOUE5OU9WTmVLSjFGSHU4OE5XSVo0YVBEUzZqNlB3MWlZLWFpRXJuZXQxLUxEeGUzd1ZELVNmNmcwbENkT3dlbGNpVVViWExEY1ZSTFZHb2h1UnItUmZxS3pFeFY0Z1NkMGhWYVdSWGlIc2xfa3ZnSzRnVk9EbDdhUmIzRmxZdHlLQ1V2QU12cmR5UEdNRjlDNmVUWldyaThacEFwUnJrUFB0cHduTFZGVWxGclN1MXpkTm9DYnVvQmQ0dl9v?oc=5",
-          "source": "Mein Klagenfurt",
+          "source": "mein-klagenfurt.at",
           "date": "19. Sep 2026"
         },
         {
