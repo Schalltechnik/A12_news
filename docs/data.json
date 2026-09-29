@@ -1,18 +1,36 @@
 {
-  "generated": "28. September 2026, 08:56 UTC",
+  "generated": "29. September 2026, 08:59 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Steiermark setzt verstärkt auf nachhaltige Wirtschaftstransformation durch Kreislaufwirtschaft und Künstliche Intelligenz, während traditionelle Branchen wie die Automobilindustrie durch gezielte Förderungen in zukunftsorientierte Bereiche diversifiziert werden. Gleichzeitig zeigen etablierte Unternehmen wie Saubermacher mit der Übernahme von Quabus GmbH und kleinere Betriebe wie Elektro Eibl durch Auszeichnungen, dass der steirische Mittelstand robust wächst und sich erfolgreich neu positioniert.",
+      "summary": "Die Steiermark setzt gezielt auf wirtschaftliche Transformation und Unternehmertum, wie die Förderung der Autoindustrie in neue Branchen, die Stärkung von Kreislaufwirtschaft sowie die Auszeichnung innovativer Unternehmerinnen zeigen. Parallel dazu entstehen durch strategische Übernahmen und Fusionen wie bei Saubermacher und Lagerhaus neue Arbeitsplätze und wirtschaftliche Synergien, während die Finanzinstitutionen wie die RLB ihre Beteiligungen an regionalen Energieunternehmen überprüfen.",
       "items": [
         {
-          "title": "Naturschutz trifft Kreislaufwirtschaft: Für eine lebenswerte Steiermark - Der Grazer",
+          "title": "RLB-Beteiligung an Energie Steiermark? „Werden wir uns anschauen“ - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQzVvSHZYVDRJdVV6aldmUlhYZ21nby1LVmZoSzMwYzcwVkppVEt0UGhZLXdiQjJaNlljZXZ0NEJEVXFwOWlOZ3NCakVlSFd6LTZVRS1IRi1RTHJNbEpsdW5ycHVnWDRENkxxX05pYm13d2o3UG1mRWY1X1UxVlpiUExmWmkxcmRqWUl0T1lSMHFKRExJNGtpOXJnWjVyaURUYXN2bzN3NDg0T2ZW?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "28. Sep 2026"
+        },
+        {
+          "title": "Unternehmerin des Jahres: Verena Ulrich-Hollerer aus Bad Gleichenberg ist „Beste Gestalterin“ 2026 - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZnFQWUVNMHdEMXoweDRLMWR3cUd5bTJzRjFldk51SlBTTmZCeGJFYVFhejY1MUhrTWR3NzNROUlyQnNDZlpPTXhDNjdhZzJYZ243RWhrWENmZFI1M2F5WGRHMWhFVGFOejBrYTlsNm91dlA3cnBjQ3Zzd2dERmNudWtvNVFwaGtheTJ5NXRBTDk1c3gtZERpZG1lTGhFdlFJdE51ZGtoUDVId3FycVB2TnpBWjZCX2VOTlV6TXBiOFE5S0Jsb0xkYWVScVc1QQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "28. Sep 2026"
+        },
+        {
+          "title": "Naturschutz trifft Kreislaufwirtschaft: Für eine lebenswerte Steiermark - grazer.at",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY0I4ZzBLN1AzMk5udVAweE9oRkQ3LVV5N3FnOXpFS05tN1dFTXR5WlRVMElFRk11ajVzTERyYXVGZ05ZVlBwNWVRbXczdWJyQV8xQ2JuWnV4dUwyQUpsZ2RJVEZzRnlQaVd3WENHZmVxYjhnMG9OTTROQnllZ1pDWVhBRUdkck1yQ3ZVV0l3?oc=5",
-          "source": "Der Grazer",
+          "source": "grazer.at",
           "date": "26. Sep 2026"
+        },
+        {
+          "title": "Lagerhaus-Fusion in Hartberg-Fürstenfeld in Rekordzeit umgesetzt - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSC1ycDVIUmt2OTdOZHMwbU5vaWRHc1pEM09ObmRrclpxRHZranEwMUZ0anZjeTFydXVnbHlZam5RNTJlM0RqSjl5Nm9CV0lEaG5fZ0dIV3ZfQmtYRmVHb0xOZURlTWlKWEVfZnpxeGx4QjNVZldaQ1dORU9zZi1LcmdJdnJFZ1Y0LTU2UkpYbWp4bWJ2aENyVjdUejY3dTdyYkJJTmg4QTZQU0JlWVJ0RVV3?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "28. Sep 2026"
         },
         {
           "title": "Wirtschaftskammer Südsteiermark: Ein Frühstück im Zeichen der Künstlichen Intelligenz - MeinBezirk.at",
@@ -21,40 +39,22 @@
           "date": "25. Sep 2026"
         },
         {
-          "title": "Förderwelle: So bringt das Land die Autoindustrie in neue Branchen - Kleine Zeitung",
+          "title": "Förderwelle: So will das Land die Autoindustrie in neue Branchen bringen - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYU5xMWM2UGZ6NklrMUk2dndPMktUcU1tT0tHa1JYS0dGNEc0ZDhCaGZLc2dFWmpBbFZpbl8tRzRhM3ZpckNkcTBrVXZheUVDSWloOVdDTExRYmQ5clM1TzMzMXo3X0xHaktVelVuaW1kZEhKTlktUEpueUFEci16V0FMSmVNQXJ0a3JwWkluMlJkV1paOWhHZVlCZVBrdzRMc25YQ2NXSkYtLXdRbzFYOG1R?oc=5",
           "source": "Kleine Zeitung",
           "date": "25. Sep 2026"
         },
         {
-          "title": "Bilanz einer neuen Ära: Wie erfolgreich ist die Koralmbahn? - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQXR2WVpjblB1WnI0STJLanVTWFVOdXFQeGR5MndtVXhzemtIQ2NURFhVQVlweWJHVnFpYzZjQTIxLVpxRnFEdGVCX3lZeHd6VkhqaFpybWowQURqLXlOcGZuQUtyeTg0ajBfRDBoZ3NBMVhZblJ6T3FtRFg3NHNsNW5LcXpMTFBTVnVZUUd6MnRWMEN4R3hhLTI0LThpMXFCZE9lN0hibw?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "22. Sep 2026"
+          "title": "China räumt ab: Exzellente Steirer fahren ohne Edelmetall im Gepäck nach Hause - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTTV2QS0zUThHUDJEbHE1bTNNWXFyam56UGowRDltSU1VbGdEa3J0aFN1b2pDZTY5YTM3T0s1UnI0U2owalJyZ1ZSMUhkOTBjTF9ETDhzRFYzSG9EN2ZCNklDYW9NVDdxdFhBUDNkc3hCRjdHbjFIeC0yX3RtTDF1a0tOeG9oODFKZlY1N1BObnB0aHdaS0dHX29CclZsRGY4SWY2SmQxZEl6QkNGNFlGMFpOdGZ4Q3B6djFEQnVxSQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "27. Sep 2026"
         },
         {
           "title": "200 Jobs: Saubermacher übernimmt Mehrheit an Quabus GmbH - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUXJjSXZrcGZNTE04NTNKaGFqamNlbmhFZWxtdTg5cENRbktKaHVKVVUyd2szNFpKYmp5eXpVbVlrc3N2SEFvSFdOd3QwUGxaTXB5SnNmV3paOFpkVHpaVWFRWjYxa0JzZjRnZndqN2NXTTktUmlRNFozN2ktX2FjOU03WWx6b0J6Zm5iTnhmV3BZUFpLY0VHS25QU2ZhYXEzaS10MEIzTERpQkt4eGc?oc=5",
           "source": "Kleine Zeitung",
           "date": "24. Sep 2026"
-        },
-        {
-          "title": "Bärnbacher Autohaus Fripertinger feiert 105 Jahre Jubiläum - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVDVyQThYb3l1aXZzR1ZjMzdkNEd2aEozc3ZUUlE3MUxEcS1CWHlZbmNHR3BzNkVHYmJBYWFaOTFTNVNteEw1cmJfT3RPRkpNWEhTc0d2eG1MMDloVlJpZUZqU0p2a20tSUNTS1lyQjVTczFaaDZyZ0JaMVU4M1BtdHEwNDltemZnMUdHUUJiLWVhLTNlUmhxMUpIZHRlc0tRenFUOFVJa3pjUQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "23. Sep 2026"
-        },
-        {
-          "title": "„Elektro Eibl“ aus Halbenrain mit Landeswappen ausgezeichnet - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPam1SY1ByREF2MWdGcExvOTZCU3N4QzM2b3RjM2NqVUVyNXA4N25xTXJoeXRVSkE2QVd1ZEdrR1AwY3ctbnkyVkRYQzVlaVNvZ0g3bVpIWEF0STI5aWZVTDNSOGRwZklJeVpxdU5ncUwxcGowNjlVZTdWblBYMmNPM2NVYzBYT0NmemcxRW5aRjl3eTNrdFJiczFzYUdTRmRLTVJCbWg1TQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "23. Sep 2026"
-        },
-        {
-          "title": "Grazer Industrie-Gigant: Vorstand geht nach 30 Jahren - wirtschafts-nachrichten.at",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRVQ2bEhONFBLNXBmRXYzc1NTQ0RUOFZYWDljZzNmb0lONWNMdmhaSkpTRFhEaDlPckNVWGpUcGU1MEpDcnRyamlEQmpxbEtkajZmVWk3TlUtZS1oZTBPTlVGNFlBU2h4NF83NlJoaktVeW5Zbk94QnJfWUhKTjFjWnlhUURMUnJsZnBKSENvWFhjeDRtNmVhOFEyUC1iQjh1VUhV?oc=5",
-          "source": "wirtschafts-nachrichten.at",
-          "date": "22. Sep 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark verzeichnet im Sommertourismus ein deutliches Wachstum, das insbesondere durch starke Zuwächse aus osteuropäischen Märkten getrieben wird. Gleichzeitig positioniert sich die Region durch innovative Angebote wie demenzfreundliche Urlaubsoptionen und authentische Herbsterlebnisse als vielfältige Destinationen für unterschiedlichste Zielgruppen.",
+      "summary": "Die Steiermark verzeichnet im Sommertourismus ein deutliches Wachstum, insbesondere durch starke Zuwächse bei Gästen aus Osteuropa und anderen Auslandsmärkten. Parallel dazu entwickeln sich innovative Tourismusangebote wie der Biosphärenpark Mur-Drau-Donau und spezialisierte Nischen wie barrierefreier Urlaub für Menschen mit Demenz zu neuen Erfolgsfaktoren der steirischen Tourismusförderung.",
       "items": [
         {
           "title": "Tourismus Steiermark: Sommerbilanz zeigt deutliches Plus bei Auslandsmärkten - MeinBezirk.at",
@@ -77,15 +77,15 @@
           "date": "23. Sep 2026"
         },
         {
+          "title": "Wie der Biosphärenpark Mur-Drau-Donau zum Tourismusmagnet wird - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQelR2R3dNRERfX1RIZm5mcWU5ckY1M2FTdUcwVksyU2xtWUlMdXBvZkdydlo0eWU1VW5XeW54QnAyS1MzeGhFSEFYT2dEREF2UVJKamtteDFBNEVrX2pwQmJMemJ3QTVFQ1c5cjNfZDl0RVNZRTNnWDVZdGdXcXBoQXNLQnJ1YTJ1cURRWEhIa1p4UnJocXVieVBCYkFFTUFsSHVRN0szQnV2NlRtalE?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "28. Sep 2026"
+        },
+        {
           "title": "Steirer-Tourismus jubelt über Wachstum im Sommerhalbjahr - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMEx2VmNCU19PbldueUZldUJvLWhoNVhnUS15X1BjMXBSNjdtYVNDekJBSkhTdjctZzFFN1NFUWhseVpKelVOdFAwRWdzaXczUkMwdWdySUpLbTNCNTU5R2g0RXphOU9xQkJCbUF1TE8xS0ZISmFUY2JNckRJS3NqRjJXZnJfRmtuRHFZUDF3WHFDMDVmMXoybjU3TVMzYXNPUm9kcDlB?oc=5",
           "source": "Kleine Zeitung",
-          "date": "23. Sep 2026"
-        },
-        {
-          "title": "Urlaub wie früher: Diese steirische Gemeinde verzaubert im Herbst - Kurier",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUEFBT1pLVllQNkJ2cVkyeWxuWC10a011NHFYeTU2aEpsaV9fdmVCZzY3V1l5VGNmNlBjX3BwZXBOdERxZ0Vja054WmVaOWxzYXd4NjB3RUlUd0otaVVtZExMUUxuNEdmRHFHRGFGNXUya1NjOE5TSVpuM1dlQWFCTzVTY0t1bWdNUWN4a3N5OGNTd0w0cnlDdU1UV3V1NzFRb3R6QTZrZjNSQnFUV0xsRUhVWE1FWDhhREdaSnVTVXc4RnZ0cmc?oc=5",
-          "source": "Kurier",
           "date": "23. Sep 2026"
         },
         {
@@ -95,15 +95,21 @@
           "date": "25. Sep 2026"
         },
         {
+          "title": "Urlaub wie früher: Diese steirische Gemeinde verzaubert im Herbst - Kurier",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUEFBT1pLVllQNkJ2cVkyeWxuWC10a011NHFYeTU2aEpsaV9fdmVCZzY3V1l5VGNmNlBjX3BwZXBOdERxZ0Vja054WmVaOWxzYXd4NjB3RUlUd0otaVVtZExMUUxuNEdmRHFHRGFGNXUya1NjOE5TSVpuM1dlQWFCTzVTY0t1bWdNUWN4a3N5OGNTd0w0cnlDdU1UV3V1NzFRb3R6QTZrZjNSQnFUV0xsRUhVWE1FWDhhREdaSnVTVXc4RnZ0cmc?oc=5",
+          "source": "Kurier",
+          "date": "23. Sep 2026"
+        },
+        {
           "title": "Starke Zuwächse - Touristen aus dem Osten fliegen auf die Steiermark - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1pN2JieEk2OE1qaDRxOTVCNi1IUWRTRmhYdEtCdDM0RjVZbGNndXRvd2Q2SmRDbEd3ZnBsVTlMRW05dw?oc=5",
           "source": "Kronen Zeitung",
           "date": "23. Sep 2026"
         },
         {
-          "title": "Steiermark verzeichnet deutlichen Anstieg beim Auslandstourismus im Sommer - Welt Stimme",
+          "title": "Steiermark verzeichnet deutlichen Anstieg beim Auslandstourismus im Sommer - weltstimme.com",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRGE5c0pqemdjSmtpVnQ4RnFPbWVHak9OZHNaU1pBVmY4WXJvUDZjTFRpNHpkbXJMMHZ0VFhPRHN1MDRicnotbWExTndPZWFNcXJoTXFiTzFhdU1reVhObEI3cm10R1Y5T0l6VTF0M2pzQW5qN0Z1a3ltS25vS2JZQnlmWWdvcmxrSUxfTVptaFJrRTR6MGppX3RhNzY3YU9TN2hJUmI3ZVNPbEZ0TFE?oc=5",
-          "source": "Welt Stimme",
+          "source": "weltstimme.com",
           "date": "25. Sep 2026"
         }
       ]
@@ -112,7 +118,7 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Steiermark verstärkt ihre Forschungsinfrastruktur durch bedeutende Investitionen wie den Ausbau des Campus Inffeldgasse der TU Graz und die Errichtung eines neuen Akustik- und Lehrzentrums, während gleichzeitig Forschungsergebnisse zu Cybersecurity und seltenen Erkrankungen internationale Aufmerksamkeit erhalten. Das steirische MINT-Festival begeistert tausende Kinder für Wissenschaft und Forschung und trägt damit zur Nachwuchsförderung in den Bereichen Mathematik, Informatik, Naturwissenschaften und Technik bei.",
+      "summary": "Das steirische MINT-Festival begeistert tausende Kinder für Wissenschaft und Forschung, während die TU Graz gleichzeitig ihre Infrastruktur ausbaut und in zukunftsweisende Forschungsbereiche wie Cybersicherheit und Akustik investiert. Parallel dazu leisten Grazer Universitäten wichtige Beiträge in der medizinischen Grundlagenforschung, etwa zu seltenen Demenzformen im Kindesalter, und setzen mit neuer Führung ihre strategische Entwicklung fort.",
       "items": [
         {
           "title": "\"All Eyes on\": 5.000 Kinder entdecken beim steirischen MINT-Festival die Welt der Forschung - MeinBezirk.at",
@@ -121,21 +127,15 @@
           "date": "23. Sep 2026"
         },
         {
-          "title": "TU Graz baut ein Akustik- und Lehrzentrum - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IVkV6Y2V0Ujg0TnBHTFNNR3U5QUdYcVpOVXBhSUZTTHNIT3dIRjVHYVBad2NrNWQyM0hVNGJVcDl3Z0cwY1NsZzY2U29HdUNUdFBKNg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "22. Sep 2026"
-        },
-        {
           "title": "Alle Augen auf MINT - Wissenschaft erleben: Kinder erobern Hochschule - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9tR3FzbGl6a1pWazVoVXVFdVFLVEcxYm9ua3diRkFfWFVWTkUzOEtjdW5DTHpyMXI5V3FrWHJ1SUJZUQ?oc=5",
           "source": "Kronen Zeitung",
           "date": "23. Sep 2026"
         },
         {
-          "title": "TU Graz Forscher entdecken Sicherheitslücken in Windows & Co - inside-graz.at",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUGV2MlhKWFBFcV9reDl2UkNiQ25MZkdyQUl6RVBCdDdOb3NLT3plRU1LOE5NZnZ0UE1zb1JKSklZdEpMU25QQ1lYWUdKdUs0YTJkRHlfS1dkUmlKRFNCQUpqTWxGZ1lMeEJSaWpGOFQ2S0R6LVZHQVV3R1JzT0kxOXpMZ3lRNnU3Vm9PUi01TlNfY0FhWWpyT0xyVU1NTkZYS0Q3cDdlRTBNUQ?oc=5",
-          "source": "inside-graz.at",
+          "title": "Passwörter und Browserverlauf im Fokus: TU Graz entdeckt Sicherheitslücken - 5min.at",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObWpUb2JaX2ViLVFWUEsxSzU4WS1lb1dfSFNqRkZVZ0NzdmZNN0ZUT2JVR0tweUM1OU41amhlS0tXbHpPcnBTQnV2R0xSOUVnQnRWUnR2UU5Tell6OWJKdFF0amh6NEw0Ymk3bXhFaDBSa1gwTExSWlFNdHk4RHFiT1NEMTZJekVoVmdUaXdDeVItQlpUVHdUOE5kaE5vVmJwZ2FJSG52QWFUVXF6a2s1VHdqZFRodw?oc=5",
+          "source": "5min.at",
           "date": "28. Sep 2026"
         },
         {
@@ -151,16 +151,16 @@
           "date": "22. Sep 2026"
         },
         {
-          "title": "Campus Inffeldgasse wächst: Das steckt hinter dem 75-Millionen-Projekt - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZ1JlZTVoc0xhd08xcm1fY0dCNzNya21YZThjUnc4c3pZYUxla3NWV1VPbU1ybzJYWm1FZ19RZy12ZzV0SnhQdzlFQVpUcDJ0Q1NtdWN6SVZ4ZENjQW9Xc1Bfcy1aOEstUm1vblIwQWtsUmI1am9HMEF6LUpSNFd4eXEyd3RNR1RMN3RCZkFZd1NqaDA4eHFtdG4wUWg1SDZ4SEZ4ZHpjQklQaTVMNjlj?oc=5",
-          "source": "5 Minuten",
+          "title": "Demenz im Kindesalter: Grazer Forschung liefert neue Erkenntnisse - 5min.at",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRkRJa01HY0ZMcUJGTnlmVXY0em16OG9nb29jMXF3QnZscjNHTk0yUndXdTdvcDVPODdTeEVlZ0NxR1drUTZMbHNxckNpbWY0MlBDbWFzTFhTOEpzcVRiOS1PX3J4bkMzcXNJZlVCWVdDQ0NaV05zaEtBZG0wSXc2eldHRkpySFdxZEdtcTlxZi1JQU5CdXU1eFo5WHA3RlMwRXZ2ZTFmQQ?oc=5",
+          "source": "5min.at",
           "date": "22. Sep 2026"
         },
         {
-          "title": "Demenz im Kindesalter: Grazer Forschung liefert neue Erkenntnisse - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRkRJa01HY0ZMcUJGTnlmVXY0em16OG9nb29jMXF3QnZscjNHTk0yUndXdTdvcDVPODdTeEVlZ0NxR1drUTZMbHNxckNpbWY0MlBDbWFzTFhTOEpzcVRiOS1PX3J4bkMzcXNJZlVCWVdDQ0NaV05zaEtBZG0wSXc2eldHRkpySFdxZEdtcTlxZi1JQU5CdXU1eFo5WHA3RlMwRXZ2ZTFmQQ?oc=5",
-          "source": "5 Minuten",
-          "date": "22. Sep 2026"
+          "title": "Neue Rektoratsperiode: An der Uni Graz gibt es eine Veränderung - 5min.at",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaS10NngwRkNUbGlWc2ZQbVlhelhGUk5IQ0ZQVlBJeXlCcFFaemJHcHRYNlAtQS1QaXVibkRZX2V2TzdYYWdPMUY0SHZxUUtUMXFZakpFSGdhNk9QcjRtaDc1MzkwdUZHeW1IRkg3dklpUUNla1hfS3lKZUU3bk96MWgyTTRRMzdpeTN5anpPTmhGdUVtQ1lZMGhERm4tRnNydzRzUS1n?oc=5",
+          "source": "5min.at",
+          "date": "28. Sep 2026"
         }
       ]
     },
@@ -168,7 +168,7 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Eine Klimabündnisgemeinde in der Steiermark fordert EU-Förderung für die Beschattung eines Schulzentrums ein, während das Land Steiermark eine grüne Fassade für eine Schule aus Wirtschaftlichkeitsgründen ablehnt. Das Land Steiermark unterstützt Haushalte weiterhin mit einem Heizkostenzuschuss von 340 Euro auch in den Jahren 2026/27.",
+      "summary": "Eine steirische Klimabündnisgemeinde fordert EU-Förderung für die Beschattung eines Schulzentrums ein, während das Land Steiermark eine grüne Fassade für eine Schule aus Wirtschaftlichkeitsgründen ablehnt. Das Land Steiermark unterstützt Haushalte 2026/27 weiterhin mit einem Heizkostenzuschuss von 340 Euro.",
       "items": [
         {
           "title": "Beschattung von Schulzentrum: Klimabündnisgemeinde fordert EU-Förderung ein - MeinBezirk.at",
@@ -183,9 +183,9 @@
           "date": "23. Sep 2026"
         },
         {
-          "title": "Steiermark: 340 Euro Heizkostenzuschuss auch 2026/27 - Land Steiermark setzt gezielte ... - Regionews.at",
+          "title": "Steiermark: 340 Euro Heizkostenzuschuss auch 2026/27 - Land Steiermark setzt gezielte ... - regionews.at",
           "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOYW5UdkR3bTRTZG9MbkJEbUFxX1JtOHB3TXFERV9ZZE1GTXBYS3BEZWZnRXR1Z1FoWHhmVEprWEYtQW5mdkk2UVhIaTczbVBOOUVPWks1RXBvTWJnQXRUUXdpaXNvS0U4ZWVTdFBoOWd4RXctMS00NXU2UWxvS3A0emgwcnFfbzFSYkJCMlFtMl9VN2xlbmxyaFNJdUNZTGdjODI4TlE5aWhFbE1PYU9tM2wxMU1SV2FLZXNoMEZ6U0ItMGpQTm8ybTl6aGstVjF0eHhqQ1JuYWgxdDNuVmdYalBNWDRuVzk2RUp5STVJY2ktLWZQRlBMekI3RdIB-wFBVV95cUxOYW5UdkR3bTRTZG9MbkJEbUFxX1JtOHB3TXFERV9ZZE1GTXBYS3BEZWZnRXR1Z1FoWHhmVEprWEYtQW5mdkk2UVhIaTczbVBOOUVPWks1RXBvTWJnQXRUUXdpaXNvS0U4ZWVTdFBoOWd4RXctMS00NXU2UWxvS3A0emgwcnFfbzFSYkJCMlFtMl9VN2xlbmxyaFNJdUNZTGdjODI4TlE5aWhFbE1PYU9tM2wxMU1SV2FLZXNoMEZ6U0ItMGpQTm8ybTl6aGstVjF0eHhqQ1JuYWgxdDNuVmdYalBNWDRuVzk2RUp5STVJY2ktLWZQRlBMekI3RQ?oc=5",
-          "source": "Regionews.at",
+          "source": "regionews.at",
           "date": "27. Sep 2026"
         }
       ]
@@ -194,7 +194,7 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark positioniert sich aktiv in der KI-Regulierung und nutzt Formate wie Wirtschaftskammer-Frühstücke, um Unternehmen mit künstlicher Intelligenz vertraut zu machen. Über ein Jahrzehnt hinweg hat sich Österreich als Technologiestandort grundlegend transformiert, wobei die Steiermark als innovativer Wirtschaftsraum eine Schlüsselrolle in dieser Entwicklung spielt.",
+      "summary": "Die Steiermark positioniert sich aktiv in der KI-Regulierung und nutzt Plattformen wie Wirtschaftskammer-Events, um Unternehmen mit künstlicher Intelligenz vertraut zu machen. Über ein Jahrzehnt hinweg hat sich Österreich als Technologiestandort fundamental weiterentwickelt, wobei die Steiermark als innovativer Wirtschaftsraum eine Schlüsselrolle in dieser Transformation spielt.",
       "items": [
         {
           "title": "Experte für neue Regulierungen bei KI-Systemen - steiermark.ORF.at",
