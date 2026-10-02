@@ -1,16 +1,22 @@
 {
-  "generated": "01. October 2026, 09:23 UTC",
+  "generated": "02. October 2026, 08:58 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die steirische Wirtschaft zeigt ein gemischtes Bild: Während die Arbeitslosigkeit deutlich ansteigt und internationale Konkurrenz (besonders aus China) steirische Unternehmen unter Druck setzt, entstehen gleichzeitig positive Impulse durch Netzwerkinitiativen für Lehrlinge und Frauen sowie durch die Förderung nachhaltiger Wirtschaftsmodelle im Handwerk und in der Kreislaufwirtschaft. Die Steiermark setzt damit auf regionale Vernetzung und grüne Transformation, um trotz konjunktureller Herausforderungen ihre Wettbewerbsfähigkeit zu bewahren.",
+      "summary": "Die Steiermark verzeichnet positive Entwicklungen bei Unternehmensansiedlungen wie der neuen Felbermayr-Niederlassung und zeigt Engagement für nachhaltige Wirtschaftsformen durch Initiativen zur grünen Wirtschaft und Kreislaufwirtschaft. Allerdings trübt sich die Arbeitsmarktlage mit einem Anstieg der Arbeitslosigkeit um 5,9 Prozent ein, während gleichzeitig Netzwerkinitiativen für Lehrlinge und Frauen zur Fachkräftesicherung beitragen.",
       "items": [
         {
-          "title": "Keine Trendwende: Steirische Arbeitslosigkeit steigt deutlich - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVGRUckNfdTJFWUlwdDNJXzNwNkRrSFNOWXFMQUVEby1rTGVxYVBzOXltVDRTVTZHMm9tcXY3akhJOVU5dF9SMWp6ZnJYSGROVDNTbEpkMkVVb2g5Q2F3dkk0Z0FpamJzNlBnNWtaTjJaWmF2SDk4bzhiQ3JiSlpsWDBFVXdjVnp4RERpZUVXRXJUNEZzUUJhM3Nxbk1IVTFYOE9rcTZ3aFhzUQ?oc=5",
+          "title": "Felbermayr eröffnet neue Niederlassung in der Steiermark - Wirtschaftszeit",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMDd0dzFzMm5oeURsVFRoV0w2M043Y1ZsUXlxUzFLT0tBWFh3QXdCWHVsYVZjM0o5eHk4dktDV29zWlE0RWpmYmFSY2hxVGgwTzd6TmllVTVfQnVhR0NqZkdiVW9naXh6SGxqSlVjUmlQYTdvUXZfLXV5dUdySFNjeUJUZ1R5di1WY2ZRUVBKR3p5VmhaT2xaWThR?oc=5",
+          "source": "Wirtschaftszeit",
+          "date": "1. Oct 2026"
+        },
+        {
+          "title": "Neue steirische Branchenchefs für Außenhandel und Bestatter - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSEcwM1FlcTdWRTBEU2g3OVVnQlpYNWZnUFZjckx3WGd3MXo5ZjVZdHlsbkhWUWx4dzNpNi1jUHdyWllKQVc3WmNiaGUzRkcyeHdCUmJLX3NaeF9pRXFOV2NhdmJCUjZpeUE5aW1ZMVdTMFhxa2k3cjRPc3JBbGQ5ZEctRjM1VEFfb2ZfcmtlZ1lWV0tDem9qcnVxdTQzQ2dXUGQ3OTRGalNxa3M?oc=5",
           "source": "Kleine Zeitung",
           "date": "1. Oct 2026"
         },
@@ -27,34 +33,28 @@
           "date": "26. Sep 2026"
         },
         {
+          "title": "Kein Weg führt an der dritten Spur auf der A9 vorbei! - FPÖ Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOanRqckxxRWtldmVKdWhwWnp5T1gzWjkwM3VwQ3NxYU5hbmlGRUZtX0pFQktLQjhCOTRscHdldkxNOVJBaGdmYmdsRVNJd0JSVmJ6SU1BSEt4eDg2dmswU29iM0VBTzhqd183WFQ1TUZCNV9DaTRmU2ZFUjJfT24ybWYzd3ZvcHRvZ3RTYVRKTVZ2SW5M?oc=5",
+          "source": "FPÖ Steiermark",
+          "date": "1. Oct 2026"
+        },
+        {
           "title": "RLB-Beteiligung an Energie Steiermark? „Werden wir uns anschauen“ - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQzVvSHZYVDRJdVV6aldmUlhYZ21nby1LVmZoSzMwYzcwVkppVEt0UGhZLXdiQjJaNlljZXZ0NEJEVXFwOWlOZ3NCakVlSFd6LTZVRS1IRi1RTHJNbEpsdW5ycHVnWDRENkxxX05pYm13d2o3UG1mRWY1X1UxVlpiUExmWmkxcmRqWUl0T1lSMHFKRExJNGtpOXJnWjVyaURUYXN2bzN3NDg0T2ZW?oc=5",
           "source": "Kleine Zeitung",
           "date": "28. Sep 2026"
         },
         {
-          "title": "Unternehmerin des Jahres: Verena Ulrich-Hollerer aus Bad Gleichenberg ist „Beste Gestalterin“ 2026 - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZnFQWUVNMHdEMXoweDRLMWR3cUd5bTJzRjFldk51SlBTTmZCeGJFYVFhejY1MUhrTWR3NzNROUlyQnNDZlpPTXhDNjdhZzJYZ243RWhrWENmZFI1M2F5WGRHMWhFVGFOejBrYTlsNm91dlA3cnBjQ3Zzd2dERmNudWtvNVFwaGtheTJ5NXRBTDk1c3gtZERpZG1lTGhFdlFJdE51ZGtoUDVId3FycVB2TnpBWjZCX2VOTlV6TXBiOFE5S0Jsb0xkYWVScVc1QQ?oc=5",
+          "title": "AMS erwartet schwierigen Herbst: Arbeitslosigkeit steigt in der Steiermark um 5,9 Prozent - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNXJnR1o0YzJaNmM2NF9QTXNQd2Ztc0hiUm4xb2NINUo3TUZMLXJBMEMzem0zR0JUMEpDS2cwdWpqOXFpT0hiN19nRUQ0d2d0dmpKU04tdmVqamY4UVplcWtYc1JTeFZRaENZaHZQaEVqVXZXRmxWcUE2Z1dMVm02bEVMYnpNam1IMU9SNWNsWVQtSTlCdFE0RDlLOE1aaHZsVWd0VGtQckwySUMxRldFMTkwa2E?oc=5",
           "source": "MeinBezirk.at",
-          "date": "28. Sep 2026"
+          "date": "1. Oct 2026"
         },
         {
           "title": "Netzwerktreffen für Lehrlinge und Frauen begeistern in der Südoststeiermark - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcmQtN05yS09RMGVSZ25ZRUo2Slk2Zll1dFEtb3AyTnFtblJkbzNaNWpEckdVMmlDbkIzNEZ1aVBFSEU1cWZaZUJ4N1MtbWhVcExFQXJKLV9oV2t1ME1mcXBPR2hEeERKSDBPYno1Qk1jcERvOVl5R2Fla3VwSTYzaVlCX1BQWE55ME5NWUxHSVNlTzNGU2xMUUhBcGs1TDVHaTkyMTBvZTM?oc=5",
           "source": "Kleine Zeitung",
           "date": "30. Sep 2026"
-        },
-        {
-          "title": "China räumt ab: Exzellente Steirer fahren ohne Edelmetall im Gepäck nach Hause - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTTV2QS0zUThHUDJEbHE1bTNNWXFyam56UGowRDltSU1VbGdEa3J0aFN1b2pDZTY5YTM3T0s1UnI0U2owalJyZ1ZSMUhkOTBjTF9ETDhzRFYzSG9EN2ZCNklDYW9NVDdxdFhBUDNkc3hCRjdHbjFIeC0yX3RtTDF1a0tOeG9oODFKZlY1N1BObnB0aHdaS0dHX29CclZsRGY4SWY2SmQxZEl6QkNGNFlGMFpOdGZ4Q3B6djFEQnVxSQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "27. Sep 2026"
-        },
-        {
-          "title": "Installateure informierten sich bei Stammtisch in Söding-St. Johann - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjYwUUV2YXdTeUdxRVJQRmd2a3pCWEx2N3NxLU9sclBJYUVXMWVBVG5IWjV3ZTNLeUZkNGI0MWpQSV9OaXZUTGJvWXpuODVmU2tTZy1ESlJ5WXYwdkNMVEgyYTR3WkktXy1wcVlrNWd0UkEtckdEdWtVQUktb2pSaHFhSjhtaTA3SEt0UFFHVk5WcjlfeVAzZmdxSkNrQnpSWlBpN21mVGdSWG9hcU1jbmlyMA?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "29. Sep 2026"
         }
       ]
     },
@@ -62,8 +62,14 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark verzeichnet einen deutlichen Anstieg beim internationalen Tourismus und entwickelt innovative Angebote wie spezialisierte Urlaubskonzepte für Menschen mit Demenz sowie die Positionierung des Biosphärenparks Mur-Drau-Donau als neues Tourismusmagnet. Hochwertige österreichische Tourismusproduktionen unterstreichen dabei die professionelle Vermarktung und Qualität der steirischen Tourismusförderung auf internationaler Ebene.",
+      "summary": "Die Steiermark investiert in ihre Infrastruktur und Attraktivität durch Großprojekte wie den neuen Speicherteich der Planai und entwickelt innovative Tourismusangebote, die neue Zielgruppen wie Menschen mit Demenz erschließen. Gleichzeitig positioniert sich die Region durch nachhaltige Projekte wie den Biosphärenpark Mur-Drau-Donau und hochwertige Tourismusmarketing-Produktionen als modernes und inklusives Reiseziel.",
       "items": [
+        {
+          "title": "Planai: „Wasser marsch“ für den größten Speicherteich der Steiermark - Seilbahn.net",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON0VFWE44MHBrVGl0TlRIZ2JJWVpnZTU3Z3ZsZV9HaDdYNlVyWnBzYU9MbVFiLTlzazlaX1k4OFBMRWJUMUoyWlRzMFJGQmR4bnM5TVJFWjduamJBNWdJVHNGb25JMXEtZFlQRWtZSzVEbFN5R3RWZEZGYkpKczBQNXBkY0Y3bkpWczY0a0R0ZEE?oc=5",
+          "source": "Seilbahn.net",
+          "date": "1. Oct 2026"
+        },
         {
           "title": "Wie der Biosphärenpark Mur-Drau-Donau zum Tourismusmagnet wird - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQelR2R3dNRERfX1RIZm5mcWU5ckY1M2FTdUcwVksyU2xtWUlMdXBvZkdydlo0eWU1VW5XeW54QnAyS1MzeGhFSEFYT2dEREF2UVJKamtteDFBNEVrX2pwQmJMemJ3QTVFQ1c5cjNfZDl0RVNZRTNnWDVZdGdXcXBoQXNLQnJ1YTJ1cURRWEhIa1p4UnJocXVieVBCYkFFTUFsSHVRN0szQnV2NlRtalE?oc=5",
@@ -74,12 +80,6 @@
           "title": "Urlaub trotz Demenz: Erstes Angebot in Südösterreich - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ3BFSF9oMUhGR0dpWG5FbTBaanZ1eFc2Z0hiVGhZVm1pUlBpdU1qMlZ5X0RuR1ZPdDJxRG1fQlhCNzN2QTdTRmJCekYxaDc1eEhaNjM2b3NyMVNSSXFSSXRWcVBCbnd6N3dkUUU3ZW5BX1FYaXVoSUxfcWJEWk5UcTRWSjJ5cVpEREdWV2pqa3pibDhseUtnVllDaHdqN3F6?oc=5",
           "source": "Kleine Zeitung",
-          "date": "25. Sep 2026"
-        },
-        {
-          "title": "Steiermark verzeichnet deutlichen Anstieg beim Auslandstourismus im Sommer - Welt Stimme",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRGE5c0pqemdjSmtpVnQ4RnFPbWVHak9OZHNaU1pBVmY4WXJvUDZjTFRpNHpkbXJMMHZ0VFhPRHN1MDRicnotbWExTndPZWFNcXJoTXFiTzFhdU1reVhObEI3cm10R1Y5T0l6VTF0M2pzQW5qN0Z1a3ltS25vS2JZQnlmWWdvcmxrSUxfTVptaFJrRTR6MGppX3RhNzY3YU9TN2hJUmI3ZVNPbEZ0TFE?oc=5",
-          "source": "Welt Stimme",
           "date": "25. Sep 2026"
         },
         {
@@ -94,7 +94,7 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Steiermark etabliert sich als neuer Standort für internationale Drohnenforschung und gewinnt gleichzeitig an Bedeutung in der globalen Forschungslandschaft, wie die Rektoratswechsel und internationalen Rankings der steirischen Universitäten zeigen. Dabei leisten Institutionen wie die TU Graz durch die Entdeckung von Sicherheitslücken in Passwörtern und Browserverlauf wichtige Beiträge zur IT-Sicherheitsforschung.",
+      "summary": "Die Steiermark etabliert sich als neuer Forschungsstandort für internationale Drohnenforschung, während die TU Graz mit der Entdeckung von Sicherheitslücken bei Passwörtern und Browserverlauf zur Cybersicherheit beiträgt. Daneben prägen Veränderungen in der Universitätslandschaft wie die neue Rektoratsperiode an der Uni Graz sowie Initiativen wie der Vulkanland Innovationspreis die steirische Forschungs- und Innovationsförderung.",
       "items": [
         {
           "title": "Internationale Drohnenforschung landet erstmals in der Steiermark - 5 Minuten",
@@ -103,22 +103,28 @@
           "date": "29. Sep 2026"
         },
         {
-          "title": "Wie wichtig ist das internationale Ranking für steirische Unis? - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbGs1U1JrVmZGeU82RVZORnVXYnU3cjViMlNnbGk1MzFsTjVzOXFoTDhoVlZqSzU4clk1X3Q3QUpINUxCSDdoQWM2SFMyVUZ6bUdkTE5nUmNJTnU2ekZRczBLMzc5cFpEUU9JUWxpVE90cjZrM2JuQllqOXNsbjlhekxEYk5iOGR0VzdSamJLYVBCU0h4RTRkdlMxQmRBSWtqLVItRmhmd1duMWlScFE?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "30. Sep 2026"
-        },
-        {
           "title": "Passwörter und Browserverlauf im Fokus: TU Graz entdeckt Sicherheitslücken - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObWpUb2JaX2ViLVFWUEsxSzU4WS1lb1dfSFNqRkZVZ0NzdmZNN0ZUT2JVR0tweUM1OU41amhlS0tXbHpPcnBTQnV2R0xSOUVnQnRWUnR2UU5Tell6OWJKdFF0amh6NEw0Ymk3bXhFaDBSa1gwTExSWlFNdHk4RHFiT1NEMTZJekVoVmdUaXdDeVItQlpUVHdUOE5kaE5vVmJwZ2FJSG52QWFUVXF6a2s1VHdqZFRodw?oc=5",
           "source": "5 Minuten",
           "date": "28. Sep 2026"
         },
         {
+          "title": "Wie wichtig ist das internationale Ranking für steirische Unis? - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbGs1U1JrVmZGeU82RVZORnVXYnU3cjViMlNnbGk1MzFsTjVzOXFoTDhoVlZqSzU4clk1X3Q3QUpINUxCSDdoQWM2SFMyVUZ6bUdkTE5nUmNJTnU2ekZRczBLMzc5cFpEUU9JUWxpVE90cjZrM2JuQllqOXNsbjlhekxEYk5iOGR0VzdSamJLYVBCU0h4RTRkdlMxQmRBSWtqLVItRmhmd1duMWlScFE?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "30. Sep 2026"
+        },
+        {
           "title": "Neue Rektoratsperiode: An der Uni Graz gibt es eine Veränderung - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaS10NngwRkNUbGlWc2ZQbVlhelhGUk5IQ0ZQVlBJeXlCcFFaemJHcHRYNlAtQS1QaXVibkRZX2V2TzdYYWdPMUY0SHZxUUtUMXFZakpFSGdhNk9QcjRtaDc1MzkwdUZHeW1IRkg3dklpUUNla1hfS3lKZUU3bk96MWgyTTRRMzdpeTN5anpPTmhGdUVtQ1lZMGhERm4tRnNydzRzUS1n?oc=5",
           "source": "5 Minuten",
           "date": "28. Sep 2026"
+        },
+        {
+          "title": "Vulkanland Innovationspreis: Einreichungen sind bis 18. Oktober möglich - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQanJXcTFHZkdoTlRuYnFXcGd6TlJOQzJ4S2w5NkJWblZ4dHFIMjlwREIzbC1NLUJ5cHVqSG1wOXFJQlF6TVQySXkyc2oxdkd6MUZHNDM0MWRQN2xwLXZqQm5yVURuNmpZNmVnRFA5QU5IanpPaVpTbXdNcDBNTVpJMklyTDFmYlpwWGZXVjh4MkVsSUUtRHljemNrblNkVVpvOFhCbjREdjU?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "30. Sep 2026"
         }
       ]
     },
@@ -126,45 +132,38 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark nutzt EU-Förderungen zur Verbesserung der Schulinfrastruktur durch Beschattungsmaßnahmen im Rahmen von Klimabündnisinitiativen. Das Land setzt zudem gezielte Unterstützungsmaßnahmen fort und gewährt auch 2026/27 einen Heizkostenzuschuss von 340 Euro für belastete Haushalte.",
-      "items": [
-        {
-          "title": "Beschattung von Schulzentrum: Klimabündnisgemeinde fordert EU-Förderung ein - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONENpcW1aMHZEMWt4UFUtby01dEJWdG0xS1BmS0VFelVuQjcwOWZhX0tNTmQtUDJZSGRVdEVNRDhBQ1NLWW8yNWVOTl9OeWRvcmF5RnM4bHk4LXhYR0JLa2t1NEtxSkZhSm1FWG5oMTMwMUp3MHB1M0NXUWpvVTBFZHQ1d1NXd1JJT3I3V1J6QzU2MWhvYWFlcFBMWFFTcTlnd2xfTkpfWjRndkk?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "24. Sep 2026"
-        },
-        {
-          "title": "Steiermark: 340 Euro Heizkostenzuschuss auch 2026/27 - Land Steiermark setzt gezielte ... - Regionews.at",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOYW5UdkR3bTRTZG9MbkJEbUFxX1JtOHB3TXFERV9ZZE1GTXBYS3BEZWZnRXR1Z1FoWHhmVEprWEYtQW5mdkk2UVhIaTczbVBOOUVPWks1RXBvTWJnQXRUUXdpaXNvS0U4ZWVTdFBoOWd4RXctMS00NXU2UWxvS3A0emgwcnFfbzFSYkJCMlFtMl9VN2xlbmxyaFNJdUNZTGdjODI4TlE5aWhFbE1PYU9tM2wxMU1SV2FLZXNoMEZ6U0ItMGpQTm8ybTl6aGstVjF0eHhqQ1JuYWgxdDNuVmdYalBNWDRuVzk2RUp5STVJY2ktLWZQRlBMekI3RdIB-wFBVV95cUxOYW5UdkR3bTRTZG9MbkJEbUFxX1JtOHB3TXFERV9ZZE1GTXBYS3BEZWZnRXR1Z1FoWHhmVEprWEYtQW5mdkk2UVhIaTczbVBOOUVPWks1RXBvTWJnQXRUUXdpaXNvS0U4ZWVTdFBoOWd4RXctMS00NXU2UWxvS3A0emgwcnFfbzFSYkJCMlFtMl9VN2xlbmxyaFNJdUNZTGdjODI4TlE5aWhFbE1PYU9tM2wxMU1SV2FLZXNoMEZ6U0ItMGpQTm8ybTl6aGstVjF0eHhqQ1JuYWgxdDNuVmdYalBNWDRuVzk2RUp5STVJY2ktLWZQRlBMekI3RQ?oc=5",
-          "source": "Regionews.at",
-          "date": "27. Sep 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "innovation": {
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark entwickelt sich als Technologiestandort weiter, während gleichzeitig neue Regulierungsrahmen für KI-Systeme etabliert werden, um Risiken wie Deep Fakes zu bewältigen. Parallel dazu entstehen innovative Räume wie das geplante Grazer Kreativquartier, die Startups und kreative Technologiecluster fördern und die digitale Transformation vorantreiben.",
+      "summary": "Österreichs Technologielandschaft hat sich in den letzten zehn Jahren grundlegend transformiert und bringt nun innovative junge Talente hervor, die mit Green-Tech-Projekten und kreativen Quartieren neue Lösungen für Klimaschutz und urbane Entwicklung schaffen. Gleichzeitig entstehen durch diese Dynamik auch neue Herausforderungen wie die Bedrohung durch KI-generierte Deep Fakes, die kritische gesellschaftliche Diskussionen über verantwortungsvolle Technologienutzung erforderlich machen.",
       "items": [
         {
-          "title": "Künstliche Intelligenz: Bedrohung durch Deep Fakes - ORF ON",
+          "title": "Künstliche Intelligenz: Bedrohung durch Deep Fakes - on.orf.at",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTllYTThUR2oyaGxCR1lGY1hlUnVQNmxkZ1dVRnhiSXprc2FiMFhHRktKQ2xqX3NjM0VGNGk0NkNwSzBhb1R0N1NpZVNhU1hzUUhQTVJZOC05d3Azc0RwcVBzZ0p1RUVjd1lDRTFsMlFrbXpqZTExX3hmUk9kUjlBZlM1RnViX1NDMXk3WVNSa0RPQVg5WDNWbVJjeF9aZlg5bXdodzlzY1FvbHJIUWtPUVc0NXBVd2w3RElEc2ZPdw?oc=5",
-          "source": "ORF ON",
+          "source": "on.orf.at",
           "date": "29. Sep 2026"
-        },
-        {
-          "title": "Experte für neue Regulierungen bei KI-Systemen - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGdW1JMHpSeVpLeHFvVE1NZ0ttaWRUeGFrR0hTWnIzdFhYWGNCeWhNRHpYMV82RlhxZjYzR0VzRExPVjM0WTBkNE1BWWxxRE5kOEpvYw?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "25. Sep 2026"
         },
         {
           "title": "Zehn Jahre, die Österreichs Technologielandschaft verändert haben - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOemh1YmdRWWJIUzkxLV9BVEhLdVdtZEtlYWJRQldFRUZKS25HYXFVbFNGU0dfSVJYMVZzYmptTWRGM0pUU0QxaEFaNk9kRUJMVHhZV3QxaHFRZXdZZ0hrdDRSVkpGSFNBT0QxdEJ0MlBybTZYNkFMN09PaU0tYTM3azI1LVFwcF8xeGZQNzVJdXl3dGc1aWl5Nko0ZmRUOUJGdG85YXVaM3hETXVndWxXM2JKZmRrZENLamtRVU9xOGhfVlhDWVpSRV9VY0xTM2tQSkpz?oc=5",
           "source": "Kronen Zeitung",
           "date": "26. Sep 2026"
+        },
+        {
+          "title": "Spannende Diskussion liefert reichlich Stoff zum Nachdenken - hlk.co.at",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONVJGOGtLOU9nMUM3S25JVmQ5N1pzZjJSSUp5UmoxbXdqZHAyRTJDMERKcUJpQlZvVndlT0JKU1NyZWctVVh2elRMSWNHTEhoazZxa1hBQmVmQkdKampiam9xMkVPbFFsTTA5WmlqdG11cmliendYOFNwVkZBSGpiQ0l4cmRUbl9mbDNCb1ZKSHFKMjBUa0E?oc=5",
+          "source": "hlk.co.at",
+          "date": "1. Oct 2026"
+        },
+        {
+          "title": "Vielversprechende Projekte: Junge Talente denken beim \"Green Startup Summer\" Klimaschutz neu - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY2NybVE4NXFnU2l1TlFVeEpDdnhjODI2b0x0UG9uQkxCb2JGaXplR2M0bDdWOGw0R1Rlb3VfYjVZRGpnZVZfYVk2TmllOHRKOS05eDlyeThuWWF5VFJBb3I5QktWRWRkelBKODVCTVpscGJKWllvZ2tRT1ZkSnZFb1JjaUZYUUZ1Yk42QWRBbklrZDMwX0R3SlBWUV81b0JiVGJreS1QY0JDVEVtcjA0OXdCWGdmQQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "2. Oct 2026"
         },
         {
           "title": "Alte Industriehalle soll zum Grazer „Kreativquartier“ werden - Kleine Zeitung",
