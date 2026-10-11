@@ -1,30 +1,24 @@
 {
-  "generated": "10. October 2026, 08:56 UTC",
+  "generated": "11. October 2026, 09:16 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Steiermark setzt auf Nachwuchsförderung und Innovation, wie die Auszeichnung von 151 Hoffnungsträgern und die Etablierung als Testregion für humanoide Robotik zeigen, während gleichzeitig die Region durch grenzüberschreitende Infrastrukturprojekte wie Area Süd wirtschaftlich gestärkt wird. Allerdings trüben steigende Firmenpleiten in der Steiermark und Kärnten das wirtschaftliche Gesamtbild, was auf strukturelle Herausforderungen trotz positiver Einzelinitiativen hindeutet.",
+      "summary": "Die Steiermark positioniert sich als innovative Testregion für humanoide Robotik und stärkt ihre wirtschaftliche Zusammenarbeit mit Kärnten durch regionale Entwicklungsprojekte wie die Area Süd, während gleichzeitig lokale Unternehmer und Hoffnungsträger durch Wirtschaftskammer-Auszeichnungen gewürdigt werden. Allerdings trübt die steigende Zahl von Firmenpleiten in der Region das ansonsten positive Bild der wirtschaftlichen Dynamik und erfordert verstärkte Unterstützungsmaßnahmen für bestehende Betriebe.",
       "items": [
         {
-          "title": "„Stars of Styria“ im Bezirk Weiz: Wirtschaftskammer feierte 151 Hoffnungsträger - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWJGaXBSNnk4UUVVZnZqT3Vtd3lVN0wycWFtY3dFTy1Eb1F6U3k3ZnFTZkFPRjFMTDR3Q1duamlJVTh5MllpNnZYYTdHYzNZMjBzR3N3MHVpaTFLNUNqMWd3Q3ZyMThaWWRlS2NCcVBIOTR3NlZPVlYwQ2xsemVzQmlQQ3BqUTExckZlVXBGdEZ0QmtmbHR0V3o5SGZyUzVu?oc=5",
+          "title": "Wirtschaftskammer-Auszeichnung: Finanzexpertin Birgit Lackner ist Unternehmerin des Jahres - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN3JxWHUtT3RIcUNqdVJkMlF3TkdfSTA2UXhDVzdlUlY3VEJUTEd0SWR1MkVrRFd3eThsU3pGb0ZNaE5zN0pyRi13Q3pjbzVOYVJmZDhpeElFT3RQWXlDSmY1OU1OMWxvOE1IM1Q1bkEwdzB5MjdST0JOLVFHckVncDZLejg1UFJIUGw3eVpGU0VNNzkyX2pRNVQwZm5tcUlsek5yNzd1R1FhdjVzTGg3MlF0MjBtQQ?oc=5",
           "source": "MeinBezirk.at",
-          "date": "9. Oct 2026"
+          "date": "7. Oct 2026"
         },
         {
-          "title": "Glanzvoller Abend in Bruck: Nachwuchsfachkräfte ausgezeichnet - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb0pYMURsaW4xRjRKR05kWkVrcUZOMUtXSDd2WFdwSS1XSFVVSk1MOGl5LUtHdUxQSTR1TjRnZkVUa090ZUhZU21hdlR5N05zTmstdDBMdlBFMTM4WE5qaTJjc1pWNENYN3VNcktLdmVWbjVmeUhsQ3ZnOHlGaEhmQXVzdnJSZXV4THRxeG41NVRaS1lTLXN2N2Yyclh5Nl9vOFNLTkVjTEo1QW8?oc=5",
+          "title": "Beste Kaffeehäuser der Steiermark und Möbelix-Neueröffnung in Feldbach - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb3Z1R0huS2lnVHd2Q0FnU1p0ako4YjNseGpNbVBXUEU4V2tEQnljcEFoWUc2cC1BaS1fU3YtcEFTOGRZNTEwYV9FYVhVS1REQ0d1OGw2RjJzZ0hkSmRMRDFmeXNQN2F6SV80c1NyZlh3VjdteFdpaG54a1h4eE04WmNjTXByWlFSWGVUMkJRNThBUGdvVUM0Ulk3a2wybGR6Zng2NURWQTRBRjlwcFBn?oc=5",
           "source": "Kleine Zeitung",
-          "date": "9. Oct 2026"
-        },
-        {
-          "title": "Area Süd bekommt Mega-Push von Landesregierung Kärnten und Steiermark - Wirtschaftsnachrichten Süd",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY19vVDVMLTlDbDlJLUlJVWFPUTJaUEJfWVc2V2I2QWJQWXYzZlJtV0phZWR0SjJVNGZQVmxkOWxHOTZKcjd5Tkk3VV9xWkE4Q3pmWHA0aVV5SEVLb0FINkRMWXd3UTQxRlBXZHhjbnRpUl9reHFaaHl5SUJiMjRUNExpZzh5cEVQM2JaZ1UzOWc?oc=5",
-          "source": "Wirtschaftsnachrichten Süd",
-          "date": "5. Oct 2026"
+          "date": "7. Oct 2026"
         },
         {
           "title": "Steiermark als Testregion für humanoide Robotik - Klipp Magazin",
@@ -33,10 +27,16 @@
           "date": "5. Oct 2026"
         },
         {
-          "title": "Beste Kaffeehäuser der Steiermark und Möbelix-Neueröffnung in Feldbach - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb3Z1R0huS2lnVHd2Q0FnU1p0ako4YjNseGpNbVBXUEU4V2tEQnljcEFoWUc2cC1BaS1fU3YtcEFTOGRZNTEwYV9FYVhVS1REQ0d1OGw2RjJzZ0hkSmRMRDFmeXNQN2F6SV80c1NyZlh3VjdteFdpaG54a1h4eE04WmNjTXByWlFSWGVUMkJRNThBUGdvVUM0Ulk3a2wybGR6Zng2NURWQTRBRjlwcFBn?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "7. Oct 2026"
+          "title": "Area Süd bekommt Mega-Push von Landesregierung Kärnten und Steiermark - Wirtschaftsnachrichten Süd",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY19vVDVMLTlDbDlJLUlJVWFPUTJaUEJfWVc2V2I2QWJQWXYzZlJtV0phZWR0SjJVNGZQVmxkOWxHOTZKcjd5Tkk3VV9xWkE4Q3pmWHA0aVV5SEVLb0FINkRMWXd3UTQxRlBXZHhjbnRpUl9reHFaaHl5SUJiMjRUNExpZzh5cEVQM2JaZ1UzOWc?oc=5",
+          "source": "Wirtschaftsnachrichten Süd",
+          "date": "5. Oct 2026"
+        },
+        {
+          "title": "„Stars of Styria“ im Bezirk Weiz: Wirtschaftskammer feierte 151 Hoffnungsträger - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWJGaXBSNnk4UUVVZnZqT3Vtd3lVN0wycWFtY3dFTy1Eb1F6U3k3ZnFTZkFPRjFMTDR3Q1duamlJVTh5MllpNnZYYTdHYzNZMjBzR3N3MHVpaTFLNUNqMWd3Q3ZyMThaWWRlS2NCcVBIOTR3NlZPVlYwQ2xsemVzQmlQQ3BqUTExckZlVXBGdEZ0QmtmbHR0V3o5SGZyUzVu?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "9. Oct 2026"
         },
         {
           "title": "Neues Reitcoaching in der Obersteiermark: „Ich höre den Pferden zu“ - Kleine Zeitung",
@@ -62,13 +62,25 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark verfolgt eine ambitionierte Tourismusstrategie bis 2030, die durch den Einsatz von KI und innovative Projekte die Region zur beliebtesten Tourismusregion Europas entwickeln soll, während gleichzeitig die Nächtigungszahlen steigen und regionale Besonderheiten wie Filmstandorte und Kulinarik stärker in den Fokus rücken. Allerdings müssen Beherbergungsbetriebe mit erhöhten Abgaben rechnen, was die wirtschaftlichen Herausforderungen des Sektors widerspiegelt.",
+      "summary": "Die Steiermark setzt mit innovativen Marketingstrategien, KI-Einsatz und kreativen Kampagnen neue Maßstäbe in der europäischen Tourismusbranche und konnte dabei bereits mehrfach internationale Auszeichnungen gewinnen. Mit der ehrgeizigen Strategie 2026-2030 und dem Ziel einer Millionen-Nächtigungsmarke positioniert sich das Bundesland als führende Tourismusregion, während regionale Destinationen wie die Hochsteiermark bereits erfolgreich expandieren und neue Großprojekte planen.",
       "items": [
         {
-          "title": "Mit KI zur beliebtesten Tourismusregion Europas - steiermark.ORF.at",
+          "title": "„Ziemlich beste Freinde“: Kärnten und Steiermark gewinnen Gold für Schmähkampagne - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd1NJb2w1TWlnV1dERi1hRElGeGlpQzFjb3V6b2pTZlNJSjlXMWVoQW5RUzBlUlpZd2IybjN4V1B2RXJPa2hwd1NDRDFoN3lhSmZYc3JldDdUbVJ1ZFYxSkNWU3ZCR2NNZFBLUnVnVldKWXN1VnU1NTh1V2tpLUY2ZnExX2Y0ZVVaY09jekRndlhDREVtdmZsVTZHRnZ0WjJtM214Rk9Ddms1TlVwUncwOTV1RS1VT3IxV19XMS03dUR3UGs?oc=5",
+          "source": "5 Minuten",
+          "date": "11. Oct 2026"
+        },
+        {
+          "title": "Mit KI zur beliebtesten Tourismusregion Europas - ORF",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mZTRiY0JEWm8xbmR4SmJxcl9PUURUNjZFR0VaNlk3bUhFMklqY2JaM09QejFOeVhOc0RTVUNZbzhwOXR2Wm9FekxkeTBGdzh1MVhMRw?oc=5",
-          "source": "steiermark.ORF.at",
+          "source": "ORF",
           "date": "10. Oct 2026"
+        },
+        {
+          "title": "Kärnten und Steiermark gewinnen Gold beim BCM Award - Meine Freizeit - work&life",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUGQwd2JaVTV3aGxEYjdKV1FNTnZfVE1sa19tMWVIa3NxRm42SzBDMjN0STFmMHQ4WFJKdUo4cnFBbnUyTmNncUVsbGFUUm52dEFudkJOUFBqYk1qc3Z6bWoxSlFBam5td1A0bF92Q1hMenl4Q2lXU3pzX0N5UEx0a3JvZXJGQkZ0NXdjcXJDMTI2NnNpS1dwOWl3?oc=5",
+          "source": "Meine Freizeit - work&life",
+          "date": "11. Oct 2026"
         },
         {
           "title": "Strategie 2026-2030 - Steirischer Tourismus hängt sich die Trauben höher - Kronen Zeitung",
@@ -77,10 +89,16 @@
           "date": "10. Oct 2026"
         },
         {
-          "title": "Steirische Beherberger kauen an erhöhter Abgabe für Nächtigungen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZVlySHF0V0ZkNGZHWUtvU3EtX3FPbndnOUotVjlxNUtoTkNaR2ZYcVZac2s1QmJsNi1Rd1NscU02Tl9iZHE1YVZoUE1lSkVvVERTMmlsSnpfeWg3TWgzM0tnTzBmREJZSVFZNTZNTG1XdmlaZTNXMkNrdXZCT01tMDAwQm1ycS1vTEZJV3JvV2VCUjRKdHRHcWxEZmJlOWMzVTNCSi1xemN1Q0tPaHUxNlBiUQ?oc=5",
+          "title": "Hochsteiermark mit ersten 5 Jahren zufrieden, bereit für „sehr große“ Projekte - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeW1VQmNNbzRwd1FkaVlmQi05M01Eb01wZVZValVxUWp3RVZHdXNwWjRGUDU3WHFIb3Z3cDFSS0JFVE1KbnpLaTNBbkJaSXZJVTR0bVhDVGRQRlJhTS1rMkFVYXFndnVxRmxGY0M2SnNKcE9fNWsyOTROVUxYYVp4dGdMN3NTZU1rX1pNSlYzbk9sdmE4LVJSV2xpLWlvUUZ5M0w2X24yZjJtUGc4clU4dEFrTHY?oc=5",
           "source": "Kleine Zeitung",
-          "date": "9. Oct 2026"
+          "date": "6. Oct 2026"
+        },
+        {
+          "title": "Manchmal kurios: So werden Grüner See oder Bärenschützklamm online bewertet - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYUNpeHBUR1NYNmlKV0lTYVgwQXJiXzhUbVdXalpNNFRuRXBJQ3IzUmhITm9pc3RhQm54QmxUQkU4aThDQk1KUXRmcnBtTk5pMW9QV2VXdDVsOElaZUFScDRwdmVsX0lWU1BuM3EtY2JCb0lkYnpJX3ZoQ2twN1Zzbkk0anV6UU5DQXZVZGdzUkY2N3EtRzM3NThLVmNiWE9feW1nU1RJbDE0TnNyNjUxN2hMV3Q?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "10. Oct 2026"
         },
         {
           "title": "Die Steiermark nimmt Kurs auf die herbstliche Gäste-Million - Kleine Zeitung",
@@ -89,28 +107,10 @@
           "date": "4. Oct 2026"
         },
         {
-          "title": "Hochsteiermark mit ersten 5 Jahren zufrieden, bereit für „sehr große“ Projekte - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeW1VQmNNbzRwd1FkaVlmQi05M01Eb01wZVZValVxUWp3RVZHdXNwWjRGUDU3WHFIb3Z3cDFSS0JFVE1KbnpLaTNBbkJaSXZJVTR0bVhDVGRQRlJhTS1rMkFVYXFndnVxRmxGY0M2SnNKcE9fNWsyOTROVUxYYVp4dGdMN3NTZU1rX1pNSlYzbk9sdmE4LVJSV2xpLWlvUUZ5M0w2X24yZjJtUGc4clU4dEFrTHY?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "6. Oct 2026"
-        },
-        {
-          "title": "Filmdrehs in der Steiermark: Wo noch viel Luft nach oben ist - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHppdGNQU3YtclR2ZWE4aFNBb2lVSDJJRkFKNUg3VmUtbDVEZXA3QlV5LXdfMmJGcnJUNDRrdmhndnRGRThwRWk0S1hnRnc4MjA3cUlRbDcya0JnZjZPUmJLcVFSS3hXTV9oQmRnTTVWYjZpZHc0a01aUTVMaFkzVENXa2JDcDF5c1J2b1VlVWktRk05STRKT1lMbDVqZXNvZlZ6SUlRSmM?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "4. Oct 2026"
-        },
-        {
           "title": "So reagieren Riegersburger auf Steiermark-Sieg bei „9 Plätze – 9 Schätze“ - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaHFZNV8wUWNBZFBXamFvMHN2YlhUcjhjWFVMUG1QM3NvcGUwSnMzVjJ5Z3k4M3pHSmx0ZEVScU5KMUh0aGlZcUtXUzFZTlcxczFuSmV5VUJPUjRkejlFeUpFUjFYUEI4NnZENmFmNDU3T3pwbXhHVkx4OHlWR0V0M3BCM21wZGdzRHZmd1JMU3kyM3NwRFhhbzRKSV93WHZpbm8tMWVWRjNTMkladVJ3eWVOeUNSeWhE?oc=5",
           "source": "Kleine Zeitung",
           "date": "8. Oct 2026"
-        },
-        {
-          "title": "Trüffelweine 2026: Diese Weine haben die Jury überzeugt - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQkJiVkZ1NGdRYnBhc0xDX1BramJvMWlNa1prcllLYTRNUi05SF9IeTNyOVdUM0xVajlibGJrTlJRbjd1RlBJak9qSVY5c3ozRk1jcy1Tdjd0UTVFTHBWSHFPVVBjcEpDV1N6RkZtc0drY01KRWpiRXA1TmpBYjJlUVhNOVZ1YWpOejAwcm5Wem01M2E3bVdmUHBOcF9kZmE0NTBhbg?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "6. Oct 2026"
         }
       ]
     },
@@ -118,7 +118,7 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Österreich und die Steiermark investieren massiv in künstliche Intelligenz und moderne Forschungsinfrastruktur, wie der Start einer neuen KI-Infrastruktur und eines Super-Computers zeigen, die innovative Forschungsprojekte ermöglichen. Die Technische Universität Graz entwickelt dabei zukunftsweisende Lösungen wie nachhaltige Baustoffe aus Schlamm und nutzt KI-Technologien zur Analyse großer Datenmengen, während die Forschungsförderung als strategischer Standortvorteil erkannt wird.",
+      "summary": "Die Steiermark treibt ihre Forschungsinfrastruktur durch neue KI-Technologien und Supercomputer voran, während Forschungseinrichtungen wie die TU Graz innovative Lösungen in nachhaltigen Baustoffen und Halbleitertechnologie entwickeln. Gleichzeitig bleiben traditionelle Forschungsmethoden wie Tierversuche in der wissenschaftlichen Praxis relevant, während sich die Region als europäischer Innovationsstandort positioniert.",
       "items": [
         {
           "title": "KI revolutioniert Forschung: Forscher erschaffen Österreichs erste KI-Infrastruktur - MeinBezirk.at",
@@ -133,9 +133,9 @@
           "date": "4. Oct 2026"
         },
         {
-          "title": "TU Graz will Schlamm zu Baustoff machen - steiermark.ORF.at",
+          "title": "TU Graz will Schlamm zu Baustoff machen - ORF",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKNklWbTU0NU94UlhEUzlJZFdfM2g2WEF0ZjJRWTlIWjNLcldpeVBsQndZRTFjM1ZncDdLUXg4VjhiTmNLVDA4Tk9RZlFaZlpEOXc4Sw?oc=5",
-          "source": "steiermark.ORF.at",
+          "source": "ORF",
           "date": "9. Oct 2026"
         },
         {
@@ -145,10 +145,16 @@
           "date": "9. Oct 2026"
         },
         {
-          "title": "IV und TU Austria: Technologiepolitik ist Standortpolitik - TU Wien",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdFhWT2I0elpDLWFqYUpNWThibFJQM3hHd3dJU2VCTVFYOUczOUJjV0dLRkZIUk01V3RadGtJS01KcDZIdjYzRHhmWWZIc0hxX2ZTTmlKdVhQakl5NXUxV0dHckxrdEZ4Y2ZVZUZrUTJ6dUkxSzVIMWdsNnZrU0hxNjN0YVhFSzhCYVRkQ3pJbXI2aDJQQkpYQ19ZM2NKdXNzRXM2Sl9MVXNfZw?oc=5",
-          "source": "TU Wien",
-          "date": "9. Oct 2026"
+          "title": "Schlamm und Schilf als Baustoffe - burgenland.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hRHBZU3BtNHFlODZjc2FIRHBycE1KSEpqYWQwaFZZWktVeDBLcW1hcDBRM1VoblJNQkVDb0haNjl4X1E2LUU2ZEhRZXpNM2hDdEtDNQ?oc=5",
+          "source": "burgenland.ORF.at",
+          "date": "10. Oct 2026"
+        },
+        {
+          "title": "Auf schwarzer Liste: China-Besuch an Uni Graz sorgt für Wirbel - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDRtclRtZGIwSFVhSU5pUE1PNE5mNUxqYVhBVzhpYXZqbXZwdGhZeld0MC1ldnl0SHhQWXhPS2s2NUwzS1l3YjA5WlpoS2pCYk9wNkxNdm1YY3ZyRzVWcmtJSU1MZzR0UlFPUTV1Vl9RakkwaU5mUEJKTWNMU3l2dnNYWkowc1N3aE05SW53aWl6Wk9yT1FIU1ZrcHJlQjBSa05hNTZrbzN3ZFJz?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "10. Oct 2026"
         },
         {
           "title": "Neuer Super-Computer für Österreichs Forschung startet - 5 Minuten",
@@ -157,15 +163,9 @@
           "date": "7. Oct 2026"
         },
         {
-          "title": "Millionen Zeitungsartikel in fünf Tagen erforschen - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xbjB6SERxSDNmWWxpVVdfRm5jMFBBTkNlanA3YVNRVnRlVTRidGVOd2dTdWlTQ2g5dXdBRk93eVkxeFVtb1F0YnRTai13Mm9HclUwSA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "7. Oct 2026"
-        },
-        {
-          "title": "KI-Beratung aus der Steiermark: GH Opticore Consulting e.U. überzeugt - profil.at",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbmJwNm10R2VudG1ZNWRQd0RjTUlxVzhZR0pCMTE5eHZXUmtQZ1hnY0NJNkhYdkszZVgxd3Q3d3dRUElMbTNqRm1VNG5JSmNqdURRdjBZSFFGNVZ6Q25DejFuMHpDbWdOak1xNHljS0czX2lLeC04N3FNLUZnU3h5UWpQNVRjbld1ZjJiY29UTlpzZ2Via1BrT1cyOU02aFE?oc=5",
-          "source": "profil.at",
+          "title": "EBSCON 2026: Südösterreich will Europas Halbleiterindustrie an die Weltspitze bringen - News.at",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTEVyTjdtSDktSHNmY005WUVNcHBoblZLblZMSmZLNy1kUjdOb21MNU5RMjl1R2puMFNaLUdpUkVCMkxMOTNwaVdGQ2FxRHFBbmZqTXZuZ0w5elFhSk9wOFhVNk5HM083N19udkQ5VnM5bmJad0ZURVU2ejEtbHRUaWJWd3RkQVZZNG1vdWFVeEJ2Vmt3djNXSVROYXNPc3BnM1dNX3pQZVJ6Njd3SmstUjBJWkt2cWs?oc=5",
+          "source": "News.at",
           "date": "9. Oct 2026"
         }
       ]
@@ -174,8 +174,14 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Die Steiermark positioniert sich als EU-Testregion für innovative Technologien wie humanoide Roboter und sichert sich damit Millionen-Förderungen aus EU-Projekten. Gleichzeitig werden bestehende Förderstrukturen wie Community Nursing ausgebaut und verstetigt, während andere Bereiche wie die Filmwirtschaft noch erhebliches Entwicklungspotenzial aufweisen.",
+      "summary": "Die Steiermark profitiert von gezielten EU-Förderungen in innovativen Bereichen wie der Robotik-Forschung und strebt die Rolle einer Testregion für humanoide Roboter an, während gleichzeitig traditionelle Bereiche wie Tourismus und Veranstaltungswirtschaft durch regionale Fördermaßnahmen unterstützt werden. Allerdings zeigen sich bei der Umsetzung von Programmen wie Community Nursing Herausforderungen bei der Verstetigung von Förderstrukturen, während andere Sektoren wie die Filmwirtschaft noch erhebliches Entwicklungspotenzial haben.",
       "items": [
+        {
+          "title": "Tourismusregion Region Graz: Knapp eine Million Euro Förderung floss in die Veranstaltungen - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORGk2MlhpSS1ySEpWdzVlUzN0SHAtNVpObjdIZGNOSTkyWHNlVGhJSTlJQ3Z3dFVHRVpnd1FONWxPTGhkZ3ZnU3l1MnpJTU9jZ3FQVHpLbnlRcmFTbnN4WUV2M2JlT1FkbEwtSDJ3VG5Db2h3OGFvWnJSanMyNjhXTWYwV2NlV2Iwc3BkSVpXSGRoanl4Ynk3RTNrMm9DQm0zeEJ0a2wzVXNTd3RsVXJDTTRoaFp3R2tDQzRCNVJ3?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "8. Oct 2026"
+        },
         {
           "title": "Filmdrehs in der Steiermark: Wo noch viel Luft nach oben ist - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHppdGNQU3YtclR2ZWE4aFNBb2lVSDJJRkFKNUg3VmUtbDVEZXA3QlV5LXdfMmJGcnJUNDRrdmhndnRGRThwRWk0S1hnRnc4MjA3cUlRbDcya0JnZjZPUmJLcVFSS3hXTV9oQmRnTTVWYjZpZHc0a01aUTVMaFkzVENXa2JDcDF5c1J2b1VlVWktRk05STRKT1lMbDVqZXNvZlZ6SUlRSmM?oc=5",
@@ -207,12 +213,6 @@
           "date": "5. Oct 2026"
         },
         {
-          "title": "Steiermark will Testregion für Roboter werden - ORF",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QU1I5RTFkcDVCakdHQVpiN3lJQW5yUUF1Q3VhVnJiU0YtOFBORHYtZHVQcG5vdHZMT283dDJhd1J2SXVzUHJjeDdfTjhhQ3JKdktxbUNWczFpUQ?oc=5",
-          "source": "ORF",
-          "date": "5. Oct 2026"
-        },
-        {
           "title": "Community Nursing in Voitsberg muss Ende des Jahres eingestellt werden - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSGZaZGVLNk1HeUFodWJteE1oOWVyZ0RPWTZjcGF2Z2ZYVEp6NThPLU9PVU1XRU15enZicGFZRTN6THl2Skw4Wk9DLTduSm9ILWs4RnM2SGZiMm9NYWoyRl9vZjlTRUNHcHgwak00eEdCMEdoaHFLRGFWTzdkYk9RSTMwVXVoa25CQkVnNnNHNEVXR2pka3ZweDBkcEVHR1gtU1pYVS1YYXBsc2JsTGNBM2JoNy1hNWM?oc=5",
           "source": "Kleine Zeitung",
@@ -224,7 +224,7 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark positioniert sich als innovativer KI- und Digitalisierungsstandort, indem sie durch Initiativen wie die DIGI:Base, spezialisierte Beratungsunternehmen und Forschungsinfrastrukturen an der Universität Graz gezielt Kompetenzen aufbaut und Digitalisierung in Regionen wie der Obersteiermark vorantreibt. Gleichzeitig strebt das Bundesland eine Vorreiterrolle bei zukunftsweisenden Technologien an, etwa als EU-Testregion für humanoide Robotik und durch praktische KI-Anwendungen in Bereichen wie Tourismus, Gesundheit und Abfallwirtschaft.",
+      "summary": "Die Steiermark positioniert sich als innovativer Technologiestandort, indem sie KI-Kompetenzen durch Initiativen wie DIGI:Base in der Obersteiermark aufbaut und gleichzeitig als EU-Testregion für humanoide Robotik fungieren möchte. Dabei erstreckt sich die KI-Anwendung von praktischen Lösungen wie intelligenter Müllsortierung und Tourismusoptimierung bis hin zu wissenschaftlichen Infrastrukturen an der Universität Graz, während lokale Beratungsunternehmen die Digitalisierung in Gesundheit und Wirtschaft vorantreiben.",
       "items": [
         {
           "title": "KI und Kompetenzen: „DIGI:Base“ soll Digitalisierung in der Obersteiermark vorantreiben - MeinBezirk.at",
@@ -239,21 +239,15 @@
           "date": "6. Oct 2026"
         },
         {
-          "title": "Mit KI zur beliebtesten Tourismusregion Europas - steiermark.ORF.at",
+          "title": "Mit KI zur beliebtesten Tourismusregion Europas - ORF",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mZTRiY0JEWm8xbmR4SmJxcl9PUURUNjZFR0VaNlk3bUhFMklqY2JaM09QejFOeVhOc0RTVUNZbzhwOXR2Wm9FekxkeTBGdzh1MVhMRw?oc=5",
-          "source": "steiermark.ORF.at",
+          "source": "ORF",
           "date": "10. Oct 2026"
         },
         {
-          "title": "KI-Beratung aus der Steiermark: GH Opticore Consulting e.U. überzeugt - profil.at",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY2E0QkwxNjJVSGNUWTBNSmpaM1JGemVTb0tXRXdUeGFjaEN3RElqa1VsRV96OW0wbzVibS13NjFyWmY3TVF6RVdicWR6dVpfXzI1ck5iOTl2TEdwNkhTWGtUSVNNdnJrZV85UTJZRURPUmlWRmwyT3RpMUtuMGNmUU5RVGpEMUtDOW9pRlctMTRFbVc4b2RPaWI0Tk5DOVNOTzFaRQ?oc=5",
-          "source": "profil.at",
-          "date": "9. Oct 2026"
-        },
-        {
-          "title": "Künstliche Intelligenz hilft beim Müllsortieren - steiermark.ORF.at",
+          "title": "Künstliche Intelligenz hilft beim Müllsortieren - ORF",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xaFltSXprNm1RcEJlMFVzZDZwR0J1cUlISDhjSlludWRmd3dxNjBVbGlsZVlQdENETVkxaURwVzhtazUzd3VYai1rSkJ4bHZfYndxOA?oc=5",
-          "source": "steiermark.ORF.at",
+          "source": "ORF",
           "date": "6. Oct 2026"
         },
         {
@@ -261,6 +255,12 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdTBwTWZjNWo3UExSN213d2xFSTh6aWpydTRjaEVsZFlwWDQ1bVNDR0F6QkZ0TVBsOUpsTmpOcGJlUVdKdTEzTHlpOWs0cXE5LWRNSXlvWHJDSHRzeW5tOWJqb1g5RGZudHM3aU54VzhJR3pXUUduMTBCNkNJa08taVFDRjFXYkhjc0Rhd2YxVTZTLUhleVBmNDQ3NERhV29H?oc=5",
           "source": "brutkasten",
           "date": "6. Oct 2026"
+        },
+        {
+          "title": "KI-Beratung aus der Steiermark: GH Opticore Consulting e.U. überzeugt - profil.at",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY2E0QkwxNjJVSGNUWTBNSmpaM1JGemVTb0tXRXdUeGFjaEN3RElqa1VsRV96OW0wbzVibS13NjFyWmY3TVF6RVdicWR6dVpfXzI1ck5iOTl2TEdwNkhTWGtUSVNNdnJrZV85UTJZRURPUmlWRmwyT3RpMUtuMGNmUU5RVGpEMUtDOW9pRlctMTRFbVc4b2RPaWI0Tk5DOVNOTzFaRQ?oc=5",
+          "source": "profil.at",
+          "date": "9. Oct 2026"
         },
         {
           "title": "Humanoide Roboter: Die Steiermark will EU-Testregion werden - Kurier",
