@@ -1,17 +1,29 @@
 {
-  "generated": "15. October 2026, 07:42 UTC",
+  "generated": "16. October 2026, 07:29 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Steiermark positioniert sich als potenzieller Partner beim Wiederaufbau der Ukraine und sieht darin wirtschaftliche Chancen für steirische Unternehmen, während gleichzeitig die heimische Wirtschaft mit einer anhaltenden Pleitewelle und steigenden Schulden kämpft. Trotz dieser Herausforderungen zeigen Erfolgsbeispiele wie der Landeslehrlingswettbewerb und traditionelle Strukturen wie Genossenschaften, dass es in der Region noch Potenzial für Fachkräfteentwicklung und wirtschaftliche Stabilität gibt.",
+      "summary": "Die Steiermark positioniert sich als wichtiger Partner beim Wiederaufbau der Ukraine und sieht darin erhebliche wirtschaftliche Chancen für ihre Unternehmen, während gleichzeitig die heimische Wirtschaft mit einer Pleitewelle, steigenden Schulden und fehlender Erholung kämpft. Infrastrukturprojekte wie die Koralmbahn werden einer kritischen Überprüfung unterzogen, während innovative Branchen wie die Elektromobilität neue Wachstumspotenziale bieten.",
       "items": [
         {
           "title": "Steiermark lotet Perspektiven und Chancen für den Wiederaufbau der Ukraine aus - wko.at",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNEJCdWtMbmp4Wk9XT3VIZkNhdlN3M1JyWnpibXFqUHRrTnpkdXRUTDJZd3haUU10cnZUTlZoRE9NajNrS2tuckRMWnNlcHRlOXRqamMxbDNDNk4zZjh2eFg5VzFTQTE2OU42aGpkSVVseUdLSW9YcG5wSDRGNVktcXUzSGtBX0VKbXo4b3JCUFQ4RExJ?oc=5",
           "source": "wko.at",
+          "date": "13. Oct 2026"
+        },
+        {
+          "title": "Erster Realitätscheck für das Milliardenprojekt Koralmbahn - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeGZmUTlHZTZ6X1htV19USW1yVVBEZk93THd1WEpWWm1LYm42YzJJbm5DTFhKVXoxM0ducEZuelJ4M1lNSXo3NU5RaW52cW5IU29aei1tRWM0Y1c1M2FqNkJuTV9xcUhVdE95VzlHVEhHWmRuU2Mzbks1R1MxV2dnNUlsMUZFdE9yOXNncE05Tkk2amdoZVY0eEtCUHIwdWRtU1pjVDFOUnRQdw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "15. Oct 2026"
+        },
+        {
+          "title": "Wiederaufbau der Ukraine: Steirische Unternehmen könnten wichtige Rolle spielen - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNDVPZ1I2RnZIaHZFY3B5bzVVbTJZSmlMaFFkRmdaWExDTU02dGR1RGxva0IyVHpweHpHWmxqQUxyblJlczhxM1BTX0pkR1BGcm10cnRTdHNRb25SY3FuZDFja2oxbWhIRkUzQ3NZSkNUaGRQeGJIMFpWNGN0ZENuS2JEdGRPcnlwbDRyTUtmWm5xenJvYm90UzEwT3RpdmRVenJRNnJWd0xLdzV6MWpGS3ZsS2E0aXROX1UwcU5MLV9xaEU?oc=5",
+          "source": "5 Minuten",
           "date": "13. Oct 2026"
         },
         {
@@ -21,16 +33,10 @@
           "date": "14. Oct 2026"
         },
         {
-          "title": "Genossenschaften zwischen Tradition und Transformation - Raiffeisenzeitung",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WeXpEOFJnQkhwUTJISzc5MjdvZFJHNjFYZTVZQVhYZURuSjd2RmhFNkw3N0hUcEdKQVhPbmN3ZXRmaGRqUTlfcGlzT2F1bmh1Z3pQaVg5TURHczBRclRnRWhneTF6X0lrS0VvNllPdnVoRVNWdTE0?oc=5",
-          "source": "Raiffeisenzeitung",
+          "title": "Steirische Pleitewelle: Schulden steigen massiv - Klipp Magazin",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGd0YzBWV3FfSnBxdU1BWkpXYzZyYXFGQUJtQzlNZ2lNbUxOYVBQMm1sRk9BNWNqT0U3cW12WERVWVYwandRdkN0ejJIZXh5eXdOOW0wV1N5dUVFNW1VcmhwRUNUaE14QXlNMzkzYjFzYWtDaWRuT1h0eU5aY3BfaDEza1ItLXo5eTNJT3NIVUczV3ZjcXgwZg?oc=5",
+          "source": "Klipp Magazin",
           "date": "14. Oct 2026"
-        },
-        {
-          "title": "Wiederaufbau der Ukraine: Steirische Unternehmen könnten wichtige Rolle spielen - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNDVPZ1I2RnZIaHZFY3B5bzVVbTJZSmlMaFFkRmdaWExDTU02dGR1RGxva0IyVHpweHpHWmxqQUxyblJlczhxM1BTX0pkR1BGcm10cnRTdHNRb25SY3FuZDFja2oxbWhIRkUzQ3NZSkNUaGRQeGJIMFpWNGN0ZENuS2JEdGRPcnlwbDRyTUtmWm5xenJvYm90UzEwT3RpdmRVenJRNnJWd0xLdzV6MWpGS3ZsS2E0aXROX1UwcU5MLV9xaEU?oc=5",
-          "source": "5 Minuten",
-          "date": "13. Oct 2026"
         },
         {
           "title": "Firmenpleiten: „In der Steiermark ist keine Erholung in Sicht“ - Kleine Zeitung",
@@ -39,9 +45,9 @@
           "date": "13. Oct 2026"
         },
         {
-          "title": "Steirische Pleitewelle: Schulden steigen massiv - Klipp Magazin",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGd0YzBWV3FfSnBxdU1BWkpXYzZyYXFGQUJtQzlNZ2lNbUxOYVBQMm1sRk9BNWNqT0U3cW12WERVWVYwandRdkN0ejJIZXh5eXdOOW0wV1N5dUVFNW1VcmhwRUNUaE14QXlNMzkzYjFzYWtDaWRuT1h0eU5aY3BfaDEza1ItLXo5eTNJT3NIVUczV3ZjcXgwZg?oc=5",
-          "source": "Klipp Magazin",
+          "title": "Kapfenberger Elektro-Lkws fahren für Transport bis nach Vorarlberg - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS3BocHd5ZkZpcWJpVG1rLXJwOHNQZ3pWVDVBcWxGbnpCSFQzRGswYjRENjc0aE9PNjR3cjRDdjZYdFV2eWh6VUdySmZhcWtxQXc1OVVXWnNaYjF5NUNXMl8tMTkzR3VmV0tDX3c1RVFwWTY0N0ZHQkZYbXMzSDFLSWpJVFlORFBETGl4TFM4NVZCLTBIMlZ4WW5GNWlGY1RpdHVUbGFOZlRzRGF6cW0yQ2NzTQ?oc=5",
+          "source": "Kleine Zeitung",
           "date": "14. Oct 2026"
         },
         {
@@ -49,12 +55,6 @@
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrRzloSHF4WVB2SUpoNmNnOWwtX3VSS0xvb21lNm5jaUU4RFdQYnlwbEdieVZjRDNLQWFkR2o2Y1VVdVRTWC1IbERRZ3l0Q3ZfS25qSHp1MkFzLVFOR1BnTzJLcV9xbVpvQm56bkRxd2JhVVhLZU1EbXVWSC0zZmM?oc=5",
           "source": "Wirtschaftsjournal",
           "date": "14. Oct 2026"
-        },
-        {
-          "title": "„Die letzte Etappe ist gefahren“: Steirisches Transportunternehmen trauert um Mitarbeiter - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQai1ZSmRoZkMtMmtObXAtRHlCOHRzQThvQXI2a1Y2MHBpSFFLY1NmNmlBS0ZuV2lYSEtub1hGY1NnTV9TbmRYel96U2FQSHA5STdsNDlBVTFGeGNSV3B1aFRBajVjb01LUjZldi1TdTZ3SHYxSDJTWEE4VE92TklCXzUwT0tVQjkwSXhYSEFNS1lTN0Z0eHd5ajVSU1piWjJhZU05YWpDemt6azNKRmZ2MFRibVhfdldmNy1YNW9qT0YyU0dnZ2xmODN1ZGg?oc=5",
-          "source": "5 Minuten",
-          "date": "9. Oct 2026"
         }
       ]
     },
@@ -62,14 +62,8 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die steirische Tourismusstrategie bis 2030 fokussiert verstärkt auf Digitalisierung, Künstliche Intelligenz und die Erschließung internationaler Märkte, um das Wachstum voranzutreiben. Gleichzeitig wird die Erhöhung der Nächtigungspauschale kritisch diskutiert, während innovative Marketingkampagnen und verstärkte regionale Zusammenarbeit die Wettbewerbsfähigkeit des Standorts stärken sollen.",
+      "summary": "Die steirische Tourismusstrategie 2030 setzt verstärkt auf die Internationalisierung von Märkten und den Einsatz von Künstlicher Intelligenz, während gleichzeitig die Zusammenarbeit zwischen den Bundesländern intensiviert wird. Allerdings gibt es Kritik an erhöhten Nächtigungspauschalen, die als Belastung für die Tourismuswirtschaft wahrgenommen werden.",
       "items": [
-        {
-          "title": "Steiermark-Tourismus setzt bis 2030 stärker auf Digitalisierung und KI - TIP-Online",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV3RZdWtMMGV1Q21jZjFkTVN2OEZlNkMycWZQOEV4ZmFXVVZ0TGZ1TUZLSW5YSUJsT3NsM240SF8yZGRlTTd0aU0yNnRyZWRldGxEM0ZoUkduZjh2bjJlS0x2bTluQ2ZXSjFQY1hVcVFUYi1ERFFXWjN5NzVsZ09lZTkxeXA1WXZlOEN0aWlfUEdkaHdxZlYzZE1sTUJUc25EczE4Tk1iMFZYQ2dhVHc?oc=5",
-          "source": "TIP-Online",
-          "date": "12. Oct 2026"
-        },
         {
           "title": "Kritik an höherer Nächtigungspauschale - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hWDhxZHlyUmpmeGdiVU92WmM3NVdtRFZGaWdRb2tMWEN5NFlLU2ZOWFJsZkh2a1poWlhTMGtXYzRJeEMzYWRkaDdRVGg3MWNodzdYaQ?oc=5",
@@ -101,16 +95,22 @@
           "date": "12. Oct 2026"
         },
         {
+          "title": "Steiermark setzt auf internationale Gäste und KI - GASTRO.at",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVjExVXBlTWxUbDJodGtkOUo3VjdKeER4Tnl5RTJOQWNERC1GR1N1N3RIWFRBSl9WaFN5TkgyWjBCWDRNUzBHR3RCMjVKNEVhWlAxMHdHUWpGaDBITUNvOWpNdVhKZkZoT1ViamxEaFAyZHZUekllV3YxQlNSWE1tb0tEdjdLcWVv?oc=5",
+          "source": "GASTRO.at",
+          "date": "12. Oct 2026"
+        },
+        {
           "title": "„Ziemlich beste Freinde“: Kärnten und Steiermark gewinnen Gold für Schmähkampagne - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd1NJb2w1TWlnV1dERi1hRElGeGlpQzFjb3V6b2pTZlNJSjlXMWVoQW5RUzBlUlpZd2IybjN4V1B2RXJPa2hwd1NDRDFoN3lhSmZYc3JldDdUbVJ1ZFYxSkNWU3ZCR2NNZFBLUnVnVldKWXN1VnU1NTh1V2tpLUY2ZnExX2Y0ZVVaY09jekRndlhDREVtdmZsVTZHRnZ0WjJtM214Rk9Ddms1TlVwUncwOTV1RS1VT3IxV19XMS03dUR3UGs?oc=5",
           "source": "5 Minuten",
           "date": "11. Oct 2026"
         },
         {
-          "title": "\"Faszination Österreich: Die Steiermark\" - Tourismus | 14.10.2026, 14:43 Uhr | 3sat - tele.at",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbDBjNl9DRG5fTTVtUDhNUE5Mc0t5ZGhWWGJVXzBPcjVKRTNuejRWQVpqNXRzR0pmOTdDU1ZoM01yaHZtVFFoNnBqc2h5R0RoVzBHeWFucmk5MU90T3lCUzQwaWdGd3BfdW44TVRJVVdqZVgzc3I3U21KUnFPUkJscXlmdlY0c3h0d19rYnAxYnhndw?oc=5",
-          "source": "tele.at",
-          "date": "14. Oct 2026"
+          "title": "Kärnten und Steiermark gewinnen Gold beim BCM Award - Meine Freizeit - work&life",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUGQwd2JaVTV3aGxEYjdKV1FNTnZfVE1sa19tMWVIa3NxRm42SzBDMjN0STFmMHQ4WFJKdUo4cnFBbnUyTmNncUVsbGFUUm52dEFudkJOUFBqYk1qc3Z6bWoxSlFBam5td1A0bF92Q1hMenl4Q2lXU3pzX0N5UEx0a3JvZXJGQkZ0NXdjcXJDMTI2NnNpS1dwOWl3?oc=5",
+          "source": "Meine Freizeit - work&life",
+          "date": "11. Oct 2026"
         }
       ]
     },
@@ -118,8 +118,20 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die TU Graz entwickelt innovative Baustoffe aus Schlamm des Neusiedler Sees und trägt damit zu nachhaltigen Lösungen in der Baustoffindustrie bei. Gleichzeitig erzielen steirische Universitäten wie die Universität Graz Durchbrüche in der Enzymforschung mit der Entdeckung von 175 neuen Enzymen für die Pharmaindustrie, während die Region ihre Internationalisierung und Digitalisierung vorantreibt.",
+      "summary": "Die Technische Universität Graz entwickelt innovative Baustoffe aus Seeschlamm des Neusiedlers Sees und trägt damit zur nachhaltigen Materialforschung bei, während gleichzeitig Initiativen wie \"Masters of IP: Campus Edition\" den Transfer von Forschungsergebnissen in wirtschaftliche Innovation fördern. Die steirische Forschungslandschaft positioniert sich damit als wichtiger Akteur in der technologiegestützten Standortentwicklung und Lösungsfindung für ressourcenschonende Bauwirtschaft.",
       "items": [
+        {
+          "title": "MASTERS OF IP: Campus Edition – von der Forschung zur Innovation - brutkasten",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdU9NUmdjZGNfV29HMUVCM1FmaDVlOW4xZjRvOV9WN3QtZDBpSlhYbWt1MGZBQnVpeTlYMTB1R3FIbko4MU51d3ZfQTB4dWROaG5JR1pDam5EeUlfRDJNMU85WkNsMHFZLWtHakVaSk5BSVg3N2g3NTk1T2IyQmhxWmpYNmZJbnItampudGtWYUgtbWFIN0E?oc=5",
+          "source": "brutkasten",
+          "date": "15. Oct 2026"
+        },
+        {
+          "title": "Vom Seeschlamm zum Baustoff: Was mit Sediment möglich ist - BVZ",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNFFabjVXWW5iLThLZkJ6Tlhyb3M2Yjc3OV9xbG1NV01tYUpqeU1HWkJiaW9aTzZFLUJzUWxWV0l2clZrdG9QMFNHZzZscUQ2OVdiMHAwNnpZbVMyNmJWVG1DQTJEZGp3LW5ZcGFPV2dkYzRINnBTWEZVVUpRLWZfQ3IzTVRVQS1HVkw5QVJTbGtnblFrN2NLT2x1SDJGdUk?oc=5",
+          "source": "BVZ",
+          "date": "12. Oct 2026"
+        },
         {
           "title": "TU Graz will Schlamm zu Baustoff machen - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKNklWbTU0NU94UlhEUzlJZFdfM2g2WEF0ZjJRWTlIWjNLcldpeVBsQndZRTFjM1ZncDdLUXg4VjhiTmNLVDA4Tk9RZlFaZlpEOXc4Sw?oc=5",
@@ -133,40 +145,28 @@
           "date": "9. Oct 2026"
         },
         {
+          "title": "IV und TU Austria: Technologiepolitik ist Standortpolitik - TU Wien",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdFhWT2I0elpDLWFqYUpNWThibFJQM3hHd3dJU2VCTVFYOUczOUJjV0dLRkZIUk01V3RadGtJS01KcDZIdjYzRHhmWWZIc0hxX2ZTTmlKdVhQakl5NXUxV0dHckxrdEZ4Y2ZVZUZrUTJ6dUkxSzVIMWdsNnZrU0hxNjN0YVhFSzhCYVRkQ3pJbXI2aDJQQkpYQ19ZM2NKdXNzRXM2Sl9MVXNfZw?oc=5",
+          "source": "TU Wien",
+          "date": "9. Oct 2026"
+        },
+        {
           "title": "Rektor Harald Kainz: „Wir haben uns toll entwickelt“ - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUldTTWFKbEsyVExwM2cxOTVLOGxRWXAxNWpWQnE1ZTRUVzh3T1d6WmxOekgwdEcyQjY0X0N5SWQ3QTZiaUhROERFRldVSS1wSFBTYlZVR1QtVlVhdEVSQ0tNanByeGJ6OWx1TFEzckM2ZU4zUTc0b2x4bXcwQlBEaWVsVVNoV2hfM3hyRDc0NWM4Zw?oc=5",
           "source": "Kleine Zeitung",
           "date": "13. Oct 2026"
         },
         {
-          "title": "Graz: Theologische Fakultät treibt Internationalisierung voran - Kathpress",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORWVSQ0JiQ3AtWG1LeU91eDdYU1c0Qkxhd3hIRFdOVGplWk9kRjNGdW4yRlpFTG9pYWNoV3d6SHU3RW9xUTBMeVV0aGZyOU1ldjBDNFRmZVRHQW5sLWJhUGVSdmRaZmdhcTRvVkExTUV0emJhNy1EVEdNWHQ1OVZydGxGOWtfSko2YVNGVVN2eU1VcmVwdW9xeC0wUEpYUTdMWUdUTUFvQkl0ZEZi?oc=5",
-          "source": "Kathpress",
-          "date": "15. Oct 2026"
-        },
-        {
-          "title": "Universität Graz erzielt Fortschritt in der Enzymforschung - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVmN5Mnh3dkkyeWRPbndaNGR4djM3TlozWGFERUZLaVU4X1RHR0hpVXhqQ1JTQ0syWk4xOVc4dUhia2ZnUDQ5c1EwWUd2VFVrM0hmODdnc3VWX3NQN2UwMnl4LUs3REdNNDdhX3c2VHo1T1BYOG5QSWFYSmZjcllVV1BfNTRoNHpCRXp1ZHJadUs4WVlUWmpwMUVVYk9hd3Z0?oc=5",
-          "source": "5 Minuten",
-          "date": "12. Oct 2026"
-        },
-        {
-          "title": "Uni Graz: 175 neue Enzyme für Pharmaindustrie entdeckt - austria.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa1FILVVtWlpTLWRMOGd5VjhlX1J4TXFCcHpXQ0owU0V5MzhLSXB2cDRIRXk4NkYwYld0VERjZVNzQkU1dmg3TFhNeGxHQ3VyeE5yWE10UXJKWktBVUc2Njl2TVMwY3NGVXhCeTUyU3pxb0F6WWhYT3hhVjZDYnVYVWhINGx1bG0wbWhqcDhaM2w2Tjl0R1FWMGliYlZ2ZWhmSW11b1R3?oc=5",
-          "source": "austria.com",
-          "date": "12. Oct 2026"
-        },
-        {
-          "title": "Auf schwarzer Liste: China-Besuch an Uni Graz sorgt für Wirbel - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDRtclRtZGIwSFVhSU5pUE1PNE5mNUxqYVhBVzhpYXZqbXZwdGhZeld0MC1ldnl0SHhQWXhPS2s2NUwzS1l3YjA5WlpoS2pCYk9wNkxNdm1YY3ZyRzVWcmtJSU1MZzR0UlFPUTV1Vl9RakkwaU5mUEJKTWNMU3l2dnNYWkowc1N3aE05SW53aWl6Wk9yT1FIU1ZrcHJlQjBSa05hNTZrbzN3ZFJz?oc=5",
-          "source": "Kleine Zeitung",
+          "title": "Schlamm und Schilf als Baustoffe - burgenland.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hRHBZU3BtNHFlODZjc2FIRHBycE1KSEpqYWQwaFZZWktVeDBLcW1hcDBRM1VoblJNQkVDb0haNjl4X1E2LUU2ZEhRZXpNM2hDdEtDNQ?oc=5",
+          "source": "burgenland.ORF.at",
           "date": "10. Oct 2026"
         },
         {
-          "title": "Steiermark-Tourismus setzt bis 2030 stärker auf Digitalisierung und KI - TIP-Online",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV3RZdWtMMGV1Q21jZjFkTVN2OEZlNkMycWZQOEV4ZmFXVVZ0TGZ1TUZLSW5YSUJsT3NsM240SF8yZGRlTTd0aU0yNnRyZWRldGxEM0ZoUkduZjh2bjJlS0x2bTluQ2ZXSjFQY1hVcVFUYi1ERFFXWjN5NzVsZ09lZTkxeXA1WXZlOEN0aWlfUEdkaHdxZlYzZE1sTUJUc25EczE4Tk1iMFZYQ2dhVHc?oc=5",
-          "source": "TIP-Online",
-          "date": "12. Oct 2026"
+          "title": "Sicherheitslücken in Phone-Clone-Tools von Android-Herstellern aufgedeckt - All About SECURITY",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU3BjazhLeE1YRy1OS0V5X0h3aG9SWllQTkJtakVYc1Ntcm54R0Q3Zl8yOEw0OEhkd3lqckpxcHRac0M5aDg1NHVGTjZRaVdqaXJTRnBJeDYtN3VsV2laMUxhdmh3ZU5WejJlTFJ5TW1HYkFrMW0xc3Foa3VwWjhxWmpVWUNDV1gwajBTMUREemlTcUNoOHQxX3RoM3YxNGF3SDhtb18tSlc3MUFvSUJlUzRKQUU?oc=5",
+          "source": "All About SECURITY",
+          "date": "15. Oct 2026"
         }
       ]
     },
@@ -174,20 +174,8 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Die Tourismusregion Graz erhielt knapp eine Million Euro Förderung für ihre Veranstaltungen, während die Steiermark trotz Sparmaßnahmen neue Schulden aufnimmt. Die steirische Regionalförderung blickt auf eine 35-jährige Geschichte zurück und prägt damit die wirtschaftliche Entwicklung des Bundeslandes nachhaltig.",
+      "summary": "Ich bin bereit, die Nachrichtentitel zusammenzufassen, aber ich sehe nur einen Titel in Ihrer Liste. Um zwei prägnante Sätze verfassen zu können, benötige ich mindestens zwei bis drei Nachrichtentitel zum Zusammenfassen. Könnten Sie bitte die fehlenden Titel ergänzen?",
       "items": [
-        {
-          "title": "Tourismusregion Region Graz: Knapp eine Million Euro Förderung floss in die Veranstaltungen - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORGk2MlhpSS1ySEpWdzVlUzN0SHAtNVpObjdIZGNOSTkyWHNlVGhJSTlJQ3Z3dFVHRVpnd1FONWxPTGhkZ3ZnU3l1MnpJTU9jZ3FQVHpLbnlRcmFTbnN4WUV2M2JlT1FkbEwtSDJ3VG5Db2h3OGFvWnJSanMyNjhXTWYwV2NlV2Iwc3BkSVpXSGRoanl4Ynk3RTNrMm9DQm0zeEJ0a2wzVXNTd3RsVXJDTTRoaFp3R2tDQzRCNVJ3?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "8. Oct 2026"
-        },
-        {
-          "title": "Die Steiermark spart – und verschuldet sich trotzdem neu - Der Standard",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGlWQklSTVN5Nm5pcndCNE5ldjVvSHNMOEJoTTM3WHJTYnVYeERIX0NrLXAzdmpiRlBVMlZNVWNiaDVlazFWMk5TM0t5dG9HX19ERjI2S21feFFQdi1HZHJVbXlLOUZadDl3SDBjOTVmT1NSRXByT1hRbEwyTGRFa1NVRE02XzRCQ3NDeFQxSndUem9ZXzNodm1sZVpYWEt1eGFF?oc=5",
-          "source": "Der Standard",
-          "date": "8. Oct 2026"
-        },
         {
           "title": "35 Jahre Regionalförderung - ORF ON",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Yckl0ZG9acnBSMUFEX09ydkpab1hEMGNZTUNiNk1paHN4cl9QTXU5UkdOZlY5SlRkNUxBLWVzWjhwSnA4U0ctNXNfbHh1aHJSdTdyZVNUdzIzRElLWUYzUFdSQm5LLURVRXZaOA?oc=5",
@@ -200,20 +188,8 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark positioniert sich als innovativer Tourismusstandort und treibt seine Digitalisierung durch den strategischen Einsatz von Künstlicher Intelligenz und internationale Vernetzung bis 2030 voran. Gleichzeitig entstehen regionale Kompetenzzentren wie die „DIGI:Base\" in der Obersteiermark und spezialisierte KI-Beratungsunternehmen, die das Bundesland als führenden Technologie- und Innovationscluster im Alpenraum etablieren.",
+      "summary": "Die Steiermark positioniert sich als Innovationsregion, indem sie Künstliche Intelligenz gezielt im Tourismus einsetzt, um internationale Märkte zu erschließen und ihre Wettbewerbsfähigkeit zu stärken. Gleichzeitig zeigen KI-Studien, dass traditionelle Branchen wie Immobilienmakler und andere Sektoren sich der digitalen Transformation stellen müssen, während spezialisierte KI-Beratungsunternehmen aus der Region zunehmend an Bedeutung gewinnen.",
       "items": [
-        {
-          "title": "Steiermark-Tourismus setzt bis 2030 stärker auf Digitalisierung und KI - TIP-Online",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV3RZdWtMMGV1Q21jZjFkTVN2OEZlNkMycWZQOEV4ZmFXVVZ0TGZ1TUZLSW5YSUJsT3NsM240SF8yZGRlTTd0aU0yNnRyZWRldGxEM0ZoUkduZjh2bjJlS0x2bTluQ2ZXSjFQY1hVcVFUYi1ERFFXWjN5NzVsZ09lZTkxeXA1WXZlOEN0aWlfUEdkaHdxZlYzZE1sTUJUc25EczE4Tk1iMFZYQ2dhVHc?oc=5",
-          "source": "TIP-Online",
-          "date": "12. Oct 2026"
-        },
-        {
-          "title": "KI und Kompetenzen: „DIGI:Base“ soll Digitalisierung in der Obersteiermark vorantreiben - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaEgydTY4THV6bHlJbVRzTU95T3dQVEkwSGRKM1hRSG5EVjU0TUtEanpuWGR6MGpBWkwxLXBqX3gyQXVKbFZNMWk3QmZfQUNUbFlkZEp6OTVIaUZ0VjNHT0xGbU54ZERTODlZWXVEN2M0S01rNWdMNGhpV0VjT2JnOEhFYU9EWmxqQnhDaWUyN2RTNjdCU01JWGRVZXliYTVLcjViNGlELXBPUUpOa004T0tWVjlFOFl2N3FZ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "8. Oct 2026"
-        },
         {
           "title": "Mit KI zur beliebtesten Tourismusregion Europas - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mZTRiY0JEWm8xbmR4SmJxcl9PUURUNjZFR0VaNlk3bUhFMklqY2JaM09QejFOeVhOc0RTVUNZbzhwOXR2Wm9FekxkeTBGdzh1MVhMRw?oc=5",
@@ -239,10 +215,22 @@
           "date": "12. Oct 2026"
         },
         {
+          "title": "Kann ich Dr. Google vertrauen? - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EWFVzREZ2LUZubUZXS09ZNFl6WWpKN3V4SWxVUVZMZ01RZGpsSDB4Y280TDlaX182UFlubDdjcHBfUUdSTzBrU0ZpLWJielZOMGJrVXVQcUhNR2tENHlZNXdlTVROR1lwNDlqd0NTdnFGR3pXQzhlOGZ6aEw2ZDg?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "15. Oct 2026"
+        },
+        {
           "title": "Steiermark setzt auf internationale Gäste und KI - GASTRO.at",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVjExVXBlTWxUbDJodGtkOUo3VjdKeER4Tnl5RTJOQWNERC1GR1N1N3RIWFRBSl9WaFN5TkgyWjBCWDRNUzBHR3RCMjVKNEVhWlAxMHdHUWpGaDBITUNvOWpNdVhKZkZoT1ViamxEaFAyZHZUekllV3YxQlNSWE1tb0tEdjdLcWVv?oc=5",
           "source": "GASTRO.at",
           "date": "12. Oct 2026"
+        },
+        {
+          "title": "KI-Studie: Mehr als die Hälfte der steirischen Immobilienmakler ist für ChatGPT unsichtbar - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMlBMVkRwdDlFbVl3SFcwSWFzVHh2SVJNY1A3WXN5RzA2eGFfYmpBSUdodnJTUVZlRmFQbXFQclJCSmE3cEFvb0VUbUM0X01adkdnQ2ROb08xeHBZT3RiOFcweXpuSHg5WF9KcHFjMUIwc0ZETHFtamhYdGllMFVKVVctYTNGeVg1Z2NENHVGelZOU3BfcXZpVExUY2pYVFBjZk5DX3lsd1pkQlI4NHNjc2JsZ0loQ2NRRjU5cmdDdE1STDJlek5MTUd5QzNvTlhXQVVVaXR0Q1NtWGRNTEE?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "15. Oct 2026"
         },
         {
           "title": "KI-Beratung aus der Steiermark: GH Opticore Consulting e.U. überzeugt - profil.at",
