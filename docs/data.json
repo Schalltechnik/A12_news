@@ -1,13 +1,19 @@
 {
-  "generated": "17. October 2026, 07:10 UTC",
+  "generated": "18. October 2026, 07:24 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die steirische Wirtschaft zeigt gemischte Signale mit innovativen Erfolgen wie der Elektro-Lkw-Entwicklung und erneuerbaren Energieprojekten, wird aber durch steigende Schuldenlasten von Unternehmen, höhere Abgaben im Tourismus und Infrastruktur-Realitätschecks belastet. Während sich neue Chancen im Ukraine-Wiederaufbau und in der Fachkräfteausbildung abzeichnen, erfordert die wachsende Pleitewelle verstärkte wirtschaftspolitische Unterstützungsmaßnahmen und eine Neuausrichtung der Standortförderung.",
+      "summary": "Die Steiermark positioniert sich als wichtiger Wirtschaftspartner für den Wiederaufbau der Ukraine und nutzt dabei ihre Expertise in Industrie und Technologie, während gleichzeitig Infrastrukturprojekte wie die Koralmbahn neue Chancen für regionale Entwicklung und Fachkräfteausbildung schaffen. Allerdings entstehen durch steigende Ortstaxen und wachsenden Druck auf Bildungseinrichtungen neue Herausforderungen für die Wettbewerbsfähigkeit des Standorts.",
       "items": [
+        {
+          "title": "Steiermark lotet Perspektiven und Chancen für den Wiederaufbau der Ukraine aus - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNEJCdWtMbmp4Wk9XT3VIZkNhdlN3M1JyWnpibXFqUHRrTnpkdXRUTDJZd3haUU10cnZUTlZoRE9NajNrS2tuckRMWnNlcHRlOXRqamMxbDNDNk4zZjh2eFg5VzFTQTE2OU42aGpkSVVseUdLSW9YcG5wSDRGNVktcXUzSGtBX0VKbXo4b3JCUFQ4RExJ?oc=5",
+          "source": "wko.at",
+          "date": "13. Oct 2026"
+        },
         {
           "title": "Kritik aus Tourismusbranche und Politik: Steirische Ortstaxe soll 2027 deutlich steigen - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSnhjdVN0OEZlTmdPc3BUR0l0TEUzd3F5eHUzSER1d0pVVng4R0pXbE02TFFfRUY3OGt4endCTDJDaG1kallVaG5XbVhVQ1BjRWg0c0xjeXRRUUFMT3p6VzVwNk1GclREMWNoRDV3RU15X01DVWwwSlllbEpSY1hqYmJIUjF5N2pEZS1zY2RubTFFTHRmNnpVR0oxZWxTUUwxa2dkcGdQN3Q?oc=5",
@@ -21,16 +27,16 @@
           "date": "13. Oct 2026"
         },
         {
+          "title": "Koralmbahn Eröffnung: Was hinter Steiermarks und Kärntens großer Chance steckt - Wirtschaftsnachrichten Süd",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS3M2WmoyMEZma0FqZ0xOYy1Ea0FvbVRNLTduRURZUWpnWHZrRFYwelpvempWTHpXbE1BOVRqU0lkdjJ5VE9STFhQcEFjd1lRSm1QRGtQTXcxa1Fxb3hxUHhsRUIxdlhlZzFCSF9XOTVwcVg0eUVKSVRIZEQ0MnJmTHRpSW9zRE9oN3ZFTjlB?oc=5",
+          "source": "Wirtschaftsnachrichten Süd",
+          "date": "17. Oct 2026"
+        },
+        {
           "title": "Erster Realitätscheck für das Milliardenprojekt Koralmbahn - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeGZmUTlHZTZ6X1htV19USW1yVVBEZk93THd1WEpWWm1LYm42YzJJbm5DTFhKVXoxM0ducEZuelJ4M1lNSXo3NU5RaW52cW5IU29aei1tRWM0Y1c1M2FqNkJuTV9xcUhVdE95VzlHVEhHWmRuU2Mzbks1R1MxV2dnNUlsMUZFdE9yOXNncE05Tkk2amdoZVY0eEtCUHIwdWRtU1pjVDFOUnRQdw?oc=5",
           "source": "Kleine Zeitung",
           "date": "15. Oct 2026"
-        },
-        {
-          "title": "Steirische Pleitewelle: Schulden steigen massiv - Klipp Magazin",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGd0YzBWV3FfSnBxdU1BWkpXYzZyYXFGQUJtQzlNZ2lNbUxOYVBQMm1sRk9BNWNqT0U3cW12WERVWVYwandRdkN0ejJIZXh5eXdOOW0wV1N5dUVFNW1VcmhwRUNUaE14QXlNMzkzYjFzYWtDaWRuT1h0eU5aY3BfaDEza1ItLXo5eTNJT3NIVUczV3ZjcXgwZg?oc=5",
-          "source": "Klipp Magazin",
-          "date": "14. Oct 2026"
         },
         {
           "title": "Landesbewerb: Stegersbacher Spenglerlehrling siegt in der Steiermark - MeinBezirk.at",
@@ -45,16 +51,10 @@
           "date": "14. Oct 2026"
         },
         {
-          "title": "Sparen Steiermark: 294 Euro im Monat, aber falsch angelegt - Wirtschaftsjournal",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrRzloSHF4WVB2SUpoNmNnOWwtX3VSS0xvb21lNm5jaUU4RFdQYnlwbEdieVZjRDNLQWFkR2o2Y1VVdVRTWC1IbERRZ3l0Q3ZfS25qSHp1MkFzLVFOR1BnTzJLcV9xbVpvQm56bkRxd2JhVVhLZU1EbXVWSC0zZmM?oc=5",
-          "source": "Wirtschaftsjournal",
-          "date": "14. Oct 2026"
-        },
-        {
-          "title": "Modernisiertes Murkraftwerk Laufnitzdorf feierlich eröffnet - Land Steiermark News Portal",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KbE5HRFM4eWZkZHJmSGtCalFJdTR3aUZZQU9iRjg5bFRXZTdZTDRKcl85VjVINEhJZUVDVjVBMWhiWjd2dzctOUtrZDAzWUhUeTZ4dV9iOE00ZEdFTTRzOGpLejk0RExBNG5ic1VZaw?oc=5",
-          "source": "Land Steiermark News Portal",
-          "date": "16. Oct 2026"
+          "title": "Weiterbildung Steiermark: Rekord bei Kursen, aber Druck auf Bildungseinrichtungen wächst - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQl9yVHpYUjllbzBIcGNiaXpLc1hmRDU5bDRuWTNrNm5zR0xXdmNtUGFDMFpfSWRKUG9WcVM5YVdaWFNudzlYOXMyblFYMXdScmU5bDRCQ1RFekZLczlBWlhUSkJHR3gwVXZ3X0x1VXR3dmxaaEdvU29TQWVZaXVMYWoxVDB5by1lLXJzM0ZOVUdCZkVtd3NSTEI0UGxWN05PVjVWTXhQZmJBeTZzdHFGbl9BV1JaWkpXMlo4Z05R?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "18. Oct 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die steirische Tourismusstrategie bis 2030 setzt verstärkt auf Internationalisierung, Digitalisierung und den Einsatz von Künstlicher Intelligenz, um wettbewerbsfähig zu bleiben und neue Märkte zu erschließen. Gleichzeitig führt die geplante Erhöhung der Ortstaxe und Nächtigungspauschale auf 4,90 Euro zu erheblicher Kritik aus der Tourismusbranche und Politik, die Bedenken hinsichtlich der Wettbewerbsfähigkeit und Belastung der Betriebe äußert.",
+      "summary": "Die Steiermark verfolgt eine zukunftsorientierte Tourismusstrategie mit verstärktem Fokus auf internationale Märkte und den Einsatz von Künstlicher Intelligenz, während gleichzeitig die Nächtigungsabgabe bis 2027 deutlich ansteigt und damit Kritik aus der Tourismusbranche und Politik auslöst. Diese Maßnahmen sollen langfristig die Wettbewerbsfähigkeit des steirischen Tourismus stärken, stoßen aber kurzfristig auf Widerstand wegen der erhöhten finanziellen Belastung für Betriebe und Gäste.",
       "items": [
         {
           "title": "Kritik aus Tourismusbranche und Politik: Steirische Ortstaxe soll 2027 deutlich steigen - MeinBezirk.at",
@@ -83,12 +83,6 @@
           "date": "11. Oct 2026"
         },
         {
-          "title": "Steiermark-Tourismus setzt bis 2030 stärker auf Digitalisierung und KI - TIP-Online",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV3RZdWtMMGV1Q21jZjFkTVN2OEZlNkMycWZQOEV4ZmFXVVZ0TGZ1TUZLSW5YSUJsT3NsM240SF8yZGRlTTd0aU0yNnRyZWRldGxEM0ZoUkduZjh2bjJlS0x2bTluQ2ZXSjFQY1hVcVFUYi1ERFFXWjN5NzVsZ09lZTkxeXA1WXZlOEN0aWlfUEdkaHdxZlYzZE1sTUJUc25EczE4Tk1iMFZYQ2dhVHc?oc=5",
-          "source": "TIP-Online",
-          "date": "12. Oct 2026"
-        },
-        {
           "title": "Steiermark setzt im Tourismus stärker auf internationale Märkte, verstärkte Zusammenarbeit und Künstliche Intelligenz - Leibnitz Aktuell",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMmVJODlnb0hYMGduNXhDS1B6V01tbnlGLWF2dXBvdS1ic0tmUDdBRGpIVDhIVnN6TXhCUU9tX01NYTRxOU9pNWlBdE9FWEJDenlycVB0V1Z6aFdQU09LUmxUWjEzeDY1ZFlfVW15eDgtNkw5NU1fVU40LU9nbXBtNGJqWFBjTVBMaGEyVWRmOXF5QW8wQkRLLWlpU0wyZ0Y0LWVydVYyT3BfWDlKWkR4d25QTERmak1pY3BTQlFDRzBiWnoxMl9BVTBjbUptZ1p0YVEybzhTUXZ2VktmTHd6VWVZbm16Z2gtTzFv?oc=5",
           "source": "Leibnitz Aktuell",
@@ -101,16 +95,22 @@
           "date": "12. Oct 2026"
         },
         {
+          "title": "Nächtigungsabgabe Steiermark steigt auf 4,90 Euro - austria.com",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLTZ0dXRyN3QzZXQtUWctcjFrRVRaTnRaMUlVSlY5ajk4Z3JJVWp5YVU5M1cyODFlbDAzQmpINERuSWRlOTQ3V0tmM0VjTVE5UHcwQmlGdWtUUDlwWkZPZ0dpQno3RTNMR2hDWTJUWFRlNjNUMW5lSHNqdDhNWVVkX2pzOWxEZEo0bXNOSUtEQThFalJvRTc1QlMtbEUwemtmSFAwaUxrVGJGMFVwRmc?oc=5",
+          "source": "austria.com",
+          "date": "16. Oct 2026"
+        },
+        {
           "title": "Hotel Weitzer erhält das Steirische Landeswappen - Graz News",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWmJzYmczM0xlMXNHNUdST2w4ZXFzMzd4Y3ZrY0staGVDTU5nRndrQzBUYXRHVEtFWmQ2bFVwMTR6MGR6czVTZEdwT0ZZT01MdUt6YUdSdFNCNHVOODRfNm9EZkc0QXhMWHc4RzVpdmRaU010Q3lPT2ZCM1ZkajF2Z1F2UQ?oc=5",
           "source": "Graz News",
           "date": "16. Oct 2026"
         },
         {
-          "title": "Nächtigungsabgabe Steiermark steigt auf 4,90 Euro - austria.com",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLTZ0dXRyN3QzZXQtUWctcjFrRVRaTnRaMUlVSlY5ajk4Z3JJVWp5YVU5M1cyODFlbDAzQmpINERuSWRlOTQ3V0tmM0VjTVE5UHcwQmlGdWtUUDlwWkZPZ0dpQno3RTNMR2hDWTJUWFRlNjNUMW5lSHNqdDhNWVVkX2pzOWxEZEo0bXNOSUtEQThFalJvRTc1QlMtbEUwemtmSFAwaUxrVGJGMFVwRmc?oc=5",
-          "source": "austria.com",
-          "date": "16. Oct 2026"
+          "title": "Steiermark setzt auf internationale Gäste und KI - GASTRO.at",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVjExVXBlTWxUbDJodGtkOUo3VjdKeER4Tnl5RTJOQWNERC1GR1N1N3RIWFRBSl9WaFN5TkgyWjBCWDRNUzBHR3RCMjVKNEVhWlAxMHdHUWpGaDBITUNvOWpNdVhKZkZoT1ViamxEaFAyZHZUekllV3YxQlNSWE1tb0tEdjdLcWVv?oc=5",
+          "source": "GASTRO.at",
+          "date": "12. Oct 2026"
         }
       ]
     },
@@ -118,7 +118,7 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die steirische Forschungslandschaft zeigt verstärkte Aktivitäten in der Enzymforschung und Materialwissenschaft, wobei die Universität Graz mit der Entdeckung von 175 neuen Enzymen und erweiterten Messplattformen für Wetterforschung bedeutende Fortschritte erzielt. Parallel dazu werden Innovationsprogramme wie \"Masters of IP\" gefördert, während gleichzeitig Sicherheitsherausforderungen in der Technologie und Fragen zur institutionellen Zusammenarbeit der Universitäten diskutiert werden.",
+      "summary": "Die steirische Forschungslandschaft zeigt innovative Ansätze von der Materialwissenschaft bis zur Cybersecurity, wobei Projekte wie die Umwandlung von Seeschlamm zu Baustoff und Fortschritte in der Enzymforschung an der Universität Graz bemerkenswert sind. Allerdings gefährden angekündigte Budgetkürzungen die Leistungsfähigkeit der Universitäten erheblich, weshalb verstärkte Zusammenarbeit zwischen den Hochschulen und eine Stärkung der Forschungsförderung notwendig sind.",
       "items": [
         {
           "title": "MASTERS OF IP: Campus Edition – von der Forschung zur Innovation - brutkasten",
@@ -139,10 +139,16 @@
           "date": "15. Oct 2026"
         },
         {
-          "title": "Universität Graz erzielt Fortschritt in der Enzymforschung - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVmN5Mnh3dkkyeWRPbndaNGR4djM3TlozWGFERUZLaVU4X1RHR0hpVXhqQ1JTQ0syWk4xOVc4dUhia2ZnUDQ5c1EwWUd2VFVrM0hmODdnc3VWX3NQN2UwMnl4LUs3REdNNDdhX3c2VHo1T1BYOG5QSWFYSmZjcllVV1BfNTRoNHpCRXp1ZHJadUs4WVlUWmpwMUVVYk9hd3Z0?oc=5",
+          "title": "Uni-Budgetkürzungen: Sparhammer bedroht Forschung und Arbeitsplätze - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcXRYMTJwRDltcGZ2dEF1dGhyc2cyTlFsZENpR2x3V1RMZi1RUi1jMWprS3JPc2p5Mm1SVG8xMHo0Y21LZWh0amZvMUw0UkY2VjUzdFc4dHVxang3UTBiNGhMMTJhTzIyM2VaWkcxdmZhTWlRVElGVVZRLTZhOGp1X0FjUlVnVjM2N0J4ejRfaDZIbjYtWWRSNExIaURickFac3BKOElvVEhiNW5k?oc=5",
           "source": "5 Minuten",
-          "date": "12. Oct 2026"
+          "date": "17. Oct 2026"
+        },
+        {
+          "title": "Uni-Rektor warnt vor Budgetkürzungen - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvMW8wOG01eWF4dG55T3RIZ3djQ1ZSWGhOMlZIa0ZzdXlJZm9QSnFpZlUtZkRFM2l3RzhWMlNlc2U2eHBkai05V2N4bU5iWXN2d3Rqag?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "17. Oct 2026"
         },
         {
           "title": "Unis müssen enger zusammenwachsen - wko.at",
@@ -157,15 +163,9 @@
           "date": "15. Oct 2026"
         },
         {
-          "title": "Auf schwarzer Liste: China-Besuch an Uni Graz sorgt für Wirbel - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdDRtclRtZGIwSFVhSU5pUE1PNE5mNUxqYVhBVzhpYXZqbXZwdGhZeld0MC1ldnl0SHhQWXhPS2s2NUwzS1l3YjA5WlpoS2pCYk9wNkxNdm1YY3ZyRzVWcmtJSU1MZzR0UlFPUTV1Vl9RakkwaU5mUEJKTWNMU3l2dnNYWkowc1N3aE05SW53aWl6Wk9yT1FIU1ZrcHJlQjBSa05hNTZrbzN3ZFJz?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "10. Oct 2026"
-        },
-        {
-          "title": "Uni Graz: 175 neue Enzyme für Pharmaindustrie entdeckt - austria.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa1FILVVtWlpTLWRMOGd5VjhlX1J4TXFCcHpXQ0owU0V5MzhLSXB2cDRIRXk4NkYwYld0VERjZVNzQkU1dmg3TFhNeGxHQ3VyeE5yWE10UXJKWktBVUc2Njl2TVMwY3NGVXhCeTUyU3pxb0F6WWhYT3hhVjZDYnVYVWhINGx1bG0wbWhqcDhaM2w2Tjl0R1FWMGliYlZ2ZWhmSW11b1R3?oc=5",
-          "source": "austria.com",
+          "title": "Universität Graz erzielt Fortschritt in der Enzymforschung - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVmN5Mnh3dkkyeWRPbndaNGR4djM3TlozWGFERUZLaVU4X1RHR0hpVXhqQ1JTQ0syWk4xOVc4dUhia2ZnUDQ5c1EwWUd2VFVrM0hmODdnc3VWX3NQN2UwMnl4LUs3REdNNDdhX3c2VHo1T1BYOG5QSWFYSmZjcllVV1BfNTRoNHpCRXp1ZHJadUs4WVlUWmpwMUVVYk9hd3Z0?oc=5",
+          "source": "5 Minuten",
           "date": "12. Oct 2026"
         }
       ]
@@ -174,7 +174,7 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Ich bin bereit, die Nachrichtentitel zusammenzufassen, aber ich sehe nur einen Titel in Ihrer Liste. Um zwei prägnante Sätze verfassen zu können, benötige ich mindestens zwei oder mehr Nachrichtentitel zum Thema Förderungen und EU-Programme in der Steiermark. Könnten Sie bitte die weiteren Titel bereitstellen?",
+      "summary": "Ich bin bereit, die Nachrichtentitel zusammenzufassen, aber ich sehe in deiner Anfrage nur einen einzigen Titel (\"35 Jahre Regionalförderung - ORF ON\"). Um eine aussagekräftige Zusammenfassung in zwei prägnanten Sätzen zu erstellen, benötige ich mehrere Nachrichtentitel zum Zusammenfassen. Könntest du mir bitte die vollständige Liste der Nachrichtentitel zur Verfügung stellen?",
       "items": [
         {
           "title": "35 Jahre Regionalförderung - ORF ON",
@@ -188,24 +188,18 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark verankert Künstliche Intelligenz und digitale Technologien als zentrale Säulen ihrer Tourismusstrategie bis 2030, um internationale Märkte stärker zu erschließen und wettbewerbsfähig zu bleiben. Während der Tourismus massiv auf KI-Lösungen setzt, zeigen sich in anderen Branchen wie Immobilien und Gesundheitswesen noch erhebliche Digitalisierungslücken, die es zu schließen gilt.",
+      "summary": "Die Steiermark treibt die Digitalisierung ihrer Schlüsselbranchen voran, insbesondere durch den verstärkten Einsatz von Künstlicher Intelligenz im Tourismus zur Internationalisierung und durch intensivierte Weiterbildungsangebote, während gleichzeitig traditionelle Branchen wie die Immobilienwirtschaft mit der KI-Transformation kämpfen. Damit positioniert sich die Region als innovativer Wirtschaftsstandort, der Technologie gezielt zur Wettbewerbsfähigkeit nutzt, allerdings auch Druck auf Bildungseinrichtungen und Anpassungszwänge für etablierte Gewerbe mit sich bringt.",
       "items": [
         {
-          "title": "Steiermark-Tourismus setzt bis 2030 stärker auf Digitalisierung und KI - TIP-Online",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV3RZdWtMMGV1Q21jZjFkTVN2OEZlNkMycWZQOEV4ZmFXVVZ0TGZ1TUZLSW5YSUJsT3NsM240SF8yZGRlTTd0aU0yNnRyZWRldGxEM0ZoUkduZjh2bjJlS0x2bTluQ2ZXSjFQY1hVcVFUYi1ERFFXWjN5NzVsZ09lZTkxeXA1WXZlOEN0aWlfUEdkaHdxZlYzZE1sTUJUc25EczE4Tk1iMFZYQ2dhVHc?oc=5",
-          "source": "TIP-Online",
-          "date": "12. Oct 2026"
+          "title": "Weiterbildung Steiermark: Rekord bei Kursen, aber Druck auf Bildungseinrichtungen wächst - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQl9yVHpYUjllbzBIcGNiaXpLc1hmRDU5bDRuWTNrNm5zR0xXdmNtUGFDMFpfSWRKUG9WcVM5YVdaWFNudzlYOXMyblFYMXdScmU5bDRCQ1RFekZLczlBWlhUSkJHR3gwVXZ3X0x1VXR3dmxaaEdvU29TQWVZaXVMYWoxVDB5by1lLXJzM0ZOVUdCZkVtd3NSTEI0UGxWN05PVjVWTXhQZmJBeTZzdHFGbl9BV1JaWkpXMlo4Z05R?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "18. Oct 2026"
         },
         {
           "title": "Steiermark setzt im Tourismus stärker auf internationale Märkte, verstärkte Zusammenarbeit und Künstliche Intelligenz - Leibnitz Aktuell",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMmVJODlnb0hYMGduNXhDS1B6V01tbnlGLWF2dXBvdS1ic0tmUDdBRGpIVDhIVnN6TXhCUU9tX01NYTRxOU9pNWlBdE9FWEJDenlycVB0V1Z6aFdQU09LUmxUWjEzeDY1ZFlfVW15eDgtNkw5NU1fVU40LU9nbXBtNGJqWFBjTVBMaGEyVWRmOXF5QW8wQkRLLWlpU0wyZ0Y0LWVydVYyT3BfWDlKWkR4d25QTERmak1pY3BTQlFDRzBiWnoxMl9BVTBjbUptZ1p0YVEybzhTUXZ2VktmTHd6VWVZbm16Z2gtTzFv?oc=5",
           "source": "Leibnitz Aktuell",
-          "date": "12. Oct 2026"
-        },
-        {
-          "title": "Strategie 2030: Steirischer Tourismus setzt auf internationale Gäste und Künstliche Intelligenz - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYWlyRGp5VnVzT24wWTUzNmVvVF9jTWVEZ19pVzJBQk9rREdHZ1pMQ3FORElyTTBhVVlXSjNjWHpWTGYwUnJYT3VVYXFSSVpZa0I2R1RSbG1jdzVoYjFqS1NSWVZmSDdmdUtYX196TWEtNHQ2OEVjZmwzNGpxMjl6dy1tWlhmRVQwWGlyVE9rQW5oek5pRGxTU0RYQndYRkpPTjRzbjRleUdtWWhyVnBtY0JnU3FjMWtha29HZ0p4Q21OSjJfM2k0ZUZ0LVJweUNIYng4?oc=5",
-          "source": "MeinBezirk.at",
           "date": "12. Oct 2026"
         },
         {
@@ -227,16 +221,22 @@
           "date": "12. Oct 2026"
         },
         {
+          "title": "Strategie 2030: Steirischer Tourismus setzt auf internationale Gäste und Künstliche Intelligenz - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYWlyRGp5VnVzT24wWTUzNmVvVF9jTWVEZ19pVzJBQk9rREdHZ1pMQ3FORElyTTBhVVlXSjNjWHpWTGYwUnJYT3VVYXFSSVpZa0I2R1RSbG1jdzVoYjFqS1NSWVZmSDdmdUtYX196TWEtNHQ2OEVjZmwzNGpxMjl6dy1tWlhmRVQwWGlyVE9rQW5oek5pRGxTU0RYQndYRkpPTjRzbjRleUdtWWhyVnBtY0JnU3FjMWtha29HZ0p4Q21OSjJfM2k0ZUZ0LVJweUNIYng4?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "12. Oct 2026"
+        },
+        {
           "title": "KI-Studie: Mehr als die Hälfte der steirischen Immobilienmakler ist für ChatGPT unsichtbar - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMlBMVkRwdDlFbVl3SFcwSWFzVHh2SVJNY1A3WXN5RzA2eGFfYmpBSUdodnJTUVZlRmFQbXFQclJCSmE3cEFvb0VUbUM0X01adkdnQ2ROb08xeHBZT3RiOFcweXpuSHg5WF9KcHFjMUIwc0ZETHFtamhYdGllMFVKVVctYTNGeVg1Z2NENHVGelZOU3BfcXZpVExUY2pYVFBjZk5DX3lsd1pkQlI4NHNjc2JsZ0loQ2NRRjU5cmdDdE1STDJlek5MTUd5QzNvTlhXQVVVaXR0Q1NtWGRNTEE?oc=5",
           "source": "MeinBezirk.at",
           "date": "15. Oct 2026"
         },
         {
-          "title": "Zahngesundheitszentrum Graz Smart City eröffnet - austria.com",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPci1pb185MC1vNWxibjlFWENEWXkyNmxTZmZuamU3Smd2RzNRSXRBSUFsXzh3c3NmT0F4Q3FsNDUzaXhKbFBMalNBNklmWGcySnNhbjgyaDBBQklxTko1UU9rdlVwN0dVVjVsRUExbklEUkJMYzUtRGxCSjc5OUYtSlEwX2ltWmpN?oc=5",
-          "source": "austria.com",
-          "date": "16. Oct 2026"
+          "title": "Unfall in der Waagner-Biro-Straße: Jugendlicher von Bim erfasst - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUm41REV1bTFnd0tWaDBpSENtMlRpWTBpVURFdlhGVzlQRXVnWjdCOXY4bURQS1FCMFJZY0I1OTdZS1J3ZFIyU2FiOHEycXJ5TUFQdmpfZE4wVTl6SHhqbFN2TjJibGswSE5mc1RrMF9LWnVaOWRpV0R1Q2hlZk9WbjVqSFJwSjF3aWV4Rjl0U3VGVE1TZkpqc0hiaDRHdnZfbG1z?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "15. Oct 2026"
         }
       ]
     }
