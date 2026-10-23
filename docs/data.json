@@ -1,24 +1,42 @@
 {
-  "generated": "22. October 2026, 07:55 UTC",
+  "generated": "23. October 2026, 07:54 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Steiermark positioniert sich durch Netzwerkveranstaltungen und prominente Unterstützer wie den ehemaligen Landeshauptmann Drexler als attraktiver Wirtschaftsstandort, der gezielt Unternehmensansiedlungen und Fachkräfte anziehen soll. Gleichzeitig fordern Wirtschaftsexperten wie der Raiffeisen-Chefökonom mehr Dynamik und Innovationskraft für die Region, um im nationalen und internationalen Wettbewerb konkurrenzfähig zu bleiben.",
+      "summary": "Die Steiermark würdigt ihre wirtschaftlichen Leistungsträger und Top-Unternehmen durch verschiedene Preise und Ehrungen, während gleichzeitig Forderungen nach mehr wirtschaftlicher Dynamik und strategischer Unterstützung für Standortentwicklung laut werden. Der Fokus liegt auf der Stärkung von Unternehmertum, insbesondere im Bereich der Familienunternehmen und der Förderung von Frauen in Führungspositionen, um die Wettbewerbsfähigkeit der Region zu sichern.",
       "items": [
         {
-          "title": "Feier am Schloßberg: Größtes Notariat der Steiermark feiert neuen Partner - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQzlreDNhSXpPWnBvNnR2d19hTTlNckxUek5LMVEwZXlvUXRhd3ZsSFlaMXNvYWF3bEtMMm9ldW1OaE1OUXg1UlNLcmh1N3dEaTFPZU5Oak5oQmJ3cnhQaktuczBjU19sQ2N4QmY0QzBPc1lHZ1lMWUVybTAzMERJaDlBcTduaVRkMTJwSUlXc2gyR2VrdTVWaFBnQnhjMnB4MVREY0V5WW9tb1k?oc=5",
+          "title": "„Top of Styria“: TCM-Gründer Manfred Kainz für sein Lebenswerk geehrt - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWmhjNDJjSzAxRi14aE15cDBpMjBNY0FzT0dndXlFY0xrTG5renEzMXB5TXhYV2JOcEs0T2hKVUtUTTQ2WEtxR2d0bU5ORWVFeGlLUVFnLWItR0EyZmJPa2g2SGE0WkZxclY4TWtqS3NEUG55dmlmNXZRck1TdExCZHJ5VnExbF9NQVh6T3lGZUJZdFl1dUlFMHFNRTlrbFVRTENXSW9BemtpZmxOVW4tR2l1SkE5NXRieEs4?oc=5",
           "source": "MeinBezirk.at",
+          "date": "23. Oct 2026"
+        },
+        {
+          "title": "Wohin das steirische Geld fließt? Nicht in den Einzelhandel | Kaufkraft Österreich - Wirtschaftsnachrichten Süd",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVkZSYllTb0VDdUgyNVZTYllKVHJEZk4ySDNYQ1FGclM1VExZLU9zc0haNzcxdjY1YkVJdDNnNnZXZFktdFpSXzRDNmNTY1RqTEJRTDVZdjBfdmk5OS1DRk50TjRyR1I4NUNTa3FKbGxVZTBZYWFTZ1ZZcEV0MHFqSXc4djFFZG5x?oc=5",
+          "source": "Wirtschaftsnachrichten Süd",
+          "date": "23. Oct 2026"
+        },
+        {
+          "title": "Wirtschaftspreis ALC: Große Bühne für steirische Top-Betriebe - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaTNvTjlUUERmWVo5NDJrd29pOFktRTAtRDhMZThyYzF1Qy1LQXpjZFdlNkZsdmNmTWdzbjkxX0g0MFlYVm1Xbk9kVjlfdWxxeUlMYTlwVlZGb3VTZm1PdjBTdks1c3pZNF9ZdHNMRVQ5OW9FdzZGeTUwdkFMY0RzUjJROU80M0ZVdmdocDJCVWZweUN5dXV2aHphZkdrZWpLNWZkckswN3RPWEVkYkE?oc=5",
+          "source": "Kleine Zeitung",
           "date": "22. Oct 2026"
         },
         {
-          "title": "Raiffeisen-Chefökonom Deuber fordert in Graz mehr Dynamik für Österreich und Steiermark - Wirtschaftszeit",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZkpIY0hFSk5YcGJwanZIaVB3NV94elFKTWd3T0dvT3pPVWt6eU1BZm5OVjRjc2NlaWF2RGV1dk1nUVRLUm54Ym5FVnV2dVNreUpydG96VnpNbUNlbWRoMjRvMHU4cEdueXMxcXp3b2xQNjNvdm9McFk1QzJvbThnVUxZRzdxTDVvWktJZWFqanhteDRIV0RDTnBObFZxMzZPSldfNzlHTmxwWHhDc2k0SlFkT0NRM1NaY3pRVXZBUDRXclhSaVE?oc=5",
+          "title": "Austria’s Leading Companies 2026: Die Spitzenunternehmen aus der Steiermark sind gekürt - Wirtschaftszeit",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQREpEZ2otWjBaeC1vTndGMUlEdDBVX1VEamJlTHotUG1SY3F4ZE1VUEp1R2c1QVNtQmVPZEkxUEFTRG94RFBPcXdkX25PT2NCLTZIVnhLMkIyUjFVb1o2VTlxdkR0MlhDSmlmYk50THk5SjJfb2ozMDVURm5yM0pMV3FHU3FnT1Z2dThON3VLc3VFZnpNTGtfaXV4dnQyblhaSVVRTUp1dTd5bFFYZFlubUVIUjgxOVBEMHFPZ0NLUmc?oc=5",
           "source": "Wirtschaftszeit",
-          "date": "21. Oct 2026"
+          "date": "22. Oct 2026"
+        },
+        {
+          "title": "Frau in der Wirtschaft Fürstenfeld: Bezirksteam startet Comeback in neuer Stärke - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb2ZhcW53WXUyLS1wbzZDZlo3SzJOT2lyMHg5dmxBOTB6Q2dnRTZLRlU4MFJFRGx5VXBrQ0Z1WW1vM042anIweWxsell5R1Iyczc1VzNiOHQ1dXVCR2Y5WEtQWjRFcEJlMnh4N0ZockZlU19mSEhsMjlsM1VGZmQxMFBaU3dfWU9hWDltMXk2NlV3ZjFjZUViWHpWdjdZMFFlQzVtMEFlakp4dnVoQlhZVHFkNGpyUQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "22. Oct 2026"
         },
         {
           "title": "Ein Standort, der Unternehmen Rückenwind gibt - DiePresse.com",
@@ -27,34 +45,16 @@
           "date": "21. Oct 2026"
         },
         {
+          "title": "Raiffeisen-Chefökonom Deuber fordert in Graz mehr Dynamik für Österreich und Steiermark - Wirtschaftszeit",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZkpIY0hFSk5YcGJwanZIaVB3NV94elFKTWd3T0dvT3pPVWt6eU1BZm5OVjRjc2NlaWF2RGV1dk1nUVRLUm54Ym5FVnV2dVNreUpydG96VnpNbUNlbWRoMjRvMHU4cEdueXMxcXp3b2xQNjNvdm9McFk1QzJvbThnVUxZRzdxTDVvWktJZWFqanhteDRIV0RDTnBObFZxMzZPSldfNzlHTmxwWHhDc2k0SlFkT0NRM1NaY3pRVXZBUDRXclhSaVE?oc=5",
+          "source": "Wirtschaftszeit",
+          "date": "21. Oct 2026"
+        },
+        {
           "title": "Steirischer Ex-LH Drexler wird Botschafter für Familienunternehmen - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbWplNUluMWMzNEFkR1dCWG52dERyZXgySk5tSnl5UTBzWFc5UnNrR1R1SDZ4UWV1elcyallrelRqa3doV2dDeC1kRjN1emFVV1hYejFIUlQ3Vk9JNUhWc04xOUdESGpxZzZuenlkSHVwWTJtNHNHcG40M2JXaFJidDNjUFBiWmYxLXN2ajBWbElUMUdUb1pMU0RFQVNMY3hWUkRN?oc=5",
           "source": "Kleine Zeitung",
           "date": "21. Oct 2026"
-        },
-        {
-          "title": "Steirischer Small-Talk: Prominente Gäste diskutierten über die Zukunft der Wirtschaft - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS0VjOW1lNTBZWDk0dDZIYUJDVjQtdHptU1lmUlJIQTJ4RTJDY0FRUjF2YkRhbExTOGNnTXVpWElVSFZkVnlncVhoTFNGZVRldEVuVTNxdVhkNldLOGExTGpoeU83ZmJDU0tCc0lka0tGY1pXUFBDdFNZcjNNeTg4dHE4cnAwYTI5N3BlSHRYbHd0dzJDa1hiMDBKR2FHb2VJYktxSnctV25XSkdPckpma0liTVRnUWM?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "21. Oct 2026"
-        },
-        {
-          "title": "Fotos von der Veranstaltung - Rund 90 Entscheidungsträger beim \"Steirischen Small-Talk\" - Leadersnet",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVm5OQm1jUmRYckhuWHpMZUNNY1RJOWVSU05lTkRKS3ROeGZ6QVpEUFJNeDRCNVQzTWp0NkNkZ21Wd2tNR05hRU4xaDVNWnJVQ0ZhZWVYVDVvTHF3b1RoNWVTSjhjdHhZakVkb1dlRGtwaG1zNG5kWUdtWFU2NXhaQi1WeWhGcVRCVGdpSG13QUczU20tODh2c0N3SllscGdy?oc=5",
-          "source": "Leadersnet",
-          "date": "21. Oct 2026"
-        },
-        {
-          "title": "Voitsbergs junge Wirtschaft traf sich zum Business-Speed-Dating - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcm5Pam55MldxOXBvVTcwaHlKQnBHeGhFUi13TmRkRTBJWnAyU3h3ai1KaE9HMG1seU13blN0ZGhiQ25xRlRaYjNfN21rT095UERlZUticzFOMU1pdkd3clQwU1JaUENjdWQxQUctMVZLM0E0eXhRTHZBdnVpeFd4SHE0eWliNVlieWJJd1o4ZGc2eHpjcWloWlQ2TThIZ3pCalQ4S2w2b29aUXBtSnc?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "20. Oct 2026"
-        },
-        {
-          "title": "„Top of Styria“: Steirische Unternehmen ins Rampenlicht gerückt - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeW1obE9PWGNXQXJNR3pWZHk5UGllUGkxY0VMa3FrVnJnWDBaaTlSdzBHUXB6cTJ2WWxTYkpsTHFxNV9VcHB3QVRBYXdOMFVONndfS0dFQVIyNGRpdm9LTDNKcnhOSk5MaXI4ckJTZExIMXh5ZER5bURGOFUyb1c3TFBXYlR0cmlvVFRPbXhNR2lNMUQ5ZDlYNTdyaFM1STJGSFdfekpkSzZtLTA?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "20. Oct 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark erhöht ihre Ortstaxe deutlich von 2,50 auf 4,90 Euro pro Nacht, was bei Gästen und Betrieben für Unmut sorgt, während gleichzeitig traditionsreiche Hotels wie das Weitzer in Graz mit Qualitätsauszeichnungen gewürdigt werden. Die Nächtigungsabgabe-Erhöhung soll die Tourismusförderung finanzieren, muss aber gegen den Widerstand von Kritikern durchgesetzt werden.",
+      "summary": "Die Steiermark erhöht ihre Ortstaxe deutlich von 2,50 auf 4,90 Euro pro Nacht, was bei Gästen und Betrieben für Unmut sorgt, während gleichzeitig Qualitätsauszeichnungen wie das Steirische Landeswappen für traditionsreiche Hotels wie das Weitzer die gehobene Tourismuspositionierung unterstreichen. Regionale Tourismusverbände wie jener in Villach setzen parallel auf strategische Neuausrichtungen, um ihre Wettbewerbsfähigkeit zu stärken.",
       "items": [
         {
           "title": "Ortstaxe sorgt für Ärger in der Steiermark - https://faktum.at/",
@@ -83,6 +83,12 @@
           "date": "19. Oct 2026"
         },
         {
+          "title": "Steirisches Landeswappen für das Hotel Weitzer - weekend.at",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZjJramltTXR2a0lqdGdvLXJxOHhtdldXZFJIY2U1MEdPSTVtSlZXaWpUOTV4aXJVN1U4MHE5YWpjbjRGcXJ2YVlJTFNDcVYzVmVNRmtiakluNkp3OFNINHhpdUdudUJ2cmtoVEtYTWdOWFF5cjNNQU1Fa0dSdFpuTWE4a3NzN2lLYjJzNXl3T0RzaHdxVE1N?oc=5",
+          "source": "weekend.at",
+          "date": "22. Oct 2026"
+        },
+        {
           "title": "Nächtigungsabgabe Steiermark steigt auf 4,90 Euro - austria.com",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLTZ0dXRyN3QzZXQtUWctcjFrRVRaTnRaMUlVSlY5ajk4Z3JJVWp5YVU5M1cyODFlbDAzQmpINERuSWRlOTQ3V0tmM0VjTVE5UHcwQmlGdWtUUDlwWkZPZ0dpQno3RTNMR2hDWTJUWFRlNjNUMW5lSHNqdDhNWVVkX2pzOWxEZEo0bXNOSUtEQThFalJvRTc1QlMtbEUwemtmSFAwaUxrVGJGMFVwRmc?oc=5",
           "source": "austria.com",
@@ -93,6 +99,18 @@
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZkV4YkNWYURmQlM2TGhnODJWaklCd0NMZkx5d2FsZmFOTXFWMVdseHQ2cjJjdVZhMFVEMEpDNTBSNmxIcHV3UnNpRERfb0tNbDJrLU8zSFA0YUVGV3pFWnVDbjlVWXhpUjVYSnJRRmJLX1NVR01jNV9lVDdWMDd0ZjNkZFE2V29zN2JTSUJ6Ym81alNfdDhieXBlUUoxdnE0TklMVkhDS3VkQQ?oc=5",
           "source": "Kleine Zeitung",
           "date": "16. Oct 2026"
+        },
+        {
+          "title": "Frische Impulse: Tourismusverband der Region Villach stellt sich neu auf - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX08wM1dhSUJRcE5KekllMkZUcW9BUWRGNkJqQU80Z1A1TTFLYWh0MTdvaDkzZS1qajBoQzFfU0JZU0wzOXplRFdnNWtkYXN5SmNGcnRubDlNNVlPa3piejNkZVFPREU5VEgyNU82bU5LUlN1TjdLdFZwR3cxQ2ZEYTN5SUEtQWVCeFRFRUYyX0FDM0pZeDEzaXZMNXlkUjlZaG1jNUl0cEhVZnRkXzQ5NUpjWDg?oc=5",
+          "source": "5 Minuten",
+          "date": "19. Oct 2026"
+        },
+        {
+          "title": "Tourismusstrategie Niederösterreich 2030+ in Baden vorgestellt - Welt Stimme",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObGRybmR3NmJNaWYtSkJ2N3VWcjZVVUl0aVJncW1jeWZmcnV4eGZreDBIYlhYQnotSXpFRUNXNzBRRkg3R19HRkhITDNHcVJyOUFCb0Z4QloxOTJLZnd3WEl1ZDk2eUhhWGVCUThOYVBYWFpPcHN2U0JUOW9GMjFLNkpKM21BX1ZIMkJsV2g2TTg4dWU3bTJhcEl5TndmWGFxRjZCY3ZFa0dqM2FQTzRXVVpfVQ?oc=5",
+          "source": "Welt Stimme",
+          "date": "17. Oct 2026"
         }
       ]
     },
@@ -100,7 +118,7 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die steirischen Universitäten kämpfen mit erheblichen Budgetkürzungen, die Forschung, Lehre und Arbeitsplätze gefährden und eine verstärkte Zusammenarbeit zwischen den Hochschulen erforderlich machen. Gleichzeitig zeigen steirische Forschungsprojekte beeindruckende Erfolge, etwa in der Präzisionsmedizin und IT-Sicherheit, und fördern die Umsetzung von Innovationen durch spezialisierte Programme wie die Campus Edition von Masters of IP.",
+      "summary": "Die steirischen Universitäten, insbesondere die Uni Graz, sehen sich mit erheblichen Budgetkürzungen konfrontiert, die Forschung, Lehre und Arbeitsplätze gefährden und den wissenschaftlichen Standort unter Druck setzen. Gleichzeitig zeigen steirische Forschungsprojekte wie die Präzisionsmedizin internationale Erfolge und tragen zu gesellschaftlich relevanten Erkenntnissen bei, etwa zu Extremismus und Klimafolgen.",
       "items": [
         {
           "title": "Kürzungen des Uni-Budgets: Forschung und Lehre gefährdet - ORF ON",
@@ -121,18 +139,6 @@
           "date": "19. Oct 2026"
         },
         {
-          "title": "MASTERS OF IP: Campus Edition – von der Forschung zur Innovation - brutkasten",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdU9NUmdjZGNfV29HMUVCM1FmaDVlOW4xZjRvOV9WN3QtZDBpSlhYbWt1MGZBQnVpeTlYMTB1R3FIbko4MU51d3ZfQTB4dWROaG5JR1pDam5EeUlfRDJNMU85WkNsMHFZLWtHakVaSk5BSVg3N2g3NTk1T2IyQmhxWmpYNmZJbnItampudGtWYUgtbWFIN0E?oc=5",
-          "source": "brutkasten",
-          "date": "15. Oct 2026"
-        },
-        {
-          "title": "Sicherheitslücken in Phone-Clone-Tools von Android-Herstellern aufgedeckt - All About SECURITY",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU3BjazhLeE1YRy1OS0V5X0h3aG9SWllQTkJtakVYc1Ntcm54R0Q3Zl8yOEw0OEhkd3lqckpxcHRac0M5aDg1NHVGTjZRaVdqaXJTRnBJeDYtN3VsV2laMUxhdmh3ZU5WejJlTFJ5TW1HYkFrMW0xc3Foa3VwWjhxWmpVWUNDV1gwajBTMUREemlTcUNoOHQxX3RoM3YxNGF3SDhtb18tSlc3MUFvSUJlUzRKQUU?oc=5",
-          "source": "All About SECURITY",
-          "date": "15. Oct 2026"
-        },
-        {
           "title": "1. Platz: Präzisionsmedizin durch Forschung aus Graz - DiePresse.com",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRHE4Y3ROX285UFhCNVA5Sld1WnZVQ29WS2RDejhzWnVSbTgtUnozX3hmc3oybUpodDM0X3h3dnhWWFdUa2lZZjNmUm1ZUzF5V3N1d0JYR3QyMjgzcTExVlJnYmtVNXAteURyajNNQ3ZWRGhjWUl1UldNWjRMVlQwSF9lYTRaVTBMLXAybXVJQQ?oc=5",
           "source": "DiePresse.com",
@@ -145,10 +151,22 @@
           "date": "17. Oct 2026"
         },
         {
-          "title": "Unis müssen enger zusammenwachsen - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XRGpGWWgzcTlMVnU0bTBwbXhKNWVoQmZLWDA5QTdVVm1fa2l5akNpNGpGMkdQZjdnc1JSVkpZZmdaaDFGU0piVzU0cERoNHRzT3JXX3VHeGl5T2hneEhRSEY5UDFxNENza0ZNblFpSFU?oc=5",
-          "source": "wko.at",
-          "date": "15. Oct 2026"
+          "title": "Uni-Budget fixiert: Uni Graz-Rektor warnt vor Sparkurs - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUWEyWXBjZG40QmY1VXg4YTM5TG9PZDdvX19pRHF2UUFrUERtSW1POEhqODlyM1Z6U1FNQjhFOVRkOFN2cjVHNXMzQ0pKNFY0S3MwRGRxM2VuOXN4NUpMZU1meFBJanRYbjlnVV9SS241OTVzNi1FNHRJWFJlaGNqand3U19lNDVnSUQtbFdKRnIwaTlsYTRSRQ?oc=5",
+          "source": "5 Minuten",
+          "date": "18. Oct 2026"
+        },
+        {
+          "title": "Uni-Rektor warnt vor Budgetkürzungen - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvMW8wOG01eWF4dG55T3RIZ3djQ1ZSWGhOMlZIa0ZzdXlJZm9QSnFpZlUtZkRFM2l3RzhWMlNlc2U2eHBkai05V2N4bU5iWXN2d3Rqag?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "17. Oct 2026"
+        },
+        {
+          "title": "Österreich: Klimaschäden kosten laut Studie Milliarden - Kurier",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWVoNEh1V24yanh4cEFYWjdMVEt0WlFrOHByR2pYTGIxU0xJSi1xWmVLeG5Cc01fcUZEbmRlUGJKM1FPbkNfQV9uV1BreVRJcGx1MDk4YWVFRklRemMxR3hWck5QZm9oQ0JnM2lzR0wxUndnYXVPZk8yZi1IelBjZ2JNQ21xWmlnX2p6NDkwc3hhTUFBVVFhNGxCYzh6NGpCQTVlS1gzX1g?oc=5",
+          "source": "Kurier",
+          "date": "22. Oct 2026"
         }
       ]
     },
@@ -156,19 +174,13 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Ich kann diese Aufgabe nicht wie gewünscht erfüllen, da der zweite Nachrichtentitel \"Kulinarium vom 15.10.2026\" keinen erkennbaren Bezug zu Förderungen, EU-Programmen, Strukturfonds oder Wirtschaftsförderungen hat und daher nicht zusammengefasst werden kann. Der erste Titel deutet auf ein Jubiläum der Regionalförderung hin, reicht aber allein nicht aus, um zwei prägnante Sätze zu formulieren.",
+      "summary": "Ich bin bereit, die Nachrichtentitel zusammenzufassen, aber ich sehe in Ihrer Anfrage nur einen Titel (\"35 Jahre Regionalförderung - ORF ON\"). Um eine aussagekräftige Zusammenfassung in zwei prägnanten Sätzen erstellen zu können, benötige ich mindestens zwei bis drei weitere Nachrichtentitel zu Förderungen, EU-Programmen oder Wirtschaftsförderungen in der Steiermark.",
       "items": [
         {
           "title": "35 Jahre Regionalförderung - ORF ON",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94WGdvZ2NvRkhMSXhuZWFQODkzMVctWW9EMS1teWxtOGtfOGlCWVd6dlJFTzhSbzBOZEpjOTRSNkRWMWJnMjZoNGQ0c2NZdG9VWXduaktkOE03QnhHbWt4eGI1VE1pbVRGdzQ3VA?oc=5",
           "source": "ORF ON",
           "date": "19. Oct 2026"
-        },
-        {
-          "title": "Kulinarium vom 15.10.2026 - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zZnFfcmJUNmlVNVlPVi1jd3F5bHFXNm1UVDhVNXp0R1N5dGcxRVJoYzNiVmJLRS13d0x0SG1kdFpDajRzbTlTLVlHRFFkUVJ1eFF2aG9pd1dBT0IycWhNZFd6cW1DUTQ?oc=5",
-          "source": "ORF ON",
-          "date": "15. Oct 2026"
         }
       ]
     },
@@ -176,7 +188,7 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark investiert verstärkt in digitale Weiterbildung und modernisiert ihre Technologiecluster wie das Silicon Alps, während gleichzeitig Fragen zur gerechten KI-Nutzung und deren Auswirkungen auf Arbeitswelt und Gesellschaft an Bedeutung gewinnen. Die Region positioniert sich damit als innovativer Wirtschaftsstandort, muss aber parallel die Chancengleichheit bei der digitalen Transformation sicherstellen.",
+      "summary": "Die Steiermark erlebt einen Digitalisierungsboom mit wachsenden Weiterbildungsanforderungen und einer Neuausrichtung des Silicon Alps Clusters, während gleichzeitig Bedenken hinsichtlich sozialer Ungleichheit durch KI-Technologien und deren Auswirkungen auf die Arbeitswelt zunehmen. Innovative Projekte wie das Smart City Zahngesundheitszentrum in Graz zeigen die praktische Anwendung digitaler Lösungen, doch Betriebsräte und Bildungseinrichtungen stehen unter erheblichem Druck, mit der rasanten technologischen Entwicklung Schritt zu halten.",
       "items": [
         {
           "title": "Weiterbildung Steiermark: Rekord bei Kursen, aber Druck auf Bildungseinrichtungen wächst - MeinBezirk.at",
@@ -197,22 +209,10 @@
           "date": "19. Oct 2026"
         },
         {
-          "title": "KI-Studie: Mehr als die Hälfte der steirischen Immobilienmakler ist für ChatGPT unsichtbar - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMlBMVkRwdDlFbVl3SFcwSWFzVHh2SVJNY1A3WXN5RzA2eGFfYmpBSUdodnJTUVZlRmFQbXFQclJCSmE3cEFvb0VUbUM0X01adkdnQ2ROb08xeHBZT3RiOFcweXpuSHg5WF9KcHFjMUIwc0ZETHFtamhYdGllMFVKVVctYTNGeVg1Z2NENHVGelZOU3BfcXZpVExUY2pYVFBjZk5DX3lsd1pkQlI4NHNjc2JsZ0loQ2NRRjU5cmdDdE1STDJlek5MTUd5QzNvTlhXQVVVaXR0Q1NtWGRNTEE?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "15. Oct 2026"
-        },
-        {
           "title": "Zahngesundheitszentrum Graz Smart City eröffnet - austria.com",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPci1pb185MC1vNWxibjlFWENEWXkyNmxTZmZuamU3Smd2RzNRSXRBSUFsXzh3c3NmT0F4Q3FsNDUzaXhKbFBMalNBNklmWGcySnNhbjgyaDBBQklxTko1UU9rdlVwN0dVVjVsRUExbklEUkJMYzUtRGxCSjc5OUYtSlEwX2ltWmpN?oc=5",
           "source": "austria.com",
           "date": "16. Oct 2026"
-        },
-        {
-          "title": "Unfall in der Waagner-Biro-Straße: Jugendlicher von Bim erfasst - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUm41REV1bTFnd0tWaDBpSENtMlRpWTBpVURFdlhGVzlQRXVnWjdCOXY4bURQS1FCMFJZY0I1OTdZS1J3ZFIyU2FiOHEycXJ5TUFQdmpfZE4wVTl6SHhqbFN2TjJibGswSE5mc1RrMF9LWnVaOWRpV0R1Q2hlZk9WbjVqSFJwSjF3aWV4Rjl0U3VGVE1TZkpqc0hiaDRHdnZfbG1z?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "15. Oct 2026"
         },
         {
           "title": "Silicon Alps Cluster: Ein „Clusterkenner“ rückt an die Spitze - Kleine Zeitung",
@@ -225,6 +225,12 @@
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPejl5VWJjczR0cDUwd0ZhMmxsS3ktUFk5TmY3eGtLVUdWVlgyU29BeVVTY1JFU0ZDbUJsaDdvVnJPc3lHRnBING9WcXItNTdLTjJOLXJVR1ZaM3ZVZGpvN3pFdXF1Q29Xd2o1amZwcUkyTWoxTFA5dnE3MXI5TjFLZk03YW9aS3BRQmpMRS1Hc0pEQkdxdmQ2TzdSb3NxYl9uSUdlSFVadw?oc=5",
           "source": "Kleine Zeitung",
           "date": "19. Oct 2026"
+        },
+        {
+          "title": "Vorarlberg heute vom 16.10.2026 - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaZHV1eks4YkdYTFZhUWVXWnIyQzZtYmU3RmxwdmdfUERHVTJIb2plY0pMdFlGLWw0eklueVZyS2IxalB0RjVyTmZXZTZSbnRPY21DNS1xMnY4bng0WnA2aGVKdkVHMGlJdzBYTW1lRQ?oc=5",
+          "source": "ORF ON",
+          "date": "16. Oct 2026"
         }
       ]
     }
