@@ -1,13 +1,19 @@
 {
-  "generated": "29. October 2026, 08:52 UTC",
+  "generated": "30. October 2026, 08:57 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die steirische Wirtschaft zeigt trotz regulatorischer Herausforderungen wie dem umstrittenen Klimagesetz eine robuste Innovationskraft, wobei etablierte Traditionsbetriebe und preisgekrönte Unternehmer durch verstärkte KI-Adoption und Wissenstransfer ihre Wettbewerbsfähigkeit sichern. Die Region profitiert von einer aktiven Unternehmenskultur, die von etablierten Betrieben bis zu Start-ups reicht und durch gezielte Informationsveranstaltungen und Wirtschaftsplattformen wie in Gleisdorf und Weiz kontinuierlich gestärkt wird.",
+      "summary": "Die steirische Wirtschaft zeigt trotz erheblicher Herausforderungen durch Klimaschäden in der Landwirtschaft und kritisierte Regulierungen wie das Klimagesetz eine robuste Innovationskraft, wobei Unternehmen verstärkt auf Künstliche Intelligenz setzen und eine beachtliche Anzahl von Traditionsbetrieben langfristige Stabilität demonstriert. Das Wachstumspotenzial der Region wird durch die Digitalisierungsinitiativen und die Auszeichnung leistungsstarker Unternehmer gestärkt, erfordert aber eine Auseinandersetzung mit den wirtschaftlichen Belastungen durch Klimafolgen und regulatorische Kosten.",
       "items": [
+        {
+          "title": "Schäden durch Dürre, Frost und Hagel: Steirische Landwirtschaft zieht bittere Erntebilanz - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVmZNY09TT3FWR2xDWkk0TjRhZTJJQzJFTUZCRGNKNzRJeHltV01KaTZ5OU5zUGxJdXJBV2VjdWp1c01lcUdhNDN5ZmNxTGh3a2dvUl9mcG5wZzlGSUNtNWJZNHFTM1lpZWdWMnRHLWhiaXNuN2tpeVcyTHlzWDd5cjA4ODNIYU51RVZIMlRuM05RMU5HSkpPZWhhY29SdVZZcm1nS0lXbEN2bTdGdXpr?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "30. Oct 2026"
+        },
         {
           "title": "Klimagesetz sorgt für Kritik: WKO Steiermark warnt vor Milliardenkosten - 5 Minuten",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa1ZuOF9NeE9Nb1VBYWdDUFQ3TXhuYnNPUHpNQWVKQmd3MlRkay1ULXF5LUpPQnYzcFFRNFVBeEI1WlpsOVVoemtoYnJ1NUsyc1AxR3Q1Um5jU1RhY2VPUS1WMkVrc2luc1BRR2FfT05sX2gyVGRFMTU1clhJazFGWHk0SEhOcFlJRnBVS3JCWGR1SFA0U01NUXhLc3lrRFBBOF9RY2RaNW9INnBhcFZyQ000RUpaOHk2?oc=5",
@@ -21,16 +27,16 @@
           "date": "27. Oct 2026"
         },
         {
-          "title": "Bleib informiert: Diese News solltest du am 28. Oktober nicht verpassen - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWEtycXZpanpWUURPS25UNXpaNHFWalJQcTQxaUNJYkNCeUdCT0RyeW1qV0VPdDI5eXZDWFZ5TElpSF9RdGZTdG1WMnZ0b29nWkNfM2c3M2U0aGo4enl6Nm9NbmxTVVZCdFpGTm4tQjZnWVJHUDRKTVF5MFJRaUxvWnRGTDN1MlE2S2RKSm4tUGwwUnlINFFCSV8zZ1d6SnBIYjdsY3d5OUlHQk1N?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "28. Oct 2026"
+          "title": "Business Breakfast Steiermark: Wachstum braucht Kraft - Raiffeisenzeitung",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QSDJpT3VUYUhVVlNid3lnMks3RlRBWGxnakt1YnV5LUVEemVXRGhMNV9NY2lEUzluMDYwMjBfOTZYekFJVlBoSXF3MGpOQmEtQXNRTy0xVXBwV193cHRMWjFPWk5ua1A5WXVwcTZjNTd6Vk1CMlVF?oc=5",
+          "source": "Raiffeisenzeitung",
+          "date": "29. Oct 2026"
         },
         {
-          "title": "Gleisdorf und Weiz gaben der Wirtschaft eine große Bühne - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWXpTdlU0WmkzLU1HdDR3VlBTdGJaRGZ6WVI4NFYxSmRTcGxGVnNmZlBJeEpncEdGYzRndVBSRFJDcTNuM2Jzd3dTT040QzRWZUYyd1VLUGgxWVV0eWVLdEVzZXcwcEp6VTNIWm5veHh4Q3V6MVN0TDZFaUFUVlQ5OUtvN0VSSVotb1JHN2Mwck14VGxvVFY2T1BWVUR1NjNRdk9uS0VMYw?oc=5",
+          "title": "Söding-St. Johann: 70 Unternehmer informierten sich über KI - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNemRobUJHZWwwRTBUR2VwandJS3hZenRpajlYbks0VDJYMHlYRVhEb1dpVnZ3OFA4MjNoMHZJa3daYzUwa0swQUFPbVRRWkNrSWJEOUpGczhWcWVUSmsybVgtUzFYUzloRTRUTmFXU2M2d000S2t0M0lhVmJxYVFwWHphY3kxTVBzT3NKaHlNYmE1cVRUaWVwclZqVWtwVExFS0liMmxOYTc?oc=5",
           "source": "Kleine Zeitung",
-          "date": "27. Oct 2026"
+          "date": "28. Oct 2026"
         },
         {
           "title": "Hohe Resilienz: 296 Traditionsbetriebe in der Steiermark sind mehr als 100 Jahre alt - MeinBezirk.at",
@@ -45,16 +51,10 @@
           "date": "25. Oct 2026"
         },
         {
-          "title": "Söding-St. Johann: 70 Unternehmer informierten sich über KI - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNemRobUJHZWwwRTBUR2VwandJS3hZenRpajlYbks0VDJYMHlYRVhEb1dpVnZ3OFA4MjNoMHZJa3daYzUwa0swQUFPbVRRWkNrSWJEOUpGczhWcWVUSmsybVgtUzFYUzloRTRUTmFXU2M2d000S2t0M0lhVmJxYVFwWHphY3kxTVBzT3NKaHlNYmE1cVRUaWVwclZqVWtwVExFS0liMmxOYTc?oc=5",
-          "source": "Kleine Zeitung",
+          "title": "Bleib informiert: Diese News solltest du am 28. Oktober nicht verpassen - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWEtycXZpanpWUURPS25UNXpaNHFWalJQcTQxaUNJYkNCeUdCT0RyeW1qV0VPdDI5eXZDWFZ5TElpSF9RdGZTdG1WMnZ0b29nWkNfM2c3M2U0aGo4enl6Nm9NbmxTVVZCdFpGTm4tQjZnWVJHUDRKTVF5MFJRaUxvWnRGTDN1MlE2S2RKSm4tUGwwUnlINFFCSV8zZ1d6SnBIYjdsY3d5OUlHQk1N?oc=5",
+          "source": "MeinBezirk.at",
           "date": "28. Oct 2026"
-        },
-        {
-          "title": "Steirische Start-ups: Was bleibt vom Hermann-Hauser-Lab? - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb19HLUQxT2RwUjlXdndhZGJCdGZ2YTBYNEpvZUVyMnU4VE14bjVqZi15WjJISHdRYkF5SmVQMlRrYUNKWnRMM1Q2WEhLaU9vRUtlSUFDSGV1bHVIdTVta2tIX0pPZmNPSzZ0Q0hGeXVJR3JWTVcyM29OSVhHVjdlSl9hV255c21xWnVmSzdITTZaTHVUSnJWWmtkZE9CT0N1b0E?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "26. Oct 2026"
         }
       ]
     },
@@ -62,13 +62,13 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark verzeichnet einen deutlichen Tourismusaufschwung mit steigenden Ausländernächtigungen, der durch günstige Sommerbedingungen und neue Infrastrukturprojekte wie die Koralmbahn zusätzlich befördert wird. Gleichzeitig zeigen sich Herausforderungen wie Umweltprobleme beim Grünen See, während neue Angebote wie Hundefreundliche Destinationen und erweiterte Flugverbindungen das Tourismusangebot diversifizieren.",
+      "summary": "Die Steiermark verzeichnet einen deutlichen Tourismusaufschwung mit steigenden Nächtigungszahlen, insbesondere in Sommermonaten und Regionen wie Erzberg-Leoben, wobei Infrastrukturprojekte wie die Koralmbahn und prominente Persönlichkeiten als Botschafter zur Steigerung der Besucherzahlen beitragen. Die Tourismusförderung setzt dabei auf vielfältige Strategien von Abenteuer- und Kulinariktourismus bis zur Positionierung neuer Destinationen im In- und Ausland.",
       "items": [
         {
-          "title": "Website-Pflege: Webadressen: Klar benennen und alte Links erhalten - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUm44Z0RYR1JxX2VQVTRNcWRNT0VsMFo3cjhSaTZSWXltdnVBcWVvLTIxWFEzblFIc3g3Smd2MmtEc3NHQ0ctUUpEQlRod1Bjcm9vU0U1cnhkVnV6ZE9EY2NLWnA1V1dBSWU3bGNVbU94aFN4TUZhWG1WbmhRX2p1UEVlN0F1Q3NheHhCS3Z3QkxHOVhqTlY3NUlKOFp1WFUyOG1naFNlbVlMSWFwVjVMSi1hT1ZzTUo1TzVv?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "28. Oct 2026"
+          "title": "Der Schnauzer ist zurück: Lafer und Marko machten Graz unsicher - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMTM3U3V1TlI2R0VNR1B3d0FOVkRmTk9Ba3QyRGRzcjU4QUt0MHNZWGVHbnhaZllyazkxZnpmdFk1ZlFWelhfMlppMzNNa3QydHd4b1dNZXpJdmR5cmltTWFkSVhKeWJONTJNTEdJY09uWnNvUDJLTVlyYXBPOTg1M0ZfVzlTQlhxek83a1JxLS1FUE1MZzZxNEg5Y2E0TmpiOU84R3RlVjR1dlJwNnc?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "27. Oct 2026"
         },
         {
           "title": "Tourismus jubelt - Immer mehr Ausländer urlauben in der Steiermark - Kronen Zeitung",
@@ -77,22 +77,22 @@
           "date": "23. Oct 2026"
         },
         {
-          "title": "Der Schnauzer ist zurück: Lafer und Marko machten Graz unsicher - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMTM3U3V1TlI2R0VNR1B3d0FOVkRmTk9Ba3QyRGRzcjU4QUt0MHNZWGVHbnhaZllyazkxZnpmdFk1ZlFWelhfMlppMzNNa3QydHd4b1dNZXpJdmR5cmltTWFkSVhKeWJONTJNTEdJY09uWnNvUDJLTVlyYXBPOTg1M0ZfVzlTQlhxek83a1JxLS1FUE1MZzZxNEg5Y2E0TmpiOU84R3RlVjR1dlJwNnc?oc=5",
+          "title": "Tourismus-Zuwachs im Sommer: Abenteuerregion Erzberg-Leoben feiert starkes Nächtigungsplus - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY3k0Njg5M0loX1hwZThzZ1ZUcmlvVHdXYmdFc0pqWlBZVWhUSTZRbm5ZalFUZXI2SVc2LW5qTWRhVXNCMWpIUlBmd1NMVHVLM2NfM2ZlNDlpdzRIUmxDQi1FRlE3TkdaY1NVOTdfUDU4UkJLSldIQ2RpQjA1ZFdDXzFlY000TGc3VzBHN3E5Rzl2eTFiMnFzZWlIVmN5Mk1IMmZYaUg1ZFRQTFNEY24wR0dvanYxSEFR?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "26. Oct 2026"
+        },
+        {
+          "title": "Lafer und Marko werben für die Region Graz - GASTRO.at",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc0tlQ1RENF9oVnFBYU9BNk5jZUZJUnM3Y1FUa1hKRmhnazdOelY4Sml6ZzlqeDFuWmhrTWEzdEw5cGpNRWQzQkNrWklEOEw0OTg4LThYRnBTa2JpUW9IbllrX0w4a1dFLVpvN2RkeXRPN3hRWmE2M0tRX3JlZTlQVQ?oc=5",
+          "source": "GASTRO.at",
+          "date": "29. Oct 2026"
+        },
+        {
+          "title": "Rekordsommer und Koralmbahn haben Tourismus einen Schub gegeben - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPay1IWDRmM210ZE1DdW1WSVFrYzFoNWhySVRWSEZHVW81OUUwYVoxVTNhcEFON1F3NmkwOXNJZHljVEVPbFVpOEo4NEhXdVVhejZkWm1GdVp6ejBxOFhad1MzcVBjalJNT1JEUUljRHFfUTdmZzN2QUhRNGl5Szdtdndycm5iSTNVMlEyWkpDUUQwNUZnNGx2VXdVYUs3ZTZwVUhGRDg1RmFodkxZV1E?oc=5",
           "source": "Kleine Zeitung",
           "date": "27. Oct 2026"
-        },
-        {
-          "title": "Urlaub mit Hund in Österreich: Die schönsten Ziele in den Alpen - reisen EXCLUSIV",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1Uk03b1RyTmJobGxQekV5Wmxtam50NGh2SDFzRWpxN3locXZjazZPRVBnaHpGWWltbjFlVUNSTHUtN0pkOTgxUy1ibzlRZWdyV295N1lwOGJnUmxFbkJ4ZVZOSEFPUQ?oc=5",
-          "source": "reisen EXCLUSIV",
-          "date": "28. Oct 2026"
-        },
-        {
-          "title": "„Wie eine Schottergrube“: Grüner See in der Steiermark fast ausgetrocknet - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdWFVeUFKOWdqdUpiclhfZVF6N0sxX1Q3VUJTYTUyY3dpVmZveHpyNlF6WVh1MkpHRWF2N25qeUFYVTBJWlp6WUtHTVdhNlBOeGVhMzdSVkxpOGZoTzR0RHZSLVk1eGc1ZnU4Y193cC1ITHg5OERjQU5VeURDSEhnSzZFOWl1S0pRLWs5ZkNTSUdrSlJ2TEtJRkdXMUxpai1ZRjd4OVBKMHpzdjRnVG1fdXNELVVsM2ZX?oc=5",
-          "source": "5 Minuten",
-          "date": "24. Oct 2026"
         },
         {
           "title": "Bodensee wird zur neuen Destination bei Grazer Sommerflugplan - Kleine Zeitung",
@@ -101,10 +101,16 @@
           "date": "28. Oct 2026"
         },
         {
-          "title": "Rekordsommer und Koralmbahn haben Tourismus einen Schub gegeben - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPay1IWDRmM210ZE1DdW1WSVFrYzFoNWhySVRWSEZHVW81OUUwYVoxVTNhcEFON1F3NmkwOXNJZHljVEVPbFVpOEo4NEhXdVVhejZkWm1GdVp6ejBxOFhad1MzcVBjalJNT1JEUUljRHFfUTdmZzN2QUhRNGl5Szdtdndycm5iSTNVMlEyWkpDUUQwNUZnNGx2VXdVYUs3ZTZwVUhGRDg1RmFodkxZV1E?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "27. Oct 2026"
+          "title": "Auszeit Steiermark: Winterlicher Rückzugsort abseits vom Trubel - ad-hoc-news.de",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ05GUTFLeG96WlY0NGJwaXRLWnA2ZXAyRWNoeHdOX1ZOU2NLZjZxMjZWaVZpYkxkTUxFMzNGaFRLSEIwWGFjT0xOdTRsWXRZcU1wRkI1VkdzVjBoVVZwcjFiazFkSzJKY04zWHFhUzdKRU5BTGtSaXZvcGpINVVUeUFJdG5JQTBUNkloNDYwci1obWlDLW5ocktha2FCblJRT2o4ZzhOc2JLdExIV2Y2X3ZEYngtMnY1cEZyWkZZRQ?oc=5",
+          "source": "ad-hoc-news.de",
+          "date": "30. Oct 2026"
+        },
+        {
+          "title": "Erzberg-Leoben meldet für den Sommer 182.002 Übernachtungen - Welt Stimme",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU0xKZmVuWHhKWVJlX1AtbEdEblFQNkdOVkV1YXc0cktHOGYzNk9Nc1JNVWZKOWRKOC1yakcydU5aVGlFbnQwT1ZzLTFaMFYxZ3NJUnhWT3VnZWhFaW94bTRyLWdZWUU3N3pLRGpKWFJHaXVZeTM2ZXlHU1NyY0hLclpNZDd0Q2VIaFF5cXRsLThzTVhZRklYNldBcFNCd2t1STMyZlNsVkQ?oc=5",
+          "source": "Welt Stimme",
+          "date": "26. Oct 2026"
         }
       ]
     },
@@ -112,7 +118,7 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Steiermark positioniert sich als innovativer Forschungsstandort mit Schwerpunkten auf Mobilität, Künstliche Intelligenz und nachhaltigen Technologien, wie die Zusammenarbeit der TU Graz mit chinesischen Universitäten an On-Demand-Verkehrslösungen sowie der erste AI Summit Styria der FH JOANNEUM zeigen. Parallel treibt die Region die Kommerzialisierung von Forschungsergebnissen voran, von Wassereinsparungstechnologien über innovative Start-ups bis hin zur Etablierung von Europas erster Pilotlinie für Ionenfallen-Chips bei Silicon Austria Labs in Villach.",
+      "summary": "Die Steiermark zeigt starke Innovationskraft in den Bereichen Mobilität und Digitalisierung, wobei die TU Graz an autonomen On-Demand-Bussystemen mit internationalen Partnern forscht und die FH JOANNEUM mit dem ersten AI Summit Styria ein bedeutendes Technologie-Netzwerk etabliert. Parallel dazu prägen steirische Forscher Durchbrüche in der Naturwissenschaft und Internetsicherheit, während lokale Start-ups mit innovativen Produkten und der Circular Innovation Award Austria die Gründungslandschaft der Region beleben.",
       "items": [
         {
           "title": "Öffi-Verkehr on demand: TU Graz arbeitet mit China-Unis an individuellen Routen - Extrajournal.Net",
@@ -121,46 +127,46 @@
           "date": "28. Oct 2026"
         },
         {
+          "title": "Forschung: Ein Sieg für die Internetsicherheit - DiePresse.com",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSWE0WFpyMEJjT0ZDNHhGMXpTMndfSk5xR0RkSm1VcWJkdWstSW1BYmR2eUszVVd3cHIzOFhEUHRySmpFcWJsYmxkZjhiTF83QzQtTHJobnBOdDBiRkluQlVnaU9nN0VBSm14RkZLakxuQkJNSkMwWkFNbGJyOTJGOFVqUC1IbC1X?oc=5",
+          "source": "DiePresse.com",
+          "date": "23. Oct 2026"
+        },
+        {
+          "title": "Grazer Forscher lüften Geheimnis der Natur: Das könnte Medikamente verbessern - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNEM3M0J5cVJDUHF2a0NGTElkQmdXb1hoYXV6NGxYZFhubWlyeVZ5dkoyRzBMbUk1YVR3TDRpNlFfRHFsV0dBMHZyRFhuM0pFeF9TYV9QZ3FCd1ZlWFJzMnRlWjdHdUxXNGowNnlJLUJ2aS1ZUDFlRVR3cElVQnFfS2tHbVo0OEVQOHhKV00zeEhjcmpoT3lSNnNRR28zRDhmaTAtSVZ4cl9tVkdtUHltbmFpbG93b1pOYlE?oc=5",
+          "source": "5 Minuten",
+          "date": "29. Oct 2026"
+        },
+        {
+          "title": "TU Graz entwickelt autonomen On-Demand-Bus - AutomotiveIT",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWWZaamVzTE1oVFFpWUNid2tMZHlwRzJjU3pObjIyYmluM3U3RHY0SzJraThXRlhGYmxYcEZvSW5kRDJfWmNOZGNfeHoyZ3FmLWhaRl9wVFo0Y0VEUnRRcFNxSHRBcFZIRWhKVjFmQmljVW1lbmFlWWRpbzJvZHZveU5HSWpmbjJkWUJxazQ0dm0?oc=5",
+          "source": "AutomotiveIT",
+          "date": "23. Oct 2026"
+        },
+        {
           "title": "FH JOANNEUM Kapfenberg veranstaltet ersten AI Summit Styria mit 150 Teilnehmern - Wirtschaftszeit",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdWdYY2hZVUU2RVFGMFFneWpWbWNWUEo2akVKcVdYX1pBbUtBcmpMcUY5VmZtMzUwcXJfbjZOVlhQV19CaXUtaVhzVnMxZjdBLXJXQURZaXJYaS14M21jcFJRUlptdmNpRUJZZExPVjhaYWFfbkFFSmRfZkZqVjRuVHlDRjlLTW4yWnNaOXJwZUxmZVlPX0JmdzBPdlNjbUhsQWFWU1dBdHF3cW5lM2FabjJablBZeFk?oc=5",
           "source": "Wirtschaftszeit",
           "date": "23. Oct 2026"
         },
         {
-          "title": "Wassereinsparung: Grazer Start-up zeigt Potenzial - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UZDVqV2g1VnNKeXZrWENpRkdzQzU2c09XYlh6cURBTU5sazl5ZG9yVHVDSHEwTkRuUnd6YzJtaXotOF91RlN6bFh6YXJUTHlBZVFtTQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "27. Oct 2026"
+          "title": "Circular Innovation Award Austria in Wien erstmals verliehen: Sieben Unternehmen ausgezeichnet - Wirtschaftszeit",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeVdFcnZpem1vUk5CcVI0dXZ4WUdHeUhFWENKR3VBUEN0aE1UU0IyQ0VzYXhLMHdVVlFDS3k3NHNfcHRoRmVMV0p2MUVOcnZjYWphXzQ1OTgxZjhYRUNsQ0NDM1o0QzdFV3NiaGh6N0dpUE5GLU1rWmpIcElVdWJ0T3VpajNZM01FcjU5bG15VlJWNXJrdjdjeVl3YjlXV2h2a2Rra1B4QTcxVmdKLXBidlBtbjV1YnlDek9HU01tazhUdHd5cV9TeDdn?oc=5",
+          "source": "Wirtschaftszeit",
+          "date": "29. Oct 2026"
+        },
+        {
+          "title": "hanfred: Steirisches Startup bietet Kräuter-Sticks für Hunde - Trending Topics",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVVNLSnR2Nk1xV1ZmMUhXYTRQWDJaR3J1aFE3QnJJd1ZKUnRvQ2x1LVdLdWNsNkItZEpXTWJZbWNYSlQ2VUltYktCbk9Nc0t1QjBRS3llanpENXlub09SR2I1VXVTcW83SGpwTEZxcWtsS0NCNE9BUjU3X3JvNVdHQVFjc2JjcG15QmZVMU12S3dkS0ZPOXY4?oc=5",
+          "source": "Trending Topics",
+          "date": "29. Oct 2026"
         },
         {
           "title": "Steirische Start-ups: Was bleibt vom Hermann-Hauser-Lab? - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb19HLUQxT2RwUjlXdndhZGJCdGZ2YTBYNEpvZUVyMnU4VE14bjVqZi15WjJISHdRYkF5SmVQMlRrYUNKWnRMM1Q2WEhLaU9vRUtlSUFDSGV1bHVIdTVta2tIX0pPZmNPSzZ0Q0hGeXVJR3JWTVcyM29OSVhHVjdlSl9hV255c21xWnVmSzdITTZaTHVUSnJWWmtkZE9CT0N1b0E?oc=5",
           "source": "Kleine Zeitung",
           "date": "26. Oct 2026"
-        },
-        {
-          "title": "Daily Dose für Hunde: Steirisches Start-up Hanfred bringt innovative Kräuter-Sticks auf den Markt - Presseportal",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kUXE5cEJTMF9BbXBOX1g5Z1dvMGJJd1JZVVh0UkFzU3d4SmktbXNXaG9wTFNJbmhaRVlkODIxR1hHcUxWckZhaHdJeUQ1eFl5M1Y0dHN2Rlg?oc=5",
-          "source": "Presseportal",
-          "date": "29. Oct 2026"
-        },
-        {
-          "title": "Grazer Start-Up: KI-Priester für Trauerreden - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUDgxTkM2T0NlSFhfUGFHRUFxd0NILTd1bm9zaWNRWUF5ZWtqSVpWUnJKTG5PMGNXd0tCTnROQnRENWhFdFN1R2NjMGtoaEVZM3ZxbEhrQzRXcWZxNVpCWjhtdmw5YjNyejZ0RC1BY0lqYjFEUmdmdnNzZDNRcG5VcGdRYXRXMGthem5sWTI3M1hta0xncUdIU3ZmamU0Vi1VYkhKYTRkcG1jaXVPYnVFWUExYS13NTQ?oc=5",
-          "source": "ORF ON",
-          "date": "22. Oct 2026"
-        },
-        {
-          "title": "Steiermark soll von Infineon-Ausbau profitieren - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oVFprdEV2UHc1TXNZZnVTYjNqWTRUSmF3S3dFUzF6V1pMU2NzX2FKNGNoaTNoVnRTS0tqc2M4bzVBdTF4bVFsU2k1VHpZeHMzOTNzVw?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "28. Oct 2026"
-        },
-        {
-          "title": "Silicon Austria Labs baut in Villach Europas erste Pilotlinie für Ionenfallen-Chips auf - Wirtschaftszeit",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSEhxQ09CREUyWWpUMkctVzc5RnFvVldVM0RkUnVYX05aaVl0RjNRajlPSmZkYUEwUTJyWHVPVHJ3ZGMxODItV2U4NUd2ZW53RVFsTmpzeGV3LWhfaXZwZnJlNVpnWGFneGVTSDNmampkN2t2bkNNVXNuendPMzB4a3drTzlPb29KWktvWDF0VGpkeXp1WTFoektLa3dTS1MwcEd3cUdTaXpIOEZlWGU5RTBBekt5N1QwV3I2VFFDaGdmeTQ?oc=5",
-          "source": "Wirtschaftszeit",
-          "date": "28. Oct 2026"
         }
       ]
     },
@@ -168,7 +174,7 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Ich kann diese Aufgabe leider nicht erfüllen, da Sie mir nur einen Nachrichtentitel (\"9 Plätze – 9 Schätze\": Das Ergebnis - ORF ON) bereitgestellt haben, der selbst nicht aussagekräftig genug ist, um konkrete Informationen zu Förderungen, EU-Programmen oder Wirtschaftsförderungen zu extrahieren. Um eine prägnante Zusammenfassung zu erstellen, benötige ich entweder den vollständigen Artikeltext oder mehrere aussagekräftige Nachrichtentitel mit klarem Bezug zu Fördermaßnahmen in der Steiermark.",
+      "summary": "Ich kann diese Aufgabe leider nicht erfüllen, da Sie zwar einen Nachrichtentitel angegeben haben, dieser aber nicht aussagekräftig genug ist, um konkrete Informationen zu Förderungen, EU-Programmen oder Wirtschaftsförderungen zu extrahieren. Der Titel „9 Plätze – 9 Schätze\" mit dem Zusatz „Das Ergebnis - ORF ON\" gibt keinen Hinweis auf den tatsächlichen Inhalt des Beitrags.",
       "items": [
         {
           "title": "„9 Plätze – 9 Schätze“: Das Ergebnis - ORF ON",
@@ -182,7 +188,7 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark positioniert sich als innovativer Technologiestandort, in dem Künstliche Intelligenz zunehmend in verschiedenen Branchen – von der Bahn über die Landwirtschaft bis zur Industrie – praktische Anwendung findet und durch Deregulierungsmaßnahmen gefördert wird. Experten und Unternehmen der Region treffen sich in intensiven Austauschformaten wie dem AI Summit Styria, um die transformative Kraft von KI für wirtschaftliche Effizienz und nachhaltige Lösungen zu nutzen.",
+      "summary": "Die Steiermark treibt ihre Digitalisierung durch Deregulierung und den verstärkten Einsatz von KI in verschiedenen Branchen – von der Bahn über die Weinwirtschaft bis zum alltäglichen Unternehmenseinsatz – systematisch voran. Experten und Unternehmen der Region setzen dabei auf innovative Technologien wie Drohnen und künstliche Intelligenz, um Prozesse effizienter zu gestalten und gesellschaftliche Herausforderungen zu bewältigen.",
       "items": [
         {
           "title": "Bahn setzt verstärkt auf Digitalisierung - ORF ON",
@@ -197,9 +203,27 @@
           "date": "27. Oct 2026"
         },
         {
+          "title": "Steiermark heute vom 27.10.2026 - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5iU1lHbkd5LUZSZGlDeXJlYXVURGMzbWtoenBwNHBKR2U5M3RSaEVUemlJRVZVcUs0TXp4X1p0WHBzc3JKcEsyc2VBaFdKZzU3WFJyOEZxd20xemctcXVUVlRoYzlRdGhOb0tkUmZ0OA?oc=5",
+          "source": "ORF ON",
+          "date": "27. Oct 2026"
+        },
+        {
+          "title": "Steiermark: Weniger Bürokratie, mehr Digitalisierung - 2. Deregulierungsgipfel in der Grazer Burg - Regionews.at",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTDRzYTVDZ2ZMcWdmdmJydzdKMmQ5ZG44M3pPdkt1Q2JjX2RJOS1vNTRYMmxubzZkMnphcXNwZkx6a08xMGpuWi0wVGRFY2tnWHpHOEhWeVdTOFpNWVUxUGxZN0FRZS01ZFJ3bVA3Q0ozQ1AxZnBvV01qaVJTck9PVUhNV0VEZExtUEtGWFlKVW5vX1kwcGJwN0RUT1ZvVjR3TjA3VXF4VFd6WlBHdkFxOGNwVG9ObTI1U2dKUG5GeGhMNTTSAccBQVVfeXFMUDZNb21IX0FIWmNFQy1rM010d0J0Y1hLZ0RmUElFck93U0F5bE1pRzNsUFBjTUtUTURlaHFUT1Ewb0c0ZjVjamtPUnNlM3pneVdQQk01aTFodFJxYUVpNE9ONVNyZHR5czNHREVRb1BsMGh4ZGFtVmxTSVJneTU0Q2w3VHJRM1hrSEV1ZDNHN2hQaUlBVnFoOTRzd2hpM2VWNENzMWU0clYxNUZHY3VhMDBPNEp4UUFVd1RqUmo1RG14NzQxRWNYOA?oc=5",
+          "source": "Regionews.at",
+          "date": "23. Oct 2026"
+        },
+        {
           "title": "Immer mehr Branchen setzen auf KI - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oOHJGWjRBcWhESlJKaDE2STVERkFtS3RpNU1NejhWVy1wQVV4TUdnMlY0UE80MzNUNTJlVEY1OGhIUDN3N0JYVEI2elBLT3JES0R3MQ?oc=5",
           "source": "steiermark.ORF.at",
+          "date": "27. Oct 2026"
+        },
+        {
+          "title": "KI im Alltag: So nutzen Unternehmen der Region Künstliche Intelligenz effektiv - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ3d6a0dYRjhHQjZXWWhndFNPMnB5cFhieWoxUHhpdDIza2o0VmNHY2ZIMDVHcjlJNGxTOG8tTnEtUDNYbkl2VnpHdVQxMWN2amk3RGpIV3lUQUE1SGd1d1lhc1VlTWk5WWtSNS1DY3ZhcEFHclRZSHdwaDN0Z0p6VkRZMmR1cHB6cDFGOWdTZ0VzcDNnTzRVa2p6TnVHSTZFTHN6Q01ZbGlLTnZ1RVVNUEpDQk1WdndUUzMzU1lzRERHaGtZaC1hSE0yNA?oc=5",
+          "source": "MeinBezirk.at",
           "date": "27. Oct 2026"
         },
         {
@@ -209,28 +233,10 @@
           "date": "23. Oct 2026"
         },
         {
-          "title": "KI im Alltag: So nutzen Unternehmen der Region Künstliche Intelligenz effektiv - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ3d6a0dYRjhHQjZXWWhndFNPMnB5cFhieWoxUHhpdDIza2o0VmNHY2ZIMDVHcjlJNGxTOG8tTnEtUDNYbkl2VnpHdVQxMWN2amk3RGpIV3lUQUE1SGd1d1lhc1VlTWk5WWtSNS1DY3ZhcEFHclRZSHdwaDN0Z0p6VkRZMmR1cHB6cDFGOWdTZ0VzcDNnTzRVa2p6TnVHSTZFTHN6Q01ZbGlLTnZ1RVVNUEpDQk1WdndUUzMzU1lzRERHaGtZaC1hSE0yNA?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "27. Oct 2026"
-        },
-        {
-          "title": "Söding-St. Johann: 70 Unternehmer informierten sich über KI - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNemRobUJHZWwwRTBUR2VwandJS3hZenRpajlYbks0VDJYMHlYRVhEb1dpVnZ3OFA4MjNoMHZJa3daYzUwa0swQUFPbVRRWkNrSWJEOUpGczhWcWVUSmsybVgtUzFYUzloRTRUTmFXU2M2d000S2t0M0lhVmJxYVFwWHphY3kxTVBzT3NKaHlNYmE1cVRUaWVwclZqVWtwVExFS0liMmxOYTc?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "28. Oct 2026"
-        },
-        {
-          "title": "FH JOANNEUM Kapfenberg veranstaltet ersten AI Summit Styria mit 150 Teilnehmern - Wirtschaftszeit",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdWdYY2hZVUU2RVFGMFFneWpWbWNWUEo2akVKcVdYX1pBbUtBcmpMcUY5VmZtMzUwcXJfbjZOVlhQV19CaXUtaVhzVnMxZjdBLXJXQURZaXJYaS14M21jcFJRUlptdmNpRUJZZExPVjhaYWFfbkFFSmRfZkZqVjRuVHlDRjlLTW4yWnNaOXJwZUxmZVlPX0JmdzBPdlNjbUhsQWFWU1dBdHF3cW5lM2FabjJablBZeFk?oc=5",
-          "source": "Wirtschaftszeit",
-          "date": "23. Oct 2026"
-        },
-        {
-          "title": "Schädling im Weingarten: Steiermark setzt im Kampf gegen Rebzikade auf Drohnen und KI - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNERGSVJmajR0emhacnJKN0Fad1lSQjFPeEpFN0hhUUhwTF9FQ2ZrZzlfOHFvNGF2bnVuX0RPaDdnUUVCZ3NUUU5CUFFKUmJZVWo0Wk04cWtUQVdmNHI1R2xPNGVzeXgxS0NiODI1ck9mUkRfYS1LLTB2WTBwUzcxVTNWZTRrRmNMazA0TXFhd1J4bWUzcUhfVXNRSUJxMFV1N1ZKU1FxMWpnVXk4RVpkMTN1TkpxM2FxNFhv?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "23. Oct 2026"
+          "title": "Rebzikade in der Steiermark: Drohnen und KI sollen kranke Weinstöcke früh erkennen - News.at",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNazY3TjlHSldmZ2VGQzdkX0J4V0taN3hKMTlHbWNQWmJlNmxLVjQyQ2tXUGNKM3hLTGdZejFGX0ZxS1lOZkRncV9JWHp5cTJXWlBfalIyV2FZdTRBM1Y3Sld6NW55N0Fna2Fha2NLU0NGaUpkN0twWlhGenYtRFZiNUpVY21WbXVn?oc=5",
+          "source": "News.at",
+          "date": "24. Oct 2026"
         }
       ]
     }
