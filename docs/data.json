@@ -1,24 +1,30 @@
 {
-  "generated": "02. November 2026, 09:55 UTC",
+  "generated": "03. November 2026, 10:00 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die steirische Wirtschaft zeigt sich innovativ und zukunftsorientiert, wie die zunehmende KI-Nutzung in verschiedenen Branchen und die Auszeichnung des Mariazeller Hofes als ArcheHof demonstrieren, während gleichzeitig erhebliche Herausforderungen durch Klimafolgen in der Landwirtschaft und regulatorische Belastungen wie das Klimagesetz entstehen, das laut WKO Steiermark mit Milliardenkosten verbunden ist.",
+      "summary": "Die Steiermark investiert massiv in die Glasfaserinfrastruktur mit über 125 Millionen Euro für den Breitbandausbau, während der Arbeitsmarkt gleichzeitig unter schwächerem Wirtschaftswachstum und steigenden Arbeitslosenzahlen besonders bei jungen Menschen leidet. Die Wirtschaftskammer warnt zudem vor erheblichen Kostensteigerungen durch das geplante Klimagesetz, das die ohnehin angespannte konjunkturelle Situation weiter belasten könnte.",
       "items": [
         {
-          "title": "Große Auszeichnung: Mariazeller Hof zum offiziellen \"ArcheHof\" ernannt - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNzFZX1lRb3plRTJMQUEyMlZ0TWtpVldGcm9mOWpPd0dxUmxzZzU5anNISEpvSGlmQnhpOEtQcVJjdUw5Zk1sbEdlYW5PM05pY1FFMnRLd3cyRFpvQlVseUtXazVsLXhraVRLRV84S2plVjk3MmpETFhkZ3JuVmIzV3lTTVRTOGdVTWlJeHJUMWViWVR2X0ltLU80TjVrZWJhM3otT19GcUVadWdScS1GNUhPZw?oc=5",
+          "title": "Glasfaserausbau: Millionen-Investition für 21.000 Haushalte in der Steiermark - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMXVEcnVPNUJXSUpON09pVUdSMFBNemt1TjF2RjljVG1VZU5XRERBMGl3dEh0YVBndlhPT1pFaWhaUWVROWFHRHEtTGJ2ZGMySEFydlE0Ul94VGsyUWdJU1pVdkYzM3M4TVZNNUhtLUZFT296c25xcDh1ZjhRUG9PR1V2NFRFZTB3XzdKbnhTS3V1bDV5UjBfNEl2Nk16UnJkLU5Ga1pJUE9mRVVrR0dXbXBialMtdnlHRmYw?oc=5",
           "source": "MeinBezirk.at",
           "date": "2. Nov 2026"
         },
         {
-          "title": "Klimagesetz sorgt für Kritik: WKO Steiermark warnt vor Milliardenkosten - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa1ZuOF9NeE9Nb1VBYWdDUFQ3TXhuYnNPUHpNQWVKQmd3MlRkay1ULXF5LUpPQnYzcFFRNFVBeEI1WlpsOVVoemtoYnJ1NUsyc1AxR3Q1Um5jU1RhY2VPUS1WMkVrc2luc1BRR2FfT05sX2gyVGRFMTU1clhJazFGWHk0SEhOcFlJRnBVS3JCWGR1SFA0U01NUXhLc3lrRFBBOF9RY2RaNW9INnBhcFZyQ000RUpaOHk2?oc=5",
-          "source": "5 Minuten",
-          "date": "28. Oct 2026"
+          "title": "„Wirtschaft entwickelt sich schwächer als erhofft“ - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB0TVlMZ0NCTnl1SjFQNmQ3ODlBNnpJQzdCOEQ4OXBjaEF0OW5OcVlWSHhaOFJUNTFFb3JPVW1jSk5WQQ?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "2. Nov 2026"
+        },
+        {
+          "title": "Anstieg bei jungen Menschen ohne Job - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yNGplZWI1NWI1OElVUUlOZnNVMTRHMUR0QzNmZDBPZGxpSUw5Y2ppbHliNEpxaU00a05EWUNhM29keno0QmkzX0l5QUlpUERydzFxSQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "2. Nov 2026"
         },
         {
           "title": "Business Breakfast Steiermark: Wachstum braucht Kraft - Raiffeisenzeitung",
@@ -27,16 +33,28 @@
           "date": "29. Oct 2026"
         },
         {
-          "title": "Immer mehr Branchen setzen auf KI - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oOHJGWjRBcWhESlJKaDE2STVERkFtS3RpNU1NejhWVy1wQVV4TUdnMlY0UE80MzNUNTJlVEY1OGhIUDN3N0JYVEI2elBLT3JES0R3MQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "27. Oct 2026"
+          "title": "Klimagesetz sorgt für Kritik: WKO Steiermark warnt vor Milliardenkosten - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa1ZuOF9NeE9Nb1VBYWdDUFQ3TXhuYnNPUHpNQWVKQmd3MlRkay1ULXF5LUpPQnYzcFFRNFVBeEI1WlpsOVVoemtoYnJ1NUsyc1AxR3Q1Um5jU1RhY2VPUS1WMkVrc2luc1BRR2FfT05sX2gyVGRFMTU1clhJazFGWHk0SEhOcFlJRnBVS3JCWGR1SFA0U01NUXhLc3lrRFBBOF9RY2RaNW9INnBhcFZyQ000RUpaOHk2?oc=5",
+          "source": "5 Minuten",
+          "date": "28. Oct 2026"
         },
         {
-          "title": "Schäden durch Dürre, Frost und Hagel: Steirische Landwirtschaft zieht bittere Erntebilanz - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVmZNY09TT3FWR2xDWkk0TjRhZTJJQzJFTUZCRGNKNzRJeHltV01KaTZ5OU5zUGxJdXJBV2VjdWp1c01lcUdhNDN5ZmNxTGh3a2dvUl9mcG5wZzlGSUNtNWJZNHFTM1lpZWdWMnRHLWhiaXNuN2tpeVcyTHlzWDd5cjA4ODNIYU51RVZIMlRuM05RMU5HSkpPZWhhY29SdVZZcm1nS0lXbEN2bTdGdXpr?oc=5",
+          "title": "125 Millionen Euro für Glasfaser in steirischen Regionen - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOGFRMXhZQUhoMmttcTJEa1hwZ0NYWFVrQ3JsUU94Y055M1NmT0txSkdEWXNKX2d0V1V5TklRRDIzNHhXUk1FZElzeERQS0RJQmJuMW4tQkpWVDZTSDFwamlrZzZNaUdOblFyY3M5Sm5RM3NsQUdTRGdZZEFZWks2eS1DclRsclFiM2VPUE9oNWpMblVYRUNZdG5BdWZrZ2tLSWZZM2JR?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "2. Nov 2026"
+        },
+        {
+          "title": "Plus bei Arbeitslosen - Steirischer Arbeitsmarkt ist weiter im Sinkflug - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5XTUFlT0h5dW5aOXNmZ2JjRG1pS0d5SXZHcjJTMC1QUEgyR2pBZzdsd3EzVFlod2ZDSDdmVkZrNi00UQ?oc=5",
+          "source": "Kronen Zeitung",
+          "date": "2. Nov 2026"
+        },
+        {
+          "title": "Große Auszeichnung: Mariazeller Hof zum offiziellen \"ArcheHof\" ernannt - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNzFZX1lRb3plRTJMQUEyMlZ0TWtpVldGcm9mOWpPd0dxUmxzZzU5anNISEpvSGlmQnhpOEtQcVJjdUw5Zk1sbEdlYW5PM05pY1FFMnRLd3cyRFpvQlVseUtXazVsLXhraVRLRV84S2plVjk3MmpETFhkZ3JuVmIzV3lTTVRTOGdVTWlJeHJUMWViWVR2X0ltLU80TjVrZWJhM3otT19GcUVadWdScS1GNUhPZw?oc=5",
           "source": "MeinBezirk.at",
-          "date": "30. Oct 2026"
+          "date": "2. Nov 2026"
         }
       ]
     },
@@ -44,7 +62,7 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die steirische Tourismusbranche sieht sich derzeit mit erheblichen Herausforderungen durch Hackerangriffe auf Buchungssysteme und Datenverluste bei Tourismusverbänden konfrontiert, während gleichzeitig geplante Erhöhungen der Nächtigungsabgabe auf Kritik stoßen. Positiv wirken sich hingegen hochwertige Auszeichnungen für steirische Hotels und die Expansion des Flugverkehrs mit neuen Destinationen auf die Tourismusförderung aus.",
+      "summary": "Die steirische Tourismusbranche wird durch Cyberangriffe auf Buchungssysteme und Hotelgäste-Daten erheblich belastet, während gleichzeitig hochwertige Wellnessangebote wie das ausgezeichnete Dorfhotel Fasching und kulinarische Highlights mit prominenten Köchen wie Lafer das Destinationsimage stärken. Die Sicherheit von Gästendaten und Buchungsplattformen stellt eine zentrale Herausforderung dar, die das Vertrauen in die digitale Infrastruktur des steirischen Tourismus gefährdet.",
       "items": [
         {
           "title": "Hackerangriff auf Buchungssysteme - oesterreich.ORF.at",
@@ -53,22 +71,10 @@
           "date": "31. Oct 2026"
         },
         {
-          "title": "Gästedaten abgesaugt: Steirische Tourismusverbände betroffen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb191Vjg3cWV4Qld5UXRyR3JwRXozbUJKajFUb1JGWWoxcWxMUGpmVVNVRi1xVFlaTDVacHZiQ2lmdkxxcVNsS0x0RmZhelM1bjd1UlBaWkVtbFQxYlhBWUs5ZXBxVlF3Vl9PZWU4SWMwYWlfWV9kS2t4SDJ2TWJUN0dPTE54Sm9reUtJZjJmV2tGRE5CV3lpV2g0a2U4ZEx5Q3NZLWpQdzZ1a0U?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "30. Oct 2026"
-        },
-        {
           "title": "Auszeichnung in der Steiermark: Dorfhotel Fasching gehört zu den besten Wellnesshotels - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVnhFMUVheks4UWQ0a1dINS1PQW9ad2dSSk50SlhYTEQ3eklJelVQRGdQUFhwQnhtcFQzcC1qRWlHV1JSQW0wZFhIcmdmeFZvS0xSRlhoWDFXbXJHWmU3cmJkTXppWGhYUW5fc1NjZjV5NUVnck1ESDQ2OWJwTVpKVXBGaDBGZ3hSVERJOV9mdVVlaUhBcWhtN2xfZ2d4RTgySFVRa0tRYks2QQ?oc=5",
           "source": "MeinBezirk.at",
           "date": "1. Nov 2026"
-        },
-        {
-          "title": "Hacker stahlen Daten von Hotelgästen - tirol.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5rTC1nY1V2aTRPM2hvZ2tyOVZTSnBoQ18xOGwyWHVBN1dRUDRlQXVtamlKU2RxZ21jY3NOaFZRMmI3dE9qZEJwYlpxLXNNdw?oc=5",
-          "source": "tirol.ORF.at",
-          "date": "31. Oct 2026"
         },
         {
           "title": "Der Schnauzer ist zurück: Lafer und Marko machten Graz unsicher - Kleine Zeitung",
@@ -77,16 +83,10 @@
           "date": "27. Oct 2026"
         },
         {
-          "title": "Ortstaxe verdoppelt sich: Geplante Erhöhung der Nächtigungsabgabe sorgt für heftige Kritik im Bezirk - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYS1RMGkxRzFjX2JyNk1fRVpxd2cwUzN3TTJ3MjdpWTZyb1BMRHEyeTQ5TnpaeWdkclptZ1RQQi1FM2dZb1lQZEI0RHlKZUYxdEFMLVNQVVIzNzhLNWFtSEg5emlqekZMcHV5MGc5bjhaczNmVWVNUWtqVU5PblFBZXlhcktZSTl2Y0hMU3p4aVFKVnVHTUNYTGxyRjFsTmtaODNjcFg4M1hwbG5rZEtCMVAxdFI0NkdySXQ5bHBUNlVIVlIxaEpyd3RpQXFmZHAxZmkzaW03el9HQQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "29. Oct 2026"
-        },
-        {
-          "title": "Bodensee wird zur neuen Destination bei Grazer Sommerflugplan - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaloxbmJOUW9rbHdiYVBmbVFkVnNRRGF6eXFRS0YxeS1DTkxSbWd5bVFYWTdTdkw0VDhOYWJBSWF0eGdBbDFGMHNlbWhiX0M2UHJZdmM5aHlJRGFPaGU0Zmg5WThOMXFHblZDWVEtQmk0UGIyam9nRFRDdC10VmpieXZjSlVqN1hpMlhSS0NnUjNOcnJsMEtyMzdOTE5pQzMxQ2xDNk5ZZy1IeDQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "28. Oct 2026"
+          "title": "Hacker stahlen Daten von Hotelgästen - tirol.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5rTC1nY1V2aTRPM2hvZ2tyOVZTSnBoQ18xOGwyWHVBN1dRUDRlQXVtamlKU2RxZ21jY3NOaFZRMmI3dE9qZEJwYlpxLXNNdw?oc=5",
+          "source": "tirol.ORF.at",
+          "date": "31. Oct 2026"
         },
         {
           "title": "Betrugsalarm in der Steiermark: Urlaubsgäste müssen jetzt aufpassen - 5 Minuten",
@@ -100,8 +100,14 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Steiermark positioniert sich als innovativer Wirtschaftsstandort mit Schwerpunkten auf Künstliche Intelligenz, Halbleitertechnologie und nachhaltigen Unternehmensmodellen, wie der AI Summit Styria und der Infineon-Ausbau zeigen. Gleichzeitig kämpfen junge steirische Unternehmen um Finanzierungsmöglichkeiten, während die Hochschullandschaft durch Initiativen wie den Circular Innovation Award Austria ihre Rolle bei der Förderung zukunftsweisender Technologien und Geschäftsmodelle stärkt.",
+      "summary": "Die Steiermark positioniert sich als innovativer Forschungsstandort mit Schwerpunkten auf nachhaltiger Mobilität, künstlicher Intelligenz und Circular Economy, wie internationale Kooperationen der TU Graz und der AI Summit Styria zeigen. Gleichzeitig wird die Unterstützung von Startup-Wachstum und die Ansiedlung von Großunternehmen wie Infineon als zentrale Faktoren für die wirtschaftliche Entwicklung der Region vorangetrieben.",
       "items": [
+        {
+          "title": "Öffi-Verkehr on demand: TU Graz arbeitet mit China-Unis an individuellen Routen - Extrajournal.Net",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWZKMENLWWNublFJbEZOb3Z5UDVfcWZ0U0xKUEZCYzNyZ19QaTU4SkFRWXllbkU0Q0QzRmdSQTZRREdhcmFnb1lrY2JBMzk5ZEZCNDVzNE9vRXdBaTUwRzY1SVludGM3S1I4RWxfZDljNW05dUpDQnBZZEFjVFpIRVpXQUxvQXUyWEE2WEFzRVNaR1hkbUQ4QmtoaVJ3SlVUWHNIMGQtYnZlaUJVMVoxcVpPYTBxMUE?oc=5",
+          "source": "Extrajournal.Net",
+          "date": "28. Oct 2026"
+        },
         {
           "title": "Auf zu neuen Ufern - Reloaded - Stadt Graz",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTy12amtheDJxUkgzaUpvbUtRTWZEZTZsdjBFQ2pnSDgtR1hDWTFIY3ctWUI2SE1TTVYzQ0drSjE4aUxMdk5ZMGhfSW52Q0hXZVFOVjVFaVhsRlRtTUxCYVNhS3EwOUl1N0Vnc3l0c25pOXNoNzA2eHM4MW9ZWklvbXBkTkdWMFRx?oc=5",
@@ -116,7 +122,7 @@
         },
         {
           "title": "\"AI Summit Styria\" in Kapfenberg, Experten diskutierten über KI - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNalhad2ppajlTMUs4U3d1UFFwOTIwUGhZcmZFa2RkYjIwbTV1ektFXzFvUFRjdEdHd1VWbTg2SmpDMWVkQldsRlNhQkV5WlMxN3JZNm9RakRDc2Z2Ql9VdFhtTDIyUGg2WU9QTWFSaVRTSi12TDY5WC12ejdaMWt6ZHlKblp5QThGT3dYZFNPc09vNk5XWEw5SUtlVUgwMHpCZ29fZHZ2Y0dqWTd3ZldLY2lHNWFCMVBYSk83M1JSRDQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMldRYjNiam4wS1BvUXhHMUJscEhpQ05NLW9iemROeXd1RnRwT04zTUo1T2lIa0FDN0F4WVBWTXdSYnA0c1V4UGRFbFhERlhkbzRfd0lsZ3lNaXN4YmJ5b0RmeU1OQ3ZoWGpTRGNOS3dVeEFQeV8yMmpqbU5EbXZ2dTRyV21SOGo3aVhZaThWdE10QUJsNXBxNFBTODhsUXFNMkZBdl9Dbjg1MER5MThTTDRkT2lGeHlETVYtSDZ3ZnQ?oc=5",
           "source": "MeinBezirk.at",
           "date": "1. Nov 2026"
         },
@@ -137,6 +143,12 @@
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oVFprdEV2UHc1TXNZZnVTYjNqWTRUSmF3S3dFUzF6V1pMU2NzX2FKNGNoaTNoVnRTS0tqc2M4bzVBdTF4bVFsU2k1VHpZeHMzOTNzVw?oc=5",
           "source": "steiermark.ORF.at",
           "date": "28. Oct 2026"
+        },
+        {
+          "title": "Business Breakfast Steiermark: Wachstum braucht Kraft - Raiffeisenzeitung",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QSDJpT3VUYUhVVlNid3lnMks3RlRBWGxnakt1YnV5LUVEemVXRGhMNV9NY2lEUzluMDYwMjBfOTZYekFJVlBoSXF3MGpOQmEtQXNRTy0xVXBwV193cHRMWjFPWk5ua1A5WXVwcTZjNTd6Vk1CMlVF?oc=5",
+          "source": "Raiffeisenzeitung",
+          "date": "29. Oct 2026"
         }
       ]
     },
@@ -144,7 +156,7 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Ich kann diese Aufgabe nicht erfüllen, da die beiden angegebenen Nachrichtentitel keine Informationen zu Förderungen, EU-Programmen, Strukturfonds oder Wirtschaftsförderungen enthalten, sondern sich auf ORF-Sendungen beziehen. Um eine aussagekräftige Zusammenfassung zu erstellen, benötige ich Nachrichtentitel, die tatsächlich Förder- und Förderprogramminhalte behandeln.",
+      "summary": "Ich kann diese Aufgabe nicht erfüllen, da die beiden angegebenen Nachrichtentitel keine Informationen zu Förderungen, EU-Programmen, Strukturfonds oder Wirtschaftsförderungen enthalten, sondern sich auf Pflegeberatung und eine allgemeine Nachrichtensendung beziehen.",
       "items": [
         {
           "title": "Beraten, begleiten, trainieren: Pflegewissen für zuhause - ORF ON",
@@ -164,7 +176,7 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark treibt die Digitalisierung systematisch voran, wobei die Bahn als Vorreiter fungiert und die Landesregierung durch Deregulierungsmaßnahmen den Weg für digitale Transformation ebnet. Parallel dazu etabliert sich KI als Schlüsseltechnologie in immer mehr Branchen, wie der AI Summit Styria und regionale Informationsveranstaltungen für Unternehmer zeigen, während gleichzeitig Sicherheitsaspekte und praktische Implementierungsfragen in den Fokus rücken.",
+      "summary": "Die Steiermark treibt die Digitalisierung und künstliche Intelligenz aktiv voran, wie die verstärkte Modernisierung der Bahn sowie der \"AI Summit Styria\" in Kapfenberg zeigen, wo Experten und Unternehmer intensiv über KI-Anwendungen und deren Sicherheitsaspekte diskutieren. Dabei werden sowohl Chancen der KI-Integration in verschiedenen Branchen als auch kritische Fragen zu Datenschutz und Cybersecurity in den Fokus gerückt.",
       "items": [
         {
           "title": "Bahn setzt verstärkt auf Digitalisierung - ORF ON",
@@ -173,20 +185,14 @@
           "date": "27. Oct 2026"
         },
         {
-          "title": "Weniger Bürokratie, mehr Digitalisierung: 2. Deregulierungsgipfel in der Grazer Burg - Kommunikation - Land Steiermark",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1VURndVljQUhTWjI3V1c0NHBQYVdleEZjaHBEYjI1UnVpVENCelE3QWpIREJQNzF3cWFZOGwzWHV2MjlBendzNFVGeVdkaXpFSWY2cklwWHcxY0dGclRxQXhHVHJYU1VYY2wxbHVHN2xFa1g5ekdRUA?oc=5",
-          "source": "Kommunikation - Land Steiermark",
-          "date": "27. Oct 2026"
-        },
-        {
-          "title": "Immer mehr Branchen setzen auf KI - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oOHJGWjRBcWhESlJKaDE2STVERkFtS3RpNU1NejhWVy1wQVV4TUdnMlY0UE80MzNUNTJlVEY1OGhIUDN3N0JYVEI2elBLT3JES0R3MQ?oc=5",
-          "source": "steiermark.ORF.at",
+          "title": "Steiermark heute vom 27.10.2026 - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5iU1lHbkd5LUZSZGlDeXJlYXVURGMzbWtoenBwNHBKR2U5M3RSaEVUemlJRVZVcUs0TXp4X1p0WHBzc3JKcEsyc2VBaFdKZzU3WFJyOEZxd20xemctcXVUVlRoYzlRdGhOb0tkUmZ0OA?oc=5",
+          "source": "ORF ON",
           "date": "27. Oct 2026"
         },
         {
           "title": "\"AI Summit Styria\" in Kapfenberg, Experten diskutierten über KI - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNalhad2ppajlTMUs4U3d1UFFwOTIwUGhZcmZFa2RkYjIwbTV1ektFXzFvUFRjdEdHd1VWbTg2SmpDMWVkQldsRlNhQkV5WlMxN3JZNm9RakRDc2Z2Ql9VdFhtTDIyUGg2WU9QTWFSaVRTSi12TDY5WC12ejdaMWt6ZHlKblp5QThGT3dYZFNPc09vNk5XWEw5SUtlVUgwMHpCZ29fZHZ2Y0dqWTd3ZldLY2lHNWFCMVBYSk83M1JSRDQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMldRYjNiam4wS1BvUXhHMUJscEhpQ05NLW9iemROeXd1RnRwT04zTUo1T2lIa0FDN0F4WVBWTXdSYnA0c1V4UGRFbFhERlhkbzRfd0lsZ3lNaXN4YmJ5b0RmeU1OQ3ZoWGpTRGNOS3dVeEFQeV8yMmpqbU5EbXZ2dTRyV21SOGo3aVhZaThWdE10QUJsNXBxNFBTODhsUXFNMkZBdl9Dbjg1MER5MThTTDRkT2lGeHlETVYtSDZ3ZnQ?oc=5",
           "source": "MeinBezirk.at",
           "date": "1. Nov 2026"
         },
