@@ -1,42 +1,18 @@
 {
-  "generated": "08. November 2026, 09:26 UTC",
+  "generated": "09. November 2026, 10:17 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die steirische Wirtschaft befindet sich in einer schwierigen Phase mit anhaltender Konjunkturflaute und Betriebsschließungen, während gleichzeitig Zukunftstechnologien wie Künstliche Intelligenz und neue Wohntrends Chancen für Innovation und Strukturwandel bieten. Trotz wirtschaftlicher Herausforderungen zeigen Initiativen wie die Neuaufstellung von Frauennetzwerken und erfolgreiche Messeauftritte das Engagement der steirischen Wirtschaftsakteure für eine Stabilisierung des Standorts.",
+      "summary": "Die Steiermark durchlebt einen tiefgreifenden Strukturwandel, bei dem traditionelle Industrien zurückgehen, während gleichzeitig zukunftsorientierte Technologien wie künstliche Intelligenz, Robotik und Wasserstoffenergie sowie digitale Infrastruktur massiv ausgebaut werden. Die Region positioniert sich damit als Testregion für innovative Technologien und investiert gezielt in die digitale und energiewirtschaftliche Transformation, um ihre Wettbewerbsfähigkeit zu sichern.",
       "items": [
         {
-          "title": "Wohnen in der Steiermark: Größeren Neubauwohnungen mit Garten oder Balkon liegen im Trend - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVmxWa3dneWx3dXY1UTJ1d0xrTXRhR0tGb1JxYlJ1VmE2aTRuRXhHdzBqXzRteVpPVFpnWmF2cHp2MzRlVEZoM3RFdUpmbXEtWkJ6bVZlOEVaSFpXMk5PUjM5dy1lclh0Z2FLZkRHd0M1OHY2NENKdktCU1ViSlh5RVNab1hEX3FzTENudGxxZW5DSEFieXVmQ0lUWks4SnJZYVFwYWlmM21ucXZwN0ZkNTdlX0tfYTctWGRwV0o3NEhQZw?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "5. Nov 2026"
-        },
-        {
-          "title": "„Frau in der Wirtschaft Fürstenfeld“ hat sich neu aufgestellt - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY2ZEM29CbjNJSWZFbEpsMm5TOHZ3WE9VYXFSUExhbnFiX1Q4elEyazRSTlJXWFZwOFJHeW0wem54SUNMTEQyNHZrRzh3YkdETkFha2ZEOS1WVjVGTVZjdFlfRzVzc0JVRkNHRk5EMHlCRFJybmFwNjNUbVRhTHV0MVJCOHB1T2UwcDNFcTBHVUozVWxtcVYyT2MtLU9ETk1BeXBzRTJFckN0Zw?oc=5",
+          "title": "Aus nach 80 Jahren: Steirisches Traditionsunternehmen „hört bewusst auf“ - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRXRoaTJnTDJ1NmVXaTRrYko1SHJlWVVkSEtXSDA1MGZCcFRWM01sZVd4RWVWeGtDYXNYaUhkQl9ad0JaWDNBeWJDT2JhdUJrT3hnRUFOaklOd2RiYnd2QlM4SEJJbWkxc1lKQWxvekZ2N0xRWG1BbmdkaThyTVNBLTRvWHZVaFZrQ1ZJSkxBUFpYVWdiOE1oR1dRVTRFTzFwWUNZWEFTZHQ0NWR1clBneGZNN0dDYlk?oc=5",
           "source": "Kleine Zeitung",
-          "date": "3. Nov 2026"
-        },
-        {
-          "title": "Bekanntes Anlagenbauer in Deutschfeistritz muss Konkurs melden - Wirtschaftsnachrichten Süd",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOWlGbm5FeDRsUXVYdFZ3d1NpRXh1cEJUNmpiZnExUXI1SnhuS0E5TXBGRWNmQURrTml1YnVnYkpKZXRpRTgtVVhoSWF0Nm9DYUN6S0ZKckZwTWRsV29tczNaVkc2ZHJENmJQYjh3M2FoWF9hQ01FUnpKdXE0MTlvUHg1d3kyaTdKcVphdlczdEdGQjZTOGxBRi05OW1aWjl4ZExCWnpaVEstd3hyRHRCSF9FeXRlWjdzRnYxTlRwVnI1Vm1EV3V3bkI5Z2poWGxQSXc?oc=5",
-          "source": "Wirtschaftsnachrichten Süd",
-          "date": "4. Nov 2026"
-        },
-        {
-          "title": "IV-Konjunkturumfrage: Keine Besserung in Sicht, steirische Betriebe unter Druck - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMjlOcm9WUmdMdFlaLUI4bVlidEZaUEVZZGJYV0V2VE9yNzJfcktNY1U4QWQ2c2FITUkxR0QxLWFOalBHbTY4c3B3RGtBMkRYc01remxlT0lzUVdMcUVOT2VxZHVMMGpjdmthZ0tCaUxUQWNVaTkyN1FtWmtMSS1uZEk4OGJRb2F0Zm1nVjRpeEU3cWxIV2MxM3pnNGI2T0tpT2hqNlR5QnR6RHVQZ2dCanZhU1pqZw?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "4. Nov 2026"
-        },
-        {
-          "title": "„Ein Aufschwung ist in der Steiermark leider noch nicht in Sicht“ - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdGE0TTZfOE9hdjRHQ0FqdWoyUlFzSmFYdEpoMWhQRWctRWhxT3hubTc0elJHRzNPanhGRnlLMnBHWURkSV9nTXFXOWZEeV9MVHBFcWVTY3JFWDY3TXk0Y1VlZlNscW9nMEZFNnUtdHc5M3VGc0pfNWxWbXVpUmVGYW9vOC1wT2VZUXZVdkJXamU0MDVicmVkaHp3S1RaQXh0ZEQ1el9TbkVUS0hqb1E?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "4. Nov 2026"
+          "date": "9. Nov 2026"
         },
         {
           "title": "Junge Wirtschaft: Wie Künstliche Intelligenz den Arbeitsalltag in Betrieben revolutioniert - MeinBezirk.at",
@@ -45,16 +21,40 @@
           "date": "4. Nov 2026"
         },
         {
-          "title": "Drei Goldene Ehrenzeichen des Landes für Hartberg-Fürstenfeld - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWXZkSlVtTGJ2LU9CR0x3Nm5acDBJQUJBZ05mVlEtRXNhVDNJak1vS0M1cW9DWjU5R0VJdjJMMDhvR2k4UEFmR2FFTjdPOUlKYUp5MkZYcFQweWRXS19WaVczMkxndHA5Mm42QUtzcW1aSzFWWW1YN2M3MEFzSTJPcUdNUzdlLWhTYkFtV3lIaTY0czZXazJMM2tvY240VF9YVDhoSQ?oc=5",
-          "source": "Kleine Zeitung",
+          "title": "Jetzt kommen die humanoiden Roboter: Steiermark soll Testregion werden - Wirtschaftsnachrichten Süd",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMnVDN0hDT0hJbEhFMzZWZHg2S0ZuaE9wYjQtUXFFNFZsRlgzUGFmaDhJTVpzSUsxcHlObllNZlFZU1V2VWZBQzBQRzFoNHBNMm1NYWRHNm5ZbWNFUkp1RktyV09qbkxpRkg5eDFCaFplTmZDV3FLMjd5d1pnalFDcEVqRWpIWm5pTjA1SnQtakwzdVVsTVVMejFlWFg?oc=5",
+          "source": "Wirtschaftsnachrichten Süd",
           "date": "4. Nov 2026"
+        },
+        {
+          "title": "„Frau in der Wirtschaft Fürstenfeld“ hat sich neu aufgestellt - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY2ZEM29CbjNJSWZFbEpsMm5TOHZ3WE9VYXFSUExhbnFiX1Q4elEyazRSTlJXWFZwOFJHeW0wem54SUNMTEQyNHZrRzh3YkdETkFha2ZEOS1WVjVGTVZjdFlfRzVzc0JVRkNHRk5EMHlCRFJybmFwNjNUbVRhTHV0MVJCOHB1T2UwcDNFcTBHVUozVWxtcVYyT2MtLU9ETk1BeXBzRTJFckN0Zw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "3. Nov 2026"
         },
         {
           "title": "Erfolgreicher Auftakt: Die Mürzer Messe hat ihre Pforten geöffnet - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV1QydHRTTkt3SUJfdXJ4R0ZDZ1dUSUxpdUk1VWRlN2pkVUlYV2VJZkJ4RF80UHJ4d1R6VWw0X0Q2MGY5ZFR6dEM1NnppRVF0emMxY0VlbXRRVGt0bkZwMXQ4eVlwamsyYUlOcGRhLUdJNjMyaVdEV0hDazhlMjc0WTVlU2w4Qlh2OGdkNEZCSE1mbk9pTVVMX0E0Y3lyVWVPTHN1U2xCbmpqZVd1UlFCMExR?oc=5",
           "source": "Kleine Zeitung",
           "date": "7. Nov 2026"
+        },
+        {
+          "title": "Khom fordert rasches Handeln für den Flughafen - BLO24",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFplZW5ZS3dVOEdfbDR3cE9QYm13NkxsVTdjLWEtamN6RXRFazdidjBxNEkyODJOaEpkNWdDLXR5X2Q0WnRwOUJKTVhmSHVEZlE1NloyZ3JfbXN1VEZDOEZBQmVRVDFKMElndkJBald6bFo2WEwyS0VMMkxZcGh6Ymc0X19nb0k?oc=5",
+          "source": "BLO24",
+          "date": "6. Nov 2026"
+        },
+        {
+          "title": "Österreich-Premiere der Energie Steiermark in Gabersdorf: Erdgasleitung erstmals auf 100 % Wasserstoff umgestellt - HLK",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOczdGWncyUUVxUG5pcmd6VC1rMmpPZTBpYndLRU9Ub3dWWmlqRGFlZ3N3aHVCUThiQXhtRm9hT2VSX2wtMnpnMFRwbDR3UFExV3BZc2J3dWNRYThwVjlYTkVsOHJTdFVHT2R1dnFPNXU0SnUyNWVMVFU2emhhSDFCY0w3RFNGS2c?oc=5",
+          "source": "HLK",
+          "date": "6. Nov 2026"
+        },
+        {
+          "title": "Glasfaser für die Steiermark: sbidi investiert 125,4 Millionen Euro in digitale Infrastruktur - Land Steiermark News Portal",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wXy03QWZMLXpxOHo1X1VHYjd6MUYyZERNaFl4ZWt1amlQakRNdDFtMFZhYzY5TEN5amZ5dUhrN040S0ZaUWZTVC1aTnRMTUNoWlFabDhDWTRvQXE5bmxlTHdtY2U4NEJSeC1WblFDRQ?oc=5",
+          "source": "Land Steiermark News Portal",
+          "date": "2. Nov 2026"
         }
       ]
     },
@@ -62,13 +62,19 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark nutzt innovative Marketingstrategien wie ChatGPT-Werbung und Corporate-Health-Events, um ihre touristischen Angebote zu vermarkten und neue Zielgruppen zu erschließen. Der Wintertourismus und die Adventzeit entwickeln sich zu bedeutenden Säulen der steirischen Tourismuswirtschaft, wobei der Fokus auf dem Heimmarkt und den benachbarten Regionen liegt.",
+      "summary": "Die Steiermark positioniert sich als attraktive Winterdestination mit innovativen Marketingstrategien wie der erstmaligen Werbung auf ChatGPT und fokussiert dabei auf den heimischen Markt sowie Nachbarregionen, während gleichzeitig Advent und das vielfältige Winterprogramm 2026 als bedeutende Säulen der touristischen Wertschöpfung ausgebaut werden. Infrastrukturelle Verbesserungen wie die bessere Fahrradmitnahme auf der Koralmstrecke sollen das Potenzial des Wintertourismus im Osten der Steiermark zusätzlich stärken.",
       "items": [
         {
           "title": "Advent ist fünfte Jahreszeit für Tourismus - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EMTl2QmQ2ZS1INWc2R2JGc05tdVlwR3ZwLU5LclJ0Vm1PLU5MV1JtLVczV0RSTXNnRGR2LXVsNm13SlgxeUJNellLTjlvQTBfVnJzRA?oc=5",
           "source": "steiermark.ORF.at",
           "date": "4. Nov 2026"
+        },
+        {
+          "title": "Winterprogramm 2026: Von Skistart bis Bauernbundball, das bietet der steirische Winter - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUGNkN2xleDlrbzZBN2dTSDFqa3lteTJwWXlnVGRrc1V5OThZYzBBQktEWUVlTGRHMGlybmFRZmhtWTA4OGJmMk11Z2FQTDJsUHU0U29yWDRWR3d6MTR3c0JlY0FOeERmY1ZpM1p4VXpGcXd4THN0S2xrR1BYbUlxN2VLQ0dydUl4Tzh2b0VqRk9LV1k4b0pyZGZCeTZqZ1VtLUlwWEhteUtXYjVTSUpxVDM5MzMtUFlja3dzWA?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "8. Nov 2026"
         },
         {
           "title": "Steiermark Tourismus wirbt erstmals auf ChatGPT - oe24",
@@ -83,10 +89,16 @@
           "date": "5. Nov 2026"
         },
         {
-          "title": "treffpunktsteiermark in Wien: 100 Gäste erleben Corporate Health neu » news - travel management austria",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUE9vdTJjQ3J1TnlLT05mVjJ5NUJ0T250VjRDWXVKa2V5YVNiUmVaZUZUYUZxM3dkWlVRdEVmbFBtRFZoSHRCcUdGbUxSaF9fazRTdXI0d1lrTHdtZ29kcmlmdUVBZ0diOWd3Tk1YendSVHl1dWR3Z1lKWFBsZnJiWHotaDhBOFo3UU1yRW5XQWxKWkEyQ3JFaUdVNVAxUnRnMU0tWnUzRVlsZw?oc=5",
-          "source": "travel management austria",
-          "date": "5. Nov 2026"
+          "title": "Abstrampeln für bessere Fahrradmitnahme auf der Koralmstrecke - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdkFqcGp5dnJYLXowX3c2QjhFbW1HLTBKbzllWjRENllfNXVneUk4eVp2REdYTTgtbk81SHJtSmpvY2M1RkZjOWdxWlpJV0R1a3c0QVN2S0JyZ01WcWZVSjdDRDVQUFBuc1B2LVA5Zm5pV3NzbjU4aDZYR2JPd0d3bnZtLXpfTzhXa2llb1BzNHk3LUFOTVdGbE1QbTY5WE5Fc0xaMXgtUG9kVkYw?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "2. Nov 2026"
+        },
+        {
+          "title": "Kehrte von Urlaub nicht zurück: Familie sucht vermissten Steirer (77) - 5 Minuten",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUGV4WkFTSXJLdVl6NVRySUE2TWdmMkFMdXQya29UX245VFViRXFBRjdSbUxUanIwTDRZNkdxZWhjckh6bllVbTY2OWg4Q1R4V2ZmT0dtd1lBOUlRZGh4cUY1aGtad0lEcV9lc2I5MzZ4YkFKN3BTY0dBUEFQenRlbEhPODRYWldYTU1CV3U2YWV6d0lxUDZLTEtYS01ILTJ3T1BfcVdlRUJOU3cyNUxLM3dGbw?oc=5",
+          "source": "5 Minuten",
+          "date": "8. Nov 2026"
         },
         {
           "title": "Steirischer Wintertourismus setzt auf Heimmarkt und Nachbarn - News.at",
@@ -100,7 +112,7 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Steiermark zeigt starkes Engagement in wissenschaftlicher Forschung, insbesondere in den Bereichen Medizin und Künstliche Intelligenz, wie Leukämie-Forschungsprojekte und der AI Summit Styria demonstrieren, während gleichzeitig die TU Graz innovative Mobilitätslösungen testet. Parallel dazu wird die Gründer- und Startup-Szene durch Investitionsförderung und strategische Unterstützung gestärkt, um junge steirische Unternehmen beim Wachstum zu unterstützen.",
+      "summary": "Die Steiermark zeigt sich als aktiver Forschungsstandort mit Schwerpunkten in der medizinischen Grundlagenforschung, insbesondere bei der Leukämiebekämpfung, sowie in anwendungsorientierten Technologieprojekten wie autonomen Fahrzeugen an der TU Graz. Daneben entstehen innovative Ansätze in gesellschaftlichen Bereichen wie der Hebammenhilfe und kreative Formate an der Schnittstelle von Kunst und Technologie, während Startups als wichtige Treiber der wirtschaftlichen Innovation wahrgenommen werden.",
       "items": [
         {
           "title": "Leukämie: „Ohne Forschung gibt es keine Heilung“ - steiermark.ORF.at",
@@ -115,16 +127,10 @@
           "date": "5. Nov 2026"
         },
         {
-          "title": "ÖH-Vorsitzende im Gespräch: Gibt es bald Demos wie in Frankreich? - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVDU5MVBkUTdpUUxmNUlCNnY3bVpiT2dHSlJlZmdiN282MlBoV1BUd1RnUjhob1dpdWpKTDFtVHE5ZlI4SjY1T2hQU1lMUWNYT2Y5V2ZQbmVmc2xGNHJwekUtZFhId3dlTkRXUVA0emx4Z3B3dXd5LTg5QjFVT1VjN2xhZHdZYi1oY1lBMXBsZXJ6UkdSdUJDVlJjUFBPTDlEUmtTSkVLOHpOdnJrVkhxNA?oc=5",
+          "title": "Steirischer Pionier: Ein Mann als Hebamme – geht das? - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSTBlVzdOb3Nya3ByMF81Ylh4SGNmUHRrdkNWU1JXdG80N29Ra1dNX1AzTEZEbHRvWGVxU2hpbElNa0UwR3ZYZUR2OXlYajhhbWZJNUYtazRXQUlOd1d2QkpLTlpPYkc5VnFQbm5OYlpvTWI2RU12dHN6ZXBfQ0ZOcDVjZmpvVDk4VzhoXzhqSE9LNmZqYkdHajRnVQ?oc=5",
           "source": "Kleine Zeitung",
-          "date": "1. Nov 2026"
-        },
-        {
-          "title": "\"AI Summit Styria\" in Kapfenberg, Experten diskutierten über KI - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMldRYjNiam4wS1BvUXhHMUJscEhpQ05NLW9iemROeXd1RnRwT04zTUo1T2lIa0FDN0F4WVBWTXdSYnA0c1V4UGRFbFhERlhkbzRfd0lsZ3lNaXN4YmJ5b0RmeU1OQ3ZoWGpTRGNOS3dVeEFQeV8yMmpqbU5EbXZ2dTRyV21SOGo3aVhZaThWdE10QUJsNXBxNFBTODhsUXFNMkZBdl9Dbjg1MER5MThTTDRkT2lGeHlETVYtSDZ3ZnQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "1. Nov 2026"
+          "date": "8. Nov 2026"
         },
         {
           "title": "Ein innovatives Hallenfußball-Format soll die Steiermark erobern - Kleine Zeitung",
@@ -139,10 +145,10 @@
           "date": "7. Nov 2026"
         },
         {
-          "title": "Kapital für Wachstum - Junge steirische Unternehmen ringen um Investoren - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBuVEcyMjF5UjBCNExuNGR3LWpGZFVCbU1BUU9WZDZNckt5NUEzQWNaUWROZHYyU3dKZ29zM0xDZzBvQQ?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "1. Nov 2026"
+          "title": "\"Renew Teil II”: Kunst und Technologie - ORF ON",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNajNPczdiZmUySVRUbTBuLS1jcnZ0ZHByMXVHUHE4ODh0UHgyVUw3OS1nOW5DT0daZWtGM2pzaEdGTG9MRThaVUZNZnYyaEVyNlBpZ2JhTlJUSDd3cDZqTHRkSXNTdWllLVgzN19KTXF4dUlzdjI1R0d1LUt5c0VaVmhvQXZSaExJbUtGdFEwMTZoMGJUMllwWktMaDhsODhRU1N0VXdmSE1nUm8?oc=5",
+          "source": "ORF ON",
+          "date": "8. Nov 2026"
         }
       ]
     },
@@ -157,7 +163,7 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark positioniert sich als innovativer Technologiestandort, in dem Künstliche Intelligenz zunehmend Arbeitsabläufe in Betrieben transformiert und auf Fachkonferenzen wie dem AI Summit Styria intensiv diskutiert wird, während gleichzeitig Pionierleistungen im Bereich Green Tech wie die österreichweite Premiere der Wasserstoffumstellung einer Gasleitung durch die Energie Steiermark zeigen, dass die Region auch bei der nachhaltigen Energiewende vorangeht. Allerdings erfordern diese technologischen Fortschritte auch verstärkte regulatorische Maßnahmen, um Missbrauchspotenziale wie KI-generierte Nacktbilder und illegale Überwachungstechnologien einzudämmen.",
+      "summary": "Die Steiermark positioniert sich als Innovationsregion durch die Integration von Künstlicher Intelligenz in Betrieben und die Erprobung humanoider Roboter, während gleichzeitig mit der Umstellung von Erdgasleitungen auf Wasserstoff ein zukunftsweisendes Energieinfrastruktur-Projekt realisiert wird. Mit dem Aufbau eines 200 Kilometer langen Wasserstoffnetzes und der Premiere in Gabersdorf demonstriert die Steiermark ihre Vorreiterrolle bei der grünen Energiewende und technologischen Transformation.",
       "items": [
         {
           "title": "Junge Wirtschaft: Wie Künstliche Intelligenz den Arbeitsalltag in Betrieben revolutioniert - MeinBezirk.at",
@@ -166,22 +172,16 @@
           "date": "4. Nov 2026"
         },
         {
-          "title": "Heimliche Cam-Brillen und KI-Nacktbilder: Länder fordern harte Strafen - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYXRmdDUxTEtGelR4U29IMzlYeWNYZDkwQUNLNlpnVU1LWmwzR29BY09YaDlCU3g5R1o3cURvRXNmcjVQSjNORnE5STNfNnNtTlZYczNsNlZsM1JsNG9VcnE1LTRZc0d1U2w2RDRwekpkN1Y4b3B5SG5OTGl5MzVpLU5KNWNodU5GWk4ycnBEV2I5Z25vWmJVVThrc2JqUHJ4M0QyTlNCX0FUMjhwY1NmeUphcDg5Z0k?oc=5",
-          "source": "5 Minuten",
-          "date": "6. Nov 2026"
+          "title": "Jetzt kommen die humanoiden Roboter: Steiermark soll Testregion werden - Wirtschaftsnachrichten Süd",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMnVDN0hDT0hJbEhFMzZWZHg2S0ZuaE9wYjQtUXFFNFZsRlgzUGFmaDhJTVpzSUsxcHlObllNZlFZU1V2VWZBQzBQRzFoNHBNMm1NYWRHNm5ZbWNFUkp1RktyV09qbkxpRkg5eDFCaFplTmZDV3FLMjd5d1pnalFDcEVqRWpIWm5pTjA1SnQtakwzdVVsTVVMejFlWFg?oc=5",
+          "source": "Wirtschaftsnachrichten Süd",
+          "date": "4. Nov 2026"
         },
         {
-          "title": "KI verändert den Beruf der Fotografen - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2WWpiRE5relZFT3dRUlZVUzZHVTAtdTNQRjZKZXF2YWRVMlRwbGJwYXdWVzRQc01yZzBXUjJLdWw1Q1g2MWcxU1ZjZUt2NUczSTF5YQ?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "5. Nov 2026"
-        },
-        {
-          "title": "\"AI Summit Styria\" in Kapfenberg, Experten diskutierten über KI - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMldRYjNiam4wS1BvUXhHMUJscEhpQ05NLW9iemROeXd1RnRwT04zTUo1T2lIa0FDN0F4WVBWTXdSYnA0c1V4UGRFbFhERlhkbzRfd0lsZ3lNaXN4YmJ5b0RmeU1OQ3ZoWGpTRGNOS3dVeEFQeV8yMmpqbU5EbXZ2dTRyV21SOGo3aVhZaThWdE10QUJsNXBxNFBTODhsUXFNMkZBdl9Dbjg1MER5MThTTDRkT2lGeHlETVYtSDZ3ZnQ?oc=5",
+          "title": "Premiere in Gabersdorf: Erdgasleitung wird auf Wasserstoff umgestellt - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNVNNMF9pV1dHbGtHeGc2NDMzY21rdWU1VFpTSmFwQW5rcEQ0NHExdjFpUV8xa3d5OWhDQ1RQMkRyckttdjY0enZKUFYxN0xkT3FfYXotYVRkaEpCeWlKd1JIc2VVeG5lOGllaEV3aW9EQkNRY3hxYUVLMnN1SW81b2lCZ09jeTVKY21sbTVicEtaM01FZHE5YlVULWRhWERiUDByMkNGOGZHLW9GeXR6dA?oc=5",
           "source": "MeinBezirk.at",
-          "date": "1. Nov 2026"
+          "date": "8. Nov 2026"
         },
         {
           "title": "Gabersdorf testet Wasserstoff als Erdgas-Ersatz - ORF ON",
@@ -196,15 +196,21 @@
           "date": "6. Nov 2026"
         },
         {
+          "title": "Energie Steiermark nahm Wasserstoffleitung in Betrieb - Energynewsmagazine",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT2hGbklFUzBUeWw0QnZhdWFTNUplcE9lN1pLVnRKTDhYSlIybEdGeVVEdWtHTDBxMWNCWmppbTFRMzd2aVdzSmxUdF9mVjhqTjFYOGlDMjNOV0Q2Q001VjJmSGVhTXRVV2oxN3gxRzhnTUhkbERUODRFMGZaeDRJTXJ6WWxsUmN6NmViazZuQnVYclhVZUxhc2ZVamFyUTl4?oc=5",
+          "source": "Energynewsmagazine",
+          "date": "6. Nov 2026"
+        },
+        {
           "title": "Steirer planen Ausbau - Premiere: Gasleitung auf Wasserstoff umgestellt - Kronen Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5ILVZkOW9yTi10M3JkZl95dzgyRlVMY3RtdXBYMjBzbXBqMm9BVlJ6eEhNU1JPc3pzOUU0QWZPSEFEQQ?oc=5",
           "source": "Kronen Zeitung",
           "date": "6. Nov 2026"
         },
         {
-          "title": "Energie Steiermark nahm Wasserstoffleitung in Betrieb - Energynewsmagazine",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT2hGbklFUzBUeWw0QnZhdWFTNUplcE9lN1pLVnRKTDhYSlIybEdGeVVEdWtHTDBxMWNCWmppbTFRMzd2aVdzSmxUdF9mVjhqTjFYOGlDMjNOV0Q2Q001VjJmSGVhTXRVV2oxN3gxRzhnTUhkbERUODRFMGZaeDRJTXJ6WWxsUmN6NmViazZuQnVYclhVZUxhc2ZVamFyUTl4?oc=5",
-          "source": "Energynewsmagazine",
+          "title": "200 Kilometer lang: Steirisches Wasserstoffnetz wird aufgebaut - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSS1Xb3VfeGc4QkRuM0tNeG5nNk1Dem95N1EwR1JEZW1tcVc1aG51TEw0ajZLR2lyaC1MM1F4T1pzRGRicWRXb3dlXzBISWZuTTlDNzhfWXduYTJwNWxJc1pfN0doclBMUElSeHpxSnQzcjU4UnNoMk53QVZrRWhJTEh3VVV3TG5IV0tQcGNKR1BIUjdnOWppOHp0NTJOUjd4cmFKUW5XUTZHLUE?oc=5",
+          "source": "Kleine Zeitung",
           "date": "6. Nov 2026"
         }
       ]
