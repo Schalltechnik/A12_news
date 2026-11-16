@@ -1,40 +1,22 @@
 {
-  "generated": "15. November 2026, 09:52 UTC",
+  "generated": "16. November 2026, 10:08 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Steiermark setzt auf strategische Wachstumsinitiativen durch neue Leuchttürme-Projekte und intensiviert die Unternehmensvernetzung über Formate wie Business Speeddating, um Innovation und regionale Zusammenarbeit zu fördern. Gleichzeitig werden erfolgreiche Unternehmen wie AT&S, AXIS und FIMA für ihre Exportleistungen ausgezeichnet, während etablierte Betriebe wie bit oder Ferdinand Roth als Vorbilder für nachhaltiges Wachstum und Fachkräfteausbildung fungieren.",
+      "summary": "Die Steiermark positioniert sich als starker Industrie- und Energiestandort mit innovativen Leuchttürmen und exportstarken Unternehmen wie AT&S, AXIS und FIMA, die international Anerkennung finden. Gleichzeitig zeigt sich der steirische Arbeitsmarkt robust mit hoher Nachfrage nach Fachkräften und wachsendem Vertrauen in der Wirtschaft, wie die gute Auslastung von Weihnachtsfeiern und erfolgreiche Unternehmensgeschichten wie die des IT-Bildungsriesen bit demonstrieren.",
       "items": [
+        {
+          "title": "Weihnachtsfeiern: Lokale gut gebucht - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XMUVhOGc4cmpEWlFpZ0NaM3JMUllvSGx6aHpHTWlsbGVvaWFrbzVGQXhoRjN4YUNncVpqQkU3QWpHUktMaW13Q1o2LXJ3aWRyb3E4NQ?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "15. Nov 2026"
+        },
         {
           "title": "Neue Leuchttürme sollen die steirische Wirtschaft zum Wachsen bringen - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSzljQjJmUm1abWlITTNVNmxqMlowUmJ0aXlEemY1a0F6VEtzQjZ1QzQxWV9BcWllYzNLcGJoTTIzQ2ZDSkZGMTlEeFpBb0I0eHBFWlJnRnpyQXF2MkJLRHpoZTQwX0M5bkR1YmFteHItVjJnSlRBOFk1T25qY0Q4NXVuZzBhVlRXN0tpbjNDWUY3c2tabFZITi1wdDZtbDZhX0ZaemRTTno3SjhYXzZQUVFPQTdJZ00?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "11. Nov 2026"
-        },
-        {
-          "title": "Business Speeddating: Vernetzung über den Semmering, neue Kontakte für Betriebe - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS0R5eE5Dbk5mSnRqTlMzaDJSLWVoVk1GdlZzVUtjcmVVdVdKNTdiR2RiYU5ZUTVmUXN0NzZHaVExN3BUZkp3RUNQOWRJRWwtUG9DNGx6X0xlWktGVnpCbnA2UXdSbEtkbGhIM2lPNWFvZFhzVnUwM1FuVHd6STR0X0lIZUh3NmU0Q1h6bkYxeHB6NU9RU1hhTk1BUVN5a2hsb0l2OG9HUzk3X3Jfd1hSd0pUSFNaQQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "12. Nov 2026"
-        },
-        {
-          "title": "Wirtschaftspreis: Modehaus Hufnagl holt bei \"Top of Styria\" den Sieg im Handel - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWGVHbE9XTVFuWkxWUEZuMzlyZnBfZjlEQ281UGs3QXd0T2FhbE9oVUxCMEtnMDR0ZXBfR2tuWkIwVks5ZlBoakJ5clZsZTdkR19laEhWZjNtYWVxV3lfMGhvRTlPa1c2bFlDekJSWXdURTRrYzFTd1otT1VKaGZ6QkV4QkhkZFYzU0hFS09jTlJNbGtqMjV3MFpub3dvS2tBOWQ4b2pHWGdMVFgzclRSREdhQ1ZCQXBfQlZtMGY3T3RDQQ?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "10. Nov 2026"
-        },
-        {
-          "title": "Junge Wirtschaft Leibnitz auf den Spuren regionaler Unternehmen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbTROd1hQcUt5a1pydDc0Zjc4OHptMmFDZHVHWWZaX1lZcnJCZXltNTZSdzVaTzlodC1MYTItSGFIdkdUX25FdW13cjN6akhxdTJqSUQzUFhLZ0xhYjIyOHp0d1hSTjRQUVRzVVJWRzZmdVFqX1JNTE5pMGNKaFQ5RkRvNVN3ejFaZEtlT3duejQyN2J1elFYVEpoSVIxd1ZVejJfSWdEeXFiNTk3R3c?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "10. Nov 2026"
-        },
-        {
-          "title": "Mostschenke Glanz-Pöltl feiert zehnjähriges Bestehen - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSlJrb01mTnNKZnp0UjhhRTZ6Q1hWVGVxUlhfdl84aWhRSUVZZ0hQQzN5aUZteU1NbXVnSWl4X2pfN1dJNVNIUFBoSjBoWlVCcHZ6U3hDalhGeVdXZmN0R05CdFN4T01Wc1ZNNFBMWkFYSWJoOFNoNVc0dGdCNGQ2TUhhelVuMll5RUJFUG1icXc5Z1p1YnY3bjZkSm0taElKUWwxTnVfRHRFaFFwdkwtbEJUV2ZSdWM?oc=5",
           "source": "Kleine Zeitung",
           "date": "11. Nov 2026"
         },
@@ -45,16 +27,34 @@
           "date": "13. Nov 2026"
         },
         {
-          "title": "250 Lehrlinge ausgebildet: Ferdinand Roth für sein Lebenswerk ausgezeichnet - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQVgzSDVibkxCRzYtekhHVHhlbVJlSG5XWmowWUkwZHNNb21EM3NrejZPZEUwUTI1WURQYTZwREZ4ai05aWUyem5kQWRYT0dUMVEzTnRXVlFSMDZDUk5CcTJQX1ptM3RpV1pnUDhBaW40VFBsdjlhYjVBVDUyUDJpVEhUYXZDbUdrbjYwYnRndkxNVnZQX3BQY2ZQMy13dVpNNDF0dlRHSkVKR2s?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "12. Nov 2026"
-        },
-        {
           "title": "Paradeunternehmen bit: Von Tapezierertischen zum IT-Bildungsriesen in Österreich - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLWVFbkoyRTFSTExMcEtBTXZBejFMdGNKU0tIeXlheFZwRWVqUms4bGI1Mm5haEtWRHlVSkRoUkVITjdab1kzSWJ3azUwTGU5SjNCY0hvQVZiWUl3R3pTTlZCMHA2UlEzTE9uMVQ2VGNJZmZvaHFCdjg0dkRhajkya3M4SW94RjlUVWxxbHVCNEJaRzNNRVhoTG5DRDBSenpGaVNucmNSSDhISEJqT2lVYnpaWkNsZmY1?oc=5",
           "source": "MeinBezirk.at",
           "date": "15. Nov 2026"
+        },
+        {
+          "title": "Steirischer Smalltalk \"Der Industrie- und Energiestandort Steiermark\" - Leadersnet",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaUtSWjZWVW9RRU1ITkV5OU1OdlJJblJDeERyT0Z3N1c2cy1XTDhoYXJtcjdpRjU2MmxnREEzd1RCVHV6T1VKdzhUNmhhQlVZdDVZdTJpd043ZVVzVWlZT2tGakh5aTBpRWlLdVFuRUNLNXRjRFQtLUhqVHBoQkowdElvNUlqUTV2RkNnZnVsWnVDR0lnbUc3NjlnOXdUV0lJYnhfSlltSmE4SmpETUF3alV0cEk1YmJieFl3?oc=5",
+          "source": "Leadersnet",
+          "date": "13. Nov 2026"
+        },
+        {
+          "title": "Neue Gesichter und bewährte Spitze: Wer die junge steirische Industrie künftig vertritt - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNekNrWXpSMTJIVXJsc1UxbGd5NVl6RmxLOGhuekJGZ2p6NHAySTh5SEZReXZaR2kyN1lyWnFGTUJ1R3ZYc0pqaXJ1QVdBOTc1dTROSzJGVWR1dnhwRlNhcUlBbldWbnNYdjh4LVRSb1lLbXNzMk9RdXRQWTRIdHJSVEJlUTFKVFI1YURrblBtTXV4aGpfazJsckk1N2psakFWS1JMbUtXVmdLNWxReG5CUw?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "10. Nov 2026"
+        },
+        {
+          "title": "Steirischer Smalltalk \"Der Industrie- und Energiestandort Steiermark\" Teil II - Leadersnet",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT09PbUZqX0FsanVpV1Fvb0RwdEhhT25aTWdQUXBxNmI4UXF0NmM4VEdMWWRmMG9sR0t1SkJFR3Jfd3JRZUVtNTNCbmt4bHY2MDdoTnlFMUlQem0wb3ZVSVM3TWl2aEUyWmQ2WHdLQXNzQzRUaFBMNjU2S19KdmxFcVNUdEk3Z3YtSWtidXphSzZtZVhHSkdDb0RGODV2eXhRYzZaTGpJYVVVWExLeHhwaXlrTWVTbkFJdXhr?oc=5",
+          "source": "Leadersnet",
+          "date": "11. Nov 2026"
+        },
+        {
+          "title": "Fachkräfte gesucht: Offene Stellen in der Südoststeiermark - So tickt der Arbeitsmarkt - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcUxzNGx4elYwYV9lTHZ1QzQ4MkFFMElkVkRUV1ZWaVhVODlOZm5UZi0yUzdEYWpwYWtCMl9tZTVuMUZwaDc0cThuMWdhMV9iaFBLR0hjTGxKYXpPdlVoNFRlV3UwdnFJQmRHNkdfNVM4dy1CUnBpdHMxX2d0NGVzSEt1SmlHQm5ZUW9yU2hMbXdpOUU1ZEZaQ0kxM2hBUkJLcFI4TTQteGtSMUh5Zld3MkJweXZZdENvSFBKSHF1Xzd0by1DaVJWeElDRQ?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "13. Nov 2026"
         }
       ]
     },
@@ -62,8 +62,14 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die steirische Tourismusbranche setzt verstärkt auf Kunstschnee und neue Winter-Attraktionen, um den Wintertourismus zu sichern, während gleichzeitig Regionen wie das Thermen- & Vulkanland und Stegersbach mit innovativen Angeboten im Wellness- und Kulturtourismus Rekorde erzielen. Ein massiver Hackerangriff auf steirische Tourismusunternehmen gefährdet jedoch tausende Gäste und stellt die Digitalsicherheit der Branche vor erhebliche Herausforderungen.",
+      "summary": "Die steirische Tourismuswirtschaft verzeichnet positive Entwicklungen durch hochwertige Unterkunftsprojekte wie neue Chalets und ausgezeichnete Waldchalets sowie erfolgreiche Veranstaltungen wie den Lienzer Adventmarkt, wird jedoch durch erhebliche Herausforderungen wie Hackerangriffe auf Tourismusverbände und die Abhängigkeit von Kunstschnee für den Wintertourismus belastet. Während Investitionen in moderne Infrastruktur und Erlebnisangebote die Tourismusförderung vorantreiben, erfordern Cybersicherheit und Klimaanpassungsmaßnahmen verstärkte Aufmerksamkeit der Branche.",
       "items": [
+        {
+          "title": "Fünf Blumen für Heselehof: Waldchalets holen die höchste Auszeichnung in der Steiermark - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOblRiZWdwVi1VRzNSc21nVU41bGRfZ21ManNIRVdHYk5RbF93VjA4NTdjc3Z1N05Lbm5nNHVDakE0Z2M5dFFwSTE5MEVCdFpRRkpVOHVKQzMzQmtnRDFudnpGQjFNLTRYcWlLaGhmTzhlREZNREIzUDc5bzRUcWFNaHVGS0xYU0lySnZzTEF3d19FdDNRT3VuU3dVNWZWQVoxWGlsYUVTYUxvdFQzOGg3Z3BQM3JZckozSVE?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "16. Nov 2026"
+        },
         {
           "title": "Kunstschnee als Rettung für Wintertourismus - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QUDN4VEE3TnU5cmRfNWlzaEZfUy1GVHBEcGZCZ0ZGelI5czg5aUhKMnRmcEJ2QUc5MzA3ZnM5ODFoOG8xV0FhX3pUbmphQXpzc0poOA?oc=5",
@@ -77,16 +83,10 @@
           "date": "11. Nov 2026"
         },
         {
-          "title": "Fünf Jahre Erfolg: Wie das Thermen- & Vulkanland neue Rekorde aufstellt - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRkNWZ3dTMEdRQVlIMFNoTEQ4NnR6NU8wa1JpelJjck55OWExd0ZlTXlpVk5jR2RVTWtHdnYyMTEyOUx1UVRvVmhQY3d0ZmRReXk0VVRDd3ozemNJdmRaYlBQR1ZEYktOc0UtQngzTzlZVUM1MkJiNFBzNUlKZUR5Rm5Hc1RqNzMtWFpaRDJLSnJvblpjSFo3YWU1dlA1aEp6MkpTS3p4Q3doNy0wNndOYlRtQzhpUHFLYi0w?oc=5",
+          "title": "Neue Chalets in Größing: Vinea-Projekt stärkt den Tourismus in der Gemeinde Tieschen - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUnVrNkhvMXhMeFNxcUo5T2YtSmNMZUV0ZWJxSVdLYTZ0SlkxRkg4RkNjN3U0TWhqbXM2QW5XN1dlV3MxVXBGYXlTSDR4M2NVbWR1a1ZyVEkwdlBJcjF2ZGdCazNpMjZ1YU1BMEZQTlpkQTdORDUtSkxvZHNUWUtKU28tWW9FNzBDNnhBQ09EV3dwWW1vdDhheXotVVBoM1lfalFYcktfUENIbjltZEhEampZelRwVnV1aUNrUV9LWE9Yamd5?oc=5",
           "source": "MeinBezirk.at",
-          "date": "13. Nov 2026"
-        },
-        {
-          "title": "Hotel Larimar in Stegersbach zählt zu den besten Medical Spas - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTlkxQmtuZXpENmVENTR2MGZ1R29KZXJwamZtN0NKVGVLbkxxVlhYOWcwUzFMdkhsaWQ4YlBPQlZ1dlZ2aUFnaUt2R09JVmtsYnlSOWxuWkd0Ri1yNHozd3Y4THNwcEFkUFFVY3ZxSHZpbVV0TnJHMGZmS2ZfaUpkTlI3WHc5Q1l3cmFNVzJFZm9Sb29lS0ZfTWF6cXlNQXhucXlLQTFyalRHbWtW?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "11. Nov 2026"
+          "date": "16. Nov 2026"
         },
         {
           "title": "Lienzer Adventmarkt hat sich zur Erfolgsgeschichte entwickelt - Kleine Zeitung",
@@ -101,15 +101,15 @@
           "date": "11. Nov 2026"
         },
         {
-          "title": "Steiermark-Urlaub: Neue Winter-Attraktionen von Ausseerland bis Südsteiermark - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPanR6RDhhNUtsOXFJR3lmTnNDTGNYbEs4VndVSmd2WjJ3bGFydVM1MGhpUEZFLTVUZzRDekI0T1Z4am5ST3BXS2pVYlpGRnRuTlF0NE1qMkszaVFQbkFtRmxNTVdscUtISkxjOFBLNWJTWjBGU1VNSlBzMXlQT1JtcXVYRGhnTWI2T1hWdVhLcjRRY2owWmdnbzlNQjlFeWVCSWg3NDRLZ0hydENLRkI3bE1tV3cyRG81Qmc?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "11. Nov 2026"
+          "title": "Steirerin im Urlaub bestohlen: „Aufgebrochene Autos regen dort keinen auf“ - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYnpDNmEzSENKM0VmRl9VaWhSdGRjN041YUJHeVBXUXVKRmtFZnBOX1NNQ0lONlFxVUh5Vk93aWwxT3BMOEVwTEkycS1UOV9OUXhwekJxWGhMNGo3YmdzRERoNDNpdHpjYUxVR1NXOEprNWF3bnAxWV94a0N5aUsyTjhVX2JabXFsN2g2YVJndWdxa0RHZWJXbzdnUFZ6M0FGOFVvMHN0SVdTTW8?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "15. Nov 2026"
         },
         {
-          "title": "Kostspieliger Kunstschnee für den Wintertourismus - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLWVOLVVZdlppcHdKX29NSUNOWkNpRWVxSGd4VjNUNXQ3Z2JaYjFPSG01dXNNQTBuOGN0TjJDWVJVcDRpU1ZueUdIdGdwVDUzb2RtUFVUVTAwUjFjaDFmWnoxTG9DdktHWlpkaTN1eDh1WFU1dGtLLVNLYWdqd3NKWUo1eTZLU3JOdlB2SFNVWHJ5XzVyN3RGNUJiOEZsYlJ4SW9ITTVCblVqM3BubUxyRGdrSmNkOWV1enl2MURrdw?oc=5",
-          "source": "ORF ON",
+          "title": "Auch für Angehörige - Demenz: So ist ein unbeschwerter Urlaub möglich - Kronen Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFAyN01qaVJaUDlISmJPZkwxMDhEa3A0N2ZSYWJqdTg1TEhlWF9tZ2g2Si1rRXR4SERjVWlnbDBsb2NHZw?oc=5",
+          "source": "Kronen Zeitung",
           "date": "11. Nov 2026"
         }
       ]
@@ -118,12 +118,24 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Steiermark würdigt herausragende Leistungen in Wissenschaft, Forschung und Kunst durch Ehrenzeichen, während gleichzeitig innovative Entwicklungen wie die 10.000-fach schnellere KI-Technologie der TU Graz internationale Aufmerksamkeit generieren. Die Fachhochschule Joanneum expandiert im Bereich der akademischen Gesundheitsberufe und trägt damit zur Professionalisierung von Logopädie bis Krankenpflege bei, wobei auch gesellschaftliche Neuerungen wie männliche Hebammen die Modernisierung des steirischen Forschungs- und Innovationsstandorts widerspiegeln.",
+      "summary": "Die Steiermark würdigt herausragende Leistungen in Wissenschaft und Forschung durch Ehrenzeichen und kann mit internationalen Erfolgen wie zwei Einträgen auf der Geologie-Welterbe-Liste aufwarten. Gleichzeitig zeigen langjährige Kooperationen wie die zehnjährige Partnerschaft zwischen der TU Graz und Anton Paar sowie Innovationen in der KI-Technologie und das Wachstum von Fachhochschulen wie der FH Joanneum das starke Forschungs- und Innovationspotenzial der Region.",
       "items": [
         {
           "title": "Große Ehrenzeichen und Ehrenzeichen für Wissenschaft, Forschung und Kunst überreicht - Kommunikation - Land Steiermark",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6VkxzUjBiQWRvM2FqRWl2X2hhNm5ZVE5QWmpDRGphdDFRcnZIUmtUeU5FQlJuNDhwTzNaNHdKUExEN1pFSkRjNEQtVjdnaXhlaEkwemR1Q2VUblJ0eWgtUzhpLXRYTy11UGdQTmp1STRhakgwemVKXw?oc=5",
           "source": "Kommunikation - Land Steiermark",
+          "date": "10. Nov 2026"
+        },
+        {
+          "title": "Österreich mit zwei Einträgen auf Geologie-Welterbe-Liste - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYmVDc2syQUtuNTZ6dFJlM25CWXV6b25PYno3YnJ3Tm16TDFzbmhEcTRRZkJUS2JxUlo5ZElYQ19xcUlncVlvWGVNOGtDcVFITGszMEtIQjJaS3NNWnNUYlZvZC15Q1FEMkswaEk5UE1WMmtqWmRkRVVIRkx5SW9CNEc1VWtidjRVVGlHNW9UU0M3blFaVGpOMmJPREJ4elpJcFUyVlpmX1Y?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "15. Nov 2026"
+        },
+        {
+          "title": "Jubiläum SOMAPP Lab: Technische Universität Graz und Anton Paar feiern zehn Jahre Kooperation - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYWlIc0ctOEROMzRUTDRJNGhvemhtc09oZE10UkxwQmtKQndycFdnLXNDQVROQmcwZVlVSTRfbm5UX1lncTFPanhDZnVxTExUY2pEZHZYT0s5alFjZ0RjeFc4R0RQcHVVNi01MVdTODdxLVUzSHBISFM4RVB5NU92VXk4VTFqdkRDczBVQVpQZGxNWTFjdTR0M2JmNjQ1cnhpejJwLXlCY3RoVFV5RDZna3Bzcl9xdmJnb0s2YzVFa29uVnh5?oc=5",
+          "source": "MeinBezirk.at",
           "date": "10. Nov 2026"
         },
         {
@@ -143,24 +155,6 @@
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50bF9RbGZWR1JDX0toUzJXZnN3eWNaWDBzWGpKVjlTcDczTXZKMDJncW41RVctQk8yUmMxU2hESXBkNzVLd0J3LXFkY0xaRHRzQ2I4Qg?oc=5",
           "source": "steiermark.ORF.at",
           "date": "14. Nov 2026"
-        },
-        {
-          "title": "Steirischer Pionier: Ein Mann als Hebamme – geht das? - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSTBlVzdOb3Nya3ByMF81Ylh4SGNmUHRrdkNWU1JXdG80N29Ra1dNX1AzTEZEbHRvWGVxU2hpbElNa0UwR3ZYZUR2OXlYajhhbWZJNUYtazRXQUlOd1d2QkpLTlpPYkc5VnFQbm5OYlpvTWI2RU12dHN6ZXBfQ0ZOcDVjZmpvVDk4VzhoXzhqSE9LNmZqYkdHajRnVQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "8. Nov 2026"
-        },
-        {
-          "title": "\"Renew Teil II”: Kunst und Technologie - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNajNPczdiZmUySVRUbTBuLS1jcnZ0ZHByMXVHUHE4ODh0UHgyVUw3OS1nOW5DT0daZWtGM2pzaEdGTG9MRThaVUZNZnYyaEVyNlBpZ2JhTlJUSDd3cDZqTHRkSXNTdWllLVgzN19KTXF4dUlzdjI1R0d1LUt5c0VaVmhvQXZSaExJbUtGdFEwMTZoMGJUMllwWktMaDhsODhRU1N0VXdmSE1nUm8?oc=5",
-          "source": "ORF ON",
-          "date": "8. Nov 2026"
-        },
-        {
-          "title": "Steiermark heute vom 08.11.2026 - ORF ON",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02ZExNSllUVlh3OGlVTzNxbU1aOG9oSVhsVkpXMG9ST1JjWURUclppX29xQkFyYnJaYVBPS2hSNnVDU1ZXeGVqbUllckpaSWh6akNETlNNS0Z6ZTktWW1udjFmVC13am9PLTdTT2VnRQ?oc=5",
-          "source": "ORF ON",
-          "date": "8. Nov 2026"
         }
       ]
     },
@@ -168,14 +162,21 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
-      "items": []
+      "summary": "Ich kann diese Aufgabe nicht wie angefordert erfüllen, da der angegebene Nachrichtentitel sich auf Grundwasserstände bezieht und nicht auf Förderungen, EU-Programme, Strukturfonds oder Wirtschaftsförderungen. Um eine aussagekräftige Zusammenfassung zu Förderungen und EU-Programmen in der Steiermark zu erstellen, benötige ich relevante Nachrichtentitel aus diesem Themenbereich.",
+      "items": [
+        {
+          "title": "Mehr als jede dritte Messstelle in der Steiermark meldet Grundwasser unter dem Rekordtief - News.at",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MVWk4a2E5bjZtbW9VakdiZVpjR181VlJXWnVzLVRGUzl1cTNrU3NZTmhuNVdyaXRUYk85bDI1N2NBLWpQNjZYM0p4R1dvOXJQaWtHLVFrUkhwMnQycGw4UXhndkJRUy1WZDZsM0JmbkdRdTZrS181SUlNS18zNWs?oc=5",
+          "source": "News.at",
+          "date": "13. Nov 2026"
+        }
+      ]
     },
     "innovation": {
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die fortschreitende Entwicklung künstlicher Intelligenz stellt Gesellschaft und Medien vor wachsende Herausforderungen bei der Authentifizierung von Inhalten, während die Steiermark gleichzeitig ihre Infrastruktur durch die Umstellung auf Wasserstofftechnologie zukunftsorientiert modernisiert und damit einen wichtigen Schritt in Richtung grüne Energiewirtschaft unternimmt.",
+      "summary": "Die steirische KI-Branche entwickelt innovative Lösungen für industrielle und kommerzielle Anwendungen, während gleichzeitig die wachsende Herausforderung der immer schwerer zu erkennenden künstlichen Inhalte die Gesellschaft vor neue Authentifizierungsprobleme stellt. Parallel dazu treibt die Steiermark ihre Transformation im Energiesektor voran, indem Infrastruktur wie Gasleitungen für zukunftsweisende Technologien wie Wasserstoff umgestellt werden.",
       "items": [
         {
           "title": "Künstliche Intelligenz erschwert Unterscheidung zwischen echt und unecht - ORF ON",
@@ -188,6 +189,12 @@
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5WEQ4NGluVm5NS1VSWGc1N2ZXcDkwQ3NjVDM3OTh4MnR1dGpEbEl2RFFJaXI0a0FuRExtOFpjWTNxdUFlRFVmSzIzcTFfandJdGU5RA?oc=5",
           "source": "steiermark.ORF.at",
           "date": "11. Nov 2026"
+        },
+        {
+          "title": "Steirische KI für deutschen Industrieprofi und Grazer Fleischer - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMy1WTmVFWjhDZlpQMWpLU0RBV2U3enJ3NGpQRTBweDZyZEtFaDEzWnlXaDMxQ1NaRGRpM2ZEazczLURpb1pxOWV6T2pUeGZiRXRKYnBQcHZCUmV1cm12SG1PNy0zSGV1cXV1bE9DSThKWU94bzNCOXZIVmt0aWZudG1GSXdvdUNualpCZVJqdVJjZk4yU2ZweGE5MnFzRGdaZGxGZThDNlNyeDY5RU5n?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "10. Nov 2026"
         },
         {
           "title": "Wasserstoff: Energie Steiermark stellt Gasleitung um - ZFK – Zeitung für kommunale Wirtschaft",
