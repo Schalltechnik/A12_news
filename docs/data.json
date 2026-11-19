@@ -1,17 +1,29 @@
 {
-  "generated": "18. November 2026, 10:40 UTC",
+  "generated": "19. November 2026, 10:43 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Steiermark setzt mit gezielten Kampagnen zur Stärkung des regionalen Buchhandels und der Auszeichnung von Vorzeigebetrieben wie dem Möbelhersteller Prödl auf die Förderung etablierter Wirtschaftszweige und traditioneller Unternehmen. Gleichzeitig stehen wichtige Infrastrukturprojekte wie die Plabutschtunnel-Sanierung auf dem Prüfstand, während einzelne Großveranstaltungen wie die Airpower wegfallen und traditionelle Betriebe mit wirtschaftlichen Herausforderungen kämpfen.",
+      "summary": "Die Steiermark positioniert sich als innovativer Technologiestandort im globalen Wettbewerb und setzt gleichzeitig auf die Stärkung regionaler Wirtschaftsbereiche wie des Buchhandels, während infrastrukturelle Investitionen wie die Plabutschtunnel-Sanierung wirtschaftlich optimiert werden sollen. Trotz einzelner wirtschaftlicher Herausforderungen, wie der Insolvenz eines etablierten Unternehmens, bewegt sich das Bundesland zwischen strukturellem Wandel und Wachstumsperspektiven in einem transformierenden europäischen Kontext.",
       "items": [
+        {
+          "title": "Zukunftstag 2026: Standort Steiermark im globalen Technologiewettbewerb - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9la1RmVXdIRGlnTmFhSTBGZmhxaWRkUUZpcmVCbzZ5cHRYMHY0OHduYjBYemhyMklyckxDRURlaHAtQ1JwUFlsS01HRW5FcmpnMUVvNHU0ZE1CYjc2NEpicHVRazUtWkRlWjE0NFFEcTl4UXp2VFRBdA?oc=5",
+          "source": "Kommunikation - Land Steiermark",
+          "date": "18. Nov 2026"
+        },
         {
           "title": "Kampagne soll steirischen Buchhandel stärken - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wVTJJVktyWDllSko1SE94eWtQR2pYYWZueHRVU1lPcEhDYnZzU0RYcDdGN25CUURKVUFuTERwT0tkVUJydEJpTGloQ281eldyY241bw?oc=5",
           "source": "steiermark.ORF.at",
+          "date": "18. Nov 2026"
+        },
+        {
+          "title": "Schicksal von Tina Robitsch wird Fall fürs Wirtschaftsparlament - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdVNyZWRUZFZzRW0wUHVQN1NOUTlVak5yNUhUWTdNY3lDd3RFenktYTJHWW1UeFoxTDIyUFlxZlYyb2I1WmktNXZWODFvZUlDMGNHaGlSZjJBTlZHSC1RTU1wdm9ITHdVRmpKcGUyYU9jUUdsLS1aVVlZT3piMUViMDVoS2JJX3dxRnJUZ3REVkRsazNlSHZ1dG4tSmtGRWZPSU5pZm8yLXBfMlIzU2dJ?oc=5",
+          "source": "Kleine Zeitung",
           "date": "18. Nov 2026"
         },
         {
@@ -27,34 +39,22 @@
           "date": "17. Nov 2026"
         },
         {
-          "title": "Möbel des Kirchberger Traditionsbetriebes Prödl sind weltweit gefragt - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRkpQcnlvMUNFXzdHeDRpOGtySGtpaHhRbVpmeGZzZDZ0RUJUMm43VjBXSVdBSDloanFKZkZZTGhzeE9nQVVIOGxHSlVuREFENTBkMC1icDNzazVEcnYtM2xYbmlfUEN5Tm02Smt0TWdQaV9JeEtGTHlfcWI3MEpRZ09HeVF0bzdobTRwdjBQNTR4SmZIUGo5UTB1VEFqNHFGTW1nckctNERVbzI1NVBfMWJRVXJzVjQ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "17. Nov 2026"
-        },
-        {
-          "title": "Airpower 2027 abgesagt! Das sind die wahren Gründe - weekend.at",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWElSN1VHTGRGbFNxNUZUNW1oOG81Z0l5emp0bTVhS1lkU0FxQ0ZHN25xY19FNnVCNjdkWTh0TnV5cllzRW9iOE80akRyOEx3eHBBalZ4Y3pmdDJBMGRnSHlhbk1SWWdIVThVZjRub1dxSURtS1otVDBqVElyQUhuTg?oc=5",
-          "source": "weekend.at",
-          "date": "18. Nov 2026"
-        },
-        {
           "title": "Nach 136 Jahren: Aufsehenerregende Pleite in der Steiermark - Wirtschaftsnachrichten Süd",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUjUwUTcwVFlvQlZ5d3A3ekpNbXhHQV83WTU0aU10cDdvSTYwUjMwNlczaFE2TzRuNzlvQ3BldjVGYXotdmx0WTFiQnpsUlBobUt6dzRlOFFHU3c5NTVVN1E3WEtBVHB2aEVEVVpwZ0c3M1dTOEJ6cTJzMlhFMGFpejE0dWNLVnJNdnR0X2JrclppWDVhZFZPY1V5dk1SN0JKUFotS3M5MDY2aFg5bDFJNllNNkU?oc=5",
           "source": "Wirtschaftsnachrichten Süd",
           "date": "16. Nov 2026"
         },
         {
-          "title": "Plabutschtunnel-Sanierung: Debatte um dritte Röhre, Sozialpartner pochen auf Variantenvergleich - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOEJmY3BLN1VLYjNKcEtVNkEwT3FuUkM0NmtkSDNwS2RpSlA2NEhQMlNWM3ctR2ppVzctNGR6akZBdXpoQTdvdnBtVW1aclNlbTI0RzMyNTdOWDVOaXVZVzl0LTAwRWZwaU9abC16TWpoM0dzQzZSWVBvT2RITHJTdFN3a093WEpsd1pxRzRHWVdzZUxfTDBzYlMyN3Mydl90eE5mVWVPMWI5VlBwS3ptSHpJV3h4UUxaQTB5Qk02MGNDR2hGMXc?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "17. Nov 2026"
+          "title": "Die Steiermark zwischen Wandel und Wachstum – mnews - medianet.at",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ21EMlhFX0FiUmZpNzZxcVlDNURvMzhkOHA4d3FLZkdtN3ZGai1lck1paTl0UjEwOFpoUDFwdTVXbExoTzUtZ0JDRjlXVHVUczFudDRMWEZuQjVHZG9NT21PLTZ4NkJlSzZhQ1g1Qzl3bktmdFVLeHVEdFFhSkJVUlBmLUtLY2lrT2lvSlBxU19SZmE0bXc?oc=5",
+          "source": "medianet.at",
+          "date": "18. Nov 2026"
         },
         {
-          "title": "Handelsmerkur 2026 an steirische Vorzeigebetriebe verliehen - wko.at",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYTMzTzlEOFBzSHVFdjNydUtfYkxyeFFVYTlMM3hhaU94eVJmQTJqcVZrYng0bklTZHlDSXJaUzRuQ1dMNGJtY1ZXZUFnb3FRaU5iRVhJM2lrc096QXZCMEI2MTBhUndIbHB5UnVURUw4RzBzOUMxMlJndzVYMEpYU2xkZjc2c3h0bkdrMDJacWZMUQ?oc=5",
-          "source": "wko.at",
-          "date": "16. Nov 2026"
+          "title": "Europa in der Transformation: „Diagnosekaiser und Therapiezwerge“ - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWVF6VE9ELTVQTXdJY2tTd1VOX2otSFF3dWlkakc1S3lEQ1RBWUhucDBha3VYX3pSYmxqRTJlUGxFMmdySHZaaEtfZ2tLMVVLSXNjOHk1RVVjZ3hvd2h2eUg1Mi1GbWh0YktVcTc2d2tXZjViM3R3MXdhc1JKZUsxVnRXNUV5Z2dYVUZ4ZEZlMXlsdTk5eVVsdlFycGR3MXgtclQxc2RteURYZVZR?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "18. Nov 2026"
         }
       ]
     },
@@ -62,19 +62,31 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark verzeichnet positive Tourismusentwicklungen durch neue Infrastrukturprojekte wie Chalets und hochwertige Unterkünfte, die das Angebot in verschiedenen Gemeinden stärken und zur Gästegewinnung beitragen. Gleichzeitig sieht sich der steirische Tourismus mit Herausforderungen wie Cybersicherheitsrisiken und Sicherheitsbedenken konfrontiert, die das Image und die Attraktivität für Besucher gefährden können.",
+      "summary": "Die Steiermark setzt auf eine diversifizierte Tourismusstrategie mit innovativen Angeboten wie der neuen Steiermark-Card 2027, regionalen Marketinginitiativen und hochwertigen Unterkunftsprojekten, um Wachstum in verschiedenen Destinationen zu fördern. Gleichzeitig zeigen erfolgreiche Beispiele wie ausgezeichnete Waldchalets und neue Weinregion-Projekte, dass die Steiermark als Tourismusregion an Attraktivität gewinnt, während auch Herausforderungen wie Sicherheitsbedenken bei Besuchern bestehen bleiben.",
       "items": [
+        {
+          "title": "Steiermark-Card 2027: Auf in eine neue Ausflugs- und Erlebnissaison - pressetext",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcTg5cWRnTWlUMm85Tzd4a05WVk45UHlKbEpWd2E3MjFDOHdrQmVTQ181cnU4UDcySTRTWFdGN1BwbzNDeWRyVTlNSXF6NllZYXRXMk83N0FUakJyZmRFT19peW5nUG1zREdLaGp4NFhpQWFNa2NnUldrWHV4d21feFowbVBwX3ViOFVjLVBEVGVoc042T2hpZ1dDRVdCeWowc3J3aw?oc=5",
+          "source": "pressetext",
+          "date": "19. Nov 2026"
+        },
+        {
+          "title": "Die Steiermark zwischen Wandel und Wachstum – mnews - medianet.at",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ21EMlhFX0FiUmZpNzZxcVlDNURvMzhkOHA4d3FLZkdtN3ZGai1lck1paTl0UjEwOFpoUDFwdTVXbExoTzUtZ0JDRjlXVHVUczFudDRMWEZuQjVHZG9NT21PLTZ4NkJlSzZhQ1g1Qzl3bktmdFVLeHVEdFFhSkJVUlBmLUtLY2lrT2lvSlBxU19SZmE0bXc?oc=5",
+          "source": "medianet.at",
+          "date": "18. Nov 2026"
+        },
+        {
+          "title": "„Ihr Wienerlein kommet“: Wandbild soll in die Region Graz locken - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUXhPYjNGczNZSGVTLW91NEI4MFNPZnVwdkJ3QmFrbUg1YUoyaGE0b19MUFpnVnBmTW5MeWcwbWRhaGtwMEJIY3VfcGdpZy15OVRfaG10bzRxMGZXYldELW5iejBTbVZBUlNGeG9lSFFBWDg3QnFPZTNjdkdVSmdWMWVVdFdHX3dVdjRWdWc5ZGRJX0J5Y3lHcU1TM3pfLU1obUhMX3dzQk5ZYjQ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "19. Nov 2026"
+        },
         {
           "title": "Mein Riegersburg: Die Tourismus- und Wohngemeinde ist in aller Munde - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSm9OSEhXYk8xaERWRi1yZS1EOEs4R0tfYmx3dDFKY0NnRGVDU0VGdHBVR2pJT1BBRGEzOU9BUmFlbFAybUxqQWkzaHZPV1hPaXFDSmNCZk1wa3Q1UlVUSF9xWnNucER6eUprY0VvUVhKY2JsXzYwaWpxR043X1RkLVRKU0RvRWZQb1lTVXZUelotczZodHZlcXRyMGxyc3VBSFVyZmNhQlVGRTZQd2lpSWVB?oc=5",
           "source": "MeinBezirk.at",
           "date": "17. Nov 2026"
-        },
-        {
-          "title": "Tausende Betroffene - Hacker-Angriff auf die steirischen Touristiker - Kronen Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5aaG4wSXlwZ19DR1JRc2oxTUtIbDg4V3lBY0V3LUd3WmN4M1gxd294Y2daSHB0MDZCWnhOWEtCQjM3Zw?oc=5",
-          "source": "Kronen Zeitung",
-          "date": "11. Nov 2026"
         },
         {
           "title": "Fünf Blumen für Heselehof: Waldchalets holen die höchste Auszeichnung in der Steiermark - MeinBezirk.at",
@@ -83,27 +95,9 @@
           "date": "16. Nov 2026"
         },
         {
-          "title": "„Sehr bedauerlich und ein Verlust für Tourismus und Wirtschaft“ - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUnFRajBGVUlTUm5NUk13Sk1GRi1hOVRYZVpSOC13SWV0TG9zeXYybEltZlNJZDdRemh2bENhcHMzMzRXN21OOWF6bEo3Q2J2YjVoV2lxNnJ4akhyMk10Q0RrcTdOY3FILU9WQXFfem5rVlNGa2lHS3A3dTZESjdqZ0NkRHF6SUVlMUpqWFQySExYdllyVjd2X3hNZ09WTFo5ZV9vcTNPSHlxUnZ0a0NrbXFfTVA?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "17. Nov 2026"
-        },
-        {
           "title": "Neue Chalets in Größing: Vinea-Projekt stärkt den Tourismus in der Gemeinde Tieschen - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUnVrNkhvMXhMeFNxcUo5T2YtSmNMZUV0ZWJxSVdLYTZ0SlkxRkg4RkNjN3U0TWhqbXM2QW5XN1dlV3MxVXBGYXlTSDR4M2NVbWR1a1ZyVEkwdlBJcjF2ZGdCazNpMjZ1YU1BMEZQTlpkQTdORDUtSkxvZHNUWUtKU28tWW9FNzBDNnhBQ09EV3dwWW1vdDhheXotVVBoM1lfalFYcktfUENIbjltZEhEampZelRwVnV1aUNrUV9LWE9Yamd5?oc=5",
           "source": "MeinBezirk.at",
-          "date": "16. Nov 2026"
-        },
-        {
-          "title": "So will der Stubenbergsee auch im Winter Gäste anlocken - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMGNNNDhvM3dTT0lqUFJ2OFRSRU5YNXo4dkdHYzNHOEkyVVVQU3lxR21iX09zcV8ySGNMTkJacFR6aHFqcl9UWTdCc21YQXA5RE5xODVZYlpoSlFDWGdmV2c1YTUyM1VNbjd2WW9YSnBIc2ZzbG5seHNzVlBFMUU4MUc4Ukk1S285STVHSVF3N0JGbURhcUpKVG5hMk9tVXJNOHVNeA?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "16. Nov 2026"
-        },
-        {
-          "title": "Spatenstich für fünf neue Chalets in Größing bei Tieschen - Welt Stimme",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZG9NVnhfaTBfT1FSeGFqbVBfOG9lUk9qa2xXaUpqWjU5YjlTMTBqUGh1LUpWNGhtSlNRQWpOYjNEMG15VzIwNjgwTW5fdXphYXM1Vm9BdVJtRmJyOHJjODRxRFdCR1FtMkt1R0NzSGdXaWYyRnBrMi05dUNnUmtRQmhSR0ZydVQ5OGliUzFvWWZvcTVqMU9RQloxMUJZVjVzcm9vX21Rb3I?oc=5",
-          "source": "Welt Stimme",
           "date": "16. Nov 2026"
         },
         {
@@ -118,25 +112,25 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Steiermark stärkt ihre Forschungslandschaft durch die Expansion der FH Joanneum im Gesundheitsbereich, die in zwei Jahrzehnten über 4.500 Fachkräfte ausgebildet hat und ihr Angebot von Logopädie bis Krankenpflege erweitert. Gleichzeitig positioniert sich die Region durch UNESCO-Welterbe-Einträge in der Geologie und strategische Leuchtturmprojekte von Liezen bis zur Südsteiermark als innovativer Wissenschafts- und Wirtschaftsstandort.",
+      "summary": "Die Steiermark positioniert sich durch den Zukunftstag 2026 als innovativer Technologiestandort im globalen Wettbewerb und stärkt seine Wettbewerbsfähigkeit in Europa durch verstärkte Forschungsresilienz. Die FH Joanneum expandiert erfolgreich im Gesundheitsbereich mit neuen Studiengängen und kann auf zwei Jahrzehnte etablierter Ausbildung mit über 4.500 Absolventen aufbauen.",
       "items": [
         {
           "title": "Resilienz in Wissenschaft und Forschung | MO | 16 11 2026 | 16:05 - oe1.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZkpycGZiOEdxaTVlWDFVOVlPRVhQdnZEZUtUVnp6ZmVqTDAtODVKbHhvZmdOOXFnMkgzTURiU0lIM2pSYnp1Y3RUTnFwdFFXMlRXcjE2M3poMk9scXVUU2QxOUotWDlsN3c1WG4tajdZRHBza3BNaHh3X3h6VkNWSEZnLWNVcmdaejRJ?oc=5",
           "source": "oe1.ORF.at",
-          "date": "17. Nov 2026"
+          "date": "16. Nov 2026"
         },
         {
-          "title": "Österreich mit zwei Einträgen auf Geologie-Welterbe-Liste - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYmVDc2syQUtuNTZ6dFJlM25CWXV6b25PYno3YnJ3Tm16TDFzbmhEcTRRZkJUS2JxUlo5ZElYQ19xcUlncVlvWGVNOGtDcVFITGszMEtIQjJaS3NNWnNUYlZvZC15Q1FEMkswaEk5UE1WMmtqWmRkRVVIRkx5SW9CNEc1VWtidjRVVGlHNW9UU0M3blFaVGpOMmJPREJ4elpJcFUyVlpmX1Y?oc=5",
+          "title": "Zukunftstag 2026: Standort Steiermark im globalen Technologiewettbewerb - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9la1RmVXdIRGlnTmFhSTBGZmhxaWRkUUZpcmVCbzZ5cHRYMHY0OHduYjBYemhyMklyckxDRURlaHAtQ1JwUFlsS01HRW5FcmpnMUVvNHU0ZE1CYjc2NEpicHVRazUtWkRlWjE0NFFEcTl4UXp2VFRBdA?oc=5",
+          "source": "Kommunikation - Land Steiermark",
+          "date": "18. Nov 2026"
+        },
+        {
+          "title": "Europa in der Transformation: „Diagnosekaiser und Therapiezwerge“ - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWVF6VE9ELTVQTXdJY2tTd1VOX2otSFF3dWlkakc1S3lEQ1RBWUhucDBha3VYX3pSYmxqRTJlUGxFMmdySHZaaEtfZ2tLMVVLSXNjOHk1RVVjZ3hvd2h2eUg1Mi1GbWh0YktVcTc2d2tXZjViM3R3MXdhc1JKZUsxVnRXNUV5Z2dYVUZ4ZEZlMXlsdTk5eVVsdlFycGR3MXgtclQxc2RteURYZVZR?oc=5",
           "source": "Kleine Zeitung",
-          "date": "15. Nov 2026"
-        },
-        {
-          "title": "Wirtschaftsstrategie: Von Liezen bis in die Südsteiermark – das sind die Leuchtturmprojekte - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOXZYQWRiNmo3TF9KaXE2TWQwNnFCcEx6ZEJFREZkOHpaSjRuVFZpejZBUjF1WmNjNU9kQm56Ui0xRXRpZnpYX2VnY2lUajZCb0pCT3NKLTlpdHBjYUd6R2tmTHFjM3RNcFVnOWIwVlNuNkJlUVhocml4cUxNLWdienUwYVdBMVpFYTBBUnJrLVg5UVZOM0tNUWN0RGh2bTRBZWo4cGJzWkJaRGNscDhmYTVlTEFwT3F6OHYwQnp6NVRnNjVwQWc?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "11. Nov 2026"
+          "date": "18. Nov 2026"
         },
         {
           "title": "Logopädie bis Krankenpflege: FH Joanneum wächst - ORF ON",
@@ -146,21 +140,15 @@
         },
         {
           "title": "20 Jahre Gesundheitsstudien an der FH Joanneum: 4.500 Absolventen - Der Grazer",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT1VoanFzOEpmR3FlZFlBcjdoWGlRTkF3b0FnbW1ZV1hqQ0Q2dzZGWHZDTzRkZDE0SjFCTUMyUkF6empCcU1UNThTM2dRbEFyY1pnTGdXVmZZUXVBdjNYZ3IwWWU5dDNORldaM19BS2RqTkNNZ1hwS1dzSXEyZkZkdXZtbXdaZw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUDhMbkNLNXN2VDJFc3lSSHNtY3lzTGVqUE5IbklyU3hzUURPWFBFUGNsSnlQdkMzLW5zYVdSLUVoY2pwZjFvcnA3eGJGY0JpM0pNZlFrUEdKaENNT2o0aS1waFJmSXVqOFVtbGVXNjVGd08teEE0RjNyLWhFbUF4Rmp6WnNUZ3gxT2ZUNmxB?oc=5",
           "source": "Der Grazer",
           "date": "17. Nov 2026"
         },
         {
-          "title": "20 Jahre akademische Gesundheitsberufe - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50bF9RbGZWR1JDX0toUzJXZnN3eWNaWDBzWGpKVjlTcDczTXZKMDJncW41RVctQk8yUmMxU2hESXBkNzVLd0J3LXFkY0xaRHRzQ2I4Qg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "14. Nov 2026"
-        },
-        {
-          "title": "20 Jahre Gesundheitsstudien: FH JOANNEUM bildet 4.500 Fachkräfte aus - 5 Minuten",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUkRweGFVWTY3SG1QUmpZWXJrYmRrVEwwSVBIaHc3Yy1CUU1NLWw0WkJaQ2tFVlVrdkZET2ZncFpOdHlhUkljTEFVWHVqZm42ckphdUQxamlwY2hrX1JoTXNSa0dUaHU2Vkg3V2xnUkgzcGtFT1pmSE9fMzB0SlRyZDdGZ1FoY0RWQXRnbzZBOWxhT1JNcWRIWmRpUHVfNUFmdnJOeUtxQmN0TWZO?oc=5",
-          "source": "5 Minuten",
-          "date": "16. Nov 2026"
+          "title": "Zukunftstag rückt Europas Wettbewerbsfähigkeit ins Zentrum - nachrichten.jetzt",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMXZvOTN6a0cxa0JsTDRDaXFWV2w2VTZTdUVvV0U5OHoxancyYmNBNS02YlVTTGRGNEp0bmdyRmszOTY4eXZwbXRRUUJST3hnSTZrbURsQnpVaDJaMW1KQWdnM3M3QzBrMXMzYTdQOGQzZ29FY0U0UXdNU2FBRGprVU9DejdMREpiSWJKTl9jTTg5QUlONHJaeGhoVQ?oc=5",
+          "source": "nachrichten.jetzt",
+          "date": "18. Nov 2026"
         }
       ]
     },
@@ -168,13 +156,13 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "AIIS und Pegasus planen die Errichtung eines Testzentrums für die Luftfahrtindustrie in Köflach, das die Innovationskraft der steirischen Luftfahrtbranche stärken soll. Dieses Projekt trägt zur wirtschaftlichen Entwicklung der Region bei und positioniert die Steiermark als wichtigen Standort für Luftfahrttechnologie und Forschung.",
+      "summary": "Ich kann diese Aufgabe nicht erfüllen, da Sie mir nur einen Nachrichtentitel vorgegeben haben, der sich zudem nicht auf Förderungen, EU-Programme, Strukturfonds oder Wirtschaftsförderungen bezieht, sondern auf eine Personalangelegenheit hinweist. Um eine aussagekräftige Zusammenfassung zu mehreren relevanten Nachrichten zu erstellen, benötige ich mindestens zwei bis drei thematisch passende Titel zu Fördermaßnahmen oder EU-Programmen in der Steiermark.",
       "items": [
         {
-          "title": "AIIS und Pegasus planen Testzentrum für Luftfahrtindustrie in Köflach - Welt Stimme",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa3VYdVNVVUhUNVAtLXptQUM3eEhEYkY0VEFOWE96YVRkdDJrdFBRM28tR3czLS1jSm9xVDczZU5sc1ZwMHV5dTh2WkFjbTJEeVJnX1FJMG1CTXZUTEhabFFEN0FYY3hWT0pZYldGU2VGQlFvNVpxT1JEbWN1dFNpamwzbjlzRkNDODRaRXJNTEZsZ01ROV9ldmZzYVdFaEsyeTAwbm4tZVRQWTF2S2hxc1BnT0RQZw?oc=5",
-          "source": "Welt Stimme",
-          "date": "16. Nov 2026"
+          "title": "Schicksal von Tina Robitsch wird Fall fürs Wirtschaftsparlament - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdVNyZWRUZFZzRW0wUHVQN1NOUTlVak5yNUhUWTdNY3lDd3RFenktYTJHWW1UeFoxTDIyUFlxZlYyb2I1WmktNXZWODFvZUlDMGNHaGlSZjJBTlZHSC1RTU1wdm9ITHdVRmpKcGUyYU9jUUdsLS1aVVlZT3piMUViMDVoS2JJX3dxRnJUZ3REVkRsazNlSHZ1dG4tSmtGRWZPSU5pZm8yLXBfMlIzU2dJ?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "18. Nov 2026"
         }
       ]
     },
@@ -182,8 +170,14 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark entwickelt sich durch innovative KI-Start-ups in Graz zu einem zukunftsweisenden Technologiestandort, während gleichzeitig Smart-City-Infrastrukturen wie in Graz in Betrieb gehen. Allerdings warnen die Grünen vor mangelnder Vorbereitung auf die Infrastrukturanforderungen von KI-Rechenzentren, die für die nachhaltige Digitalisierung der Region entscheidend sind.",
+      "summary": "Die Steiermark erlebt einen dynamischen Digitalisierungsschub, bei dem künstliche Intelligenz zunehmend in kritischen Bereichen wie Gesundheitswesen und Bildung Einzug hält und innovative Grazer Startups die technologische Zukunftsgestaltung vorantreiben. Gleichzeitig entstehen mit Smart-City-Projekten und digitalen Clustern neue Chancen, doch die Infrastruktur für energieintensive KI-Rechenzentren erfordert dringend bessere Vorbereitung und nachhaltige Lösungsansätze.",
       "items": [
+        {
+          "title": "Wie die KI den Krankenhausalltag verändert - steiermark.ORF.at",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hRXJlSmlWYXFicjBjcllEQmJPb2xmSUkwMFRxa2F5VVNldVMzd2tEc1JYeGFoMmR0WjkyT291UGNBdUUyTUhIWGw3LTRMajZMUDNmNA?oc=5",
+          "source": "steiermark.ORF.at",
+          "date": "18. Nov 2026"
+        },
         {
           "title": "Künstliche Intelligenz: Wie innovative KI-Start-ups in Graz die Zukunft verändern - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaU5ORDlHWXNNNDBPaURXdUNNZkZzVHd3TmVzektSaU12RDRVZW1IbXlob0Jua1RMa0F1aFFkMWR3bURWc285dHg0NkZxNXhPalB6WUdVMlFUa1oxelZMa19UZzQ1LV9wVU9Nd1J2MW8yano4TjJVeldRUzNJckpKZEVWeUNwc19iNTA4RVJmSFgzbHBYMi14eWFKMVJYS1JuV2g5Z0dnN3pyUUNybDhCRg?oc=5",
@@ -191,10 +185,22 @@
           "date": "17. Nov 2026"
         },
         {
+          "title": "Grazer Studie: ChatGPT und Gemini empfehlen PA Digital als GEO-Agentur Nummer 1 in der Steiermark - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOV2VYd2ZtZFVCMFQ1SnFmVXVIMEtjSXNiWTJsNW5yTXl2WnhNdGxUdjlNNFlRUE9ibkdHQTV6dm01b3BudEp2dmI3MTBvSXZnVm56dUFkbmhhajFJOWpiZjBOWUxIdTF2S0wyMUZ4VkxOa0VFa25sM0ZiaHJfa3RxM21YdkRpR2paZWVTX0dSbk1TMXVvb09yazFYZlllQlVURVg1RVhORzV1RFA3X2paTkNVQzY3U2tyaGhtQWpyeHctNjR1N29PNS00OTFoRGxtZHJpR2VSbnQ0dDRBcWJMQ2ZoZUZFbTl0dEtDRUtXQVRHZw?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "18. Nov 2026"
+        },
+        {
           "title": "Grüne schlagen Alarm: „Auf KI-Rechenzentren ist die Steiermark nicht vorbereitet“ - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVENvNjJBd3ZoeFFZZGlEaXZXR1ZCQnd6bk50eVkyNFpMaGJGRmhYTFh6R1hsc0hsOWJQREdDZDFEZDNqYkJ0cjZFOFJEV01LbmFkbjk3MXlOaFc2cE42TXNTbUZLN0M5Yk5rQllsSTFPVEFNSnpmdzJoZUtTNXNzYkJwU1owS0tvSTVjSWFwS3cxbmtYSWpVVUxDMkZNUFdoTVBvVHAyZ0hRZUxwZVdxX1VkOA?oc=5",
           "source": "MeinBezirk.at",
           "date": "17. Nov 2026"
+        },
+        {
+          "title": "Schulcampus Smart City Graz: MS/PTS offiziell eröffnet - austria.com",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMkFXTjZWblRhNGpYZmhoYlRoVlA4dWtzUnd6dkdqNkRNUGtqOWp3QnRZUG9SV2IzMTc2bTVvT0V6eGt1bG1xbnN0VkZROGU0eV9HZFYzb1dpZUFHQ3JHUFVhZUR0eWx2elJnZVJZTzVhRm94Nkp6MTd5Vkw3aTNMenRWRGJUcFQwVURGSnpfcEVoZw?oc=5",
+          "source": "austria.com",
+          "date": "18. Nov 2026"
         },
         {
           "title": "MS/PTS Smart City in Graz nun vollständig in Betrieb - nachrichten.jetzt",
