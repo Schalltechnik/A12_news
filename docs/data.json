@@ -1,13 +1,25 @@
 {
-  "generated": "21. November 2026, 10:09 UTC",
+  "generated": "22. November 2026, 10:14 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die steirische Wirtschaft zeigt sich in einem Spannungsfeld zwischen Stabilisierungsmaßnahmen im Einzelhandel und Einzelhandelskrisen, wie die gestartete Buchhandelskampagne einerseits und das Ende der Grazer Herbstmesse nach 120 Jahren sowie mehrere Unternehmenspleiten andererseits verdeutlichen. Während die Steiermark insgesamt zwischen wirtschaftlichem Wandel und Wachstum navigiert, werden gezielte Förderungen für traditionelle Branchen wie den regionalen Buchhandel notwendig, um die lokale Wirtschaftsstruktur zu bewahren.",
+      "summary": "Die Steiermark würdigt ihre wirtschaftlichen und wissenschaftlichen Leistungsträger durch verschiedene Auszeichnungen und Kampagnen zur Stärkung lokaler Branchen wie des Buchhandels und zur Förderung von Innovationen in allen Regionen. Gleichzeitig steht das Bundesland vor erheblichen wirtschaftlichen Herausforderungen, die sich in drohenden Milliardendefiziten ab 2029 und dem Aus traditionsreicher Institutionen wie der Grazer Herbstmesse nach 120 Jahren manifestieren.",
       "items": [
+        {
+          "title": "„Köpfe des Jahres“: Die Nominierten aus Wirtschaft und Forschung - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORFZBbXQ4S2dFWXUtRkV6V2FyMHhkcjRsdDZnZUxCd1hfN1ZwWXA3aDBCcGdIbUI5RlJpcjhyNHUwanJKWmpKUGZKa1NzeTlsRldFWi1ITFhlSWptMHRXdFdLWmxaMFItMm1FNDFNR1ItVlFvaGV3dG51bENRRGtrLWFRUi1RdktDRndrR0t2UjhOV3BoWkptX0RMWUJFSzdBOUVWczlKbkNoWE5h?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "22. Nov 2026"
+        },
+        {
+          "title": "Judenburg: Wirtschaftsbund Murtal vergibt Juliusaward an fünf Vorzeigebetriebe - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM0RZU3R6UlVtUnhuanROblhzT0oyNHh6ckl3bzI5bl9mNUlyOEhEeDJEXzI1X0pzdVUtV2R1NHpnSTZ2dkxFb1lEMXoxTUJqSUNlOWZCMFAxYzlfSmVkY2xnbDQ4R1ZHVklqOFhZSDNwSmQ3ZnhCTEJpbkota0xsWkhhcVhZZzhTRUVJazdFR2pVVC0zelZfaHRpQ1NGS2xvcGVHRHpSWUEtZm1GYzlaVWxRenYwZ2xmYnNiQnVuLXk?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "22. Nov 2026"
+        },
         {
           "title": "Kampagne soll steirischen Buchhandel stärken - steiermark.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wVTJJVktyWDllSko1SE94eWtQR2pYYWZueHRVU1lPcEhDYnZzU0RYcDdGN25CUURKVUFuTERwT0tkVUJydEJpTGloQ281eldyY241bw?oc=5",
@@ -15,16 +27,10 @@
           "date": "18. Nov 2026"
         },
         {
-          "title": "Vorweihnachtszeit: Kampagne für regionalen Buchhandel in der Steiermark gestartet - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd0lYdU5SRDNneHc3TG9IcGltc05FV1o5TVpyZjRWZHlJdU9jV2QzWHptc0Y2UEpZX3pMM1Rfb0dCZGJxMGl2enNlanhja3pZZDR1azhsZXNhWWJqUllvOWZuSF9wVUdZX2ZrODBXNFlsaEIwT2pxNmdsZExEMEx0TnRldjBJVmVGNUg5WHFSMGM3MVdValNxZFZxdFczY2hLdnpKR2lZaHZWX25mRThWV3dXSUJ4Q2RSZ3J1emZ4Zw?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "18. Nov 2026"
-        },
-        {
-          "title": "Schicksal von Tina Robitsch wird Fall fürs Wirtschaftsparlament - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdVNyZWRUZFZzRW0wUHVQN1NOUTlVak5yNUhUWTdNY3lDd3RFenktYTJHWW1UeFoxTDIyUFlxZlYyb2I1WmktNXZWODFvZUlDMGNHaGlSZjJBTlZHSC1RTU1wdm9ITHdVRmpKcGUyYU9jUUdsLS1aVVlZT3piMUViMDVoS2JJX3dxRnJUZ3REVkRsazNlSHZ1dG4tSmtGRWZPSU5pZm8yLXBfMlIzU2dJ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "18. Nov 2026"
+          "title": "Steiermark steuert auf Milliarden-Defizite ab 2029 zu - Salzburger Nachrichten",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdEI3cnd0dEJ2NEJSVy1nbkgxYXAwd0JHRnVlUTVtZWJrSHpfempGN3FSQU5qM3FRM2V6NmdLS3FWSFZyOHRwcGFKTVJLTFlYc01BZHhUcS1nTjBOSDF1U2h5NENnQVN1TE9tSjgxRmFfbnRNcFFYRzhBeFMzTVFxMWN1bmVFclhjOXdEd2ZBV3loMnRtMk9SSkVKZ0s1NUFFckNTN3dNSDI?oc=5",
+          "source": "Salzburger Nachrichten",
+          "date": "19. Nov 2026"
         },
         {
           "title": "V.I.E.Med. GmbH: Bitteres Ende nach Streit mit einem Vertragspartner - Wirtschaftsnachrichten Süd",
@@ -33,10 +39,10 @@
           "date": "19. Nov 2026"
         },
         {
-          "title": "Die Steiermark zwischen Wandel und Wachstum – mnews - medianet.at",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ21EMlhFX0FiUmZpNzZxcVlDNURvMzhkOHA4d3FLZkdtN3ZGai1lck1paTl0UjEwOFpoUDFwdTVXbExoTzUtZ0JDRjlXVHVUczFudDRMWEZuQjVHZG9NT21PLTZ4NkJlSzZhQ1g1Qzl3bktmdFVLeHVEdFFhSkJVUlBmLUtLY2lrT2lvSlBxU19SZmE0bXc?oc=5",
-          "source": "medianet.at",
-          "date": "18. Nov 2026"
+          "title": "„Köpfe des Jahres“: Diese Obersteirer glänzen in Wirtschaft und Forschung - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNenVTWGxvOGFlT1RjZm5WeG4zWThVVlJkZGhIem9XTDl1TTF5SzJRUzRhWktPV1JhYlhJaEQ5WDd2R1M4SDJQdWM0elZidXZZaGItaXc3a1p2Qy16THF3eUktSnBwYkhKaUNEdmt1Q3hxZzJqX0ZDQ1RuNTJlYmFrUVp5eFpoelBGMFlWRmVEVElaUHJuMXBwaTRtbEZBOEJrRllGbmtkdWhaaVRr?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "21. Nov 2026"
         },
         {
           "title": "Aus für Grazer Herbstmesse nach 120 Jahren - steiermark.ORF.at",
@@ -45,16 +51,10 @@
           "date": "19. Nov 2026"
         },
         {
-          "title": "Wirtschaftstalk: „Wir müssen Freihandel noch breiter denken“ - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSlVLbG9lci1PaGxTT21PeEgzRU5nU1Jfek5IbTl0TVFBeG5wbFZEWXBnUzcwNlVKMkhBcnBiY2QxMlJlYmdaMk5oekdlUzl1eGxBMmFDNFNUc1NRMUdYS254N205QXJJWjRkcVpLeHFISHJBRUZNRW0zYmdDNFNDRUNSSHlkcXdNVDVfcWdacGJjLWNrelJ1MWt2RmhIbVNsZFk3WlQ0NA?oc=5",
+          "title": "Köpfe des Jahres: Diese Süd- und Weststeirer treiben Innovationen voran - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeExzNzlEWE1EdFNnekdfSVlLNUF3bDRKV29mOFlqQVVubnJtajNjakp5TWZhT1dxNUFOb0ZRRS10eU5sV2tjZ2lZSm9NZGs4U29uSGFWMGs0NGhROGV2NG9aOGZWQ0JSQzFWaEw3bGN0T2l3bjNiNFVoQmN6MzFFNHpIc21IYlpjb1o0ZjNEck9OUEFkS29tYkp3bUxHOUlP?oc=5",
           "source": "Kleine Zeitung",
-          "date": "19. Nov 2026"
-        },
-        {
-          "title": "Nach 136 Jahren: Aufsehenerregende Pleite in der Steiermark - Wirtschaftsnachrichten Süd",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUjUwUTcwVFlvQlZ5d3A3ekpNbXhHQV83WTU0aU10cDdvSTYwUjMwNlczaFE2TzRuNzlvQ3BldjVGYXotdmx0WTFiQnpsUlBobUt6dzRlOFFHU3c5NTVVN1E3WEtBVHB2aEVEVVpwZ0c3M1dTOEJ6cTJzMlhFMGFpejE0dWNLVnJNdnR0X2JrclppWDVhZFZPY1V5dk1SN0JKUFotS3M5MDY2aFg5bDFJNllNNkU?oc=5",
-          "source": "Wirtschaftsnachrichten Süd",
-          "date": "16. Nov 2026"
+          "date": "21. Nov 2026"
         }
       ]
     },
@@ -62,26 +62,8 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark positioniert sich mit innovativen Tourismusangeboten wie der erneuerten Steiermark-Card 2027 und saisonalen Erlebnisprogrammen als dynamisches Reiseziel, während gleichzeitig hochwertige Unterkunftsqualität durch Auszeichnungen wie die Fünf-Blumen-Zertifizierung und gezielte Marketingmaßnahmen zur Steigerung der Besucherzahlen beitragen.",
+      "summary": "Die Steiermark setzt auf vielfältige Strategien zur Tourismusförderung, indem sie saisonale Highlights wie den Adventzauber in der Hochsteiermark nutzt und durch innovative Marketingmaßnahmen wie das Wandbild-Projekt gezielt neue Besuchergruppen aus der Region Graz anlockt. Mit der weiterentwickelten Steiermark-Card 2027 wird gleichzeitig ein modernes Angebot geschaffen, das Ausflüge und Erlebnisse attraktiver gestaltet und damit die Tourismusausgaben in der Region steigern soll.",
       "items": [
-        {
-          "title": "Die Steiermark zwischen Wandel und Wachstum – mnews - medianet.at",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ21EMlhFX0FiUmZpNzZxcVlDNURvMzhkOHA4d3FLZkdtN3ZGai1lck1paTl0UjEwOFpoUDFwdTVXbExoTzUtZ0JDRjlXVHVUczFudDRMWEZuQjVHZG9NT21PLTZ4NkJlSzZhQ1g1Qzl3bktmdFVLeHVEdFFhSkJVUlBmLUtLY2lrT2lvSlBxU19SZmE0bXc?oc=5",
-          "source": "medianet.at",
-          "date": "18. Nov 2026"
-        },
-        {
-          "title": "Steiermark-Card 2027: Auf in eine neue Ausflugs- und Erlebnissaison - pressetext",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcTg5cWRnTWlUMm85Tzd4a05WVk45UHlKbEpWd2E3MjFDOHdrQmVTQ181cnU4UDcySTRTWFdGN1BwbzNDeWRyVTlNSXF6NllZYXRXMk83N0FUakJyZmRFT19peW5nUG1zREdLaGp4NFhpQWFNa2NnUldrWHV4d21feFowbVBwX3ViOFVjLVBEVGVoc042T2hpZ1dDRVdCeWowc3J3aw?oc=5",
-          "source": "pressetext",
-          "date": "19. Nov 2026"
-        },
-        {
-          "title": "Fünf Blumen für Heselehof: Waldchalets holen die höchste Auszeichnung in der Steiermark - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOblRiZWdwVi1VRzNSc21nVU41bGRfZ21ManNIRVdHYk5RbF93VjA4NTdjc3Z1N05Lbm5nNHVDakE0Z2M5dFFwSTE5MEVCdFpRRkpVOHVKQzMzQmtnRDFudnpGQjFNLTRYcWlLaGhmTzhlREZNREIzUDc5bzRUcWFNaHVGS0xYU0lySnZzTEF3d19FdDNRT3VuU3dVNWZWQVoxWGlsYUVTYUxvdFQzOGg3Z3BQM3JZckozSVE?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "16. Nov 2026"
-        },
         {
           "title": "Adventzauber Hochsteiermark: Die fünfte Jahreszeit - OTS.at",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONFl0ZzVGMG9mOUNSdHlvUDk2WW5wVnpleFdkcU5FdUIzaXlRNUxYUGZISFVfYmZSYzRRNGhBcXY0WURCUVNWRmwzRDJyTW1uU3htSXdMS18yVlVnVWpJOHpCZ2ktR215NmdrR2J2b0lKblMwaEMxSExjMThqX3p2MzRVRWtIQWpNclZrQTdjckphWVg3MVBmc1NON2toZlZTdEdoX0FWbFdVRTQ?oc=5",
@@ -93,6 +75,12 @@
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUXhPYjNGczNZSGVTLW91NEI4MFNPZnVwdkJ3QmFrbUg1YUoyaGE0b19MUFpnVnBmTW5MeWcwbWRhaGtwMEJIY3VfcGdpZy15OVRfaG10bzRxMGZXYldELW5iejBTbVZBUlNGeG9lSFFBWDg3QnFPZTNjdkdVSmdWMWVVdFdHX3dVdjRWdWc5ZGRJX0J5Y3lHcU1TM3pfLU1obUhMX3dzQk5ZYjQ?oc=5",
           "source": "Kleine Zeitung",
           "date": "19. Nov 2026"
+        },
+        {
+          "title": "Steiermark-Card 2027: Auf in eine neue Ausflugs- und Erlebnissaison - ad-hoc-news.de",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQmpvNVVoX0J1S3FyMkZFYmo1VGJ5dWNZUUNLN2laTkVsS0JETk0tLVdZdVktRDJrT2p6WjJGVGw2bmtIWDllWU55MExZVktUMnVqaVZ2UlZBYmQ1MDljUzdDMzBkbW5JcWNNSEFHa25lYmNBclVteWlmcm1Jd1A4amc5THRnNGxoZndmRXl0UU55VVE4RUZ1ZVNWVEVESUZkZkNGTzgxUXFUMFFWeDNsUE1NQlU?oc=5",
+          "source": "ad-hoc-news.de",
+          "date": "19. Nov 2026"
         }
       ]
     },
@@ -100,8 +88,20 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Die Steiermark zeigt starke Forschungsaktivitäten mit Schwerpunkten auf Resilienz, Komplexitätswissenschaften und Gesundheitsstudien, wie die Auszeichnung von Jana Lasser von der Universität Graz mit dem Hedy Lamarr Preis und das 20-jährige Jubiläum der FH Joanneum mit 4.500 Absolventen belegen. Gleichzeitig wird die Notwendigkeit einer stärkeren Transformation Europas in Wissenschaft und Innovation diskutiert, während Veranstaltungen wie der Grazer Zukunftstag mit 1.700 Besuchern das öffentliche Interesse an Forschung und Innovation fördern.",
+      "summary": "Das Land Steiermark würdigt herausragende Forschungsleistungen durch die Verleihung von Forschungspreisen an innovative Köpfe aus Wirtschaft und Wissenschaft, die durch ihre Arbeiten zur Transformation Europas und zur Resilienz in Forschung und Entwicklung beitragen. Besonders hervorzuheben ist die internationale Anerkennung steirischer Forschender wie Jana Lasser von der Universität Graz, die mit dem Hedy Lamarr Preis der Stadt Wien ausgezeichnet wurde und damit die Exzellenz der steirischen Forschungslandschaft unterstreicht.",
       "items": [
+        {
+          "title": "Forschungspreise des Landes Steiermark verliehen - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzSDZvYU95Ukx0Z0dMT2gzSUtGSHlDa1MtZjdxRzNob0dvQjRhYVJTdUNmWWRLUXVQbDNmS3Bhb2JQV0ZPZ0dXQlF6UjZabDJmbFZWZm10QWc2cXlzWTA3WEhTUTBxYUpzcV9MazgxR3FLcWNzUlZXZg?oc=5",
+          "source": "Kommunikation - Land Steiermark",
+          "date": "21. Nov 2026"
+        },
+        {
+          "title": "Das sind die Sieger der Forschungspreise des Landes Steiermark - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOemZuYS1wWENpcWxxVWtUbkZ2S2tRVVVzdWY1WnlsaTZlX0UxUFM0OERYUkxvbl92V1h6MnMxeE5rd01RTWxyb05FTWpYV3JpTk9VRkRDUFNadEEyR2lKVnY2TnlJelpSR0p0Y1FmcHBWdHJqaWZwMzFOS2hnWTlwYnBaMk83aWtwVDlOUDNneG1xNHNGOGx3Wm11S3BXeXBOZlV5Ry03eTBZWUxT?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "21. Nov 2026"
+        },
         {
           "title": "Resilienz in Wissenschaft und Forschung | MO | 16 11 2026 | 16:05 - oe1.ORF.at",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZkpycGZiOEdxaTVlWDFVOVlPRVhQdnZEZUtUVnp6ZmVqTDAtODVKbHhvZmdOOXFnMkgzTURiU0lIM2pSYnp1Y3RUTnFwdFFXMlRXcjE2M3poMk9scXVUU2QxOUotWDlsN3c1WG4tajdZRHBza3BNaHh3X3h6VkNWSEZnLWNVcmdaejRJ?oc=5",
@@ -115,27 +115,27 @@
           "date": "18. Nov 2026"
         },
         {
+          "title": "„Köpfe des Jahres“: Die Nominierten aus Wirtschaft und Forschung - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORFZBbXQ4S2dFWXUtRkV6V2FyMHhkcjRsdDZnZUxCd1hfN1ZwWXA3aDBCcGdIbUI5RlJpcjhyNHUwanJKWmpKUGZKa1NzeTlsRldFWi1ITFhlSWptMHRXdFdLWmxaMFItMm1FNDFNR1ItVlFvaGV3dG51bENRRGtrLWFRUi1RdktDRndrR0t2UjhOV3BoWkptX0RMWUJFSzdBOUVWczlKbkNoWE5h?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "22. Nov 2026"
+        },
+        {
+          "title": "Mit Mut und Tatendrang bereichern diese Ost- und Südoststeirer Wirtschaft & Forschung - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU0NsQm0tR0k1dTVkbVZGd2E1LUg2RlkzRkNJc05TdEwzNHo5ZWhPUWo2eDEtUnpaUFg0LUgtalloa3c3LWNmZVhBX29sSnVPNjRlZ1RQTEtGQnBMMGhhbzVqVHNsWm5OQ3pGcjBrM25JVkhoa29KSzlfZG15YVM1dElxYnNFa0wzR0VRcGkyeTd3QlEtczRmQlhpbkdMRVR5VVBfaVJTM0VVd2M4MUdabVpB?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "21. Nov 2026"
+        },
+        {
+          "title": "Köpfe des Jahres: Diese Süd- und Weststeirer treiben Innovationen voran - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeExzNzlEWE1EdFNnekdfSVlLNUF3bDRKV29mOFlqQVVubnJtajNjakp5TWZhT1dxNUFOb0ZRRS10eU5sV2tjZ2lZSm9NZGs4U29uSGFWMGs0NGhROGV2NG9aOGZWQ0JSQzFWaEw3bGN0T2l3bjNiNFVoQmN6MzFFNHpIc21IYlpjb1o0ZjNEck9OUEFkS29tYkp3bUxHOUlP?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "21. Nov 2026"
+        },
+        {
           "title": "Jana Lasser von der Universität Graz erhält Hedy Lamarr Preis der Stadt Wien 2026 - Presseservice der Stadt Wien",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ0dwRUdOaWMyc3AxbDA3VUNzTjFnenFCcFhlQUtZMUE3UWprc1VrU180R2t5dGVXYWJyLTVjUTZaaWRvckNjMTlxaEgzM2ZaTE9ZdXF5T1JmZGJ0QWZ2ald1N2JaSmVoakpSWFZMXzl4YXVKakNWcW9vYXVZc2MyNEgyX3hVOEw2Q0NkZ0xhT21mVzR3eHhVc1pYOEdndkJaUjA2Y2ZfSktkaEJqbWlfdVF0UFRkcThTNEpWSjB6dkctbGtKNkE?oc=5",
           "source": "Presseservice der Stadt Wien",
-          "date": "19. Nov 2026"
-        },
-        {
-          "title": "Hedy-Lamarr-Preis für Komplexitätsforscherin Jana Lasser - News.at",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVldFWkk1elJyVngxdGhSTk1CVWp6dGtLOXJhdnJYRVFBSWRfLVNFQUwtbF9peU8zM2M3OEVrdGxjWFBEMGFtWDhaUk1NSEk4dlphbUIzVm41bjZWZzN1U1J4Tm4teFNHUE0tR1ExSnJVYlBxMzNTVkJieklscXFvZ0FkeFRuelRIVEpQRQ?oc=5",
-          "source": "News.at",
-          "date": "20. Nov 2026"
-        },
-        {
-          "title": "20 Jahre Gesundheitsstudien an der FH Joanneum: 4.500 Absolventen - Der Grazer",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUDhMbkNLNXN2VDJFc3lSSHNtY3lzTGVqUE5IbklyU3hzUURPWFBFUGNsSnlQdkMzLW5zYVdSLUVoY2pwZjFvcnA3eGJGY0JpM0pNZlFrUEdKaENNT2o0aS1waFJmSXVqOFVtbGVXNjVGd08teEE0RjNyLWhFbUF4Rmp6WnNUZ3gxT2ZUNmxB?oc=5",
-          "source": "Der Grazer",
-          "date": "17. Nov 2026"
-        },
-        {
-          "title": "1.700 Gäste beim Zukunftstag in Graz – Steiermark - austria.com",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdVlfdlNLd2tqV0VVWTVWMlRkaWdxQTl4OGhIVnA4cjAyLTVJdXRQbVdkVVBpMkxUc1o0UXBiRFBUYjdubXRVcEo3S0E3RFRUQ3FjQTRSU01zd1BLN2hFczk3dTlVRTlTOWRGTWJocVdUTVhCMTZqeVB3ci0yZ3ZzWldKYw?oc=5",
-          "source": "austria.com",
           "date": "19. Nov 2026"
         }
       ]
@@ -144,14 +144,8 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Die Berichterstattung zeigt aktuelle Herausforderungen in der steirischen Wirtschaftspolitik, wobei ein Einzelfall zur parlamentarischen Angelegenheit wird und gleichzeitig Debatten über die Lage der Landwirtschaft geführt werden. Parallel dazu investiert die Steiermark durch Schulungsprogramme im Bereich Green Jobs massiv in die Qualifizierung von knapp 1300 Personen für zukunftsorientierte Beschäftigung.",
+      "summary": "Die steirische Landwirtschaft wird durch gezielte Unterstützungsmaßnahmen gestärkt und widerlegt damit Befürchtungen eines Bauernsterbens. Ein Schulungszentrum trägt durch die Ausbildung von fast 1300 Personen in \"Green Jobs\" wesentlich zur Schaffung von nachhaltigen Arbeitsplätzen und zur Fachkräftesicherung in der Steiermark bei.",
       "items": [
-        {
-          "title": "Schicksal von Tina Robitsch wird Fall fürs Wirtschaftsparlament - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdVNyZWRUZFZzRW0wUHVQN1NOUTlVak5yNUhUWTdNY3lDd3RFenktYTJHWW1UeFoxTDIyUFlxZlYyb2I1WmktNXZWODFvZUlDMGNHaGlSZjJBTlZHSC1RTU1wdm9ITHdVRmpKcGUyYU9jUUdsLS1aVVlZT3piMUViMDVoS2JJX3dxRnJUZ3REVkRsazNlSHZ1dG4tSmtGRWZPSU5pZm8yLXBfMlIzU2dJ?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "18. Nov 2026"
-        },
         {
           "title": "Südoststeirischer Kammersekretär: „Es gibt kein Bauernsterben“ - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeG5UQjd2blU2Z0I2RlNDOFYzYXhyVXZ6aFhBM3BrZVNlQ1NNMFA5ZGwxVjNuMHMtS0ZOSXI4Yy1ZRVdhMFNXelNvblZveEdmOVkwemFTMkJ2bnN5amRuY0tyMkhkWHVZVW5fZzZpUTMwdW1FLXNWRk9OaXZiNFI4TTI2SXJNelVFVzMzVzZXM0M2ZnowUGhpZElhVWE2ZFVHYlJpdUZFQ21WNFU?oc=5",
@@ -170,7 +164,7 @@
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Steiermark digitalisiert sich in vielfältigen Bereichen – von Bildungsangeboten über KI-Anwendungen im Gesundheitswesen bis hin zu innovativen Startups in Graz, die neue Technologien vorantreiben. Allerdings zeigt sich auch eine Diskrepanz zwischen technologischem Fortschritt und infrastruktureller Vorbereitung, da die Region bei der Skalierung von KI-Rechenzentren noch Aufholbedarf hat.",
+      "summary": "Die Steiermark digitalisiert ihre Bildungslandschaft durch Online-Kurse und innovative Schulcampus-Projekte, während künstliche Intelligenz zunehmend in Krankenhäusern und durch lokale Startups in Graz Einzug hält. Gleichzeitig offenbaren sich Herausforderungen wie mangelnde Infrastrukturvorbereitung für energieintensive KI-Rechenzentren und Risiken durch unkritische KI-Nutzung in der Öffentlichkeit.",
       "items": [
         {
           "title": "Onlinekurse in der VHS Steiermark: Von Yoga bis Japanisch - so digital lernt die Steiermark - MeinBezirk.at",
@@ -197,22 +191,28 @@
           "date": "17. Nov 2026"
         },
         {
-          "title": "Social-Media-Trend – GTA-Fieber! Steirische Politiker blamieren sich mit KI - Heute",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWHpyQ2JQYWt6alFkZV9DMmVnYkRmR0U5QUI1NXR0WUZzdmRZM05NWTlIbG1yVWRqNXNoOFppSkxZaHM0cUM4cThGaVhKY2JOTkpicERuSHdsbzBjU05Gd1RWd2xvaWhoOU5LZHNjNXV6LTlLWTg4NkotaDFzOE8xaEprQjdMMjNwWVVMWkswVQ?oc=5",
-          "source": "Heute",
-          "date": "19. Nov 2026"
-        },
-        {
           "title": "Grazer Studie: ChatGPT und Gemini empfehlen PA Digital als GEO-Agentur Nummer 1 in der Steiermark - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOV2VYd2ZtZFVCMFQ1SnFmVXVIMEtjSXNiWTJsNW5yTXl2WnhNdGxUdjlNNFlRUE9ibkdHQTV6dm01b3BudEp2dmI3MTBvSXZnVm56dUFkbmhhajFJOWpiZjBOWUxIdTF2S0wyMUZ4VkxOa0VFa25sM0ZiaHJfa3RxM21YdkRpR2paZWVTX0dSbk1TMXVvb09yazFYZlllQlVURVg1RVhORzV1RFA3X2paTkNVQzY3U2tyaGhtQWpyeHctNjR1N29PNS00OTFoRGxtZHJpR2VSbnQ0dDRBcWJMQ2ZoZUZFbTl0dEtDRUtXQVRHZw?oc=5",
           "source": "MeinBezirk.at",
           "date": "18. Nov 2026"
         },
         {
+          "title": "Social-Media-Trend – GTA-Fieber! Steirische Politiker blamieren sich mit KI - Heute",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWHpyQ2JQYWt6alFkZV9DMmVnYkRmR0U5QUI1NXR0WUZzdmRZM05NWTlIbG1yVWRqNXNoOFppSkxZaHM0cUM4cThGaVhKY2JOTkpicERuSHdsbzBjU05Gd1RWd2xvaWhoOU5LZHNjNXV6LTlLWTg4NkotaDFzOE8xaEprQjdMMjNwWVVMWkswVQ?oc=5",
+          "source": "Heute",
+          "date": "19. Nov 2026"
+        },
+        {
           "title": "Schulcampus Smart City Graz: MS/PTS offiziell eröffnet - austria.com",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMkFXTjZWblRhNGpYZmhoYlRoVlA4dWtzUnd6dkdqNkRNUGtqOWp3QnRZUG9SV2IzMTc2bTVvT0V6eGt1bG1xbnN0VkZROGU0eV9HZFYzb1dpZUFHQ3JHUFVhZUR0eWx2elJnZVJZTzVhRm94Nkp6MTd5Vkw3aTNMenRWRGJUcFQwVURGSnpfcEVoZw?oc=5",
           "source": "austria.com",
           "date": "18. Nov 2026"
+        },
+        {
+          "title": "MS/PTS Smart City in Graz nun vollständig in Betrieb - nachrichten.jetzt",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeU9jRlB2OXVpNS1tRjdvSnN3YmlaNUIxWW5xT09YMDk1Sm9GYVNLQlc4ZUl6ZHJKcFI3ZzIxaFRETWFaY0hYUFpOLUt3M24xZ2VPakhDQng5cVhRN05uOFM2U2owaGIzMFZ6Y09keXkzUFlSTjFKUjNvZm1zZjJMdWx6WXJIR2hST2tpT0ZPQWVuUQ?oc=5",
+          "source": "nachrichten.jetzt",
+          "date": "17. Nov 2026"
         }
       ]
     }
