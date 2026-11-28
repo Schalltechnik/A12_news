@@ -1,13 +1,19 @@
 {
-  "generated": "27. November 2026, 11:22 UTC",
+  "generated": "28. November 2026, 10:50 UTC",
   "ai_provider": "Claude Haiku 4.5",
   "categories": {
     "wirtschaft": {
       "label": "Wirtschaft & Standort",
       "icon": "💼",
       "color": "#1a5c38",
-      "summary": "Die Steiermark zeigt Dynamik bei Gründungen und Unternehmernachfolgen, wie der Elevator-Pitch-Gewinn und mehrere erfolgreiche Nachfolgeregelungen im Handel und Handwerk belegen, während gleichzeitig Herausforderungen bei der Budgetverantwortung und gezielten Tourismusfinanzierung sowie einzelne Betriebsschließungen die wirtschaftlichen Schwierigkeiten in der Region unterstreichen.",
+      "summary": "Die Steiermark zeigt Dynamik bei Unternehmertum und Innovation, wie der Erfolg von Elisabeth Obermann beim Elevator Pitch 2026 und die steigende Nachfrage nach Bio-Produkten bei steirischen Konsumenten demonstrieren, während gleichzeitig Herausforderungen bei der Budgetverantwortung von Landesregierung und Wien sowie Fragen zur zweckgebundenen Tourismusfinanzierung bestehen bleiben. Neben positiven Entwicklungen im Gründungssektor und bei nachhaltigen Konsumtrends deuten einzelne Betriebsschließungen und Finanzierungsdiskussionen auf strukturelle Anpassungsprozesse im steirischen Wirtschaftsraum hin.",
       "items": [
+        {
+          "title": "Elisabeth Obermann holt den Sieg beim „Elevator Pitch\" - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeUNzZGFabml6RzV1TFB0TVQ4NWUxZ2lTUDJHZlVNTFNLNUw5SGZXWC1yaVp1NG5DY2E3RjZMWWEyYk92QVl2TjF1YnJVUWlBRi12MTF0Qk5HcEJ5TmoySHpodm9QXzhBS0VOYlNHR0tCcHNBV1dwVVQ3QjRfWElNdmhWSGZYSTJxZUlMLVY0R1NpX1VZ?oc=5",
+          "source": "wko.at",
+          "date": "27. Nov 2026"
+        },
         {
           "title": "Elisabeth Obermann gewinnt mit nelowi den Elevator Pitch 2026 in Graz - Wirtschaftszeit",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORmV4UWE0S01UWGozbnYwbnZpNGozakM3dTdnUW5UamxpQzYyS1FlYnktYXo5aWF3U0g4TE5iTkJGWDNDU1BFQ1p5MkVtVXYyMEpJV2VadkNaWllYc3M2RWJwb1Q5TFJrTktpcGNoNERfZkZjd3JtT0NPRGlTaVRhVTBTVnRCRUhQY2J0NUpOQlBUbkJHLUxrS3ExbDZveWdVYnpMNE5UODdtUQ?oc=5",
@@ -21,6 +27,24 @@
           "date": "25. Nov 2026"
         },
         {
+          "title": "Steigende Umsätze: Bio bei steirischen Konsumenten wieder höher im Kurs - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ25WaFlCWDJzUWlRVGpmOF9zcFZOVEJNM09YRjR0REtLMENOVzFXTnBjdFlpSFd5RTBPUnJUYnQ1cmZoQndGS3NmRG85Qy1feFNNeWVDRFhpaHU0T2lmZWNqV2VOeVNRNE4xSl8xMEZXaWpUN2NSWlpYS2V3LU9GQjI3ekxsZVY1VnRlQWVvZ3Y1OHluV2x5N1B1UU1WT1Q2TkpyWm5uYlhqVUpjblktZmNn?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "27. Nov 2026"
+        },
+        {
+          "title": "90 Sekunden voller Innovation: Elevator Pitch 2026 - wko.at",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX05kcGpzZFYzLXBDQjV2VGdDd2psa3pRbmcxOHRTNk0wUzBwYWdiYlQzb3FnOTRtR3QyRk92YlRiZ0tqczkwbUFpMDVGNFcxNE1JYURINkY2Mzl3OGdUTnppZkRyVzVHcS14SE1CemFuUGV0SFFMRW14NG5xMGJwUWlzWFVNUQ?oc=5",
+          "source": "wko.at",
+          "date": "27. Nov 2026"
+        },
+        {
+          "title": "Neumarkter startet mit „mobiler Werkstatt“ in die Selbstständigkeit - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeUtUS0Frb2Q2Vlg0NWlRRkZ1QnhoVnpnNFV3SWdWZVZOOTlrb0lKVXo0SGhqZTdIUXh2UXpsRFF0Y2lhUUZ2ZUczZEZVU2JSOGluUUFsbFlCS0UxaDFxYmdwQ2Jydmdid3RhSDFuMmN5ZUVIUHJhQWtVbmZBZGxNOXl1SUtlTFItUlMxUlVvbGtPa1d4NU1zN0k4RUZHdW5sN1NzRDAtV01XTHp3QkVvVE9n?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "24. Nov 2026"
+        },
+        {
           "title": "Tourismusfinanzierung im Bezirk: Wirtschaftsbund Leoben fordert Zweckbindung für Tourismusgelder - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcXRTUGZYNlB2UUhrMU83QmdhNmhTV3dlT3NSMUtOOWVsSXdGdFY3aFJudnl3UEJLU251NDNGampUeTRzNnRTeDZ4MGJTMzIyUG9ZTVJ6LVRGWmdhb0VobG9HMU5FbjRSd2huVW5HR3VORWgxNjZ6aU1kZXN3MHl0Q1p1MVF3Mno4d3VPSFB0UlJ6cHlLWFkyMXBycmVTck1BcC1fZTFTcmhOV0pCWTBmSUZCdVVPWVk?oc=5",
           "source": "MeinBezirk.at",
@@ -31,30 +55,6 @@
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNDZlellXZHhEOE5KTF9VUmp2RHc5VGZGTGdPS0R2eEdyelpFcFg3RzZSLTNFSjVKNm9IZnRmbm9OZkotVWxxblgwRl9mRlpHTzl0VHdzUDFwQzRNWTFzQ3ItU3Vkb0hhQTc0WTJOc2FKVWhfYWRPRVRZMjJoRExERHZHY0M1ZWFpVHZySnhFTmVfWXhfZmlZ?oc=5",
           "source": "Wirtschaftsnachrichten Süd",
           "date": "26. Nov 2026"
-        },
-        {
-          "title": "Neumarkter startet mit „mobiler Werkstatt“ in die Selbstständigkeit - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeUtUS0Frb2Q2Vlg0NWlRRkZ1QnhoVnpnNFV3SWdWZVZOOTlrb0lKVXo0SGhqZTdIUXh2UXpsRFF0Y2lhUUZ2ZUczZEZVU2JSOGluUUFsbFlCS0UxaDFxYmdwQ2Jydmdid3RhSDFuMmN5ZUVIUHJhQWtVbmZBZGxNOXl1SUtlTFItUlMxUlVvbGtPa1d4NU1zN0k4RUZHdW5sN1NzRDAtV01XTHp3QkVvVE9n?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "24. Nov 2026"
-        },
-        {
-          "title": "„Steirerkrimi“-Schauplatz: Das ist das echte Furnierwerk Merkscha - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM2JpSWNDT1NSRWNhM0Q1cEt6d2NXUkNodFdGVXd6UTN5NHZTU201clVidjdQLUVSRXk2azFNNFlyWWpTc1RrRDJFUkNXSlRVR3luZTJ2bHhvLUdpcUpQQjFHZkYxZTBDbmsySVBtVzJGbEdndkJUT1BsaEtHSU9ZcEU0MTJTd184X1VMbWd6TUZ2TW9JVkVQeXphM01DdkFoM1AzSmhINEh2cXFT?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "24. Nov 2026"
-        },
-        {
-          "title": "Oststeirischer Follow-me-Erfolg: Vom Busfahrer zum Supernachfolger als Nahversorger - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTFc4RUZKdWxhT1VoVkkzSkw1di1jbkFRU1RXU0Zob3ZLdmtldHB1b0hZWTgwaWJXT3RxMHFLMUg5Z2pHWW5WQm1KaHBHcnp5d0dyZnl0OVU3MzFwNVVITndWUERXQ0V4WE5rNjBJSURjUVQ5cndXR191RmxjUVNwOVlJTnhUWTkxTDR0V1k2OG5kMHRnbjMwZmhHZlRPb0o2M3BZUVRB?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "25. Nov 2026"
-        },
-        {
-          "title": "Starker Erfolg in Ilz: Wie Philipp Turza mit seiner Fleischerei dritter wurde - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdjhzb1RkMllHY3hnVTc1VGEtOFUzZ1ZoMnY2eVZUSEZ6UmpHaHBUTTZ2Zi1BdExmVXMyZHpnVHJYcC1xMjk3NkZncVdwX2lPWDVFUHp3MWdORnBVYXNYaVRWeUtqeDRmZm9TOWZIYk1IOXlzd2dLVXhzMDhWdTRSUTI1SG90ZDFlLWZSQWpOQjJ0SjlqZkhpY0lzemdiTFhEMk1RWkxHZlQ4aTFabUpXTWoxQnp6YUZEeFhlY2dtU3Nadw?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "24. Nov 2026"
         }
       ]
     },
@@ -62,7 +62,7 @@
       "label": "Tourismus",
       "icon": "🏔️",
       "color": "#003399",
-      "summary": "Die Steiermark verzeichnet 2025 ein neues Rekordjahr im Tourismus mit 133.000 zusätzlichen Gästen und Nächtigungen, was durch den Hitzesommer und gestiegene Nachfrage nach Österreich als Urlaubsdestination begünstigt wurde. Gleichzeitig erhöht das Land die Nächtigungsabgabe, um die Tourismusförderung und -infrastruktur zu finanzieren.",
+      "summary": "Die Steiermark verzeichnet im Tourismus ein Rekordjahr mit 133.000 zusätzlichen Gästen und neuen Höchstwerten bei Ankünften und Nächtigungen, wobei auch der Hitzesommer zu dieser positiven Entwicklung beitrug. Parallel dazu erhöht das Land die Nächtigungsabgabe, um die Tourismusförderung und -infrastruktur weiter auszubauen.",
       "items": [
         {
           "title": "Höhere Nächtigungsabgabe fixiert - steiermark.ORF.at",
@@ -107,10 +107,10 @@
           "date": "25. Nov 2026"
         },
         {
-          "title": "Warnung nach Datenlecks in Tourismus - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE43dFNteEl4aGNJTS1nTENrTWQwOFpoT1h1alhmRXBQUTVNdU9MNUFGQmVxNDZNcWFrQS1WMmprYlZ4WURISEl1NG13aFdOVS1HbUhCVg?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "24. Nov 2026"
+          "title": "Tourismus Steiermark: Neue Rekorde bei Ankünften und Nächtigungen - Kommunikation - Land Steiermark",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYNTBtMlhqWUJjUmNHeW5lbjJrZ01oeEI1MFBERTh6N1luRm54ZHNTM3dOUGlURG1mbV9ZdkRfNWNaaV9qd1JPNm52T0RVdWtKTTBEYnp3WDYzbFhSdlB4a3YxSFpySFJVZWdKLXJrQTBpTnM2OGx2NA?oc=5",
+          "source": "Kommunikation - Land Steiermark",
+          "date": "25. Nov 2026"
         }
       ]
     },
@@ -118,12 +118,24 @@
       "label": "Wissenschaft & Forschung",
       "icon": "🔬",
       "color": "#c8102e",
-      "summary": "Das Land Steiermark würdigt herausragende Forschungsleistungen durch die Verleihung von Forschungspreisen an innovative Wissenschaftler wie Christine Moissl-Eichinger und andere Köpfe aus verschiedenen steirischen Regionen. Die steirische Forschungslandschaft zeichnet sich durch vielfältige Großprojekte aus, die von der Untersuchung von Asteroiden-Einschlägen bis zu bahnbrechenden Entwicklungen in den Forschungslabors reichen und damit Wirtschaft und Innovation vorantreiben.",
+      "summary": "Das Land Steiermark würdigt herausragende Forschungsleistungen durch Preisverleihungen, darunter die Auszeichnung von Wissenschaftlerin Christine Moissl-Eichinger, und fördert damit innovative Projekte in Bereichen wie Asteroidenforschung und Stadtentwicklung. Steirische Forschungsinstitutionen und die TU Graz treiben durch ihre Arbeiten bedeutende Innovationen voran, die sowohl wissenschaftliche als auch praktische Lösungen für gesellschaftliche Herausforderungen bieten.",
       "items": [
         {
           "title": "Forschungspreise des Landes Steiermark verliehen - Kommunikation - Land Steiermark",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzSDZvYU95Ukx0Z0dMT2gzSUtGSHlDa1MtZjdxRzNob0dvQjRhYVJTdUNmWWRLUXVQbDNmS3Bhb2JQV0ZPZ0dXQlF6UjZabDJmbFZWZm10QWc2cXlzWTA3WEhTUTBxYUpzcV9MazgxR3FLcWNzUlZXZg?oc=5",
           "source": "Kommunikation - Land Steiermark",
+          "date": "21. Nov 2026"
+        },
+        {
+          "title": "Wissenschaftspreise des Landes: Christine Moissl-Eichinger erhält steirischen Forschungspreis - MeinBezirk.at",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPelJncmpWTTlOcmZMYzhzWk9QVENHcFNDLWR0WTBwX3dqVG5zZHhOTUs0TVFxT2ZxNF84UG1jcWpoQW41MlR6U29ObTh5YVZtMlRFSmlJNW52bHJsZFJha2tGaF9EV0hldTgyUEEtN19pZEJ2ZEl2eHBaR0k2bnhsdlRnWXdfZ3RocGV2Zm0tRkc4U0dtdTZodjh0Z3JudDVIbko0cHdUbTJ2NW1SZ08tZnlZQ1A3eVJvVFE?oc=5",
+          "source": "MeinBezirk.at",
+          "date": "23. Nov 2026"
+        },
+        {
+          "title": "Das sind die Sieger der Forschungspreise des Landes Steiermark - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOemZuYS1wWENpcWxxVWtUbkZ2S2tRVVVzdWY1WnlsaTZlX0UxUFM0OERYUkxvbl92V1h6MnMxeE5rd01RTWxyb05FTWpYV3JpTk9VRkRDUFNadEEyR2lKVnY2TnlJelpSR0p0Y1FmcHBWdHJqaWZwMzFOS2hnWTlwYnBaMk83aWtwVDlOUDNneG1xNHNGOGx3Wm11S3BXeXBOZlV5Ry03eTBZWUxT?oc=5",
+          "source": "Kleine Zeitung",
           "date": "21. Nov 2026"
         },
         {
@@ -139,24 +151,6 @@
           "date": "23. Nov 2026"
         },
         {
-          "title": "Wissenschaftspreise des Landes: Christine Moissl-Eichinger erhält steirischen Forschungspreis - MeinBezirk.at",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPelJncmpWTTlOcmZMYzhzWk9QVENHcFNDLWR0WTBwX3dqVG5zZHhOTUs0TVFxT2ZxNF84UG1jcWpoQW41MlR6U29ObTh5YVZtMlRFSmlJNW52bHJsZFJha2tGaF9EV0hldTgyUEEtN19pZEJ2ZEl2eHBaR0k2bnhsdlRnWXdfZ3RocGV2Zm0tRkc4U0dtdTZodjh0Z3JudDVIbko0cHdUbTJ2NW1SZ08tZnlZQ1A3eVJvVFE?oc=5",
-          "source": "MeinBezirk.at",
-          "date": "23. Nov 2026"
-        },
-        {
-          "title": "Das sind die Sieger der Forschungspreise des Landes Steiermark - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOemZuYS1wWENpcWxxVWtUbkZ2S2tRVVVzdWY1WnlsaTZlX0UxUFM0OERYUkxvbl92V1h6MnMxeE5rd01RTWxyb05FTWpYV3JpTk9VRkRDUFNadEEyR2lKVnY2TnlJelpSR0p0Y1FmcHBWdHJqaWZwMzFOS2hnWTlwYnBaMk83aWtwVDlOUDNneG1xNHNGOGx3Wm11S3BXeXBOZlV5Ry03eTBZWUxT?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "21. Nov 2026"
-        },
-        {
-          "title": "Mit Mut und Tatendrang bereichern diese Ost- und Südoststeirer Wirtschaft & Forschung - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU0NsQm0tR0k1dTVkbVZGd2E1LUg2RlkzRkNJc05TdEwzNHo5ZWhPUWo2eDEtUnpaUFg0LUgtalloa3c3LWNmZVhBX29sSnVPNjRlZ1RQTEtGQnBMMGhhbzVqVHNsWm5OQ3pGcjBrM25JVkhoa29KSzlfZG15YVM1dElxYnNFa0wzR0VRcGkyeTd3QlEtczRmQlhpbkdMRVR5VVBfaVJTM0VVd2M4MUdabVpB?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "21. Nov 2026"
-        },
-        {
           "title": "„Köpfe des Jahres“: Die Nominierten aus Wirtschaft und Forschung - Kleine Zeitung",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORFZBbXQ4S2dFWXUtRkV6V2FyMHhkcjRsdDZnZUxCd1hfN1ZwWXA3aDBCcGdIbUI5RlJpcjhyNHUwanJKWmpKUGZKa1NzeTlsRldFWi1ITFhlSWptMHRXdFdLWmxaMFItMm1FNDFNR1ItVlFvaGV3dG51bENRRGtrLWFRUi1RdktDRndrR0t2UjhOV3BoWkptX0RMWUJFSzdBOUVWczlKbkNoWE5h?oc=5",
           "source": "Kleine Zeitung",
@@ -167,6 +161,12 @@
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeExzNzlEWE1EdFNnekdfSVlLNUF3bDRKV29mOFlqQVVubnJtajNjakp5TWZhT1dxNUFOb0ZRRS10eU5sV2tjZ2lZSm9NZGs4U29uSGFWMGs0NGhROGV2NG9aOGZWQ0JSQzFWaEw3bGN0T2l3bjNiNFVoQmN6MzFFNHpIc21IYlpjb1o0ZjNEck9OUEFkS29tYkp3bUxHOUlP?oc=5",
           "source": "Kleine Zeitung",
           "date": "21. Nov 2026"
+        },
+        {
+          "title": "TOM-Toolbox: Steiermark und TU Graz stärken Ortskerne - austria.com",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQTFpVWMzeXJhOGF3XzlpQ1FFMlZFNm8tUHRRZXB6amMxZkpnZzh4ODRwQW1LWHRpbm5HU1BKZXEycjZ0UU1mVk5KbWo0cktnR0xtdG0tbk1ualFvX3NfMlV5a2h5YzFkRGZZYm5VMzJqZkI3MkxoQTk3dm1jektjTmN1NkNza3BWMVRNNzNWMTJZbzVrTUpLMEIxbw?oc=5",
+          "source": "austria.com",
+          "date": "26. Nov 2026"
         }
       ]
     },
@@ -174,33 +174,32 @@
       "label": "Förderungen & EU-Programme",
       "icon": "💶",
       "color": "#5a5a5a",
-      "summary": "Der südoststeirische Kammersekretär widerspricht der Aussage eines Bauernsterbens und betont damit die Stabilität des landwirtschaftlichen Sektors in der Region. Die Aussage deutet darauf hin, dass trotz wirtschaftlicher Herausforderungen die Fördermaßnahmen und Unterstützungsprogramme für Landwirte in der Steiermark ausreichend wirksam sind.",
-      "items": [
-        {
-          "title": "Südoststeirischer Kammersekretär: „Es gibt kein Bauernsterben“ - Kleine Zeitung",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeG5UQjd2blU2Z0I2RlNDOFYzYXhyVXZ6aFhBM3BrZVNlQ1NNMFA5ZGwxVjNuMHMtS0ZOSXI4Yy1ZRVdhMFNXelNvblZveEdmOVkwemFTMkJ2bnN5amRuY0tyMkhkWHVZVW5fZzZpUTMwdW1FLXNWRk9OaXZiNFI4TTI2SXJNelVFVzMzVzZXM0M2ZnowUGhpZElhVWE2ZFVHYlJpdUZFQ21WNFU?oc=5",
-          "source": "Kleine Zeitung",
-          "date": "20. Nov 2026"
-        }
-      ]
+      "summary": "Keine aktuellen Meldungen der letzten 7 Tage gefunden.",
+      "items": []
     },
     "innovation": {
       "label": "Innovation & Digitalisierung",
       "icon": "💡",
       "color": "#7b4f12",
-      "summary": "Die Technische Universität Graz treibt die KI-Entwicklung mit einem innovativen Programmiercoach voran, während der Pankl AI Day zeigt, wie Künstliche Intelligenz die traditionelle steirische Industrie grundlegend transformiert. Damit positioniert sich die Steiermark als führender Standort für die praktische Integration von KI-Technologien in Forschung und Wirtschaft.",
+      "summary": "Die steirische Industrie durchlebt einen tiefgreifenden Transformationsprozess, angetrieben durch künstliche Intelligenz und innovative Technologielösungen, wie sie in den Innovationslabors führender Unternehmen wie AVL entwickelt werden. Gleichzeitig signalisieren Technologiecluster wachsende Herausforderungen bei der Ressourcenausstattung und fordern verstärkte politische Unterstützung ein, um ihre Wettbewerbsfähigkeit zu sichern.",
       "items": [
-        {
-          "title": "TU Graz entwickelt KI-Programmiercoach - steiermark.ORF.at",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vLUFZeXcxbXVXaGlTSUZwaEZlOU1xOG5wSThCTU9nMk1DSlF0Tk5FMXpkRDhUcEhIdTk1QXRiRFdOWGR0M0VrY0UwVmpvclhFaVFUTA?oc=5",
-          "source": "steiermark.ORF.at",
-          "date": "22. Nov 2026"
-        },
         {
           "title": "Pankl AI Day: Wie Künstliche Intelligenz die steirische Industrie verändert - MeinBezirk.at",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMGY4Z3FlazlDUUdQbnJvbHo2QmRtb1k0V3BNdWd3cy15SG94NVpsZVFXcHlNUjFwMk1fTTBycTF5NXkyZ1FiMmxkVXFWVGpieFp5eVc2Z0dZZk1zalhHdmtQZmFWZE5XY2hhS1ZleHZXcTg0b09RVlVUX1RPX1hCQllwbDJKdjhSUmd0QXM3Yjh4VEppYWlfMVBlVkYwV3F2Z0lWN3JzWV9mcjc0dmx5WFR2LXAxYVhEMEl0bktLYVVrb2hpandZ?oc=5",
           "source": "MeinBezirk.at",
           "date": "24. Nov 2026"
+        },
+        {
+          "title": "AVL öffnete erstmals Tür in geheime Innovationslabors - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWVZsWUJ2Mjd4VzJKT0ViYVE5SjhCYUtpalc0ZGMzVkdDb0FpRy1vVjQxenlKSnRseUkxdGdtS0NvYTVQTEJJLXRHS0x2X1FGcTRJbWg2aGRDYkxWTkwzOUh1RnRmMUxHb1Q2eTF3eDdhd0R6QzFod1FvbFdscTFSNEZQS3hIdlIyNFBDNldrVmt5aUdrRldLZk4teFVnNm9fa1NR?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "27. Nov 2026"
+        },
+        {
+          "title": "Hanke beim Cluster: „Herr Minister, uns geht die Puste aus“ - Kleine Zeitung",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVzFzOE5rbWNFSHRIYVhuUUN0VHMtclFTVHd6bEozRnBUV2lQeUlmV05WZWtUaGtnVEpoQnppd0Jhbk1WOEtyVEhwaHl6ak1Od3RFZHVmWm8zeldPOFVUcDFNc3UtSm1udXpWUlMzMzNpa2N2RExZcHpnN2E1WUxwb0JQdURPLTdtYmFEbzdZQVRiWlJqTHBXM0QxZFFFNzBzWHN0RFdnU3VLNFk?oc=5",
+          "source": "Kleine Zeitung",
+          "date": "23. Nov 2026"
         }
       ]
     }
